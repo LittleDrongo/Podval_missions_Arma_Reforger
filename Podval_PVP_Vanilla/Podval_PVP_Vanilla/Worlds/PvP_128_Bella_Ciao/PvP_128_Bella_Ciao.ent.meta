@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{518E1E60DD517F3D}Worlds/PvP_128_Bella_Ciao/PvP_128_Bella_Ciao.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}

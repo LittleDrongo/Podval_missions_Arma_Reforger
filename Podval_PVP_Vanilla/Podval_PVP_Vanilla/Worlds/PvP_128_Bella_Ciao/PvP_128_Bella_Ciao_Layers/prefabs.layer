@@ -1,0 +1,126 @@
+GenericEntity : "{0C51EDCEEC144BC1}Prefabs/Compositions/Misc/SubCompositions/CrateWooden_Cluttered_US_03.et" {
+ coords 6140.827 122.113 5190.037
+ angleX 8.878
+ angleY -0.14
+ angleZ -0.906
+}
+$grp GenericEntity : "{10F9EE0FB9EC0E4E}Prefabs/Systems/Arsenal/AmmoBoxes/FIA/AmmoBoxArsenal_Ammunition_FIA.et" {
+ {
+  coords 6133.169 121.288 5176.937
+  angleY -84.88
+ }
+ {
+  coords 6131.427 121.288 5177.093
+  angleY 172.004
+ }
+}
+$grp StaticModelEntity : "{48A04E0A139BB167}Prefabs/Structures/Military/Camps/TentSmallFIA_01/TentSmallFIA_01.et" {
+ {
+  coords 6142.211 121.411 5184.283
+  angleX 5.344
+  angleY -0.251
+  angleZ -2.695
+ }
+ {
+  coords 6127.23 120.39 5174.831
+  angleX 4.471
+  angleY -0.264
+  angleZ 0.872
+ }
+ {
+  coords 6131.075 122.723 5194.046
+  angleX 8.012
+  angleY -0.253
+  angleZ 1.737
+ }
+ {
+  coords 6133.592 123.104 5196.963
+  angleX 8.005
+  angleY -0.404
+  angleZ -0.056
+ }
+ {
+  coords 6130.328 123.539 5200.115
+  angleX 6.246
+  angleY -0.293
+  angleZ 0.858
+ }
+ {
+  coords 6134.417 123.595 5200.869
+  angleX 6.242
+  angleY -0.252
+  angleZ -0.027
+ }
+}
+RadioBroadcastManager : "{66B93BC296E2F977}Prefabs/Radio/RadioBroadcastManager.et" {
+ coords 6127.448 121.037 5181.891
+}
+GenericEntity : "{8BB5855208F77724}Prefabs/Props/Furniture/BenchWooden_01.et" {
+ coords 6140.168 121.844 5188.221
+ angleX 4.495
+ angleY -56.015
+ angleZ -6.631
+}
+$grp GenericEntity : "{8FB2845D48F4E02A}Prefabs/Props/Furniture/TableOld_01/TableOld_01_white.et" {
+ {
+  coords 6132.921 120.437 5176.988
+ }
+ {
+  coords 6131.212 120.437 5176.988
+ }
+}
+GenericEntity : "{9F44202F88F19A46}Prefabs/Props/Industrial/PotIndustrialSet_01/PotIndustrialSet_01_Medium.et" {
+ coords 6140.881 122.865 5190.009
+ angleX 8.005
+}
+GenericEntity : "{A4D90CAA4F220CBE}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V2_FIA.et" {
+ coords 6140.363 123.345 5176.813
+ angleX -0.622
+ angleY -0.22
+ angleZ -0.043
+}
+StaticModelEntity : "{B6D61E3EC914119E}Prefabs/Compositions/Misc/SubCompositions/Tent_Barrack_Camo_Cluttered_USSR_01.et" {
+ coords 6137.52 119.881 5173.944
+ angleX 2.805
+ angleY 0
+ {
+  SCR_DestructibleBuildingEntity {
+   ID "5A5344E194A9CC3D"
+   coords 0 0.5 0
+   angleX -1.176
+   angleY 0.033
+   angleZ -1.62
+   {
+    GenericEntity {
+     ID "5690D0044793B50B"
+     coords 0 -0.369 0
+     angleX 2.158
+    }
+   }
+  }
+ }
+}
+GenericEntity : "{D0B44EB8DBEDDA97}Prefabs/Props/Civilian/Bucket_02.et" {
+ coords 6140.585 122.875 5189.717
+ angleX 8.005
+}
+GameEntity : "{D9842C11742C00CF}Prefabs/Props/Civilian/Fireplace_01.et" {
+ components {
+  SCR_FireplaceComponent "{5876E7F288BF5C8E}" {
+   m_eInitialLightState LIT
+  }
+ }
+ coords 6138.932 122.053 5189.712
+ angleX 8.005
+}
+GenericEntity : "{EF08CE3813C6BB6E}Prefabs/Compositions/Misc/SubCompositions/CrateWooden_Cluttered_USSR_01.et" {
+ coords 6138.298 121.785 5187.776
+ angleX 1.169
+ angleY -80.607
+ angleZ -7.029
+}
+GenericEntity : "{F1C5AA461DC6ECCE}Prefabs/Props/Civilian/PotOld_01.et" {
+ coords 6138.265 121.938 5188.894
+ angleX 8.005
+ angleY 0
+}
