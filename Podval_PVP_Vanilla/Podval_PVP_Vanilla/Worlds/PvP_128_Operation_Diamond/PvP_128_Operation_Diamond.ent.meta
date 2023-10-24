@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{4E01DC4ECC0AAD5E}Worlds/PvP_128_Operation_Diamond/PvP_128_Operation_Diamond.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}
