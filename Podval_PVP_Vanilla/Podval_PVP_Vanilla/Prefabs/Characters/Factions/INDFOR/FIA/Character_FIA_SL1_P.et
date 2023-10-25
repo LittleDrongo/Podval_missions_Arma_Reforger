@@ -1,0 +1,8 @@
+SCR_ChimeraCharacter : "{5E10F18AF4717622}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_SL_P.et" {
+ ID "520EC961A090B1EE"
+ components {
+  PS_PlayableComponent "{5E61249E16FBAD0D}" {
+   m_name "Командир отделения (1 взв.)"
+  }
+ }
+}

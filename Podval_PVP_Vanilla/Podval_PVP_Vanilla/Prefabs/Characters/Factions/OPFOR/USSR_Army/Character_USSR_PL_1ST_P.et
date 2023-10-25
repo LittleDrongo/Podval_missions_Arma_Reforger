@@ -1,0 +1,8 @@
+SCR_ChimeraCharacter : "{05B985DCE44DC4E0}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_SL_1ST_P.et" {
+ ID "200D264F0EEA1A28"
+ components {
+  PS_PlayableComponent "{5E61249E802F3DC3}" {
+   m_name "Командир 1-го взвода"
+  }
+ }
+}

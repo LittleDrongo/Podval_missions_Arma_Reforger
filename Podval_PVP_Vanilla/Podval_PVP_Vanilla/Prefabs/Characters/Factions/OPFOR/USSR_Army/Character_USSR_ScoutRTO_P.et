@@ -1,0 +1,20 @@
+SCR_ChimeraCharacter : "{5D826E10FF8246B3}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Scout_P.et" {
+ ID "200D264F0EEA1A28"
+ components {
+  PS_PlayableComponent "{5E61249EB7286716}" {
+   m_name "#AR-Role_RadioOperator"
+  }
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Icon "{B9F0BD39FF1881A3}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_RadioOperator.edds"
+   }
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Back {
+     Prefab "{54C68E438DD34265}Prefabs/Items/Equipment/Radios/Radio_R107M.et"
+    }
+   }
+  }
+ }
+}

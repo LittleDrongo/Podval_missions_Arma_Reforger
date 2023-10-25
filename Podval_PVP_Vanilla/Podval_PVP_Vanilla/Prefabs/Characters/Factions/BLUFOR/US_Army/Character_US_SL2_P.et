@@ -1,0 +1,8 @@
+SCR_ChimeraCharacter : "{901B7ABCF6888721}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_SL1_P.et" {
+ ID "51FA90A59C87A851"
+ components {
+  PS_PlayableComponent "{5E61249FA37809F5}" {
+   m_name "Командир отделения (2 взв.)"
+  }
+ }
+}

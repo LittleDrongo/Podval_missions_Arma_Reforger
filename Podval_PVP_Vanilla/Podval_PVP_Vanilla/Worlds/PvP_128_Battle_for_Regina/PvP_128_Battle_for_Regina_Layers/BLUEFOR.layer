@@ -5,10 +5,10 @@ $grp Vehicle : "{00C9BBE426F7D459}Prefabs/Vehicles/Wheeled/M998/M997_maxi_ambula
     m_fVehicleDestroyDamage 12910.7
    }
   }
-  coords 7275.617 137.028 2195.713
-  angleX -1.788
-  angleY 0.056
-  angleZ -1.791
+  coords 7148.787 138.895 2293.437
+  angleX -4.615
+  angleY 5.413
+  angleZ 1.356
  }
  M997_maxi_ambulance2 {
   components {
@@ -25,6 +25,16 @@ $grp Vehicle : "{00C9BBE426F7D459}Prefabs/Vehicles/Wheeled/M998/M997_maxi_ambula
 $grp Vehicle : "{3EA6F47D95867114}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB.et" {
  M1025_armed_M2HB7 {
   components {
+   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5EB28E8FDAE647B3}" {
+      SlotTemplate InventoryStorageSlot "{5EB28E8F531FD013}" {
+       Prefab "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et"
+      }
+      NumSlots 1
+     }
+    }
+   }
    SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
     m_fVehicleDestroyDamage 12912.9
    }
@@ -34,6 +44,16 @@ $grp Vehicle : "{3EA6F47D95867114}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB
  }
  M1025_armed_M2HB8 {
   components {
+   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5EB28E9027AFF7F0}" {
+      SlotTemplate InventoryStorageSlot "{5EB28E8F531FD013}" {
+       Prefab "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et"
+      }
+      NumSlots 1
+     }
+    }
+   }
    SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
     m_fVehicleDestroyDamage 12912.9
    }
@@ -43,6 +63,16 @@ $grp Vehicle : "{3EA6F47D95867114}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB
  }
  M1025_armed_M2HB9 {
   components {
+   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5EB28E8FF4D7334E}" {
+      SlotTemplate InventoryStorageSlot "{5EB28E8F531FD013}" {
+       Prefab "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et"
+      }
+      NumSlots 1
+     }
+    }
+   }
    SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
     m_fVehicleDestroyDamage 12912.9
    }
@@ -52,6 +82,16 @@ $grp Vehicle : "{3EA6F47D95867114}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB
  }
  M1025_armed_M2HB10 {
   components {
+   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5EB28E8FEDAA560B}" {
+      SlotTemplate InventoryStorageSlot "{5EB28E8F531FD013}" {
+       Prefab "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et"
+      }
+      NumSlots 1
+     }
+    }
+   }
    SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
     m_fVehicleDestroyDamage 12912.9
    }
@@ -61,6 +101,16 @@ $grp Vehicle : "{3EA6F47D95867114}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB
  }
  M1025_armed_M2HB11 {
   components {
+   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5EB28E8FDC1D9055}" {
+      SlotTemplate InventoryStorageSlot "{5EB28E8F531FD013}" {
+       Prefab "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et"
+      }
+      NumSlots 1
+     }
+    }
+   }
    SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
     m_fVehicleDestroyDamage 12912.9
    }
@@ -70,6 +120,16 @@ $grp Vehicle : "{3EA6F47D95867114}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB
  }
  M1025_armed_M2HB12 {
   components {
+   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5EB28E8FC8808994}" {
+      SlotTemplate InventoryStorageSlot "{5EB28E8F531FD013}" {
+       Prefab "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et"
+      }
+      NumSlots 1
+     }
+    }
+   }
    SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
     m_fVehicleDestroyDamage 12912.9
    }
@@ -78,62 +138,42 @@ $grp Vehicle : "{3EA6F47D95867114}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB
   angleY -73.698
  }
 }
-$grp Vehicle : "{48A6D4372444B85A}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_covered_closed.et" {
- M923A1_transport_covered_closed1 {
-  components {
-   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-    m_fVehicleDestroyDamage 11360.7
+Vehicle M923A1_transport_covered_closed1 : "{48A6D4372444B85A}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_covered_closed.et" {
+ components {
+  SCR_UniversalInventoryStorageComponent "{5916C580F1DA28BB}" {
+   MultiSlots {
+    MultiSlotConfiguration "{5EB28E8F438D7626}" {
+     SlotTemplate InventoryStorageSlot "{5EB28E8F531FD013}" {
+      Prefab "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et"
+     }
+     NumSlots 3
+    }
    }
   }
-  coords 7287.773 138.036 2209.016
-  angleX -2.729
-  angleY -93.148
-  angleZ -0.746
- }
- M923A1_transport_covered_closed2 {
-  components {
-   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-    m_fVehicleDestroyDamage 11360.7
-   }
+  SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+   m_fVehicleDestroyDamage 11360.7
   }
-  coords 7289.553 137.963 2197.907
-  angleX -0.844
-  angleY -93.198
-  angleZ 0.944
  }
- M923A1_transport_covered_closed3 {
-  components {
-   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-    m_fVehicleDestroyDamage 11360.7
-   }
-  }
-  coords 7290.411 138.523 2186.051
-  angleX -3.358
-  angleY -93.406
-  angleZ 3.775
- }
+ coords 7170.308 137.969 2296.794
+ angleX 1.781
+ angleY -84.414
+ angleZ 0.174
 }
-$grp Vehicle : "{B120CDDBEF8DB007}Prefabs/Vehicles/Wheeled/M998/M1025_armed_base.et" {
- M1025_armed_base1 {
-  components {
-   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-    m_fVehicleDestroyDamage 12912.9
-   }
+GenericEntity : "{73F79A126D469E2D}Prefabs/Structures/Signs/Military/SignRectangle_01_140x100/SignFlag_US_01.et" {
+ coords 7170.5 137.456 2355.159
+ angleY 89.589
+}
+GenericEntity : "{891EF8A5FB7162F1}Prefabs/Systems/Arsenal/AmmoBoxes/US/AmmoBoxArsenal_Medical_US.et" {
+ coords 7172.115 137.405 2355.705
+}
+Vehicle M1025_armed_base2 : "{B120CDDBEF8DB007}Prefabs/Vehicles/Wheeled/M998/M1025_armed_base.et" {
+ components {
+  SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+   m_fVehicleDestroyDamage 12912.9
   }
-  coords 7270.176 136.902 2195.497
-  angleX -2.683
-  angleY 0.042
-  angleZ -0.896
  }
- M1025_armed_base2 {
-  components {
-   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-    m_fVehicleDestroyDamage 12912.9
-   }
-  }
-  coords 10130.077 2.603 1548.61
-  angleX 0.846
-  angleY 19.105
-  angleZ 0.293
- }
+ coords 10130.077 2.603 1548.61
+ angleX 0.846
+ angleY 19.105
+ angleZ 0.293
 }
