@@ -1,16 +1,21 @@
-Vehicle Ural4320_FIA_transport1 : "{16E32C3ABEAFC2C6}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_FIA_transport.et" {
- components {
-  SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-   m_fVehicleDestroyDamage 11360.7
-  }
- }
- coords 9567.088 230.691 2836.94
- angleX 5.414
- angleY 95.198
- angleZ -0.403
-}
 Vehicle UAZ452_ambulance1 : "{43C4AF1EEBD001CE}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_ambulance.et" {
  components {
+  SCR_UniversalInventoryStorageComponent "{5D7E924E84B181BC}" {
+   MultiSlots {
+    MultiSlotConfiguration "{5D7EA3CA68FB9515}" {
+     NumSlots 48
+    }
+    MultiSlotConfiguration "{5D84B47FDEF684C1}" {
+     NumSlots 16
+    }
+    MultiSlotConfiguration "{5D84B47F3360BA6B}" {
+     NumSlots 16
+    }
+    MultiSlotConfiguration "{5D84B47F341951B5}" {
+     NumSlots 16
+    }
+   }
+  }
   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
    m_fVehicleDestroyDamage 4493.57
   }

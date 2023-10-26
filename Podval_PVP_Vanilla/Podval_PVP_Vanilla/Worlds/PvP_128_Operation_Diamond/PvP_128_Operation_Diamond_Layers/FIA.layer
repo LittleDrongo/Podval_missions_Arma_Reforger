@@ -1,21 +1,67 @@
-$grp Vehicle : "{16C1F16C9B053801}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport.et" {
- Ural4320_transport1 {
-  components {
-   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-    m_fVehicleDestroyDamage 11360.7
-   }
-  }
-  coords 11533.79 14.259 1489.877
-  angleY -106.117
+$grp GenericEntity : "{0C51EDCEEC144BC1}Prefabs/Compositions/Misc/SubCompositions/CrateWooden_Cluttered_US_03.et" {
+ {
+  coords 10651.906 185.751 2480.664
+  angleY 67.283
  }
- Ural4320_transport2 {
+ {
+  coords 10653.646 185.751 2476.506
+  angleY -80.255
+ }
+}
+Vehicle Ural4320_transport1 : "{16C1F16C9B053801}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport.et" {
+ components {
+  SCR_UniversalInventoryStorageComponent "{5916C58171230A92}" {
+   MultiSlots {
+    MultiSlotConfiguration "{5A60D38EDB3709A9}" {
+     SlotTemplate InventoryStorageSlot Bandages {
+      Prefab "{E045E14D186D580F}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_Base.et"
+     }
+     NumSlots 60
+    }
+    MultiSlotConfiguration "{5EB52DB3212BD074}" {
+     SlotTemplate InventoryStorageSlot Bandages {
+      Prefab "{BEEA49E27174B224}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_Tracer.et"
+     }
+     NumSlots 60
+    }
+   }
+  }
+  SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+   m_fVehicleDestroyDamage 11360.7
+  }
+ }
+ coords 9575.101 231.49 2835.841
+ angleX 5.428
+ angleY 100.904
+ angleZ 0.136
+}
+$grp Vehicle : "{16E32C3ABEAFC2C6}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_FIA_transport.et" {
+ Ural4320_FIA_transport2 {
   components {
    SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
     m_fVehicleDestroyDamage 11360.7
    }
   }
-  coords 11544.189 14.343 1491.314
-  angleY -86.542
+  coords 11545.478 14.344 1491.592
+  angleY -86.539
+ }
+ Ural4320_FIA_transport3 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 11360.7
+   }
+  }
+  coords 11536.916 14.281 1491.476
+  angleY -98.92
+ }
+ Ural4320_FIA_transport4 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 11360.7
+   }
+  }
+  coords 11528.639 14.229 1490.358
+  angleY -91.421
  }
 }
 $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad_P.et" {
@@ -519,10 +565,10 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
     }
    }
   }
-  coords 10638.231 148.991 2322.274
-  angleX 3.781
-  angleY -96.089
-  angleZ -6.661
+  coords 10634.636 173.905 2403.159
+  angleX -4.876
+  angleY 93.854
+  angleZ 5.909
   m_aUnitPrefabSlots {
    "{BCA45047945F96A0}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_SL1_P.et" "{6EF882860DCD77D1}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_MG_P.et" "{E691995C5D7CD7A4}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_AMG_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman_P.et" "{950D59E028D3F268}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Sharpshooter_P.et"
   }
@@ -646,10 +692,10 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
     }
    }
   }
-  coords 10637.767 149.206 2326.798
-  angleX -0.982
-  angleY -95.889
-  angleZ -0.799
+  coords 10621.689 180.552 2419.869
+  angleX -0.846
+  angleY -86.985
+  angleZ -0.941
   m_aUnitPrefabSlots {
    "{BCA45047945F96A0}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_SL1_P.et" "{6EF882860DCD77D1}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_MG_P.et" "{E691995C5D7CD7A4}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_AMG_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman_P.et" "{950D59E028D3F268}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Sharpshooter_P.et"
   }
@@ -773,8 +819,8 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
     }
    }
   }
-  coords 10637.995 149.188 2324.541
-  angleY -95.937
+  coords 10621.7 180.583 2417.673
+  angleY -86.001
   m_aUnitPrefabSlots {
    "{BCA45047945F96A0}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_SL1_P.et" "{6EF882860DCD77D1}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_MG_P.et" "{E691995C5D7CD7A4}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_AMG_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman_P.et" "{950D59E028D3F268}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Sharpshooter_P.et"
   }
@@ -820,6 +866,23 @@ $grp Vehicle : "{5168FEA3054D6D15}Prefabs/Vehicles/Wheeled/M151A2/M151A2_M2HB_ME
   angleY -176.714
  }
 }
+GenericEntity : "{5DA11A95EEB02443}Prefabs/Compositions/Misc/SubCompositions/BoxWooden_Cluttered_01.et" {
+ coords 10653.618 185.938 2479.774
+ angleY 57.957
+}
+GenericEntity : "{8528347E5F47F2A4}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_FIA.et" {
+ coords 10628.556 188.114 2439.162
+}
+$grp GenericEntity : "{A3A7C365E845B1B6}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_long_high_burlap.et" {
+ {
+  coords 10651.742 185.717 2467.098
+  angleY 28.855
+ }
+ {
+  coords 10651.498 185.729 2469.54
+  angleY -62.797
+ }
+}
 $grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_P.et" {
  {
   components {
@@ -839,12 +902,15 @@ $grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_
     DefaultFormation "Column"
    }
   }
-  coords 10638.267 148.518 2319.137
-  angleX -2.446
-  angleY -96.108
-  angleZ -6.013
+  coords 10629.342 184.642 2431.245
+  angleX -6.476
+  angleY -167.762
+  angleZ 0.419
   m_aUnitPrefabSlots {
    "{0E7312ACCBFDA538}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_PL1_P.et" "{C0C1F1FFD610A6BB}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_RTO_P.et" "{F93D2B11566D65A9}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Medic_P.et" "{F93D2B11566D65A9}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Medic_P.et"
   }
  }
+}
+GameEntity : "{D9842C11742C00CF}Prefabs/Props/Civilian/Fireplace_01.et" {
+ coords 10652.718 185.937 2478.635
 }
