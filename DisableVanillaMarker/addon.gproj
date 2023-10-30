@@ -1,0 +1,8 @@
+GameProject {
+ ID "DisableVanillaMarker"
+ GUID "5EB51B792A363847"
+ TITLE "DisableVanillaMarker"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

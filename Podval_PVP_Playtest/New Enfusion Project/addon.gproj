@@ -1,0 +1,8 @@
+GameProject {
+ ID "NewEnfusionProject"
+ GUID "5EBAB4EDE21C8FCE"
+ TITLE "New Enfusion Project"
+ Dependencies {
+  "596523840114E2D3" "58D0FB3206B6F859"
+ }
+}
