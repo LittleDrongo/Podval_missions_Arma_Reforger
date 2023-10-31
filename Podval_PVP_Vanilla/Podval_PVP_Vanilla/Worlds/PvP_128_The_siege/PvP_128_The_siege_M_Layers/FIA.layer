@@ -1,0 +1,138 @@
+$grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_P.et" {
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+  }
+  coords 8652.28 300.884 1813.72
+  angleY 119.301
+  {
+   $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad_P.et" {
+    {
+     components {
+      AIFormationComponent "{507E9DC12F541FE6}" {
+       DefaultFormation "Column"
+      }
+     }
+     coords 7.92 4.181 -2.968
+     angleX 13.429
+     angleY 9.862
+    }
+    {
+     components {
+      AIFormationComponent "{507E9DC12F541FE6}" {
+       DefaultFormation "Column"
+      }
+     }
+     coords 13.863 4.478 -4.686
+     angleX 13.429
+     angleY 9.862
+    }
+    {
+     components {
+      AIFormationComponent "{507E9DC12F541FE6}" {
+       DefaultFormation "Column"
+      }
+     }
+     coords 21.881 3.756 -5.88
+     angleX 13.429
+     angleY 9.862
+    }
+   }
+  }
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+  }
+  coords 10049.054 125.081 557.66
+  angleX -5.417
+  angleY -68.389
+  angleZ 2.758
+  {
+   $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad_P.et" {
+    {
+     components {
+      AIFormationComponent "{507E9DC12F541FE6}" {
+       DefaultFormation "Column"
+      }
+     }
+     coords 11.348 1.169 -3.891
+     angleX 13.429
+     angleY 9.862
+    }
+    {
+     components {
+      AIFormationComponent "{507E9DC12F541FE6}" {
+       DefaultFormation "Column"
+      }
+     }
+     coords 5.829 0.654 -1.062
+     angleX 13.429
+     angleY 9.862
+    }
+    {
+     components {
+      AIFormationComponent "{507E9DC12F541FE6}" {
+       DefaultFormation "Column"
+      }
+     }
+     coords 16.662 1.315 -4.353
+     angleX 13.429
+     angleY 9.862
+    }
+   }
+  }
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+  }
+  coords 8967.607 53.018 613.47
+  angleX 3.776
+  angleY 42.376
+  angleZ -0.728
+  {
+   $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad_P.et" {
+    {
+     components {
+      AIFormationComponent "{507E9DC12F541FE6}" {
+       DefaultFormation "Column"
+      }
+     }
+     coords 5.468 -1.431 -0.536
+     angleX 13.328
+     angleY 4.916
+     angleZ 6.241
+    }
+    {
+     components {
+      AIFormationComponent "{507E9DC12F541FE6}" {
+       DefaultFormation "Column"
+      }
+     }
+     coords 16.39 -2.162 -3.505
+     angleX 13.137
+     angleY 6.652
+     angleZ 6.638
+    }
+    {
+     components {
+      AIFormationComponent "{507E9DC12F541FE6}" {
+       DefaultFormation "Column"
+      }
+     }
+     coords 11.088 -1.64 -3.197
+     angleX 13.372
+     angleY 4.494
+     angleZ 6.143
+    }
+   }
+  }
+ }
+}

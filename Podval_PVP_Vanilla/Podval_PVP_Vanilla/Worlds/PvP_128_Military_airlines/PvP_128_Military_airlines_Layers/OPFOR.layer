@@ -1,21 +1,107 @@
-Vehicle BTR1 : "{C012BB3488BEA0C2}Prefabs/Vehicles/Wheeled/BTR70/BTR70.et" {
+Vehicle Medics : "{43C4AF1EEBD001CE}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_ambulance.et" {
  components {
+  SCR_UniversalInventoryStorageComponent "{5D7E924E84B181BC}" {
+   MultiSlots {
+    MultiSlotConfiguration "{5D7EA3CA68FB9515}" {
+     NumSlots 48
+    }
+    MultiSlotConfiguration "{5D84B47FDEF684C1}" {
+     NumSlots 16
+    }
+    MultiSlotConfiguration "{5D84B47F3360BA6B}" {
+     NumSlots 16
+    }
+    MultiSlotConfiguration "{5D84B47F341951B5}" {
+     NumSlots 16
+    }
+   }
+  }
   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-   m_fVehicleDestroyDamage 13602.9
+   m_fVehicleDestroyDamage 4493.57
   }
  }
- coords 4908.613 28.594 11775.045
- angleY -88.064
+ coords 4942.758 28.535 11791.8
+ angleX -0.03
+ angleY 88.09
+ angleZ -0.895
  {
-  SCR_AIGroup : "{7F11A7D4F00F7A82}Prefabs/Groups/OPFOR/Group_USSR_BTR_CrewTeam_P.et" {
+  SCR_AIGroup : "{EAF551923DF4E024}Prefabs/Groups/OPFOR/Group_USSR_MedicalSection_P.et" {
    components {
     AIFormationComponent "{507E9DC12F541FE6}" {
      DefaultFormation "Column"
     }
    }
-   coords 2.807 0 1.32
-   m_aUnitPrefabSlots {
-    "{353C23752AC2E269}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_P.et" "{353C23752AC2E269}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_P.et"
+   coords -2.876 0.031 2.575
+   angleX -0.026
+   angleY 3.593
+   angleZ 0.895
+  }
+ }
+}
+$grp Vehicle : "{C012BB3488BEA0C2}Prefabs/Vehicles/Wheeled/BTR70/BTR70.et" {
+ BTR1 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4908.613 28.594 11775.045
+  angleY -88.064
+  {
+   SCR_AIGroup : "{7F11A7D4F00F7A82}Prefabs/Groups/OPFOR/Group_USSR_BTR_CrewTeam_P.et" {
+    components {
+     AIFormationComponent "{507E9DC12F541FE6}" {
+      DefaultFormation "Column"
+     }
+    }
+    coords 2.807 0.117 1.32
+    m_aUnitPrefabSlots {
+     "{353C23752AC2E269}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_P.et" "{353C23752AC2E269}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_P.et"
+    }
+   }
+  }
+ }
+ BTR2 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4908.231 28.594 11765.49
+  angleY -88.064
+  {
+   SCR_AIGroup : "{7F11A7D4F00F7A82}Prefabs/Groups/OPFOR/Group_USSR_BTR_CrewTeam_P.et" {
+    components {
+     AIFormationComponent "{507E9DC12F541FE6}" {
+      DefaultFormation "Column"
+     }
+    }
+    coords 2.807 0 1.32
+    m_aUnitPrefabSlots {
+     "{353C23752AC2E269}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_P.et" "{353C23752AC2E269}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_P.et"
+    }
+   }
+  }
+ }
+ BTR3 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4907.562 28.593 11757.286
+  angleY -88.064
+  {
+   SCR_AIGroup : "{7F11A7D4F00F7A82}Prefabs/Groups/OPFOR/Group_USSR_BTR_CrewTeam_P.et" {
+    components {
+     AIFormationComponent "{507E9DC12F541FE6}" {
+      DefaultFormation "Column"
+     }
+    }
+    coords 2.807 0 1.32
+    m_aUnitPrefabSlots {
+     "{353C23752AC2E269}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_P.et" "{353C23752AC2E269}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_P.et"
+    }
    }
   }
  }

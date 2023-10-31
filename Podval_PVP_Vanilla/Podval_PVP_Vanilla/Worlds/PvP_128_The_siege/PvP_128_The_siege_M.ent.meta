@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{13E427CB115342F0}Worlds/PvP_128_The_siege/PvP_128_The_siege_M.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,31 @@
+SCR_AIWorld : "{70CCCF16487C927F}Prefabs/AI/SCR_AIWorld_Eden.et" {
+ coords 4451.742 19.378 9152.957
+}
+PerceptionManager PerceptionManager1 : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+ coords 4448.131 19.346 9155.328
+}
+TagManager : "{2FA9E172CAB1857A}Prefabs/MP/Managers/TagManager.et" {
+ coords 4448.966 19.367 9154.608
+}
+PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameModeCoop.et" {
+ coords 3605.949 40.613 13353.883
+ m_bCanOpenLobbyInGame 0
+ {
+  SCR_FactionManager "5EAEB35DCB35F449" {
+   ID "5EA73DB136618AD9"
+   Factions {
+    SCR_Faction "{56DEAC40D2DBC8B1}" {
+    }
+    SCR_Faction "{56DEAC40D3C2E623}" {
+     m_bIsPlayable 1
+    }
+    SCR_Faction "{56DEAC40D132400B}" {
+     m_bIsPlayable 1
+    }
+   }
+  }
+ }
+}
+HitRegistrationManager HitRegManager1 : "{0EDA3D48791120DD}Prefabs/MP/HitRegManager.et" {
+ coords 4449.14 19.245 9157.146
+}
