@@ -8,8 +8,35 @@ TagManager : "{2FA9E172CAB1857A}Prefabs/MP/Managers/TagManager.et" {
  coords 4827.437 28.264 11848.521
 }
 PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameModeCoop.et" {
+ components {
+  PS_MissionDescriptionManager "{5EC30459F8CD66AC}" {
+   m_aDescriptions {
+    PS_MapDescription "{5EC3045B6AFBD311}" {
+     m_sDescriptionLayout "{9A9B0F4B3707EBDD}UI/MissionDescriptionTemplates/Military_airlines/Description_About.layout"
+    }
+    PS_MapDescription "{5EC3045B74BE218C}" {
+     m_sFactions "NONE"
+     m_sDescriptionLayout "{3C6BE4C89EF720F2}UI/MissionDescriptionTemplates/Military_airlines/Description_RULES.layout"
+    }
+    PS_MapDescription "{5EC3045B45C0B05D}" {
+     m_sDescriptionLayout "{3C6BE4C89EF720F2}UI/MissionDescriptionTemplates/Military_airlines/Description_RULES.layout"
+    }
+    PS_MapDescription "{5EC3045B4E61FE0A}" {
+     m_sFactions "NONE"
+    }
+    PS_MapDescription "{5EC3045B535F5157}" {
+     m_sDescriptionLayout "{65A42FCF3E0024CE}UI/MissionDescriptionTemplates/Military_airlines/Description_US_Task_Air.layout"
+    }
+    PS_MapDescription "{5EC3045B5C37CEAF}" {
+     m_sDescriptionLayout "{539B865ED52471DE}UI/MissionDescriptionTemplates/Military_airlines/Description_USSR_Task_Air.layout"
+    }
+   }
+  }
+ }
  coords 3984.418 49.51 16047.797
  m_bCanOpenLobbyInGame 0
+ m_bMarkersOnlyOnBriefing 1
+ m_bKillRedundantUnits 1
  {
   SCR_FactionManager "5EAEB35DCB35F449" {
    ID "5EA73DB136618AD9"

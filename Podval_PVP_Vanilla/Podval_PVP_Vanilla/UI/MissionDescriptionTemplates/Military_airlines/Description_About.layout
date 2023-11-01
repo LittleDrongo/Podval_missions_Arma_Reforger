@@ -1,0 +1,41 @@
+FrameWidgetClass {
+ Name "rootFrame"
+ components {
+  PS_MissionDescriptionContentUI "{5EC27C7C182EA2DF}" {
+   m_sTitle "#PS-Description_HeaderAboutMission"
+  }
+ }
+ {
+  OverlayWidgetClass "{5EC33E8C546E3ADE}" {
+   Name "Overlay0"
+   Slot FrameWidgetSlot "{5EC33E85CC2F5B26}" {
+    Anchor 0 0 0 0
+    PositionX 0
+    OffsetLeft 0
+    PositionY 0
+    OffsetTop 0
+    SizeX 480
+    OffsetRight -480
+    SizeY 601
+    OffsetBottom -601
+   }
+   {
+    RichTextWidgetClass "{5EC33E8C546E3ADB}" {
+     Name "RichText0"
+     Slot OverlayWidgetSlot "{5EC33E847AE9D3E5}" {
+      VerticalAlign 0
+      Padding 20 20 20 20
+     }
+     Text "США ведут операцию для захвата важного военного аэродрома, контролируемого Советской Армией."\
+     ""\
+     "Для выполнения этой задачи Американская Армия выделила два подразделения пехоты, оснащенные легкобронированными транспортными средствами M1025 \"Хамви\"."\
+     ""\
+     "Советская Армия, в свою очередь, разместила два неполных стрелковых взвода, подкрепленные тремя бронетранспортерами БТР-70."
+     "Font Size" 20
+     "Min Font Size" 20
+     Wrap 1
+    }
+   }
+  }
+ }
+}

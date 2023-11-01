@@ -1,138 +1,180 @@
+$grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad_P.et" {
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9B884B2A9E}" {
+    m_iSquadCallsign 1
+   }
+  }
+  coords 8646.26 305.626 1807.903
+  angleX 13.429
+  angleY 129.163
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9B9CB3442F}" {
+    m_iSquadCallsign 2
+   }
+  }
+  coords 8641.948 305.393 1803.483
+  angleX 13.429
+  angleY 129.163
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9B9BB0FA85}" {
+    m_iSquadCallsign 3
+   }
+  }
+  coords 8637.088 304.12 1796.992
+  angleX 13.429
+  angleY 129.163
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9BF5A19318}" {
+    m_iCompanyCallsign 1
+    m_iPlatoonCallsign 1
+    m_iSquadCallsign 1
+   }
+  }
+  coords 10056.796 126.067 566.845
+  angleX 7.614
+  angleY -58.069
+  angleZ 1.794
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9BF02040EE}" {
+    m_iCompanyCallsign 1
+    m_iPlatoonCallsign 1
+    m_iSquadCallsign 2
+   }
+  }
+  coords 10052.159 125.552 562.726
+  angleX 7.614
+  angleY -58.069
+  angleZ 1.794
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9BF34F22C4}" {
+    m_iCompanyCallsign 1
+    m_iPlatoonCallsign 1
+    m_iSquadCallsign 3
+   }
+  }
+  coords 10059.189 126.001 571.613
+  angleX 7.614
+  angleY -58.069
+  angleZ 1.794
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9BFA74B524}" {
+    m_iCompanyCallsign 2
+    m_iPlatoonCallsign 2
+    m_iSquadCallsign 1
+   }
+  }
+  coords 8971.359 51.624 609.444
+  angleX 17.152
+  angleY 47.206
+  angleZ 5.822
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9BC51CA21A}" {
+    m_iCompanyCallsign 2
+    m_iPlatoonCallsign 2
+    m_iSquadCallsign 2
+   }
+  }
+  coords 8977.464 50.838 599.917
+  angleX 16.972
+  angleY 48.975
+  angleZ 6.341
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9BC7E80096}" {
+    m_iCompanyCallsign 2
+    m_iPlatoonCallsign 2
+    m_iSquadCallsign 3
+   }
+  }
+  coords 8973.729 51.312 603.7
+  angleX 17.193
+  angleY 46.776
+  angleZ 5.694
+ }
+}
 $grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_P.et" {
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
-  }
-  coords 8652.28 300.884 1813.72
-  angleY 119.301
-  {
-   $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad_P.et" {
-    {
-     components {
-      AIFormationComponent "{507E9DC12F541FE6}" {
-       DefaultFormation "Column"
-      }
-     }
-     coords 7.92 4.181 -2.968
-     angleX 13.429
-     angleY 9.862
-    }
-    {
-     components {
-      AIFormationComponent "{507E9DC12F541FE6}" {
-       DefaultFormation "Column"
-      }
-     }
-     coords 13.863 4.478 -4.686
-     angleX 13.429
-     angleY 9.862
-    }
-    {
-     components {
-      AIFormationComponent "{507E9DC12F541FE6}" {
-       DefaultFormation "Column"
-      }
-     }
-     coords 21.881 3.756 -5.88
-     angleX 13.429
-     angleY 9.862
-    }
+   PS_GroupCallsignAssigner "{5EC31C9BA407DF7C}" {
    }
   }
+  coords 8652.28 303.839 1813.72
+  angleY 119.301
  }
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9BEC457FCA}" {
+    m_iCompanyCallsign 1
+    m_iPlatoonCallsign 1
    }
   }
   coords 10049.054 125.081 557.66
   angleX -5.417
   angleY -68.389
   angleZ 2.758
-  {
-   $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad_P.et" {
-    {
-     components {
-      AIFormationComponent "{507E9DC12F541FE6}" {
-       DefaultFormation "Column"
-      }
-     }
-     coords 11.348 1.169 -3.891
-     angleX 13.429
-     angleY 9.862
-    }
-    {
-     components {
-      AIFormationComponent "{507E9DC12F541FE6}" {
-       DefaultFormation "Column"
-      }
-     }
-     coords 5.829 0.654 -1.062
-     angleX 13.429
-     angleY 9.862
-    }
-    {
-     components {
-      AIFormationComponent "{507E9DC12F541FE6}" {
-       DefaultFormation "Column"
-      }
-     }
-     coords 16.662 1.315 -4.353
-     angleX 13.429
-     angleY 9.862
-    }
-   }
-  }
  }
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
+   PS_GroupCallsignAssigner "{5EC31C9BFD4635E8}" {
+    m_iCompanyCallsign 2
+    m_iPlatoonCallsign 2
+   }
   }
   coords 8967.607 53.018 613.47
   angleX 3.776
   angleY 42.376
   angleZ -0.728
-  {
-   $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad_P.et" {
-    {
-     components {
-      AIFormationComponent "{507E9DC12F541FE6}" {
-       DefaultFormation "Column"
-      }
-     }
-     coords 5.468 -1.431 -0.536
-     angleX 13.328
-     angleY 4.916
-     angleZ 6.241
-    }
-    {
-     components {
-      AIFormationComponent "{507E9DC12F541FE6}" {
-       DefaultFormation "Column"
-      }
-     }
-     coords 16.39 -2.162 -3.505
-     angleX 13.137
-     angleY 6.652
-     angleZ 6.638
-    }
-    {
-     components {
-      AIFormationComponent "{507E9DC12F541FE6}" {
-       DefaultFormation "Column"
-      }
-     }
-     coords 11.088 -1.64 -3.197
-     angleX 13.372
-     angleY 4.494
-     angleZ 6.143
-    }
-   }
-  }
  }
 }

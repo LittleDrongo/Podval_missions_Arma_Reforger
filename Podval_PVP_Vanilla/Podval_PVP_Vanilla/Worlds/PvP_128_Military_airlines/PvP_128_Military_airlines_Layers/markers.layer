@@ -1,0 +1,226 @@
+$grp PS_ManualMarker {
+ {
+  coords 4784.481 27.463 10950.795
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 4826.127 28.166 10952.777
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 4880.742 29.325 10953.769
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 4930.39 30.691 10925.884
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 4984.849 31.631 10914.843
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 5042.09 31.136 10920.343
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 5090.457 29.973 10939.678
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 5137.342 30.059 10957.775
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 5181.369 30.884 10971.664
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 5234.609 34.902 10978.804
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 5282.795 41.704 10988.684
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 5323.091 44.412 11001.645
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 5357.179 42.958 11012.762
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 5393.162 42.209 11024.034
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 5424.677 41.905 11035.367
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 5473.031 37.592 11054.378
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 5526.15 28.292 11096.345
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 5583.15 14.069 11143.316
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 5649.702 1.271 11192.455
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 5708.155 0 11230.101
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 4740.088 27.704 10943.421
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 4698.93 28.883 10923.868
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 4665.383 26.049 10925.612
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 4635.958 23.757 10926.442
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 4610.986 22.191 10926.67
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 4583.913 19.298 10974.688
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 4560.391 17.546 11011.582
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 4523.929 11.67 11044.358
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 4494.77 7.368 11011.249
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 4463.681 2.674 11049.403
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 4427.068 1.638 11067.165
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+ {
+  coords 4383.795 1.766 11084.614
+  m_MarkerColor 0.624 0.015 0.429 1
+  m_sQuadName "circle"
+  m_fWorldSize 20
+  m_bUseWorldScale 0
+ }
+}

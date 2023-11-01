@@ -9,64 +9,13 @@ Vehicle Ural4320_command1 : "{1BABF6B33DA0AEB6}Prefabs/Vehicles/Wheeled/Ural4320
  angleY 0.028
  angleZ 0.896
 }
-GenericEntity : "{369584CDF808670C}PrefabsEditable/Auto/Structures/Signs/Military/E_Sign_AmmoStorage_USSR_01.et" {
- coords 9361.582 204.534 1161.057
- angleY -115.696
-}
-$grp StaticModelEntity : "{4862CD3623FE4E31}PrefabsEditable/Auto/Props/Military/Furniture/E_TableMilitary_USSR_01.et" {
- {
-  coords 9364.555 204.43 1159.964
-  angleX -1.408
-  angleY 74.279
-  angleZ -0.853
- }
- {
-  coords 9362.994 204.407 1161.409
-  angleX 0.881
-  angleY 165.418
-  angleZ -1.39
- }
-}
-GenericEntity : "{4ED8BBC0E6679FBE}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_end_high_burlap.et" {
- coords 9357.64 204.431 1161.527
-}
-GenericEntity : "{5D663A6D07D5F72E}PrefabsEditable/Auto/Structures/Signs/Military/E_Sign_CommandPost_USSR_01.et" {
- coords 9349.274 204.365 1158.284
- angleY 85.318
-}
-StaticModelEntity : "{9F9498392F6A60C6}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/E_TableMilitary_Cluttered_USSR_01.et" {
- coords 9364.178 204.409 1161.313
- angleX -1.398
- angleY 74.91
- angleZ -0.868
-}
-SCR_DestructibleEntity : "{A815D6F604B0706D}PrefabsEditable/Auto/Structures/Signs/Military/E_Sign_FieldHospital_USSR_01.et" {
- coords 9353.352 204.448 1160.856
- angleY -169.005
-}
-$grp GenericEntity : "{D2299274C13B1169}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_wall_solid_burlap.et" {
- {
-  coords 9361.532 199.871 1173.769
-  angleX 0.793
-  angleY 20.049
-  angleZ -10.449
- }
- {
-  coords 9355.466 204.415 1161.739
-  angleX -0.143
-  angleY 9.209
-  angleZ 0.884
- }
- {
-  coords 9351.725 204.561 1162.2
-  angleX -0.143
-  angleY 9.209
-  angleZ 0.884
- }
-}
 $grp SCR_AIGroup : "{D52B025B45C01253}Prefabs/Groups/OPFOR/Group_USSR_PlatoonSquad_P.et" {
  {
-  coords 9369.371 196.263 1147.667
+  components {
+   PS_GroupCallsignAssigner "{5EC31C9A68B5CF7A}" {
+   }
+  }
+  coords 9369.371 195.154 1147.667
   angleY 72.47
   m_aUnitPrefabSlots {
    "{A5F4D7FEBDB57182}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_SL_P.et" "{F72805D5D2D05F63}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_RTO_P.et" "{A8A47F001DA13B73}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Sharpshooter_P.et"
@@ -77,42 +26,15 @@ $grp SCR_AIGroup : "{D52B025B45C01253}Prefabs/Groups/OPFOR/Group_USSR_PlatoonSqu
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Line"
    }
+   PS_GroupCallsignAssigner "{5EC31C9A76E2AB88}" {
+    m_iCompanyCallsign 1
+    m_iPlatoonCallsign 2
+   }
   }
   coords 10042.547 2.25 1580.434
   angleY 111.685
   m_aUnitPrefabSlots {
    "{A5F4D7FEBDB57182}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_SL_P.et" "{F72805D5D2D05F63}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_RTO_P.et" "{A8A47F001DA13B73}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Sharpshooter_P.et"
-  }
-  {
-   $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad_p.et" {
-    {
-     components {
-      AIFormationComponent "{507E9DC12F541FE6}" {
-       DefaultFormation "Column"
-      }
-     }
-     coords -9.06 -0.011 6.002
-     angleY 174.566
-    }
-    {
-     components {
-      AIFormationComponent "{507E9DC12F541FE6}" {
-       DefaultFormation "Column"
-      }
-     }
-     coords 0.171 -0.001 7.336
-     angleY 179.492
-    }
-    {
-     components {
-      AIFormationComponent "{507E9DC12F541FE6}" {
-       DefaultFormation "Column"
-      }
-     }
-     coords -5.031 0 6.874
-     angleY 177.93
-    }
-   }
   }
  }
 }
@@ -151,8 +73,11 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
+   PS_GroupCallsignAssigner "{5EC31C9ABA0EA148}" {
+    m_iSquadCallsign 1
+   }
   }
-  coords 9362.443 196.635 1184.225
+  coords 9362.444 196.27 1184.225
   angleY -92.611
  }
  {
@@ -160,8 +85,11 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
+   PS_GroupCallsignAssigner "{5EC31C9A823129D0}" {
+    m_iSquadCallsign 2
+   }
   }
-  coords 9337.192 197.009 1158.887
+  coords 9337.191 197.009 1158.887
   angleY 178.895
  }
  {
@@ -169,83 +97,54 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
+   PS_GroupCallsignAssigner "{5EC31C9A8E3708E6}" {
+    m_iSquadCallsign 3
+   }
   }
   coords 9357.46 191.148 1128.631
   angleY -97.537
  }
-}
-$grp GenericEntity : "{E521AEA6D14589B1}Prefabs/Props/Military/AmmoBoxes/AmmoBox_545x39_2160rnd.et" {
  {
   components {
-   SCR_UniversalInventoryStorageComponent "{5476A2F100DF4EFF}" {
-    MultiSlots {
-     MultiSlotConfiguration "{5EBE9BE3CEFB5AFA}" {
-      SlotTemplate InventoryStorageSlot Saline {
-       Prefab "{E5E9C5897CF47F44}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_4Ball_1Tracer.et"
-      }
-      NumSlots 20
-     }
-     MultiSlotConfiguration "{5EBE9BE2254D364E}" {
-      SlotTemplate InventoryStorageSlot Saline {
-       Prefab "{BEEA49E27174B224}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_Tracer.et"
-      }
-      NumSlots 10
-     }
-    }
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9A7D4722C8}" {
+    m_iCompanyCallsign 1
+    m_iPlatoonCallsign 2
+    m_iSquadCallsign 1
    }
   }
-  coords 9364.438 205.324 1160.326
-  angleX -1.562
-  angleY 61.444
-  angleZ -0.519
+  coords 10051.473 2.239 1586.635
+  angleY -73.749
  }
  {
   components {
-   SCR_UniversalInventoryStorageComponent "{5476A2F100DF4EFF}" {
-    MultiSlots {
-     MultiSlotConfiguration "{5EBE9BE3CEFB5AFA}" {
-      SlotTemplate InventoryStorageSlot Saline {
-       Prefab "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et"
-      }
-      NumSlots 20
-     }
-     MultiSlotConfiguration "{5EBE9BE2254D364E}" {
-      SlotTemplate InventoryStorageSlot Saline {
-       Prefab "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et"
-      }
-      NumSlots 40
-     }
-    }
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9A7992B73C}" {
+    m_iCompanyCallsign 1
+    m_iPlatoonCallsign 2
+    m_iSquadCallsign 2
    }
   }
-  coords 9362.987 205.305 1161.504
-  angleX -0.83
-  angleY -16.673
-  angleZ 1.421
+  coords 10049.301 2.249 1577.564
+  angleY -68.823
  }
  {
   components {
-   SCR_UniversalInventoryStorageComponent "{5476A2F100DF4EFF}" {
-    MultiSlots {
-     MultiSlotConfiguration "{5EBE9BE3CEFB5AFA}" {
-      SlotTemplate InventoryStorageSlot Saline {
-       Prefab "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et"
-      }
-      NumSlots 20
-     }
-     MultiSlotConfiguration "{5EBE9BE2254D364E}" {
-      SlotTemplate InventoryStorageSlot Saline {
-       Prefab "{E5912E45754CD421}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Tracer.et"
-      }
-      NumSlots 10
-     }
-    }
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9A45F4FA06}" {
+    m_iCompanyCallsign 1
+    m_iPlatoonCallsign 2
+    m_iSquadCallsign 3
    }
   }
-  coords 9364.726 205.332 1159.674
-  angleX -1.388
-  angleY 75.576
-  angleZ -0.885
+  coords 10050.793 2.25 1582.569
+  angleY -70.385
  }
 }
 SCR_AIGroup : "{E98CEB8BE757C8A5}Prefabs/Groups/OPFOR/Group_USSR_MachineGunTeam_P.et" {
@@ -253,8 +152,11 @@ SCR_AIGroup : "{E98CEB8BE757C8A5}Prefabs/Groups/OPFOR/Group_USSR_MachineGunTeam_
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "Column"
   }
+  PS_GroupCallsignAssigner "{5EC31C9A8B800931}" {
+   m_iPlatoonCallsign 1
+  }
  }
- coords 9335.464 197.86 1154.377
+ coords 9335.465 197.86 1154.377
  angleY 167.341
  m_aUnitPrefabSlots + {
   "{D1786D7659BC2E7C}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_AMG_P.et"
@@ -265,7 +167,11 @@ SCR_AIGroup : "{EAF551923DF4E024}Prefabs/Groups/OPFOR/Group_USSR_MedicalSection_
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "Column"
   }
+  PS_GroupCallsignAssigner "{5EC31C9A9CC8040F}" {
+   m_iPlatoonCallsign 1
+   m_iSquadCallsign 1
+  }
  }
- coords 9384.814 196.645 1154.654
+ coords 9384.813 196.645 1154.654
  angleY -129.216
 }

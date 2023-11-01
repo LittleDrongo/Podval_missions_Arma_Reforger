@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{539B865ED52471DE}UI/MissionDescriptionTemplates/Siege/Description_USSR_Task_Air.layout"
+ Configurations {
+  LayoutResourceClass PC {
+  }
+  LayoutResourceClass XBOX_ONE : PC {
+  }
+  LayoutResourceClass XBOX_SERIES : PC {
+  }
+  LayoutResourceClass PS4 : PC {
+  }
+  LayoutResourceClass HEADLESS : PC {
+  }
+ }
+}

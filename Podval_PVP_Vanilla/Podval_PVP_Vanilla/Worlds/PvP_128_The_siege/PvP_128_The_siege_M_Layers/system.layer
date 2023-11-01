@@ -8,8 +8,34 @@ TagManager : "{2FA9E172CAB1857A}Prefabs/MP/Managers/TagManager.et" {
  coords 4448.966 19.367 9154.608
 }
 PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameModeCoop.et" {
+ components {
+  PS_MissionDescriptionManager "{5EC30459F8CD66AC}" {
+   m_aDescriptions {
+    PS_MapDescription "{5EC3045B6AFBD311}" {
+     m_sDescriptionLayout "{24F0CF7C81566AC8}UI/MissionDescriptionTemplates/Siege/DescriptionAboutMission_siege.layout"
+    }
+    PS_MapDescription "{5EC3045B74BE218C}" {
+     m_sFactions "NONE"
+    }
+    PS_MapDescription "{5EC3045B45C0B05D}" {
+     m_sDescriptionLayout "{FB801E5FF08AA32D}UI/MissionDescriptionTemplates/Siege/Description_Rules_siege.layout"
+    }
+    PS_MapDescription "{5EC3045B4E61FE0A}" {
+     m_sDescriptionLayout "{6041BDFF24700B6C}UI/MissionDescriptionTemplates/Siege/Description_FIA_Task_Siege.layout"
+    }
+    PS_MapDescription "{5EC3045B535F5157}" {
+     m_sDescriptionLayout "{4C91D96453A644EC}UI/MissionDescriptionTemplates/Siege/Description_USSR_Task_Siege.layout"
+    }
+    PS_MapDescription "{5EC3045B5C37CEAF}" {
+     m_sDescriptionLayout "{4C91D96453A644EC}UI/MissionDescriptionTemplates/Siege/Description_USSR_Task_Siege.layout"
+    }
+   }
+  }
+ }
  coords 3605.949 40.613 13353.883
  m_bCanOpenLobbyInGame 0
+ m_bMarkersOnlyOnBriefing 1
+ m_bKillRedundantUnits 1
  {
   SCR_FactionManager "5EAEB35DCB35F449" {
    ID "5EA73DB136618AD9"

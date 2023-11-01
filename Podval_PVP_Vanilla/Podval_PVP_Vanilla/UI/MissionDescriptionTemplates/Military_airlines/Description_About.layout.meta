@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{9A9B0F4B3707EBDD}UI/MissionDescriptionTemplates/Military_airlines/Description_About.layout"
+ Configurations {
+  LayoutResourceClass PC {
+  }
+  LayoutResourceClass XBOX_ONE : PC {
+  }
+  LayoutResourceClass XBOX_SERIES : PC {
+  }
+  LayoutResourceClass PS4 : PC {
+  }
+  LayoutResourceClass HEADLESS : PC {
+  }
+ }
+}
