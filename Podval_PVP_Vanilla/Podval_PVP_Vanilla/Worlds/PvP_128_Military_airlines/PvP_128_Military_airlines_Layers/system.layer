@@ -32,11 +32,16 @@ PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameMo
     }
    }
   }
+  SCR_TimeAndWeatherHandlerComponent "{5E7D773A4347DB9E}" {
+   m_iStartingHours 7
+   m_bRandomStartingWeather 1
+  }
  }
  coords 3984.418 49.51 16047.797
  m_bCanOpenLobbyInGame 0
  m_bMarkersOnlyOnBriefing 1
  m_bKillRedundantUnits 1
+ m_iFreezeTime 120000
  {
   SCR_FactionManager "5EAEB35DCB35F449" {
    ID "5EA73DB136618AD9"

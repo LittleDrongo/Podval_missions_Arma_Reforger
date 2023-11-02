@@ -4,7 +4,8 @@ $grp PS_ManualMarker {
   m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
   m_sImageSetGlow "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
   m_sQuadName "infantry-opfor"
-  m_fWorldSize 24
+  m_fWorldSizeWidth 60
+  m_fWorldSizeHeight 40
   m_sDescription "1-й взвод"
   m_bUseWorldScale 0
  }
@@ -13,7 +14,8 @@ $grp PS_ManualMarker {
   m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
   m_sImageSetGlow "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
   m_sQuadName "infantry-indfor"
-  m_fWorldSize 24
+  m_fWorldSizeWidth 40
+  m_fWorldSizeHeight 35
   m_sDescription "3-я группа"
   m_bUseWorldScale 0
  }
@@ -22,16 +24,18 @@ $grp PS_ManualMarker {
   m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
   m_sImageSetGlow "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
   m_sQuadName "infantry-indfor"
-  m_fWorldSize 24
+  m_fWorldSizeWidth 40
+  m_fWorldSizeHeight 35
   m_sDescription "2-я группа"
   m_bUseWorldScale 0
  }
  {
-  coords 8641.975 305.487 1803.573
+  coords 8620.335 264.17 1824.965
   m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
   m_sImageSetGlow "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
   m_sQuadName "infantry-indfor"
-  m_fWorldSize 24
+  m_fWorldSizeWidth 40
+  m_fWorldSizeHeight 35
   m_sDescription "1-я группа"
   m_bUseWorldScale 0
  }
@@ -40,7 +44,8 @@ $grp PS_ManualMarker {
   m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
   m_sImageSetGlow "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
   m_sQuadName "infantry-opfor"
-  m_fWorldSize 24
+  m_fWorldSizeWidth 60
+  m_fWorldSizeHeight 40
   m_sDescription "2-й взвод"
   m_bUseWorldScale 0
  }

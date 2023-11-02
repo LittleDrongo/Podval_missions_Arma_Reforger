@@ -1,0 +1,62 @@
+$grp SCR_EditorRestrictionZoneEntity : "{D832FD7D4F872977}Prefabs/FreezeTime/FreezeZone.et" {
+ {
+  coords 4941.088 28.593 11818.374
+  m_fWarnRadius 180
+  m_fZoneRadius 200
+  {
+   GenericEntity {
+    ID "5EC5183A2E8F3FE3"
+    components {
+     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
+      m_fRadius 180
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4970.429 44.041 10418.076
+  m_fWarnRadius 50
+  m_fZoneRadius 80
+  {
+   GenericEntity {
+    ID "5EC5183A2E8F3FE3"
+    components {
+     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
+      m_fRadius 50
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4959.975 36.844 9210.133
+  m_fWarnRadius 100
+  m_fZoneRadius 120
+  {
+   GenericEntity {
+    ID "5EC5183A2E8F3FE3"
+    components {
+     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
+      m_fRadius 100
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 5245.22 26.683 9308.541
+  m_fWarnRadius 100
+  m_fZoneRadius 120
+  {
+   GenericEntity {
+    ID "5EC5183A2E8F3FE3"
+    components {
+     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
+      m_fRadius 100
+     }
+    }
+   }
+  }
+ }
+}

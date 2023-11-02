@@ -8,7 +8,7 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
     m_iSquadCallsign 1
    }
   }
-  coords 8646.26 305.626 1807.903
+  coords 8624.619 264.309 1829.295
   angleX 13.429
   angleY 129.163
  }
@@ -21,7 +21,7 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
     m_iSquadCallsign 2
    }
   }
-  coords 8641.948 305.393 1803.483
+  coords 8620.309 264.076 1824.875
   angleX 13.429
   angleY 129.163
  }
@@ -34,7 +34,7 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
     m_iSquadCallsign 3
    }
   }
-  coords 8637.088 304.12 1796.992
+  coords 8615.448 262.803 1818.384
   angleX 13.429
   angleY 129.163
  }
@@ -49,7 +49,7 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
     m_iSquadCallsign 1
    }
   }
-  coords 10056.796 126.067 566.845
+  coords 10102.476 108.321 547.591
   angleX 7.614
   angleY -58.069
   angleZ 1.794
@@ -65,7 +65,7 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
     m_iSquadCallsign 2
    }
   }
-  coords 10052.159 125.552 562.726
+  coords 10097.837 107.806 543.472
   angleX 7.614
   angleY -58.069
   angleZ 1.794
@@ -81,7 +81,7 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
     m_iSquadCallsign 3
    }
   }
-  coords 10059.189 126.001 571.613
+  coords 10104.87 108.255 552.359
   angleX 7.614
   angleY -58.069
   angleZ 1.794
@@ -144,7 +144,7 @@ $grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_
    PS_GroupCallsignAssigner "{5EC31C9BA407DF7C}" {
    }
   }
-  coords 8652.28 303.839 1813.72
+  coords 8630.64 262.522 1835.112
   angleY 119.301
  }
  {
@@ -157,7 +157,7 @@ $grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_
     m_iPlatoonCallsign 1
    }
   }
-  coords 10049.054 125.081 557.66
+  coords 10094.73 107.335 538.406
   angleX -5.417
   angleY -68.389
   angleZ 2.758
@@ -176,5 +176,37 @@ $grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_
   angleX 3.776
   angleY 42.376
   angleZ -0.728
+ }
+}
+$grp SCR_EditorRestrictionZoneEntity : "{D832FD7D4F872977}Prefabs/FreezeTime/FreezeZone.et" {
+ {
+  coords 8974.19 53.065 614.692
+  m_fWarnRadius 80
+  m_fZoneRadius 130
+  {
+   GenericEntity {
+    ID "5EC5183A2E8F3FE3"
+    components {
+     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
+      m_fRadius 80
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 10054.258 3.182 1578.271
+  m_fWarnRadius 80
+  m_fZoneRadius 130
+  {
+   GenericEntity {
+    ID "5EC5183A2E8F3FE3"
+    components {
+     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
+      m_fRadius 80
+     }
+    }
+   }
+  }
  }
 }
