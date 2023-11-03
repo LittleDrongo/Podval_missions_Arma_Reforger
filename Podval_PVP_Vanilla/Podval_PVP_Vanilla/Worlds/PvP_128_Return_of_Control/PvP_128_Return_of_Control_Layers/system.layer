@@ -1,0 +1,65 @@
+SCR_AIWorld : "{70CCCF16487C927F}Prefabs/AI/SCR_AIWorld_Eden.et" {
+ coords -1192.817 -224.863 10334.807
+}
+PerceptionManager PerceptionManager1 : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+ coords -1196.428 -224.895 10337.178
+}
+TagManager : "{2FA9E172CAB1857A}Prefabs/MP/Managers/TagManager.et" {
+ coords -1195.594 -224.874 10336.457
+}
+PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameModeCoop.et" {
+ components {
+  PS_MissionDescriptionManager "{5EC30459F8CD66AC}" {
+   m_aDescriptions {
+    PS_MapDescription "{5EC3045B6AFBD311}" {
+     m_sDescriptionLayout "{F070A842D69F1523}UI/MissionDescriptionTemplates/Return_of_Control/DescriptionAboutMission_ReCtrl.layout"
+    }
+    PS_MapDescription "{5EC3045B74BE218C}" {
+     m_sFactions "NONE"
+    }
+    PS_MapDescription "{5EC3045B45C0B05D}" {
+     m_sDescriptionLayout "{800334BA55013E29}UI/MissionDescriptionTemplates/Return_of_Control/Description_Rules_ReCtrl.layout"
+    }
+    PS_MapDescription "{5EC3045B4E61FE0A}" {
+     m_sDescriptionLayout "{068FD925B0DE1363}UI/MissionDescriptionTemplates/Return_of_Control/FIA_TASK.layout"
+    }
+    PS_MapDescription "{5EC3045B535F5157}" {
+     m_sDescriptionLayout "{18B38590910AC38B}UI/MissionDescriptionTemplates/Return_of_Control/US_TASK.layout"
+    }
+    PS_MapDescription "{5EC3045B5C37CEAF}" {
+     m_sDescriptionLayout "{46C1DDB9B0B04E13}UI/MissionDescriptionTemplates/Return_of_Control/USSR_TASK.layout"
+    }
+   }
+  }
+  PS_ReplayWriter "{5EC562A81D549DA5}" {
+  }
+  SCR_TimeAndWeatherHandlerComponent "{5E7D773A4347DB9E}" {
+   m_iStartingHours 16
+   m_iStartingMinutes 20
+  }
+ }
+ coords -2038.61 -203.628 14535.732
+ m_bCanOpenLobbyInGame 0
+ m_bMarkersOnlyOnBriefing 1
+ m_bKillRedundantUnits 1
+ m_iFreezeTime 120000
+ {
+  SCR_FactionManager "5EAEB35DCB35F449" {
+   ID "5EA73DB136618AD9"
+   Factions {
+    SCR_Faction "{56DEAC40D2DBC8B1}" {
+     m_bIsPlayable 1
+    }
+    SCR_Faction "{56DEAC40D3C2E623}" {
+     m_bIsPlayable 1
+    }
+    SCR_Faction "{56DEAC40D132400B}" {
+     m_bIsPlayable 1
+    }
+   }
+  }
+ }
+}
+HitRegistrationManager HitRegManager1 : "{0EDA3D48791120DD}Prefabs/MP/HitRegManager.et" {
+ coords -1195.419 -224.996 10338.996
+}

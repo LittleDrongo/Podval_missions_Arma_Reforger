@@ -289,7 +289,7 @@ SCR_AIGroup : "{ABACC233796108ED}Prefabs/Groups/BLUFOR/Group_US_SniperTeam_P.et"
    m_iCompanyCallsign 2
   }
  }
- coords 4974.848 43.583 10414.1
+ coords 4989.812 43.293 10402.456
 }
 $grp Vehicle : "{B120CDDBEF8DB007}Prefabs/Vehicles/Wheeled/M998/M1025_armed_base.et" {
  M1025_armed_base2 {
@@ -1214,5 +1214,6 @@ Vehicle M151A1 : "{F649585ABB3706C4}Prefabs/Vehicles/Wheeled/M151A2/M151A2.et" {
    m_fVehicleDestroyDamage 7110.71
   }
  }
- coords 4972.261 43.718 10412.717
+ coords 4984.127 43.532 10398.789
+ angleY -75.224
 }

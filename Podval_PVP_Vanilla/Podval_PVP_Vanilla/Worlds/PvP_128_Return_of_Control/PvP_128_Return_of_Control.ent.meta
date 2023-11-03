@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{F951C6E7964A2A10}Worlds/PvP_128_Return_of_Control/PvP_128_Return_of_Control.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}

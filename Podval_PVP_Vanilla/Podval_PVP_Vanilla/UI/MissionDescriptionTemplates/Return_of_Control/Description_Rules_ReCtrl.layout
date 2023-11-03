@@ -1,0 +1,45 @@
+FrameWidgetClass {
+ Name "rootFrame"
+ components {
+  PS_MissionDescriptionContentUI "{5EC27C7C182EA2DF}" {
+   m_sTitle "#PS-Description_HeaderAboutMission"
+  }
+ }
+ {
+  OverlayWidgetClass "{5EC6776021CA7B88}" {
+   Name "Overlay0"
+   Slot FrameWidgetSlot "{5EC33E85CC2F5B26}" {
+    Anchor 0 0 0 0
+    PositionX 0
+    OffsetLeft 0
+    PositionY 0
+    OffsetTop 0
+    SizeX 480
+    OffsetRight -480
+    SizeY 601
+    OffsetBottom -601
+   }
+   {
+    RichTextWidgetClass "{5EC6776021CA7B84}" {
+     Name "RichText0"
+     Slot OverlayWidgetSlot "{5EC6776F652DF513}" {
+      VerticalAlign 0
+      Padding 0 20 0 20
+     }
+     Text "ОБЩИЕ УСЛОВНОСТИ"\
+     "- Всем запрещено проигрывать музыку в рацию или голосовй канал."\
+     "- Всем запрещено надевать элементы униформы противника (жакет, брюки, бронежилет, каску, разгрузку) рюкзаки и ботинки можно."\
+     "- На миссии активирован функционал фризтайма, фризтайм действует 2 минуты."\
+     ""\
+     ""\
+     "ПАРТИЗАНАМ FIA"\
+     "- Запрещено покидать территорию города (см. зелёные маркеры на карте)"\
+     ""
+     "Font Size" 20
+     "Min Font Size" 20
+     Wrap 1
+    }
+   }
+  }
+ }
+}

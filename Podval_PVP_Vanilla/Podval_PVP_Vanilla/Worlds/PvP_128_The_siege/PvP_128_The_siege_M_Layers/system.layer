@@ -64,45 +64,80 @@ HitRegistrationManager HitRegManager1 : "{0EDA3D48791120DD}Prefabs/MP/HitRegMana
 }
 $grp SCR_EditorRestrictionZoneEntity : "{D832FD7D4F872977}Prefabs/FreezeTime/FreezeZone.et" {
  {
-  coords 10098.563 108.909 527.955
-  m_fWarnRadius 80
-  m_fZoneRadius 130
+  coords 10119.005 79.165 445.331
+  m_fWarnRadius 45
+  m_fZoneRadius 50
+  m_fZoneTeleportedRadius 8000
   {
    GenericEntity {
     ID "5EC5183A2E8F3FE3"
     components {
      SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-      m_fRadius 80
+      m_fRadius 45
      }
     }
    }
   }
  }
  {
-  coords 9373.465 204.446 1159.578
-  m_fWarnRadius 80
-  m_fZoneRadius 130
+  coords 9375.429 205.06 1161.961
+  m_fWarnRadius 70
+  m_fZoneRadius 80
+  m_fZoneTeleportedRadius 8000
   {
    GenericEntity {
     ID "5EC5183A2E8F3FE3"
     components {
      SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-      m_fRadius 80
+      m_fRadius 70
      }
     }
    }
   }
  }
  {
-  coords 8613.087 287.502 1841.218
-  m_fWarnRadius 80
-  m_fZoneRadius 130
+  coords 8968.655 50.786 607.275
+  m_fWarnRadius 45
+  m_fZoneRadius 50
+  m_fZoneTeleportedRadius 8000
   {
    GenericEntity {
     ID "5EC5183A2E8F3FE3"
     components {
      SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-      m_fRadius 80
+      m_fRadius 45
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 8605.996 292.391 1830.693
+  m_fWarnRadius 45
+  m_fZoneRadius 50
+  m_fZoneTeleportedRadius 8000
+  {
+   GenericEntity {
+    ID "5EC5183A2E8F3FE3"
+    components {
+     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
+      m_fRadius 45
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 10051.091 2.541 1566.916
+  m_fWarnRadius 75
+  m_fZoneRadius 80
+  m_fZoneTeleportedRadius 8000
+  {
+   GenericEntity {
+    ID "5EC5183A2E8F3FE3"
+    components {
+     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
+      m_fRadius 75
      }
     }
    }

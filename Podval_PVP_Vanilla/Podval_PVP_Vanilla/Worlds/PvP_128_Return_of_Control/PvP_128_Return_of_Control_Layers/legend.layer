@@ -1,61 +1,64 @@
 $grp PS_ManualMarker {
  {
-  coords 10052.757 3.213 1580.099
-  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
-  m_sImageSetGlow "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
-  m_sQuadName "infantry-opfor"
+  coords 2786.555 32.194 3174.446
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sQuadName "infantry-blufor"
   m_fWorldSizeWidth 45
   m_fWorldSizeHeight 30
-  m_sDescription "Буран"
-  m_bUseWorldScale 0
+  m_sDescription "Atlas-Red"
  }
  {
-  coords 8613.623 294.745 1830.451
+  coords 3125.112 11.572 2792.289
   m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
   m_sImageSetGlow "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
   m_sQuadName "infantry-indfor"
   m_fWorldSizeWidth 45
   m_fWorldSizeHeight 30
   m_sDescription "Rah-tsek"
-  m_bUseWorldScale 0
  }
  {
-  coords 9365.014 212.943 1160.849
+  coords 3464.731 28.191 2584.68
   m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
   m_sImageSetGlow "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
   m_sQuadName "infantry-opfor"
   m_fWorldSizeWidth 45
   m_fWorldSizeHeight 30
   m_sDescription "Актив"
-  m_bUseWorldScale 0
  }
  {
-  coords 9319.474 229.2 1163.931
+  coords 3165.951 11.573 2795.948
   m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
   m_sImageSetGlow "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
   m_sQuadName "Task_Attack"
   m_fWorldSizeWidth 30
   m_fWorldSizeHeight 30
-  m_bUseWorldScale 0
  }
  {
-  coords 10117.844 78.47 442.958
+  coords 3172.212 9.962 2840.894
   m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
   m_sImageSetGlow "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
   m_sQuadName "infantry-indfor"
   m_fWorldSizeWidth 45
   m_fWorldSizeHeight 30
   m_sDescription "Bree-zah"
-  m_bUseWorldScale 0
  }
  {
-  coords 8969.515 52.355 603.538
-  m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
-  m_sImageSetGlow "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
-  m_sQuadName "infantry-indfor"
+  coords 2593.011 110.105 2502.375
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sQuadName "infantry-blufor"
   m_fWorldSizeWidth 45
   m_fWorldSizeHeight 30
-  m_sDescription "Tseh-drr"
-  m_bUseWorldScale 0
+  m_sDescription "Blazer-red"
+ }
+ {
+  coords 3135.372 23.655 2314.386
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sQuadName "infantry-opfor"
+  m_fWorldSizeWidth 45
+  m_fWorldSizeHeight 30
+  m_sDescription "Буран"
  }
 }

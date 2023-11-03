@@ -1,0 +1,25 @@
+$grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad_P.et" {
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC6776D642B29C1}" {
+   }
+  }
+  coords 3123.958 11.509 2793.865
+  angleY 42.533
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC6776D642B29C1}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 3179.262 9.549 2847.773
+  angleY 42.533
+ }
+}

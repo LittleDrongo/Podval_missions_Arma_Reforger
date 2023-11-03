@@ -6,7 +6,7 @@ FrameWidgetClass {
   }
  }
  {
-  OverlayWidgetClass "{5EC33E85CC2F5BB0}" {
+  OverlayWidgetClass "{5EC67760F77E4602}" {
    Name "Overlay0"
    Slot FrameWidgetSlot "{5EC33E85CC2F5B26}" {
     Anchor 0 0 0 0
@@ -20,13 +20,13 @@ FrameWidgetClass {
     OffsetBottom -601
    }
    {
-    RichTextWidgetClass "{5EC33E85728A5D4E}" {
+    RichTextWidgetClass "{5EC67760F77E461F}" {
      Name "RichText0"
      Slot OverlayWidgetSlot "{5EC6776F652DF513}" {
       VerticalAlign 0
       Padding 0 20 0 20
      }
-     Text "Партизаны FIA взяли в осаду гарнизон Советской Армии, с целью последующего штурма и уничтожения защитников. "
+     Text "Нам необходимо выбить партизан FIA из города Борегар быстрее Советов."
      "Font Size" 20
      "Min Font Size" 20
      Wrap 1

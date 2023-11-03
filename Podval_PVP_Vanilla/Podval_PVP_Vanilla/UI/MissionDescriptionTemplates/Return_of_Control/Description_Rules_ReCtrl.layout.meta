@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{800334BA55013E29}UI/MissionDescriptionTemplates/Return_of_Control/Description_Rules_ReCtrl.layout"
+ Configurations {
+  LayoutResourceClass PC {
+  }
+  LayoutResourceClass XBOX_ONE : PC {
+  }
+  LayoutResourceClass XBOX_SERIES : PC {
+  }
+  LayoutResourceClass PS4 : PC {
+  }
+  LayoutResourceClass HEADLESS : PC {
+  }
+ }
+}
