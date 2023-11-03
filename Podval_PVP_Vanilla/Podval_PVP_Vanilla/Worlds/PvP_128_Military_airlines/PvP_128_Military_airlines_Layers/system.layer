@@ -7,7 +7,7 @@ PerceptionManager PerceptionManager1 : "{028DAEAD63E056BE}Prefabs/World/Game/Per
 TagManager : "{2FA9E172CAB1857A}Prefabs/MP/Managers/TagManager.et" {
  coords 4827.437 28.264 11848.521
 }
-PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameModeCoop.et" {
+PS_GameModeCoop : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameModeCoop.et" {
  components {
   PS_MissionDescriptionManager "{5EC30459F8CD66AC}" {
    m_aDescriptions {
@@ -31,6 +31,8 @@ PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameMo
      m_sDescriptionLayout "{539B865ED52471DE}UI/MissionDescriptionTemplates/Military_airlines/Description_USSR_Task_Air.layout"
     }
    }
+  }
+  PS_ReplayWriter "{5EC556476B10D28A}" {
   }
   SCR_TimeAndWeatherHandlerComponent "{5E7D773A4347DB9E}" {
    m_iStartingHours 7

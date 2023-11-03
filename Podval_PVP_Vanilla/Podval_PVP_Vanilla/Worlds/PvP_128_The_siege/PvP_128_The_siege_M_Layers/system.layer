@@ -31,6 +31,8 @@ PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameMo
     }
    }
   }
+  PS_ReplayWriter "{5EC562A81D549DA5}" {
+  }
   SCR_TimeAndWeatherHandlerComponent "{5E7D773A4347DB9E}" {
    m_iStartingHours 5
    m_iStartingMinutes 30
