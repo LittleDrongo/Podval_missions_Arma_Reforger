@@ -106,6 +106,14 @@ StaticModelEntity : "{28AD56269AB347EE}PrefabsEditable/Auto/Props/Military/Sandb
   }
  }
 }
+GameEntity : "{2CB0AA2A87842C18}Prefabs/Props/Civilian/LampKerosene_01/LampKerosene_01_military_USSR.et" {
+ components {
+  Hierarchy "{5706F8D0966130E6}" {
+  }
+ }
+ coords 9320.586 209.842 1164.283
+ angleY -23.925
+}
 GenericEntity : "{369584CDF808670C}PrefabsEditable/Auto/Structures/Signs/Military/E_Sign_AmmoStorage_USSR_01.et" {
  coords 9361.582 204.534 1161.057
  angleY -115.696

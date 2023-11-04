@@ -288,6 +288,63 @@ SCR_AIGroup : "{ABACC233796108ED}Prefabs/Groups/BLUFOR/Group_US_SniperTeam_P.et"
   PS_GroupCallsignAssigner "{5EC33E83AEFF89B0}" {
    m_iCompanyCallsign 2
   }
+  SCR_EditableGroupComponent "{50D291F6C83FA532}" {
+   m_UIInfo SCR_EditableGroupUIInfo "{5298E609432D192D}" {
+    Name "#AR-Group_SniperTeam"
+    m_Image "{BC3B6D475EFE3C31}UI/Textures/EditorPreviews/Groups/BLUFOR/Group_US_SniperTeam.edds"
+    m_aAuthoredLabels +{
+    }
+    m_aAutoLabels {
+    }
+    m_EntityChildrenBudgetCost {
+     SCR_EntityBudgetValue "{5E612499C7CE4552}" {
+      m_BudgetType AI
+      m_Value 2
+     }
+    }
+    m_MilitarySymbol SCR_MilitarySymbol "{5E612499C7CE455C}" {
+     m_Identity BLUFOR
+     m_Dimension LAND
+     m_Icons 0
+     m_Amplifier NONE
+    }
+   }
+  }
+  SCR_PreviewEntityComponent "{56FCFAC0D2308C87}" : "{6CADA7A88A6265FD}Prefabs/Editor/Components/PreviewEntityComponentClass.ct" {
+   m_bRuntime 0
+   m_aEntries {
+    SCR_BasePreviewEntry "{5E612499C7CE45A7}" {
+     m_iParentID -1
+     m_Mesh ""
+     m_Flags 3
+     m_Shape MESH
+     m_iPivotID ""
+     m_vScale 1 1 1
+     m_vPosition 0 0 0
+     m_vAngles 0 0 0
+    }
+    SCR_BasePreviewEntry "{5E612499C7CE45A6}" {
+     m_iParentID 0
+     m_Mesh "{7B2420C8BC72373A}Prefabs/Characters/Core/Character_Base_Preview.et"
+     m_Flags 0
+     m_Shape PREFAB
+     m_iPivotID ""
+     m_vScale 1 1 1
+     m_vPosition 0 0 0
+     m_vAngles 0 0 0
+    }
+    SCR_BasePreviewEntry "{5E612499C7CE45A5}" {
+     m_iParentID 0
+     m_Mesh "{7B2420C8BC72373A}Prefabs/Characters/Core/Character_Base_Preview.et"
+     m_Flags 0
+     m_Shape PREFAB
+     m_iPivotID ""
+     m_vScale 1 1 1
+     m_vPosition 3 0 -3
+     m_vAngles 0 0 0
+    }
+   }
+  }
  }
  coords 4989.812 43.293 10402.456
 }
@@ -1210,6 +1267,16 @@ $grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_
 }
 Vehicle M151A1 : "{F649585ABB3706C4}Prefabs/Vehicles/Wheeled/M151A2/M151A2.et" {
  components {
+  SCR_UniversalInventoryStorageComponent "{5916C5825BF621D1}" {
+   MultiSlots {
+    MultiSlotConfiguration "{5EC7775F60FC8461}" {
+     SlotTemplate InventoryStorageSlot bandage {
+      Prefab "{627255315038152A}Prefabs/Weapons/Magazines/Magazine_762x51_M14_20rnd_SpecialBall.et"
+     }
+     NumSlots 8
+    }
+   }
+  }
   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
    m_fVehicleDestroyDamage 7110.71
   }
