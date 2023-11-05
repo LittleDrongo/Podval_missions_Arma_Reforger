@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{8BE3F4A5A204F212}Prefabs/Groups/BLUFOR/RHS_US_USMC/Group_US_USMC_SniperTeam.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

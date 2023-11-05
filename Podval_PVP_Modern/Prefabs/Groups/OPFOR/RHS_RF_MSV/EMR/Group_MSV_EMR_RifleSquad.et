@@ -1,0 +1,8 @@
+SCR_AIGroup : "{FD26CDBF9EBEA023}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_Base.et" {
+ ID "0000000000000001"
+ components {
+  AIFormationComponent "{507E9DC12F541FE6}" {
+   DefaultFormation "Column"
+  }
+ }
+}

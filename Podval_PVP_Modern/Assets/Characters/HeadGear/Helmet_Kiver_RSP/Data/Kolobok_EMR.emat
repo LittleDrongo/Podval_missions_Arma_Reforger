@@ -1,0 +1,7 @@
+MatPBRBasic {
+ Color 0.212 0.212 0.212 1
+ AllowUserAlphaBias 1
+ DisableUserAphaInShadow 1
+ BCRMap "{DC53D3D17D210540}images/textures/emr.edds"
+ NMOMap "{C1BDDE048CD14891}Assets/Characters/HeadGear/Helmet_Kiver_RSP/Data/kiver_cover_NMO.edds"
+}

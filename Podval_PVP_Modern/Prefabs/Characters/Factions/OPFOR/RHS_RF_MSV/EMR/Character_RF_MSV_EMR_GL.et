@@ -1,0 +1,8 @@
+SCR_ChimeraCharacter : "{1E8265C4FCFC787B}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Armored_Base.et" {
+ ID "520EC961A090BE1E"
+ components {
+  PS_PlayableComponent "{5ECA941A16000A0E}" {
+   m_name "#AR-Role_Grenadier"
+  }
+ }
+}

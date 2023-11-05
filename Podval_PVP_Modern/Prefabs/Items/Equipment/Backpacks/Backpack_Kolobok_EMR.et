@@ -1,0 +1,21 @@
+GenericEntity : "{09D6A1C9543E4A95}Prefabs/Items/Core/Backpack_Base.et" {
+ ID "511E9C6ADE70F798"
+ components {
+  MeshObject "{511E9C6ADE70F7BD}" {
+   Materials {
+    MaterialAssignClass "{5ECAE92797BA4786}" {
+     SourceMaterial "Backpack_Kolobok"
+     AssignedMaterial "{4CA10B63785B6401}Assets/Characters/HeadGear/Helmet_Kiver_RSP/Data/RSP_Cover_EMR.emat"
+    }
+   }
+  }
+  BaseLoadoutClothComponent "{511E9C6ADE70F7BB}" {
+   WornMaterialsOverride {
+    "{7529F4B69AA413DA}Assets/Characters/HeadGear/Helmet_Kiver_RSP/Data/Kolobok_EMR.emat"
+   }
+   ItemMaterialsOverride {
+    "{7529F4B69AA413DA}Assets/Characters/HeadGear/Helmet_Kiver_RSP/Data/Kolobok_EMR.emat"
+   }
+  }
+ }
+}

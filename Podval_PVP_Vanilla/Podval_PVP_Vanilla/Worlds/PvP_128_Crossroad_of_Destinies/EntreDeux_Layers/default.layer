@@ -1,0 +1,53 @@
+SCR_AIWorld : "{70CCCF16487C927F}Prefabs/AI/SCR_AIWorld_Eden.et" {
+}
+PerceptionManager PerceptionManager1 : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+}
+TagManager : "{2FA9E172CAB1857A}Prefabs/MP/Managers/TagManager.et" {
+}
+PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameModeCoop.et" {
+ components {
+  PS_MissionDescriptionManager "{5EC30459F8CD66AC}" {
+   m_aDescriptions {
+    PS_MapDescription "{5EC3045B6AFBD311}" {
+     m_sDescriptionLayout "{9D3CE5B65F0BC846}UI/Ses/DescriptionAboutMissionSes.layout"
+    }
+    PS_MapDescription "{5EC3045B74BE218C}" {
+     m_sDescriptionLayout "{3F7B8FD95A19A9D3}UI/Ses/DescriptionObjectivesSes.layout"
+    }
+    PS_MapDescription "{5EC3045B45C0B05D}" {
+     m_sDescriptionLayout "{F8B5EDD11513CB15}UI/Ses/DescriptionRulesSes.layout"
+    }
+    PS_MapDescription "{5EC3045B535F5157}" {
+     m_sDescriptionLayout "{BA5E77A8BC8D7240}UI/Ses/DescriptionUSSes.layout"
+    }
+    PS_MapDescription "{5EC3045B5C37CEAF}" {
+     m_sDescriptionLayout "{0F862B00179EEA7A}UI/Ses/DescriptionUSSRSes.layout"
+    }
+   }
+  }
+  PS_ReplayWriter "{5EC8CCC6089608F4}" {
+  }
+  SCR_TimeAndWeatherHandlerComponent "{5E7D773A4347DB9E}" {
+   m_iStartingHours 13
+   m_bRandomStartingWeather 1
+  }
+ }
+ m_bMarkersOnlyOnBriefing 1
+ m_bKillRedundantUnits 1
+ m_iFreezeTime 180000
+ {
+  SCR_FactionManager "5EC4E502BF0A9EC3" {
+   ID "5EA73DB136618AD9"
+   Factions {
+    SCR_Faction "{56DEAC40D2DBC8B1}" {
+     m_bIsPlayable 1
+    }
+    SCR_Faction "{56DEAC40D3C2E623}" {
+     m_bIsPlayable 1
+    }
+   }
+  }
+ }
+}
+HitRegistrationManager HitRegManager1 : "{0EDA3D48791120DD}Prefabs/MP/HitRegManager.et" {
+}

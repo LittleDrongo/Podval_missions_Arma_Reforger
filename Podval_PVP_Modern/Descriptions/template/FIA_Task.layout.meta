@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{6041BDFF24700B6C}UI/MissionDescriptionTemplates/Description_FIA_Task_Siege.layout"
+ Configurations {
+  LayoutResourceClass PC {
+  }
+  LayoutResourceClass XBOX_ONE : PC {
+  }
+  LayoutResourceClass XBOX_SERIES : PC {
+  }
+  LayoutResourceClass PS4 : PC {
+  }
+  LayoutResourceClass HEADLESS : PC {
+  }
+ }
+}

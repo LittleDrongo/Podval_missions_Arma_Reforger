@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{7529F4B69AA413DA}Assets/Characters/HeadGear/Helmet_Kiver_RSP/Data/Kolobok_EMR.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

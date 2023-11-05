@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{BA5E77A8BC8D7240}UI/Ses/DescriptionUSSes.layout"
+ Configurations {
+  LayoutResourceClass PC {
+  }
+  LayoutResourceClass XBOX_ONE : PC {
+  }
+  LayoutResourceClass XBOX_SERIES : PC {
+  }
+  LayoutResourceClass PS4 : PC {
+  }
+  LayoutResourceClass HEADLESS : PC {
+  }
+ }
+}

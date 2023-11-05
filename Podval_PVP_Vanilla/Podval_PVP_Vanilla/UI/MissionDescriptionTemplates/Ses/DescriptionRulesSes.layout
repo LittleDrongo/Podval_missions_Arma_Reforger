@@ -1,0 +1,35 @@
+FrameWidgetClass {
+ Name "rootFrame"
+ components {
+  PS_MissionDescriptionContentUI "{5EC27C7C182EA2DF}" {
+   m_sTitle "#PS-Description_HeaderRules"
+  }
+ }
+ {
+  OverlayWidgetClass "{5EC8CCC6F23AB865}" {
+   Name "Overlay0"
+   Slot FrameWidgetSlot "{5EC8CCC6F23AB853}" {
+    OffsetLeft 0
+    OffsetTop 0
+    SizeX 480
+    OffsetRight -480
+    SizeY 601
+    OffsetBottom -601
+   }
+   {
+    RichTextWidgetClass "{5EC709CBC6E73386}" {
+     Name "RichText0"
+     Slot OverlayWidgetSlot {
+      HorizontalAlign 0
+      VerticalAlign 0
+      Padding 20 20 20 20
+     }
+     Text "Красные не могут атаковать Мортон, так как там условная оборона Армии США (непобедимая для срочно собранного советского подкрепления). Монтиньяк аналогично недоступен для синей стороны."
+     "Font Size" 20
+     "Min Font Size" 20
+     Wrap 1
+    }
+   }
+  }
+ }
+}

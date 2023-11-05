@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{C85A99F6F5351D2D}Assets/Characters/HeadGear/Helmet_TOR/Data/TOR_Cover_EMR.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

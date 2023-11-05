@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{99E31A7C5D1F84C7}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_Team_GL.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

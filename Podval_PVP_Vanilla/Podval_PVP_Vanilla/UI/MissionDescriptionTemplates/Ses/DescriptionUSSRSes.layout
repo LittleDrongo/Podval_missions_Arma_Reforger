@@ -1,0 +1,35 @@
+FrameWidgetClass {
+ Name "rootFrame"
+ components {
+  PS_MissionDescriptionContentUI "{5EC27C7C182EA2DF}" {
+   m_sTitle "#PS-Description_HeaderRules"
+  }
+ }
+ {
+  OverlayWidgetClass "{5EC8CCC6906B9E00}" {
+   Name "Overlay0"
+   Slot FrameWidgetSlot "{5EC8CCC6906B9FC1}" {
+    OffsetLeft 0
+    OffsetTop 0
+    SizeX 480
+    OffsetRight -480
+    SizeY 601
+    OffsetBottom -601
+   }
+   {
+    RichTextWidgetClass "{5EC8C1D9D32C293E}" {
+     Name "RichText0"
+     Slot OverlayWidgetSlot {
+      HorizontalAlign 0
+      VerticalAlign 0
+      Padding 20 20 20 20
+     }
+     Text "Как можно быстрее закрепитесь в деревнях и сохраните передвежные штабы целыми. Приоритет обороны поселок Провинс."
+     "Font Size" 20
+     "Min Font Size" 20
+     Wrap 1
+    }
+   }
+  }
+ }
+}

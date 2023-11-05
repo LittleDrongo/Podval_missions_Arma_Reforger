@@ -1,0 +1,35 @@
+FrameWidgetClass {
+ Name "rootFrame"
+ components {
+  PS_MissionDescriptionContentUI "{5EC27C7C182EA2DF}" {
+   m_sTitle "#PS-Description_HeaderRules"
+  }
+ }
+ {
+  OverlayWidgetClass "{5EC8CCC6E62E2555}" {
+   Name "Overlay0"
+   Slot FrameWidgetSlot "{5EC8CCC6E62E2503}" {
+    OffsetLeft 0
+    OffsetTop 0
+    SizeX 480
+    OffsetRight -480
+    SizeY 601
+    OffsetBottom -601
+   }
+   {
+    RichTextWidgetClass "{5EC8C1D9C972EA10}" {
+     Name "RichText0"
+     Slot OverlayWidgetSlot {
+      HorizontalAlign 0
+      VerticalAlign 0
+      Padding 20 20 20 20
+     }
+     Text "Возьмите под контроль две деревни и по возможности захватите передвежные штабы противника. Не уничтожайте их если закрепились в деревне, уничтожайте если нет возможности удерживать позиции."
+     "Font Size" 20
+     "Min Font Size" 20
+     Wrap 1
+    }
+   }
+  }
+ }
+}
