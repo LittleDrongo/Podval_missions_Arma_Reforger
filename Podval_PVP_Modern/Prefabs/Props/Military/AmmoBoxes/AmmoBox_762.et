@@ -1,0 +1,33 @@
+GenericEntity : "{E521AEA6D14589B1}Prefabs/Props/Military/AmmoBoxes/AmmoBox_545_drg.et" {
+ ID "F0DBA538AC2A0552"
+ components {
+  SCR_UniversalInventoryStorageComponent "{5476A2F100DF4EFF}" {
+   MultiSlots {
+    MultiSlotConfiguration "{5ECCF097136FEA78}" {
+     SlotTemplate InventoryStorageSlot Bandages {
+      Prefab "{0110F6D92703114A}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_7N13_4Ball_1Tracer.et"
+     }
+     NumSlots 20
+    }
+    MultiSlotConfiguration "{5ECCF097131A8AC7}" {
+     SlotTemplate InventoryStorageSlot Bandages {
+      Prefab "{BEEA49E27174B224}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_Tracer.et"
+     }
+     NumSlots 10
+    }
+    MultiSlotConfiguration "{5ECCF79A768F2CDF}" {
+     SlotTemplate InventoryStorageSlot Bandages {
+      Prefab "{BEEA49E27174B224}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_Tracer.et"
+     }
+     NumSlots 0
+    }
+    MultiSlotConfiguration "{5ECCF79A768F2CD1}" {
+     SlotTemplate InventoryStorageSlot Bandages {
+      Prefab "{7DD4759A10D449CE}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_Tracer.et"
+     }
+     NumSlots 0
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,311 @@
+Vehicle GAZ_TIGR_Unarmed_Camo1 : "{0C2BF6881C8FDF53}Prefabs/Vehicles/Wheeled/TIGR/GAZ_TIGR_Unarmed_Camo.et" {
+ components {
+  SCR_UniversalInventoryStorageComponent "{5D5752A6657A20A7}" {
+   MultiSlots {
+    MultiSlotConfiguration "{5D5752A1DBCAA51E}" {
+     SlotTemplate InventoryStorageSlot Bandages {
+      Prefab "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et"
+     }
+     NumSlots 20
+    }
+    MultiSlotConfiguration "{5ECD321837FBE6E9}" {
+     SlotTemplate InventoryStorageSlot Bandages {
+      Prefab "{7DD4759A10D449CE}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_Tracer.et"
+     }
+     NumSlots 20
+    }
+    MultiSlotConfiguration "{5ECD6309E4DF6B05}" {
+     SlotTemplate InventoryStorageSlot Bandages {
+      Prefab "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et"
+     }
+     NumSlots 6
+    }
+   }
+  }
+  SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+   m_fVehicleDestroyDamage 20457.801
+  }
+ }
+ coords 4548.855 15.353 10292.064
+}
+$grp Vehicle : "{225A9305129485F1}Prefabs/Vehicles/Wheeled/JLTV/JLTV_CROWSII_Olive.et" {
+ JLTV_CROWSII_Olive3 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4902.72 28.594 11866.208
+  angleY -90.087
+ }
+ JLTV_CROWSII_Olive2 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4902.728 28.594 11861.104
+  angleY -90.087
+ }
+ JLTV_CROWSII_Olive1 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4902.735 28.594 11856.415
+  angleY -90.087
+ }
+ JLTV_CROWSII_Olive4 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4908.672 28.594 11754.342
+  angleY -90.087
+ }
+ JLTV_CROWSII_Olive5 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4908.658 28.594 11764.135
+  angleY -90.087
+ }
+ JLTV_CROWSII_Olive6 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4908.666 28.594 11759.03
+  angleY -90.087
+ }
+ JLTV_CROWSII_Olive7 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4851.597 28.548 11904.693
+  angleY -172.221
+ }
+ JLTV_CROWSII_Olive8 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4841.895 28.548 11906.021
+  angleY -172.221
+ }
+ JLTV_CROWSII_Olive9 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4846.952 28.548 11905.328
+  angleY -172.221
+ }
+}
+$grp Vehicle : "{31F0866273C46D76}Prefabs/Vehicles/Wheeled/K17/APC_K17_Berezok.et" {
+ APC_K17_Berezok1 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5CE26149257047CD}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5ECEABBCB34D4CFA}" {
+      SlotTemplate InventoryStorageSlot Bandages {
+       Prefab "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et"
+      }
+      NumSlots 2
+     }
+    }
+   }
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 15462.9
+   }
+  }
+  coords 5005.103 41.635 9011.063
+  angleY -89.312
+ }
+ APC_K17_Berezok5 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5CE26149257047CD}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5ECEABBC93807534}" {
+      SlotTemplate InventoryStorageSlot Bandages {
+       Prefab "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et"
+      }
+      NumSlots 2
+     }
+    }
+   }
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 15462.9
+   }
+  }
+  coords 4264.532 45.34 8875.001
+  angleX -8.871
+  angleY -39.526
+  angleZ 0.41
+ }
+ APC_K17_Berezok6 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5CE26149257047CD}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5ECEABBC94C6C60E}" {
+      SlotTemplate InventoryStorageSlot Bandages {
+       Prefab "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et"
+      }
+      NumSlots 2
+     }
+    }
+   }
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 15462.9
+   }
+  }
+  coords 4273.053 47.347 8864.672
+  angleX -8.196
+  angleY -39.527
+  angleZ -0.153
+ }
+ APC_K17_Berezok3 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5CE26149257047CD}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5ECEABBC8C2B9226}" {
+      SlotTemplate InventoryStorageSlot Bandages {
+       Prefab "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et"
+      }
+      NumSlots 2
+     }
+    }
+   }
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 15462.9
+   }
+  }
+  coords 4974.281 41.791 9016.749
+  angleY -78.425
+ }
+ APC_K17_Berezok2 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5CE26149257047CD}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5ECEABBC852A2123}" {
+      SlotTemplate InventoryStorageSlot Bandages {
+       Prefab "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et"
+      }
+      NumSlots 2
+     }
+    }
+   }
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 15462.9
+   }
+  }
+  coords 4988.427 41.722 9013.436
+  angleY -78.425
+ }
+ APC_K17_Berezok4 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5CE26149257047CD}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5ECEABBC98787852}" {
+      SlotTemplate InventoryStorageSlot Bandages {
+       Prefab "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et"
+      }
+      NumSlots 2
+     }
+    }
+   }
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 15462.9
+   }
+  }
+  coords 4256.503 43.325 8885.834
+  angleX -8.196
+  angleY -39.709
+  angleZ -0.127
+ }
+}
+$grp Vehicle : "{45DDFA40E1CB6B82}Prefabs/Vehicles/Wheeled/Stryker/Stryker_Dragoon.et" {
+ {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 38733.102
+   }
+  }
+  coords 4476.817 14.45 9509.466
+  angleX 7.964
+  angleY 92.277
+  angleZ 1.203
+ }
+ Stryker_Dragoon2 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5B2679D93940D600}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5ECEABBCF9E53117}" {
+      SlotTemplate InventoryStorageSlot Bandages {
+       Prefab "{B7BA7694F821F556}Prefabs/Items/Equipment/Nightvision/PVS14/NVG_PVS14Dual.et"
+      }
+      NumSlots 2
+     }
+    }
+   }
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 38733.102
+   }
+  }
+  coords 4758.395 23.679 12037.298
+  angleX 1.065
+  angleY 179.774
+  angleZ -0.013
+ }
+ Stryker_Dragoon3 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5B2679D93940D600}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5ECEABBCFD706A88}" {
+      SlotTemplate InventoryStorageSlot Bandages {
+       Prefab "{B7BA7694F821F556}Prefabs/Items/Equipment/Nightvision/PVS14/NVG_PVS14Dual.et"
+      }
+      NumSlots 2
+     }
+    }
+   }
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 38733.102
+   }
+  }
+  coords 4758.125 24.048 12017.587
+  angleX 0.895
+  angleY 179.146
+  angleZ -0.013
+ }
+ Stryker_Dragoon4 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5B2679D93940D600}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5ECEABBCE310E505}" {
+      SlotTemplate InventoryStorageSlot Bandages {
+       Prefab "{B7BA7694F821F556}Prefabs/Items/Equipment/Nightvision/PVS14/NVG_PVS14Dual.et"
+      }
+      NumSlots 2
+     }
+    }
+   }
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 38733.102
+   }
+  }
+  coords 4758.328 24.434 11997.418
+  angleX 1.79
+  angleY -179.727
+  angleZ 0.009
+ }
+}

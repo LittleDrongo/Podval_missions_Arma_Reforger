@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{8FEEED7AE55FF124}Prefabs/Systems/Arsenal/AmmoBoxes/USSR/AmmoBoxArsenal_Medical_US.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

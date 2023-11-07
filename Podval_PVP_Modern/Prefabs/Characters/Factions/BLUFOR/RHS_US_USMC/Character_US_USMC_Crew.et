@@ -1,0 +1,20 @@
+SCR_ChimeraCharacter : "{7F333C03AF1F712B}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC/Character_US_USMC_Rifleman.et" {
+ ID "52092032B0E62200"
+ components {
+  PS_PlayableComponent "{5ECA9419B409A493}" {
+   m_name "#RHS-Role_Crewman"
+  }
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Icon "{A489F552FB7489C3}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_Custom.edds"
+   }
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{1608873B6690044C}Prefabs/Characters/HeadGear/Helmet_CVC_01/Helmet_CVC_01.et"
+    }
+   }
+  }
+ }
+}

@@ -7,9 +7,9 @@ SCR_ChimeraCharacter : "{1E8265C4FCFC787B}Prefabs/Characters/Factions/OPFOR/RHS_
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{5ECAD8233B5313E5}" {
-     TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_RPG_Gunner.et"
+     TargetStorage "Prefabs/Characters/Uniforms/VKPO/Undershirt_Demiseason_VKPO.et"
      PrefabsToSpawn {
-      "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et" "{4CB556EEDA83FFFE}Prefabs/Characters/Eyewear/npp_strelok/eyewear_npp_strelok_emr.et" "{244A6A1121439AAC}Prefabs/Characters/HeadGear/Helmet_LShZ/Balaclava_LShZ_base.et" "{F58C969DD33AD33B}Prefabs/Characters/HeadGear/Helmet_LShZ/LShZ_attachment.et"
+      "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et"
      }
     }
    }

@@ -1,0 +1,231 @@
+$grp GenericEntity : "{04FC05B627B1352E}Prefabs/Props/Military/AmmoBoxes/Box_NVG.et" {
+ {
+  coords 4270.745 53.363 8827.174
+  angleX -8.883
+  angleY -0.044
+  angleZ -3.527
+ }
+ {
+  coords 4279.062 53.967 8826.999
+  angleX -17.336
+  angleY -0.593
+  angleZ 1.885
+ }
+ {
+  coords 4262.298 53.06 8826.607
+  angleX -6.242
+  angleY -0.001
+  angleZ -6.205
+ }
+}
+$grp GenericEntity : "{092FE092D6DF1EB3}Prefabs/Props/Military/AmmoBoxes/AmmoBox_556x45_1680rnd.et" {
+ {
+  coords 4862.75 28.605 11811.064
+ }
+ {
+  coords 4853.692 28.614 11811.063
+ }
+ {
+  coords 4845.233 28.615 11810.276
+ }
+ {
+  coords 4503.254 14.124 9506.819
+  angleX 1.786
+  angleY 0.084
+  angleZ 2.685
+ }
+}
+$grp GenericEntity : "{13AC4B258CF61B43}Prefabs/Props/Military/AmmoBoxes/AmmoBox_249.et" {
+ {
+  coords 4861.491 28.598 11811.569
+ }
+ {
+  coords 4843.975 28.608 11810.781
+ }
+ {
+  coords 4852.434 28.607 11811.568
+ }
+ {
+  coords 4501.996 14.114 9507.325
+ }
+}
+GenericEntity : "{1E80E1F0A52557B2}Prefabs/Props/Military/AmmoBoxes/AmmoBox_762.et" {
+ coords 5016.589 47.555 8936.113
+}
+$grp GenericEntity : "{39B8A8A85B65000C}Prefabs/Props/Military/AmmoBoxes/AmmoBox_M72.et" {
+ {
+  coords 4863.059 28.622 11810.021
+ }
+ {
+  coords 4845.542 28.632 11809.232
+ }
+ {
+  coords 4854.001 28.631 11810.021
+ }
+ {
+  coords 4503.563 14.138 9505.776
+ }
+}
+$grp GenericEntity : "{610195CC084D6A04}Prefabs/Props/Military/AmmoBoxes/AmmoBox_Grenade_USSR_drg.et" {
+ {
+  coords 4270.646 53.155 8828.421
+  angleX -9.752
+  angleY 0.01
+  angleZ -3.526
+ }
+ {
+  coords 4278.964 53.611 8828.247
+  angleX -10.608
+  angleY -0.368
+  angleZ 1.827
+ }
+ {
+  coords 4262.199 52.91 8827.857
+  angleX -8.876
+  angleY 0.082
+  angleZ -3.546
+ }
+}
+$grp GenericEntity : "{7328E7B3B9E0B097}Prefabs/Props/Military/AmmoBoxes/AmmoBox_GP25_USSR_drg.et" {
+ {
+  coords 4270.657 52.953 8829.697
+  angleX -7.136
+  angleY -0.1
+  angleZ -6.182
+ }
+ {
+  coords 4278.974 53.379 8829.523
+  angleX -9.748
+  angleY -0.282
+  angleZ 0.93
+ }
+ {
+  coords 4262.211 52.692 8829.141
+  angleX -9.744
+  angleY 0.136
+  angleZ -3.548
+ }
+}
+$grp GenericEntity : "{7646D62F7B4DC346}Prefabs/Props/Military/AmmoBoxes/AmmoBox_Grenade_US_drg.et" {
+ {
+  coords 4860.849 28.622 11810.019
+ }
+ {
+  coords 4843.333 28.632 11809.23
+ }
+ {
+  coords 4851.792 28.631 11810.019
+ }
+ {
+  coords 4501.354 14.138 9505.774
+ }
+}
+$grp GenericEntity : "{7C93700E1AC4C387}Prefabs/Systems/Arsenal/AmmoBoxes/USSR/AmmoBoxArsenal_Medical_USSR.et" {
+ {
+  coords 5001.154 44.54 8972.031
+  angleX -2.342
+ }
+ {
+  coords 4256.069 52.171 8829.511
+  angleX -2.342
+ }
+}
+$grp GenericEntity : "{8FEEED7AE55FF124}Prefabs/Systems/Arsenal/AmmoBoxes/USSR/AmmoBoxArsenal_Medical_US.et" {
+ {
+  coords 4847.56 28.632 11809.233
+ }
+ {
+  coords 4865.076 28.622 11810.021
+ }
+ {
+  coords 4856.019 28.631 11810.021
+ }
+ {
+  coords 4505.581 14.138 9505.777
+ }
+}
+$grp GenericEntity : "{E167E12634E6A3E4}Prefabs/Props/Military/AmmoBoxes/Box_NVG_US.et" {
+ {
+  coords 4854.48 28.603 11811.813
+ }
+ {
+  coords 4846.021 28.604 11811.026
+ }
+ {
+  coords 4863.538 28.594 11811.814
+ }
+ {
+  coords 4504.042 14.11 9507.57
+ }
+}
+$grp GenericEntity : "{E521AEA6D14589B1}Prefabs/Props/Military/AmmoBoxes/AmmoBox_545_drg.et" {
+ {
+  coords 5023.683 44.25 8973.13
+  angleX -6.022
+  angleY -0.221
+  angleZ 6.071
+  {
+   GenericEntity : "{04FC05B627B1352E}Prefabs/Props/Military/AmmoBoxes/Box_NVG.et" {
+    coords -0.016 -0.001 -3.688
+   }
+   GenericEntity : "{610195CC084D6A04}Prefabs/Props/Military/AmmoBoxes/AmmoBox_Grenade_USSR_drg.et" {
+    coords -0.11 0 -2.434
+   }
+   GenericEntity : "{7328E7B3B9E0B097}Prefabs/Props/Military/AmmoBoxes/AmmoBox_GP25_USSR_drg.et" {
+    coords -0.094 0 -1.149
+   }
+  }
+ }
+ {
+  coords 5015.366 44.521 8973.303
+  angleX -6.022
+  angleY -0.221
+  angleZ 1.584
+  {
+   GenericEntity : "{04FC05B627B1352E}Prefabs/Props/Military/AmmoBoxes/Box_NVG.et" {
+    coords -0.016 -0.001 -3.688
+   }
+   GenericEntity : "{610195CC084D6A04}Prefabs/Props/Military/AmmoBoxes/AmmoBox_Grenade_USSR_drg.et" {
+    coords -0.11 0 -2.434
+   }
+   GenericEntity : "{7328E7B3B9E0B097}Prefabs/Props/Military/AmmoBoxes/AmmoBox_GP25_USSR_drg.et" {
+    coords -0.094 0 -1.149
+   }
+  }
+ }
+ {
+  coords 5006.921 44.635 8972.747
+  angleX -4.526
+  angleY -0.188
+  angleZ 1.262
+  {
+   GenericEntity : "{04FC05B627B1352E}Prefabs/Props/Military/AmmoBoxes/Box_NVG.et" {
+    coords -0.016 -0.001 -3.688
+   }
+   GenericEntity : "{610195CC084D6A04}Prefabs/Props/Military/AmmoBoxes/AmmoBox_Grenade_USSR_drg.et" {
+    coords -0.11 0 -2.434
+   }
+   GenericEntity : "{7328E7B3B9E0B097}Prefabs/Props/Military/AmmoBoxes/AmmoBox_GP25_USSR_drg.et" {
+    coords -0.094 0 -1.149
+   }
+  }
+ }
+ {
+  coords 4270.747 52.793 8830.842
+  angleX -8.871
+  angleY 0.089
+  angleZ -6.181
+ }
+ {
+  coords 4279.064 53.202 8830.665
+  angleX -8.001
+  angleY -0.253
+  angleZ 0.922
+ }
+ {
+  coords 4262.302 52.491 8830.286
+  angleX -8.005
+  angleY -0.19
+  angleZ 0.026
+ }
+}

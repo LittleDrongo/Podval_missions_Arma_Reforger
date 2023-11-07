@@ -1,0 +1,43 @@
+GenericEntity : "{E521AEA6D14589B1}Prefabs/Props/Military/AmmoBoxes/AmmoBox_545_drg.et" {
+ ID "F0DBA538AC2A0552"
+ components {
+  MeshObject "{5872F0EB7FA40561}" {
+   Object "{26602B855125635D}Assets/Props/Military/AmmoBox/EquipmentBoxWooden_01/EquipmentBoxWooden_Explosives_01.xob"
+   Materials {
+    MaterialAssignClass "{5ECD53040385745D}" {
+     SourceMaterial "EquipmentBoxWooden_Explosives_01"
+     AssignedMaterial "{F422577A111BA80D}Assets/Props/Military/AmmoBox/EquipmentBoxWooden_01/Data/EquipmentBoxWooden_Explosives_01_US.emat"
+    }
+    MaterialAssignClass "{5ECD530403857456}" {
+     SourceMaterial "EquipmentBoxWooden_decal"
+     AssignedMaterial "{012E52E127F407FD}Assets/Props/Military/AmmoBox/EquipmentBoxWooden_01/Data/EquipmentBoxWooden_decal_US.emat"
+    }
+   }
+  }
+  SCR_UniversalInventoryStorageComponent "{5476A2F100DF4EFF}" {
+   MultiSlots {
+    MultiSlotConfiguration "{5ECCF097136FEA78}" {
+     SlotTemplate InventoryStorageSlot Bandages {
+      Prefab "{B7BA7694F821F556}Prefabs/Items/Equipment/Nightvision/PVS14/NVG_PVS14Dual.et"
+     }
+     NumSlots 15
+    }
+    MultiSlotConfiguration "{5ECCF097131A8AC7}" {
+     NumSlots 0
+    }
+    MultiSlotConfiguration "{5ECD53040385742B}" {
+     SlotTemplate InventoryStorageSlot Bandages {
+      Prefab "{1F6DC70B4798A3B4}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_Ball.et"
+     }
+     NumSlots 40
+    }
+    MultiSlotConfiguration "{5ECD53040385742A}" {
+     SlotTemplate InventoryStorageSlot Bandages {
+      Prefab "{7DD4759A10D449CE}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_Tracer.et"
+     }
+     NumSlots 0
+    }
+   }
+  }
+ }
+}

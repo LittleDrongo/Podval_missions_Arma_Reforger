@@ -1,0 +1,21 @@
+GenericEntity : "{092FE092D6DF1EB3}Prefabs/Props/Military/AmmoBoxes/AmmoBox_556x45_1680rnd.et" {
+ ID "F0DBA538AC2A0552"
+ components {
+  SCR_UniversalInventoryStorageComponent "{5476A2F100DF4EFF}" {
+   MultiSlots {
+    MultiSlotConfiguration "{5ECD53001168D986}" {
+     SlotTemplate InventoryStorageSlot D {
+      Prefab "{DEDC311A2B0F9235}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_30rnd_M855A1_Last_5Tracer.et"
+     }
+     NumSlots 40
+    }
+    MultiSlotConfiguration "{5ECD53001168D995}" {
+     SlotTemplate InventoryStorageSlot D {
+      Prefab "{DEDC311A2B0F9235}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_30rnd_M855A1_Last_5Tracer.et"
+     }
+     NumSlots 0
+    }
+   }
+  }
+ }
+}

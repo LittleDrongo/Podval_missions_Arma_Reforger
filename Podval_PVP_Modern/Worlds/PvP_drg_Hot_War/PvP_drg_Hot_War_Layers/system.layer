@@ -22,12 +22,15 @@ PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameMo
      m_sDescriptionLayout "{1CB897B69B9676C8}Descriptions/template/Rules.layout"
     }
     PS_MapDescription "{5EC3045B4E61FE0A}" {
+     m_sFactions "NONE"
      m_sDescriptionLayout "{6041BDFF24700B6C}Descriptions/template/FIA_Task.layout"
     }
     PS_MapDescription "{5EC3045B535F5157}" {
-     m_sDescriptionLayout "{4C91D96453A644EC}Descriptions/template/Description_USSR_Task_Siege.layout"
+     m_sFactions "RHS_US_USMC"
+     m_sDescriptionLayout "{4C91D96453A644EC}Descriptions/template/BLUEFOR_Task.layout"
     }
     PS_MapDescription "{5EC3045B5C37CEAF}" {
+     m_sFactions "RHS_RF_MSV"
      m_sDescriptionLayout "{FB801E5FF08AA32D}Descriptions/template/OPFOR_Task.layout"
     }
    }
@@ -37,12 +40,13 @@ PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameMo
   SCR_TimeAndWeatherHandlerComponent "{5E7D773A4347DB9E}" {
    m_iStartingHours 5
    m_iStartingMinutes 30
+   m_bRandomStartingDaytime 1
   }
  }
  coords 3605.949 40.613 13353.883
  m_bCanOpenLobbyInGame 1
  m_bMarkersOnlyOnBriefing 1
- m_iFreezeTime 120000
+ m_iFreezeTime 300000
  {
   SCR_FactionManager "5EAEB35DCB35F449" {
    ID "5EA73DB136618AD9"
@@ -78,22 +82,6 @@ $grp SCR_EditorRestrictionZoneEntity : "{D832FD7D4F872977}Prefabs/FreezeTime/Fre
     components {
      SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
       m_fRadius 45
-     }
-    }
-   }
-  }
- }
- {
-  coords 5068.449 28.586 9909.489
-  m_fWarnRadius 70
-  m_fZoneRadius 80
-  m_fZoneTeleportedRadius 8000
-  {
-   GenericEntity {
-    ID "5EC5183A2E8F3FE3"
-    components {
-     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-      m_fRadius 70
      }
     }
    }
@@ -142,6 +130,54 @@ $grp SCR_EditorRestrictionZoneEntity : "{D832FD7D4F872977}Prefabs/FreezeTime/Fre
     components {
      SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
       m_fRadius 75
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4254.809 55.983 8802.601
+  m_fWarnRadius 45
+  m_fZoneRadius 50
+  m_fZoneTeleportedRadius 8000
+  {
+   GenericEntity {
+    ID "5EC5183A2E8F3FE3"
+    components {
+     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
+      m_fRadius 45
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4828.609 29.153 11812.633
+  m_fWarnRadius 70
+  m_fZoneRadius 80
+  m_fZoneTeleportedRadius 8000
+  {
+   GenericEntity {
+    ID "5EC5183A2E8F3FE3"
+    components {
+     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
+      m_fRadius 70
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4494.208 5.603 9501.229
+  m_fWarnRadius 45
+  m_fZoneRadius 50
+  m_fZoneTeleportedRadius 8000
+  {
+   GenericEntity {
+    ID "5EC5183A2E8F3FE3"
+    components {
+     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
+      m_fRadius 45
      }
     }
    }

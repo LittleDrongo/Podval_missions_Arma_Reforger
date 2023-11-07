@@ -1,0 +1,17 @@
+SCR_ChimeraCharacter : "{1E8265C4FCFC787B}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Armored_Base.et" {
+ ID "520EC961A090BE1E"
+ components {
+  PS_PlayableComponent "{5ECA941A16000A0E}" {
+   m_name "#AR-Role_AutomaticRifleman"
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{5DA4A90BDA417EEF}" {
+     PrefabsToSpawn + {
+      "{52FE3E0398FEEBC4}Prefabs/Weapons/Magazines/6l26/Magazine_545x39_plastic_6l26_45_4Ball_1Tracer.et" "{52FE3E0398FEEBC4}Prefabs/Weapons/Magazines/6l26/Magazine_545x39_plastic_6l26_45_4Ball_1Tracer.et" "{52FE3E0398FEEBC4}Prefabs/Weapons/Magazines/6l26/Magazine_545x39_plastic_6l26_45_4Ball_1Tracer.et" "{52FE3E0398FEEBC4}Prefabs/Weapons/Magazines/6l26/Magazine_545x39_plastic_6l26_45_4Ball_1Tracer.et" "{CD21D42623717E8F}Prefabs/Weapons/Magazines/6l26/Magazine_545x39_plastic_6l26_45_tracer.et" "{CD21D42623717E8F}Prefabs/Weapons/Magazines/6l26/Magazine_545x39_plastic_6l26_45_tracer.et"
+     }
+    }
+   }
+  }
+ }
+}
