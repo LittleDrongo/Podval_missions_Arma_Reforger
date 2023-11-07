@@ -1,0 +1,92 @@
+$grp SCR_DestructibleBuildingEntity : "{48023B0C1DCC8F0D}Prefabs/Structures/Infrastructure/Naval/Piers/PierWooden_01_10m.et" {
+ {
+  coords 10783.938 0.948 8667.847
+  angleY 88.664
+  HouseNumber -2
+ }
+ {
+  coords 10794.442 0.948 8668.092
+  angleY 88.664
+  HouseNumber -2
+ }
+ {
+  coords 10815.262 0.948 8668.577
+  angleY 88.664
+  HouseNumber -2
+ }
+ {
+  coords 10804.758 0.948 8668.331
+  angleY 88.664
+  HouseNumber -2
+ }
+ {
+  coords 10742.111 0.948 8666.871
+  angleY 88.664
+  HouseNumber -2
+ }
+ {
+  coords 10752.615 0.948 8667.115
+  angleY 88.664
+  HouseNumber -2
+ }
+ {
+  coords 10773.436 0.948 8667.601
+  angleY 88.664
+  HouseNumber -2
+ }
+ {
+  coords 10762.932 0.948 8667.354
+  angleY 88.664
+  HouseNumber -2
+ }
+ {
+  coords 10781.688 0.948 8763.991
+  angleY 90.197
+  HouseNumber -2
+ }
+ {
+  coords 10792.194 0.948 8763.956
+  angleY 90.197
+  HouseNumber -2
+ }
+ {
+  coords 10813.02 0.948 8763.884
+  angleY 90.197
+  HouseNumber -2
+ }
+ {
+  coords 10802.513 0.948 8763.918
+  angleY 90.197
+  HouseNumber -2
+ }
+ {
+  coords 10739.849 0.948 8764.136
+  angleY 90.197
+  HouseNumber -2
+ }
+ {
+  coords 10750.355 0.948 8764.098
+  angleY 90.197
+  HouseNumber -2
+ }
+ {
+  coords 10771.183 0.948 8764.025
+  angleY 90.197
+  HouseNumber -2
+ }
+ {
+  coords 10760.676 0.948 8764.061
+  angleY 90.197
+  HouseNumber -2
+ }
+}
+SCR_DestructibleBuildingEntity : "{4D62E2F38A755750}Prefabs/Structures/Military/Houses/Barracks_01/Barracks_01_military_camo.et" {
+ coords 7614.313 1.09 8171.847
+ angleY -139.457
+}
+SCR_DestructibleBuildingEntity : "{51F233A0BA73532A}Prefabs/Structures/Industrial/Houses/Office_E_01/Office_E_01.et" {
+ coords 7737.803 0.57 8144.445
+ angleX -0.58
+ angleY -139.611
+ angleZ 0.682
+}

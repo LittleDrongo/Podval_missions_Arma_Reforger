@@ -1,0 +1,9 @@
+SCR_AIGroup : "{218445F83827D929}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_RifleSquad.et" {
+ coords 7711.953 13.624 8161.486
+ angleX -0.025
+ angleY -51.446
+ angleZ -0.461
+ m_aUnitPrefabSlots {
+  "{73D76A624D46BDBE}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SL.et" "{A0ED3FE47783909C}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_RTO.et"
+ }
+}
