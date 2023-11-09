@@ -9,5 +9,13 @@ SCR_ChimeraCharacter : "{1E8265C4FCFC787B}Prefabs/Characters/Factions/OPFOR/RHS_
     Icon "{A489F552FB7489C3}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_Custom.edds"
    }
   }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Vest {
+     Enabled 0
+     Prefab "{915E9D97CFAB02D6}Prefabs/Characters/Vests/Vest_Ratnik_6B45/Variants/Vest_Ratnik_6B45_officer.et"
+    }
+   }
+  }
  }
 }

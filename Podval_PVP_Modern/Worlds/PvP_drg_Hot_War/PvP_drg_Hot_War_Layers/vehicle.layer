@@ -1,3 +1,25 @@
+$grp PS_ManualMarker {
+ {
+  coords 4777.93 164.647 7372.167
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sQuadName "armored-opfor"
+  m_fWorldSizeWidth 45
+  m_fWorldSizeHeight 30
+  m_sDescription "Гейзер"
+  m_bUseWorldScale 0
+ }
+ {
+  coords 4846.279 162.743 7363.206
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sQuadName "armored-opfor"
+  m_fWorldSizeWidth 45
+  m_fWorldSizeHeight 30
+  m_sDescription "Жатва"
+  m_bUseWorldScale 0
+ }
+}
 Vehicle GAZ_TIGR_Unarmed_Camo1 : "{0C2BF6881C8FDF53}Prefabs/Vehicles/Wheeled/TIGR/GAZ_TIGR_Unarmed_Camo.et" {
  components {
   SCR_UniversalInventoryStorageComponent "{5D5752A6657A20A7}" {
@@ -28,95 +50,74 @@ Vehicle GAZ_TIGR_Unarmed_Camo1 : "{0C2BF6881C8FDF53}Prefabs/Vehicles/Wheeled/TIG
  }
  coords 4548.855 15.353 10292.064
 }
-$grp Vehicle : "{225A9305129485F1}Prefabs/Vehicles/Wheeled/JLTV/JLTV_CROWSII_Olive.et" {
- JLTV_CROWSII_Olive3 {
+$grp SCR_AIGroup : "{218445F83827D929}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_RifleSquad.et" {
+ {
   components {
-   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-    m_fVehicleDestroyDamage 13602.9
+   PS_GroupCallsignAssigner "{5ECA9418B38C7180}" {
+    m_iCompanyCallsign 6
+    m_iSquadCallsign 1
    }
   }
-  coords 4902.72 28.594 11866.208
-  angleY -90.087
+  coords 4773.842 162.731 7374.909
+  angleX -5.375
+  angleY 71.509
+  angleZ -4.794
+  m_aUnitPrefabSlots {
+   "{B8A6699D09490F13}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Crewman.et" "{B8A6699D09490F13}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Crewman.et"
+  }
  }
- JLTV_CROWSII_Olive2 {
+ {
   components {
-   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-    m_fVehicleDestroyDamage 13602.9
+   PS_GroupCallsignAssigner "{5ECA9418B38C7180}" {
+    m_iCompanyCallsign 6
+    m_iSquadCallsign 2
    }
   }
-  coords 4902.728 28.594 11861.104
-  angleY -90.087
+  coords 4764.233 161.624 7385.427
+  angleX -5.325
+  angleY 72.104
+  angleZ -4.85
+  m_aUnitPrefabSlots {
+   "{B8A6699D09490F13}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Crewman.et" "{B8A6699D09490F13}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Crewman.et"
+  }
  }
- JLTV_CROWSII_Olive1 {
+ {
   components {
-   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-    m_fVehicleDestroyDamage 13602.9
+   PS_GroupCallsignAssigner "{5ECA9418B38C7180}" {
+    m_iCompanyCallsign 7
+    m_iSquadCallsign 1
    }
   }
-  coords 4902.735 28.594 11856.415
-  angleY -90.087
+  coords 4835.042 162.311 7364.037
+  angleX -0.329
+  angleY -79.415
+  angleZ 1.759
+  m_aUnitPrefabSlots {
+   "{B8A6699D09490F13}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Crewman.et" "{B8A6699D09490F13}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Crewman.et"
+  }
  }
- JLTV_CROWSII_Olive4 {
+ {
   components {
-   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-    m_fVehicleDestroyDamage 13602.9
+   PS_GroupCallsignAssigner "{5ECA9418B38C7180}" {
+    m_iCompanyCallsign 7
+    m_iSquadCallsign 2
    }
   }
-  coords 4908.672 28.594 11754.342
-  angleY -90.087
- }
- JLTV_CROWSII_Olive5 {
-  components {
-   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-    m_fVehicleDestroyDamage 13602.9
-   }
+  coords 4833.811 162.897 7350.344
+  angleX 2.078
+  angleY -77.032
+  angleZ 6.893
+  m_aUnitPrefabSlots {
+   "{B8A6699D09490F13}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Crewman.et" "{B8A6699D09490F13}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Crewman.et"
   }
-  coords 4908.658 28.594 11764.135
-  angleY -90.087
- }
- JLTV_CROWSII_Olive6 {
-  components {
-   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-    m_fVehicleDestroyDamage 13602.9
-   }
-  }
-  coords 4908.666 28.594 11759.03
-  angleY -90.087
- }
- JLTV_CROWSII_Olive7 {
-  components {
-   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-    m_fVehicleDestroyDamage 13602.9
-   }
-  }
-  coords 4851.597 28.548 11904.693
-  angleY -172.221
- }
- JLTV_CROWSII_Olive8 {
-  components {
-   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-    m_fVehicleDestroyDamage 13602.9
-   }
-  }
-  coords 4841.895 28.548 11906.021
-  angleY -172.221
- }
- JLTV_CROWSII_Olive9 {
-  components {
-   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-    m_fVehicleDestroyDamage 13602.9
-   }
-  }
-  coords 4846.952 28.548 11905.328
-  angleY -172.221
  }
 }
 $grp Vehicle : "{31F0866273C46D76}Prefabs/Vehicles/Wheeled/K17/APC_K17_Berezok.et" {
- APC_K17_Berezok1 {
+ APC_K17_Berezok4 {
   components {
    SCR_UniversalInventoryStorageComponent "{5CE26149257047CD}" {
     MultiSlots {
-     MultiSlotConfiguration "{5ECEABBCB34D4CFA}" {
+     MultiSlotConfiguration "{5ECEABBC98787852}" {
       SlotTemplate InventoryStorageSlot Bandages {
        Prefab "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et"
       }
@@ -128,8 +129,10 @@ $grp Vehicle : "{31F0866273C46D76}Prefabs/Vehicles/Wheeled/K17/APC_K17_Berezok.e
     m_fVehicleDestroyDamage 15462.9
    }
   }
-  coords 5005.103 41.635 9011.063
-  angleY -89.312
+  coords 4766.401 162.053 7381.076
+  angleX 0.622
+  angleY 75.613
+  angleZ -4.769
  }
  APC_K17_Berezok5 {
   components {
@@ -147,50 +150,10 @@ $grp Vehicle : "{31F0866273C46D76}Prefabs/Vehicles/Wheeled/K17/APC_K17_Berezok.e
     m_fVehicleDestroyDamage 15462.9
    }
   }
-  coords 4264.532 45.34 8875.001
-  angleX -8.871
-  angleY -39.526
-  angleZ 0.41
- }
- APC_K17_Berezok6 {
-  components {
-   SCR_UniversalInventoryStorageComponent "{5CE26149257047CD}" {
-    MultiSlots {
-     MultiSlotConfiguration "{5ECEABBC94C6C60E}" {
-      SlotTemplate InventoryStorageSlot Bandages {
-       Prefab "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et"
-      }
-      NumSlots 2
-     }
-    }
-   }
-   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-    m_fVehicleDestroyDamage 15462.9
-   }
-  }
-  coords 4273.053 47.347 8864.672
-  angleX -8.196
-  angleY -39.527
-  angleZ -0.153
- }
- APC_K17_Berezok3 {
-  components {
-   SCR_UniversalInventoryStorageComponent "{5CE26149257047CD}" {
-    MultiSlots {
-     MultiSlotConfiguration "{5ECEABBC8C2B9226}" {
-      SlotTemplate InventoryStorageSlot Bandages {
-       Prefab "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et"
-      }
-      NumSlots 2
-     }
-    }
-   }
-   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
-    m_fVehicleDestroyDamage 15462.9
-   }
-  }
-  coords 4974.281 41.791 9016.749
-  angleY -78.425
+  coords 4774.43 162.912 7370.244
+  angleX 1.226
+  angleY 73.958
+  angleZ -2.214
  }
  APC_K17_Berezok2 {
   components {
@@ -208,14 +171,16 @@ $grp Vehicle : "{31F0866273C46D76}Prefabs/Vehicles/Wheeled/K17/APC_K17_Berezok.e
     m_fVehicleDestroyDamage 15462.9
    }
   }
-  coords 4988.427 41.722 9013.436
-  angleY -78.425
+  coords 4837.566 162.085 7367.74
+  angleX 0.158
+  angleY -78.415
+  angleZ 3.683
  }
- APC_K17_Berezok4 {
+ APC_K17_Berezok3 {
   components {
    SCR_UniversalInventoryStorageComponent "{5CE26149257047CD}" {
     MultiSlots {
-     MultiSlotConfiguration "{5ECEABBC98787852}" {
+     MultiSlotConfiguration "{5ECEABBC8C2B9226}" {
       SlotTemplate InventoryStorageSlot Bandages {
        Prefab "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et"
       }
@@ -227,10 +192,93 @@ $grp Vehicle : "{31F0866273C46D76}Prefabs/Vehicles/Wheeled/K17/APC_K17_Berezok.e
     m_fVehicleDestroyDamage 15462.9
    }
   }
-  coords 4256.503 43.325 8885.834
-  angleX -8.196
-  angleY -39.709
-  angleZ -0.127
+  coords 4835.055 162.678 7354.316
+  angleX -0.359
+  angleY -78.436
+  angleZ 1.754
+ }
+}
+$grp Vehicle : "{36EA87CEC1BE77E0}Prefabs/Vehicles/Wheeled/JLTV/JLTV_OGPK_Olive.et" {
+ JLTV_OGPK_Olive1 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4852.912 28.471 11863.078
+  angleY -175.575
+ }
+ JLTV_OGPK_Olive2 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4857.979 28.381 11862.493
+  angleY -175.575
+ }
+ JLTV_OGPK_Olive3 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4847.834 28.563 11863.373
+  angleY -175.575
+ }
+ JLTV_OGPK_Olive4 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4886.461 28.595 11847.047
+  angleY -136.489
+ }
+ JLTV_OGPK_Olive5 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4879.143 28.777 11854.125
+  angleY -136.489
+ }
+ JLTV_OGPK_Olive6 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4882.897 28.685 11850.694
+  angleY -136.489
+ }
+ JLTV_OGPK_Olive7 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4894.709 28.595 11805.375
+  angleY -85.11
+ }
+ JLTV_OGPK_Olive8 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4895.672 28.777 11815.512
+  angleY -85.11
+ }
+ JLTV_OGPK_Olive9 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4895.335 28.685 11810.438
+  angleY -85.11
  }
 }
 $grp Vehicle : "{45DDFA40E1CB6B82}Prefabs/Vehicles/Wheeled/Stryker/Stryker_Dragoon.et" {
@@ -308,4 +356,8 @@ $grp Vehicle : "{45DDFA40E1CB6B82}Prefabs/Vehicles/Wheeled/Stryker/Stryker_Drago
   angleY -179.727
   angleZ 0.009
  }
+}
+GenericEntity : "{831FE4BECA78CCAA}Prefabs/Vehicles/Airplanes/IL76/Plane_IL76UN.et" {
+ coords 4774.609 27.469 11689.543
+ angleY 179.071
 }
