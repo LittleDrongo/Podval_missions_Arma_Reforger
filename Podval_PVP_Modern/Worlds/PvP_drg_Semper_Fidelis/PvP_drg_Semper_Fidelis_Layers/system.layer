@@ -69,17 +69,35 @@ PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameMo
 HitRegistrationManager HitRegManager1 : "{0EDA3D48791120DD}Prefabs/MP/HitRegManager.et" {
  coords 4449.14 19.245 9157.146
 }
-SCR_EditorRestrictionZoneEntity : "{D832FD7D4F872977}Prefabs/FreezeTime/FreezeZone.et" {
- coords 10841.271 6.094 8546.411
- m_fWarnRadius 45
- m_fZoneRadius 80
- m_fZoneTeleportedRadius 90
+$grp SCR_EditorRestrictionZoneEntity : "{D832FD7D4F872977}Prefabs/FreezeTime/FreezeZone.et" {
  {
-  GenericEntity {
-   ID "5EC5183A2E8F3FE3"
-   components {
-    SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-     m_fRadius 45
+  coords 10841.271 6.094 8546.411
+  m_fWarnRadius 45
+  m_fZoneRadius 80
+  m_fZoneTeleportedRadius 90
+  {
+   GenericEntity {
+    ID "5EC5183A2E8F3FE3"
+    components {
+     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
+      m_fRadius 45
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 10831.074 8.043 8804.922
+  m_fWarnRadius 45
+  m_fZoneRadius 80
+  m_fZoneTeleportedRadius 90
+  {
+   GenericEntity {
+    ID "5EC5183A2E8F3FE3"
+    components {
+     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
+      m_fRadius 45
+     }
     }
    }
   }

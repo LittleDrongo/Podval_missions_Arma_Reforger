@@ -654,22 +654,6 @@ SCR_DestructibleBuildingEntity : "{CF7E43120709D9BE}Prefabs/Structures/Industria
  angleZ 5.381
  AdjustHeightMapPrio 6
 }
-SCR_EditorRestrictionZoneEntity : "{D832FD7D4F872977}Prefabs/FreezeTime/FreezeZone.et" {
- coords 10831.074 8.043 8804.922
- m_fWarnRadius 45
- m_fZoneRadius 80
- m_fZoneTeleportedRadius 90
- {
-  GenericEntity {
-   ID "5EC5183A2E8F3FE3"
-   components {
-    SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-     m_fRadius 45
-    }
-   }
-  }
- }
-}
 $grp Vehicle : "{D9B91FAB817A6033}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_covered.et" {
  Ural4320_transport_covered4 {
   components {
