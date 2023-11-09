@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{9D2C974D0DD4DE33}Descriptions/Semper_Fidelis/RulesSF.layout"
+ Configurations {
+  LayoutResourceClass PC {
+  }
+  LayoutResourceClass XBOX_ONE : PC {
+  }
+  LayoutResourceClass XBOX_SERIES : PC {
+  }
+  LayoutResourceClass PS4 : PC {
+  }
+  LayoutResourceClass HEADLESS : PC {
+  }
+ }
+}

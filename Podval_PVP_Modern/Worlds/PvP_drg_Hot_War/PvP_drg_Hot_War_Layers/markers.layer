@@ -89,19 +89,3 @@ $grp PS_ManualMarker {
   m_bUseWorldScale 0
  }
 }
-SCR_EditorRestrictionZoneEntity : "{D832FD7D4F872977}Prefabs/FreezeTime/FreezeZone.et" {
- coords 4764.252 24.157 12024.279
- m_fWarnRadius 45
- m_fZoneRadius 50
- m_fZoneTeleportedRadius 8000
- {
-  GenericEntity {
-   ID "5EC5183A2E8F3FE3"
-   components {
-    SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-     m_fRadius 45
-    }
-   }
-  }
- }
-}

@@ -26,7 +26,9 @@ FrameWidgetClass {
       VerticalAlign 0
       Padding 20 20 20 20
      }
-     Text "— Удержать населённый пункт Мо (Meaux) до конца миссии"
+     Text "ЗАДАЧИ ДЛЯ КМП США"\
+     "— Удержать населённый пункт Мо (Meaux) до конца миссии"\
+     ""
      "Font Size" 20
      "Min Font Size" 20
      Wrap 1

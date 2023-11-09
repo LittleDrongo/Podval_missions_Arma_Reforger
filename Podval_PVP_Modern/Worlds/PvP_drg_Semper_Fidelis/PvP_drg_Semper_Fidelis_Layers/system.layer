@@ -12,14 +12,14 @@ PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameMo
   PS_MissionDescriptionManager "{5EC30459F8CD66AC}" {
    m_aDescriptions {
     PS_MapDescription "{5EC3045B6AFBD311}" {
-     m_sDescriptionLayout "{24F0CF7C81566AC8}Descriptions/template/About.layout"
+     m_sDescriptionLayout "{DE37A7AAAB9553AA}Descriptions/Semper_Fidelis/About_SF.layout"
     }
     PS_MapDescription "{5EC3045B74BE218C}" {
      m_sFactions "NONE"
      m_sDescriptionLayout "{FB801E5FF08AA32D}Descriptions/template/OPFOR_Task.layout"
     }
     PS_MapDescription "{5EC3045B45C0B05D}" {
-     m_sDescriptionLayout "{1CB897B69B9676C8}Descriptions/template/Rules.layout"
+     m_sDescriptionLayout "{9D2C974D0DD4DE33}Descriptions/Semper_Fidelis/RulesSF.layout"
     }
     PS_MapDescription "{5EC3045B4E61FE0A}" {
      m_sFactions "NONE"
@@ -27,11 +27,11 @@ PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameMo
     }
     PS_MapDescription "{5EC3045B535F5157}" {
      m_sFactions "RHS_US_USMC"
-     m_sDescriptionLayout "{4C91D96453A644EC}Descriptions/template/BLUEFOR_Task.layout"
+     m_sDescriptionLayout "{B5FAFA9365D3F0A7}Descriptions/Semper_Fidelis/BLUEFOR_Task_SF.layout"
     }
     PS_MapDescription "{5EC3045B5C37CEAF}" {
      m_sFactions "RHS_RF_MSV"
-     m_sDescriptionLayout "{FB801E5FF08AA32D}Descriptions/template/OPFOR_Task.layout"
+     m_sDescriptionLayout "{2396A948C7B4CF7E}Descriptions/Semper_Fidelis/OPFOR_Task_SF.layout"
     }
    }
   }
@@ -39,13 +39,12 @@ PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameMo
   }
   SCR_TimeAndWeatherHandlerComponent "{5E7D773A4347DB9E}" {
    m_iStartingHours 5
-   m_iStartingMinutes 30
-   m_bRandomStartingDaytime 1
+   m_iStartingMinutes 15
   }
  }
  coords 3605.949 40.613 13353.883
- m_bCanOpenLobbyInGame 1
  m_bMarkersOnlyOnBriefing 1
+ m_bKillRedundantUnits 1
  m_iFreezeTime 300000
  {
   SCR_FactionManager "5EAEB35DCB35F449" {
@@ -70,99 +69,17 @@ PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameMo
 HitRegistrationManager HitRegManager1 : "{0EDA3D48791120DD}Prefabs/MP/HitRegManager.et" {
  coords 4449.14 19.245 9157.146
 }
-$grp SCR_EditorRestrictionZoneEntity : "{D832FD7D4F872977}Prefabs/FreezeTime/FreezeZone.et" {
+SCR_EditorRestrictionZoneEntity : "{D832FD7D4F872977}Prefabs/FreezeTime/FreezeZone.et" {
+ coords 10841.271 6.094 8546.411
+ m_fWarnRadius 45
+ m_fZoneRadius 80
+ m_fZoneTeleportedRadius 90
  {
-  coords 10841.271 6.094 8546.411
-  m_fWarnRadius 45
-  m_fZoneRadius 50
-  m_fZoneTeleportedRadius 8000
-  {
-   GenericEntity {
-    ID "5EC5183A2E8F3FE3"
-    components {
-     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-      m_fRadius 45
-     }
-    }
-   }
-  }
- }
- {
-  coords 10831.963 8.163 8804.64
-  m_fWarnRadius 45
-  m_fZoneRadius 50
-  m_fZoneTeleportedRadius 8000
-  {
-   GenericEntity {
-    ID "5EC5183A2E8F3FE3"
-    components {
-     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-      m_fRadius 45
-     }
-    }
-   }
-  }
- }
- {
-  coords 10051.091 2.541 1566.916
-  m_fWarnRadius 75
-  m_fZoneRadius 80
-  m_fZoneTeleportedRadius 8000
-  {
-   GenericEntity {
-    ID "5EC5183A2E8F3FE3"
-    components {
-     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-      m_fRadius 75
-     }
-    }
-   }
-  }
- }
- {
-  coords 4254.809 55.983 8802.601
-  m_fWarnRadius 45
-  m_fZoneRadius 50
-  m_fZoneTeleportedRadius 8000
-  {
-   GenericEntity {
-    ID "5EC5183A2E8F3FE3"
-    components {
-     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-      m_fRadius 45
-     }
-    }
-   }
-  }
- }
- {
-  coords 4828.609 29.153 11812.633
-  m_fWarnRadius 70
-  m_fZoneRadius 80
-  m_fZoneTeleportedRadius 8000
-  {
-   GenericEntity {
-    ID "5EC5183A2E8F3FE3"
-    components {
-     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-      m_fRadius 70
-     }
-    }
-   }
-  }
- }
- {
-  coords 4494.208 5.603 9501.229
-  m_fWarnRadius 45
-  m_fZoneRadius 50
-  m_fZoneTeleportedRadius 8000
-  {
-   GenericEntity {
-    ID "5EC5183A2E8F3FE3"
-    components {
-     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-      m_fRadius 45
-     }
+  GenericEntity {
+   ID "5EC5183A2E8F3FE3"
+   components {
+    SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
+     m_fRadius 45
     }
    }
   }

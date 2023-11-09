@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{B5FAFA9365D3F0A7}Descriptions/Semper_Fidelis/BLUEFOR_Task_SF.layout"
+ Configurations {
+  LayoutResourceClass PC {
+  }
+  LayoutResourceClass XBOX_ONE : PC {
+  }
+  LayoutResourceClass XBOX_SERIES : PC {
+  }
+  LayoutResourceClass PS4 : PC {
+  }
+  LayoutResourceClass HEADLESS : PC {
+  }
+ }
+}

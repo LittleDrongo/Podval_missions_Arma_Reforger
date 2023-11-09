@@ -44,8 +44,8 @@ PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameMo
   }
  }
  coords 3605.949 40.613 13353.883
- m_bCanOpenLobbyInGame 1
  m_bMarkersOnlyOnBriefing 1
+ m_bKillRedundantUnits 1
  m_iFreezeTime 300000
  {
   SCR_FactionManager "5EAEB35DCB35F449" {
@@ -72,32 +72,16 @@ HitRegistrationManager HitRegManager1 : "{0EDA3D48791120DD}Prefabs/MP/HitRegMana
 }
 $grp SCR_EditorRestrictionZoneEntity : "{D832FD7D4F872977}Prefabs/FreezeTime/FreezeZone.et" {
  {
-  coords 4999.428 46.902 8945.062
-  m_fWarnRadius 45
-  m_fZoneRadius 50
-  m_fZoneTeleportedRadius 8000
+  coords 5001.374 35.705 8973.644
+  m_fWarnRadius 60
+  m_fZoneRadius 100
+  m_fZoneTeleportedRadius 110
   {
    GenericEntity {
     ID "5EC5183A2E8F3FE3"
     components {
      SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-      m_fRadius 45
-     }
-    }
-   }
-  }
- }
- {
-  coords 8968.655 50.786 607.275
-  m_fWarnRadius 45
-  m_fZoneRadius 50
-  m_fZoneTeleportedRadius 8000
-  {
-   GenericEntity {
-    ID "5EC5183A2E8F3FE3"
-    components {
-     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-      m_fRadius 45
+      m_fRadius 60
      }
     }
    }
@@ -136,48 +120,64 @@ $grp SCR_EditorRestrictionZoneEntity : "{D832FD7D4F872977}Prefabs/FreezeTime/Fre
   }
  }
  {
-  coords 4254.809 55.983 8802.601
-  m_fWarnRadius 45
-  m_fZoneRadius 50
-  m_fZoneTeleportedRadius 8000
+  coords 4261.303 59.23 8837.575
+  m_fWarnRadius 60
+  m_fZoneRadius 100
+  m_fZoneTeleportedRadius 110
   {
    GenericEntity {
     ID "5EC5183A2E8F3FE3"
     components {
      SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-      m_fRadius 45
+      m_fRadius 60
      }
     }
    }
   }
  }
  {
-  coords 4828.609 29.153 11812.633
-  m_fWarnRadius 70
-  m_fZoneRadius 80
-  m_fZoneTeleportedRadius 8000
+  coords 4846.927 47.211 11816.037
+  m_fWarnRadius 60
+  m_fZoneRadius 100
+  m_fZoneTeleportedRadius 110
   {
    GenericEntity {
     ID "5EC5183A2E8F3FE3"
     components {
      SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-      m_fRadius 70
+      m_fRadius 60
      }
     }
    }
   }
  }
  {
-  coords 4494.208 5.603 9501.229
-  m_fWarnRadius 45
-  m_fZoneRadius 50
-  m_fZoneTeleportedRadius 8000
+  coords 4491.242 14.563 9505.69
+  m_fWarnRadius 60
+  m_fZoneRadius 100
+  m_fZoneTeleportedRadius 110
   {
    GenericEntity {
     ID "5EC5183A2E8F3FE3"
     components {
      SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-      m_fRadius 45
+      m_fRadius 60
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4762.509 24.099 12014.778
+  m_fWarnRadius 60
+  m_fZoneRadius 100
+  m_fZoneTeleportedRadius 110
+  {
+   GenericEntity {
+    ID "5EC5183A2E8F3FE3"
+    components {
+     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
+      m_fRadius 60
      }
     }
    }

@@ -26,7 +26,8 @@ FrameWidgetClass {
       VerticalAlign 0
       Padding 20 20 20 20
      }
-     Text "— Захватить и удержать до конца миссии населённый пункт Мо (Meaux)"
+     Text "ЗАДАЧИ ДЛЯ ВС РФ"\
+     "— Захватить и удержать до конца миссии населённый пункт Мо (Meaux)"
      "Font Size" 20
      "Min Font Size" 20
      Wrap 1

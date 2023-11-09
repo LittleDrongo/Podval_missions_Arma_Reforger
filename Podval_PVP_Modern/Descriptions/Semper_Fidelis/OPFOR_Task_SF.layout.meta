@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{2396A948C7B4CF7E}Descriptions/Semper_Fidelis/OPFOR_Task_SF.layout"
+ Configurations {
+  LayoutResourceClass PC {
+  }
+  LayoutResourceClass XBOX_ONE : PC {
+  }
+  LayoutResourceClass XBOX_SERIES : PC {
+  }
+  LayoutResourceClass PS4 : PC {
+  }
+  LayoutResourceClass HEADLESS : PC {
+  }
+ }
+}
