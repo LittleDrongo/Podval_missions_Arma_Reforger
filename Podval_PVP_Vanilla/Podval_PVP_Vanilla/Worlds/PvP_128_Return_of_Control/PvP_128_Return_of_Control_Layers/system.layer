@@ -12,21 +12,29 @@ PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameMo
   PS_MissionDescriptionManager "{5EC30459F8CD66AC}" {
    m_aDescriptions {
     PS_MapDescription "{5EC3045B6AFBD311}" {
+     m_sTitle "О миссии"
      m_sDescriptionLayout "{F070A842D69F1523}UI/MissionDescriptionTemplates/Return_of_Control/DescriptionAboutMission_ReCtrl.layout"
     }
     PS_MapDescription "{5EC3045B74BE218C}" {
      m_sFactions "NONE"
     }
     PS_MapDescription "{5EC3045B45C0B05D}" {
+     m_sTitle "Правила миссии"
      m_sDescriptionLayout "{800334BA55013E29}UI/MissionDescriptionTemplates/Return_of_Control/Description_Rules_ReCtrl.layout"
     }
     PS_MapDescription "{5EC3045B4E61FE0A}" {
+     m_sTitle "Задачи для FIA"
+     m_sFactions "FIA"
      m_sDescriptionLayout "{068FD925B0DE1363}UI/MissionDescriptionTemplates/Return_of_Control/FIA_TASK.layout"
     }
     PS_MapDescription "{5EC3045B535F5157}" {
+     m_sTitle "Задачи для США"
+     m_sFactions "US"
      m_sDescriptionLayout "{18B38590910AC38B}UI/MissionDescriptionTemplates/Return_of_Control/US_TASK.layout"
     }
     PS_MapDescription "{5EC3045B5C37CEAF}" {
+     m_sTitle "Задачи для СССР"
+     m_sFactions "USSR"
      m_sDescriptionLayout "{46C1DDB9B0B04E13}UI/MissionDescriptionTemplates/Return_of_Control/USSR_TASK.layout"
     }
    }

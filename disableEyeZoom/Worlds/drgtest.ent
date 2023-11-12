@@ -1,0 +1,3 @@
+SubScene {
+ Parent "Worlds/ArtyStand/arty_stand.ent"
+}

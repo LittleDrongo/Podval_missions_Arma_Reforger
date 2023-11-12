@@ -1,0 +1,9 @@
+GenericEntity : "{243948B23D90BECB}Prefabs/Items/Equipment/Binoculars/Binoculars_B8/Binoculars_B8.et" {
+ coords 5039.603 37.638 9138.83
+}
+GenericEntity : "{6415B7923DE28C1B}Prefabs/Weapons/Rifles/SVD/Rifle_SVD_PSO.et" {
+ coords 5039.762 37.649 9139.525
+}
+GenericEntity : "{81EB948E6414BD6F}Prefabs/Weapons/Rifles/M14/Rifle_M21_ARTII.et" {
+ coords 5039.956 37.658 9140.076
+}

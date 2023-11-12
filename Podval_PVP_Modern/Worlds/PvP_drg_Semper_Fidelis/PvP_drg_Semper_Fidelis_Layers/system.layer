@@ -12,13 +12,15 @@ PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameMo
   PS_MissionDescriptionManager "{5EC30459F8CD66AC}" {
    m_aDescriptions {
     PS_MapDescription "{5EC3045B6AFBD311}" {
+     m_sTitle "О миссии"
      m_sDescriptionLayout "{DE37A7AAAB9553AA}Descriptions/Semper_Fidelis/About_SF.layout"
     }
     PS_MapDescription "{5EC3045B74BE218C}" {
+     m_sTitle "Задачи ВС РФ"
      m_sFactions "NONE"
-     m_sDescriptionLayout "{FB801E5FF08AA32D}Descriptions/template/OPFOR_Task.layout"
     }
     PS_MapDescription "{5EC3045B45C0B05D}" {
+     m_sTitle "Правила миссии"
      m_sDescriptionLayout "{9D2C974D0DD4DE33}Descriptions/Semper_Fidelis/RulesSF.layout"
     }
     PS_MapDescription "{5EC3045B4E61FE0A}" {
@@ -26,10 +28,12 @@ PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameMo
      m_sDescriptionLayout "{6041BDFF24700B6C}Descriptions/template/FIA_Task.layout"
     }
     PS_MapDescription "{5EC3045B535F5157}" {
+     m_sTitle "Задачи для КМП США"
      m_sFactions "RHS_US_USMC"
      m_sDescriptionLayout "{B5FAFA9365D3F0A7}Descriptions/Semper_Fidelis/BLUEFOR_Task_SF.layout"
     }
     PS_MapDescription "{5EC3045B5C37CEAF}" {
+     m_sTitle "Задачи ВС РФ"
      m_sFactions "RHS_RF_MSV"
      m_sDescriptionLayout "{2396A948C7B4CF7E}Descriptions/Semper_Fidelis/OPFOR_Task_SF.layout"
     }
@@ -69,7 +73,7 @@ PS_GameModeCoop PS_GameModeCoop1 : "{F64CCAF87CCCF567}Prefabs/MP/Modes/PS_GameMo
 HitRegistrationManager HitRegManager1 : "{0EDA3D48791120DD}Prefabs/MP/HitRegManager.et" {
  coords 4449.14 19.245 9157.146
 }
-$grp SCR_EditorRestrictionZoneEntity : "{D832FD7D4F872977}Prefabs/FreezeTime/FreezeZone.et" {
+$grp SCR_EditorRestrictionZoneEntity : "{D832FD7D4F872977}Prefabs/FreezeTime/FreezKillZone.et" {
  {
   coords 10841.271 6.094 8546.411
   m_fWarnRadius 45

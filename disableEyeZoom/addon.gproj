@@ -1,0 +1,20 @@
+GameProject {
+ ID "disableEyeZoom"
+ GUID "5ED492C638FC2649"
+ TITLE "disableEyeZoom"
+ Dependencies {
+  "58D0FB3206B6F859" "5DEAEDE3D197DE1F"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig HEADLESS {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+ }
+}

@@ -1,3 +1,4 @@
+/*
 modded class SCR_2DOpticsComponent
 {
     override static float CalculateZoomFOV(float magnification)
@@ -17,3 +18,4 @@ modded class SCR_2DOpticsComponent
         return Math.RAD2DEG * 2 * Math.Atan2(referenceTan, magnification);
     }
 }
+*/

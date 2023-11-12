@@ -1,0 +1,9 @@
+GenericEntity : "{243948B23D90BECB}Prefabs/Items/Equipment/Binoculars/Binoculars_B8/Binoculars_B8.et" {
+ coords 120.758 1 75.513
+}
+PlayerCamera DefaultPlayerCamera1 : "{2DF95AB3CCDF4FA5}Prefabs/Characters/Core/DefaultPlayerCamera.et" {
+ coords 118.833 1 75.805
+}
+GenericEntity : "{6415B7923DE28C1B}Prefabs/Weapons/Rifles/SVD/Rifle_SVD_PSO.et" {
+ coords 121.126 1 75.964
+}
