@@ -1,0 +1,42 @@
+OverlayWidgetClass {
+ {
+  OverlayWidgetClass "{56150B2288F76A08}" {
+   Prefab "{56150B2288F76A08}"
+   {
+    VerticalLayoutWidgetClass "{00000000BC2C2020}" {
+     Prefab "{00000000BC2C2020}"
+     {
+      OverlayWidgetClass "{563296652233D952}" {
+       Prefab "{563296652233D952}"
+       {
+        OverlayWidgetClass "{0000000076CB44EF}" {
+         Prefab "{0000000076CB44EF}"
+         {
+          HorizontalLayoutWidgetClass "{00000000A1E383A5}" {
+           Prefab "{00000000A1E383A5}"
+           {
+            SizeLayoutWidgetClass "{56F9028315D8FE42}" {
+             Prefab "{56F9028315D8FE42}"
+             {
+              EditBoxWidgetClass "{000000009EEB4E0F}" {
+               Prefab "{000000009EEB4E0F}"
+               components {
+                EditBoxFilterComponent "{585D2E6C9661FDE8}" {
+                 m_bUTFMultibyte 1
+                }
+               }
+              }
+             }
+            }
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}

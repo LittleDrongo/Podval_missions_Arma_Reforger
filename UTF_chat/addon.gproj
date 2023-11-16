@@ -1,0 +1,8 @@
+GameProject {
+ ID "UTFchat"
+ GUID "5EDF4DB9362BF543"
+ TITLE "UTF_chat"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
