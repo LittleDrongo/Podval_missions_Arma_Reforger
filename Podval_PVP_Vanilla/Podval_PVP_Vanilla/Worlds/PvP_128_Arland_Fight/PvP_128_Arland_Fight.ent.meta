@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{0C1595AA43BDE5E3}Worlds/PvP_128_Arland_Fight/PvP_128_Arland_Fight.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}

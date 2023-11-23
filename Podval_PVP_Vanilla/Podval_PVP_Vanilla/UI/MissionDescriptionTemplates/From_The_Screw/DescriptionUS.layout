@@ -1,0 +1,36 @@
+FrameWidgetClass {
+ Name "rootFrame"
+ components {
+  PS_MissionDescriptionContentUI "{5EC27C7C182EA2DF}" {
+   m_sTitle "#PS-Description_HeaderUS"
+  }
+ }
+ {
+  OverlayWidgetClass "{5EEE8DCAC0A9C59F}" {
+   Name "Overlay0"
+   Slot FrameWidgetSlot "{5EEE8DCAC0A9C548}" {
+    OffsetLeft 0
+    OffsetTop 0
+    SizeX 480
+    OffsetRight -480
+    SizeY 601
+    OffsetBottom -601
+   }
+   {
+    RichTextWidgetClass "{5EEE8DCA09095115}" {
+     Name "RichText0"
+     Slot OverlayWidgetSlot {
+      HorizontalAlign 0
+      VerticalAlign 0
+      Padding 10 10 10 10
+     }
+     Text "Нам необходимо осуществить вертолётную высадку с целью занять одну из высот (см. на карте) и отразить контр-атаку Советской Армии."\
+     "По правилам, нам необходимо выполнить высадку пехоты только в пределах выбраного опорного пункта."
+     "Font Size" 20
+     "Min Font Size" 20
+     Wrap 1
+    }
+   }
+  }
+ }
+}

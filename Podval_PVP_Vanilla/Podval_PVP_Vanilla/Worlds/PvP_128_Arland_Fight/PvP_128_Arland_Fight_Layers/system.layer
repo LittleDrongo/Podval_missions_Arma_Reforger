@@ -1,48 +1,48 @@
 SCR_AIWorld : "{E0A05C76552E7F58}Prefabs/AI/SCR_AIWorld.et" {
- coords 10027.308 4.573 1575.383
+ coords -18.924 -86.157 8105.342
 }
 PerceptionManager PerceptionManager2 : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
- coords 10027.308 4.573 1575.383
+ coords -18.924 -86.157 8105.342
 }
 TagManager : "{2FA9E172CAB1857A}Prefabs/MP/Managers/TagManager.et" {
- coords 10026.659 4.573 1586.658
+ coords -19.572 -86.157 8116.617
 }
-PS_GameModeCoop "5EEEB86896A4BC01" : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_GameMode_Lobby.et" {
+PS_GameModeCoop "5EEE8DCE2873CC96" : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_GameMode_Lobby.et" {
  components {
   PS_MissionDescriptionManager "{5ED908871838D082}" {
    m_aDescriptions {
     PS_MapDescription "{5EE102F2757CE5CF}" {
      m_sTitle "#PS-Description_HeaderRules"
-     m_sDescriptionLayout "{FB801E5FF08AA32D}UI/MissionDescriptionTemplates/Siege/Description_Rules_siege.layout"
+     m_sDescriptionLayout "{573785E7C2E61ED5}UI/MissionDescriptionTemplates/Arland_Fight/Rules.layout"
     }
     PS_MapDescription "{5EE102F2754710FA}" {
      m_sTitle "#PS-Description_HeaderAboutMission"
-     m_sDescriptionLayout "{24F0CF7C81566AC8}UI/MissionDescriptionTemplates/Siege/DescriptionAboutMission_siege.layout"
+     m_sDescriptionLayout "{F1C76E646B16D5FA}UI/MissionDescriptionTemplates/Arland_Fight/About.layout"
     }
     PS_MapDescription "{5EE102F274940928}" {
      m_sTitle "#PS-Description_HeaderObjectives"
      m_sFactions "NONE"
-     m_sDescriptionLayout "{F289382214DA8825}UI/MissionDescriptionTemplates/DescriptionObjectives.layout"
+     m_sDescriptionLayout "{4C775D59F6F6778F}UI/MissionDescriptionTemplates/Arland_Fight/DescriptionObjectives_.layout"
     }
     PS_MapDescription "{5EE102F274E57DE9}" {
      m_sTitle "#PS-Description_HeaderFIA"
      m_sFactions "FIA"
-     m_sDescriptionLayout "{6041BDFF24700B6C}UI/MissionDescriptionTemplates/Siege/Description_FIA_Task_Siege.layout"
+     m_sDescriptionLayout "{E0AC2FEEBDAF3952}UI/MissionDescriptionTemplates/Arland_Fight/FIA.layout"
     }
     PS_MapDescription "{5EE102F274C94EC3}" {
      m_sTitle "#PS-Description_HeaderUS"
      m_sFactions "US"
-     m_sDescriptionLayout "{E9BB75D81C9137A8}UI/MissionDescriptionTemplates/DescriptionUS.layout"
+     m_sDescriptionLayout "{8D6DE515047A37C8}UI/MissionDescriptionTemplates/Arland_Fight/US.layout"
     }
     PS_MapDescription "{5EE102F2741C5E96}" {
      m_sTitle "#PS-Description_HeaderUSSR"
      m_sFactions "USSR"
-     m_sDescriptionLayout "{4C91D96453A644EC}UI/MissionDescriptionTemplates/Siege/Description_USSR_Task_Siege.layout"
+     m_sDescriptionLayout "{ACA1395BA0DC20DB}UI/MissionDescriptionTemplates/Arland_Fight/USSR.layout"
     }
    }
   }
  }
- coords 10027.308 4.573 1575.383
+ coords -18.924 -86.157 8105.342
  m_bKillRedundantUnits 1
  m_iFreezeTime 300000
  {
@@ -63,18 +63,19 @@ PS_GameModeCoop "5EEEB86896A4BC01" : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_Game
  }
 }
 SCR_EditorRestrictionZoneEntity : "{D832FD7D4F872977}Prefabs/FreezeTime/FreezKillZone.et" {
- coords 10045.376 2.559 1564.059
- m_fWarnRadius 40
- m_fZoneRadius 50
- m_fZoneTeleportedRadius 60
+ coords 2741.404 77.53 1620.705
+ m_fWarnRadius 70
+ m_fZoneRadius 80
+ m_fZoneTeleportedRadius 90
  {
   GenericEntity {
    ID "5EC5183A2E8F3FE3"
    components {
     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
-     m_fRadius 40
+     m_fRadius 70
     }
    }
+   coords -0.002 0 0
   }
  }
 }

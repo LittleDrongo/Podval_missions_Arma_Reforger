@@ -1,0 +1,37 @@
+FrameWidgetClass {
+ Name "rootFrame"
+ components {
+  PS_MissionDescriptionContentUI "{5EC27C7C182EA2DF}" {
+   m_sTitle "#PS-Description_HeaderUSSR"
+  }
+ }
+ {
+  OverlayWidgetClass "{5EEEB874390B055B}" {
+   Name "Overlay0"
+   Slot FrameWidgetSlot "{5EEE8DC80F982332}" {
+    OffsetLeft 0
+    OffsetTop 0
+    SizeX 480
+    OffsetRight -480
+    SizeY 601
+    OffsetBottom -601
+   }
+   {
+    RichTextWidgetClass "{5EEEB874390B0559}" {
+     Name "RichText0"
+     Slot OverlayWidgetSlot "{5EEEB874390B7856}" {
+      HorizontalAlign 0
+      VerticalAlign 0
+      Padding 10 10 10 10
+     }
+     Text "Противник готовит наступательную операцию силами двух моторизированных взводов с целью занять населённый пункт Арлевиль. "\
+     ""\
+     "Наша задача не дать противнику захватить населённый пункт и удержать любой ценой."
+     "Font Size" 20
+     "Min Font Size" 20
+     Wrap 1
+    }
+   }
+  }
+ }
+}

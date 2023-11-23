@@ -1,0 +1,51 @@
+FrameWidgetClass {
+ Name "rootFrame"
+ components {
+  PS_MissionDescriptionContentUI "{5EC27C7C182EA2DF}" {
+   m_sTitle "#PS-Description_HeaderRules"
+  }
+ }
+ {
+  OverlayWidgetClass "{5EEE8DC870F56E78}" {
+   Name "Overlay0"
+   Slot FrameWidgetSlot "{5EEE8DC870F56E3B}" {
+    OffsetLeft 0
+    OffsetTop 0
+    SizeX 480
+    OffsetRight -480
+    SizeY 601
+    OffsetBottom -601
+   }
+   {
+    RichTextWidgetClass "{5EEE8DCA0E657438}" {
+     Name "RichText0"
+     Slot OverlayWidgetSlot {
+      HorizontalAlign 0
+      VerticalAlign 0
+      Padding 10 10 10 10
+     }
+     Text "ОБЩИЕ ПРАВИЛА"\
+     "— Всем запрещено надевать форму, головные уборы, разгрузки, бронижилеты противника (рюкзаки можно)"\
+     "— Продолжительность фризтайма 5 минут"\
+     ""\
+     "ЗАДАЧИ ДЛЯ США"\
+     "— Выполнить вертолётную высадку на одной из контрольных точек"\
+     "— Удержать до конца миссии контроль над указанными точками."\
+     ""\
+     "ПРАВИЛА ДЛЯ США"\
+     "— Высадку разрешено осуществлять только на целевом объекте атаки, последующие манёвры осуществлять в пешем формате. "\
+     ""\
+     "ЗАДАЧИ ДЛЯ СССР"\
+     "— Обнаружить район развёртывания ВС США"\
+     "— Выбить противника и получить контроль над зоной высадки."\
+     ""\
+     "ПАРАМЕТРЫ МИССИИ"\
+     "Время на миссию: 60-80 минут"
+     "Font Size" 20
+     "Min Font Size" 20
+     Wrap 1
+    }
+   }
+  }
+ }
+}

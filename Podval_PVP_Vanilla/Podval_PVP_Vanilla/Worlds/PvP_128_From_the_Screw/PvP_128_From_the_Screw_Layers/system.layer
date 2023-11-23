@@ -1,0 +1,119 @@
+SCR_AIWorld : "{E0A05C76552E7F58}Prefabs/AI/SCR_AIWorld.et" {
+ coords 5124.414 36.401 9205.328
+}
+PerceptionManager PerceptionManager2 : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+ coords 5124.414 36.401 9205.328
+}
+TagManager : "{2FA9E172CAB1857A}Prefabs/MP/Managers/TagManager.et" {
+ coords 5123.766 36.401 9216.604
+}
+PS_GameModeCoop "5EEE8DCE2873CC96" : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_GameMode_Lobby.et" {
+ components {
+  PS_MissionDescriptionManager "{5ED908871838D082}" {
+   m_aDescriptions {
+    PS_MapDescription "{5EE102F2757CE5CF}" {
+     m_sTitle "#PS-Description_HeaderRules"
+     m_sDescriptionLayout "{F2776B4A507E919F}UI/MissionDescriptionTemplates/From_The_Screw/DescriptionRules.layout"
+    }
+    PS_MapDescription "{5EE102F2754710FA}" {
+     m_sTitle "#PS-Description_HeaderAboutMission"
+     m_sDescriptionLayout "{087428631732F50F}UI/MissionDescriptionTemplates/From_The_Screw/AboutMission.layout"
+    }
+    PS_MapDescription "{5EE102F274940928}" {
+     m_sTitle "#PS-Description_HeaderObjectives"
+     m_sFactions "NONE"
+     m_sDescriptionLayout "{F289382214DA8825}UI/MissionDescriptionTemplates/DescriptionObjectives.layout"
+    }
+    PS_MapDescription "{5EE102F274E57DE9}" {
+     m_sTitle "#PS-Description_HeaderFIA"
+     m_sFactions "FIA"
+     m_sDescriptionLayout "{6970775993429F7D}UI/MissionDescriptionTemplates/From_The_Screw/DescriptionFIA.layout"
+    }
+    PS_MapDescription "{5EE102F274C94EC3}" {
+     m_sTitle "#PS-Description_HeaderUS"
+     m_sFactions "US"
+     m_sDescriptionLayout "{E9BB75D81C9137A9}UI/MissionDescriptionTemplates/From_The_Screw/DescriptionUS.layout"
+    }
+    PS_MapDescription "{5EE102F2741C5E96}" {
+     m_sTitle "#PS-Description_HeaderUSSR"
+     m_sFactions "USSR"
+     m_sDescriptionLayout "{569546D48527953C}UI/MissionDescriptionTemplates/From_The_Screw/DescriptionUSSR.layout"
+    }
+   }
+  }
+ }
+ coords 5124.414 36.401 9205.328
+ m_bKillRedundantUnits 1
+ m_iFreezeTime 300000
+ {
+  SCR_FactionManager "5EED0348606599B2" {
+   ID "5ED9088735FF2D8B"
+   Factions {
+    SCR_Faction "{56DEAC40D2DBC8B1}" {
+     m_bIsPlayable 1
+    }
+    SCR_Faction "{56DEAC40D3C2E623}" {
+     m_bIsPlayable 1
+    }
+    SCR_Faction "{56DEAC40D132400B}" {
+     m_bIsPlayable 1
+    }
+   }
+  }
+ }
+}
+$grp SCR_EditorRestrictionZoneEntity : "{D832FD7D4F872977}Prefabs/FreezeTime/FreezKillZone.et" {
+ {
+  coords 7506.893 165.76 4281.647
+  m_fWarnRadius 190
+  m_fZoneRadius 200
+  m_fZoneTeleportedRadius 210
+  {
+   GenericEntity {
+    ID "5EC5183A2E8F3FE3"
+    components {
+     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
+      m_fRadius 190
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 8496.371 179.582 3642.369
+  m_fWarnRadius 70
+  m_fZoneRadius 80
+  m_fZoneTeleportedRadius 90
+  {
+   GenericEntity {
+    ID "5EC5183A2E8F3FE3"
+    components {
+     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
+      m_fRadius 70
+     }
+    }
+    coords -0.002 0 0
+   }
+  }
+ }
+ {
+  coords 4793.604 27.742 11892.752
+  angleX -0.895
+  angleY 0.014
+  angleZ -0.895
+  m_fWarnRadius 180
+  m_fZoneRadius 200
+  m_fZoneTeleportedRadius 210
+  {
+   GenericEntity {
+    ID "5EC5183A2E8F3FE3"
+    components {
+     SCR_CustomAreaMeshComponent "{5EC5025412025CFA}" {
+      m_fRadius 180
+     }
+    }
+    coords -0.002 0 0
+   }
+  }
+ }
+}

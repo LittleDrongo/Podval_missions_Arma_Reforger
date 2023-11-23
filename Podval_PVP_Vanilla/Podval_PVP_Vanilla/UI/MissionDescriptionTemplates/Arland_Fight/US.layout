@@ -1,0 +1,38 @@
+FrameWidgetClass {
+ Name "rootFrame"
+ components {
+  PS_MissionDescriptionContentUI "{5EC27C7C182EA2DF}" {
+   m_sTitle "#PS-Description_HeaderUS"
+  }
+ }
+ {
+  OverlayWidgetClass "{5EEEB87433A60F96}" {
+   Name "Overlay0"
+   Slot FrameWidgetSlot "{5EEE8DCAC0A9C548}" {
+    OffsetLeft 0
+    OffsetTop 0
+    SizeX 480
+    OffsetRight -480
+    SizeY 601
+    OffsetBottom -601
+   }
+   {
+    RichTextWidgetClass "{5EEEB87433A60F94}" {
+     Name "RichText0"
+     Slot OverlayWidgetSlot "{5EEEB87433A60D60}" {
+      HorizontalAlign 0
+      VerticalAlign 0
+      Padding 10 10 10 10
+     }
+     Text "Командование дало нам команду на решительный удар."\
+     ""\
+     "Нам необходимо выбить противника из населённого пункта Арлевиль"\
+     ""
+     "Font Size" 20
+     "Min Font Size" 20
+     Wrap 1
+    }
+   }
+  }
+ }
+}

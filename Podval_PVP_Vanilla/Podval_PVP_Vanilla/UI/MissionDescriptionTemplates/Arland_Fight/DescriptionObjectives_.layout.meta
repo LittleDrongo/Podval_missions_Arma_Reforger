@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{4C775D59F6F6778F}UI/MissionDescriptionTemplates/From_The_Screw/DescriptionObjectives_.layout"
+ Configurations {
+  LayoutResourceClass PC {
+  }
+  LayoutResourceClass XBOX_ONE : PC {
+  }
+  LayoutResourceClass XBOX_SERIES : PC {
+  }
+  LayoutResourceClass PS4 : PC {
+  }
+  LayoutResourceClass HEADLESS : PC {
+  }
+ }
+}

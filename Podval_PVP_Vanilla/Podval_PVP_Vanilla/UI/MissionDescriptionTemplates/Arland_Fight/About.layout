@@ -1,0 +1,35 @@
+FrameWidgetClass {
+ Name "rootFrame"
+ components {
+  PS_MissionDescriptionContentUI "{5EC27C7C182EA2DF}" {
+   m_sTitle "#PS-Description_HeaderAboutMission"
+  }
+ }
+ {
+  OverlayWidgetClass "{5EEEB873DD9A37DD}" {
+   Name "Overlay0"
+   Slot FrameWidgetSlot "{5EEE8DC85B24ED0D}" {
+    OffsetLeft 0
+    OffsetTop 0
+    SizeX 480
+    OffsetRight -480
+    SizeY 601
+    OffsetBottom -601
+   }
+   {
+    RichTextWidgetClass "{5EEEB873DD9A37DA}" {
+     Name "RichText0"
+     Slot OverlayWidgetSlot "{5EEEB873DD9A352A}" {
+      HorizontalAlign 0
+      VerticalAlign 0
+      Padding 10 10 10 10
+     }
+     Text "Бой за населённый пункт Арлевиль"
+     "Font Size" 20
+     "Min Font Size" 20
+     Wrap 1
+    }
+   }
+  }
+ }
+}

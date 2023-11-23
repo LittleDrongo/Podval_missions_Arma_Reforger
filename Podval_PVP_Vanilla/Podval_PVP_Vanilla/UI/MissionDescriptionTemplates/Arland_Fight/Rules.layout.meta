@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{573785E7C2E61ED5}UI/MissionDescriptionTemplates/From_The_Screw/Rules.layout"
+ Configurations {
+  LayoutResourceClass PC {
+  }
+  LayoutResourceClass XBOX_ONE : PC {
+  }
+  LayoutResourceClass XBOX_SERIES : PC {
+  }
+  LayoutResourceClass PS4 : PC {
+  }
+  LayoutResourceClass HEADLESS : PC {
+  }
+ }
+}

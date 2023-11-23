@@ -1,0 +1,46 @@
+FrameWidgetClass {
+ Name "rootFrame"
+ components {
+  PS_MissionDescriptionContentUI "{5EC27C7C182EA2DF}" {
+   m_sTitle "#PS-Description_HeaderRules"
+  }
+ }
+ {
+  OverlayWidgetClass "{5EEEB8743646F71A}" {
+   Name "Overlay0"
+   Slot FrameWidgetSlot "{5EEE8DC870F56E3B}" {
+    OffsetLeft 0
+    OffsetTop 0
+    SizeX 480
+    OffsetRight -480
+    SizeY 601
+    OffsetBottom -601
+   }
+   {
+    RichTextWidgetClass "{5EEEB8743646F718}" {
+     Name "RichText0"
+     Slot OverlayWidgetSlot "{5EEEB8743646F5F1}" {
+      HorizontalAlign 0
+      VerticalAlign 0
+      Padding 10 10 10 10
+     }
+     Text "ОБЩИЕ ПРАВИЛА"\
+     "— Всем запрещено надевать форму, головные уборы, разгрузки, бронижилеты противника (рюкзаки можно)"\
+     "— Продолжительность фризтайма 5 минут"\
+     ""\
+     "ЗАДАЧИ ДЛЯ США"\
+     "— Захватить город Арлевиль"\
+     ""\
+     "ЗАДАЧИ ДЛЯ СССР"\
+     "— Удержать город Арлевиль"\
+     ""\
+     "ПАРАМЕТРЫ МИССИИ"\
+     "Время на миссию: 60-80 минут"
+     "Font Size" 20
+     "Min Font Size" 20
+     Wrap 1
+    }
+   }
+  }
+ }
+}
