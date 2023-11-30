@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{23B931640D22C50A}Prefabs/MP/Modes/Deathmatch/GameMode_Deathmatch_Selection.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

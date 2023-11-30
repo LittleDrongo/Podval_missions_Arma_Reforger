@@ -1,0 +1,8 @@
+GameProject {
+ ID "disableVONUnconscious"
+ GUID "5EF8AADD3B3C81F2"
+ TITLE "disable_VON_Unconscious"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
