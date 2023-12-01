@@ -1,0 +1,30 @@
+$grp PS_ManualMarker {
+ {
+  coords 2470.489 87.909 5408.596
+  angleY -74.233
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sQuadName "infantry-opfor"
+  m_fWorldSizeWidth 45
+  m_fWorldSizeHeight 30
+  m_bUseWorldScale 0
+ }
+ {
+  coords 2840.236 86.41 6343.286
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sQuadName "Task_Attack"
+  m_fWorldSizeWidth 30
+  m_fWorldSizeHeight 30
+  m_bUseWorldScale 0
+ }
+ {
+  coords 3547.73 28.366 7133.734
+  m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
+  m_sImageSetGlow "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
+  m_sQuadName "infantry-indfor"
+  m_fWorldSizeWidth 45
+  m_fWorldSizeHeight 30
+  m_bUseWorldScale 0
+ }
+}

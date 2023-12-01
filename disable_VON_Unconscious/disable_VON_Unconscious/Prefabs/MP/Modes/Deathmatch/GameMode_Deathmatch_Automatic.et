@@ -1,3 +1,8 @@
 SCR_BaseGameMode : "{888DF221E7026820}Prefabs/MP/Modes/Deathmatch/GameMode_Deathmatch_Base.et" {
  ID "56B2B479C6B96951"
+ components {
+  SCR_GameModeHealthSettings "{5A22E11F9ACBB1DF}" {
+   m_bPermitUnconsciousVON 0
+  }
+ }
 }

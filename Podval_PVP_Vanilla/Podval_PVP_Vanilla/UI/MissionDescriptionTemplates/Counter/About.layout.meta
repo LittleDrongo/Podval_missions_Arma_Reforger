@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{4367ABD94FDCB823}UI/MissionDescriptionTemplates/VDV/About_1.layout"
+ Configurations {
+  LayoutResourceClass PC {
+  }
+  LayoutResourceClass XBOX_ONE : PC {
+  }
+  LayoutResourceClass XBOX_SERIES : PC {
+  }
+  LayoutResourceClass PS4 : PC {
+  }
+  LayoutResourceClass HEADLESS : PC {
+  }
+ }
+}

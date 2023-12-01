@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{72C625D8B4003EDD}UI/MissionDescriptionTemplates/VDV/USSR_TASK_.layout"
+ Configurations {
+  LayoutResourceClass PC {
+  }
+  LayoutResourceClass XBOX_ONE : PC {
+  }
+  LayoutResourceClass XBOX_SERIES : PC {
+  }
+  LayoutResourceClass PS4 : PC {
+  }
+  LayoutResourceClass HEADLESS : PC {
+  }
+ }
+}

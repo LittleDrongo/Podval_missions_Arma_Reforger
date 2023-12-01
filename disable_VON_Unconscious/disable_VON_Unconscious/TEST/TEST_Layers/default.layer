@@ -1,0 +1,61 @@
+$grp SCR_GameModeEditor : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor/GameMode_Editor_Full.et" {
+ GameMode_GameMaster_Full {
+  components {
+   SCR_EditorCameraDefaultsComponent "{530EB67957FF1565}" {
+    m_aPositions {
+     SCR_CameraCoordinates "{530EB67B0FD7776F}" {
+      m_vCameraPosition 3091.22 105.48 1532.69
+      m_vCameraAngles -2.4 303.88 0
+     }
+     SCR_CameraCoordinates "{530EB67BCC8CA498}" {
+      m_vCameraPosition 2853.84 97.94 2969.39
+      m_vCameraAngles -12.02 479.26 0
+     }
+     SCR_CameraCoordinates "{530EB67BB8FC1FEC}" {
+      m_vCameraPosition 1893.28 58.29 2899.16
+      m_vCameraAngles -5.12 615.16 0
+     }
+     SCR_CameraCoordinates "{530ECD979F9A89CD}" {
+      m_vCameraPosition 1337.48 39.182 1363.03
+      m_vCameraAngles -2.4 134.683 0
+     }
+     SCR_CameraCoordinates "{530ECD967B114EDF}" {
+      m_vCameraPosition 2587 177.148 2193.25
+      m_vCameraAngles -13.5 -48.317 0
+     }
+     SCR_CameraCoordinates "{530ECD96618A88C5}" {
+      m_vCameraPosition 2567.42 51.28 950.664
+      m_vCameraAngles -19.8 87.282 0
+     }
+     SCR_CameraCoordinates "{530ECD9641E9FF5E}" {
+      m_vCameraPosition 2497.76 139.155 1632.75
+      m_vCameraAngles -17.7 -157.517 0
+     }
+     SCR_CameraCoordinates "{530ECD962E3DC5CF}" {
+      m_vCameraPosition 3673.41 74.144 2643.3
+      m_vCameraAngles -6.3 -99.017 0
+     }
+    }
+   }
+   SCR_GameModeHealthSettings "{5A22E11F9ACBB1DF}" {
+    m_bPermitUnconsciousVON 0
+   }
+   SCR_RespawnSystemComponent "{56B2B4793051E7C9}" {
+    m_SpawnLogic SCR_MenuSpawnLogic "{5D28B7ADCD4F95B9}" {
+    }
+   }
+   SCR_SaveLoadComponent "{58FA739CBE3E9FC5}" {
+    m_DebugHeaderResourceName "{2BBBE828037C6F4B}Missions/22_GM_Arland.conf"
+   }
+  }
+  coords 2879.89 70.498 1577.563
+ }
+ GameMode_Editor_Full1 {
+  components {
+   SCR_GameModeHealthSettings "{5A22E11F9ACBB1DF}" {
+    m_bPermitUnconsciousVON 0
+   }
+  }
+  coords 2879.007 71.124 1577.945
+ }
+}

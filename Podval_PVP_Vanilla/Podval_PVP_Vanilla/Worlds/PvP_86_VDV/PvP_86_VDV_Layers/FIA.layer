@@ -1,0 +1,114 @@
+$grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad_P.et" {
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9B884B2A9E}" {
+    m_iSquadCallsign 1
+   }
+  }
+  coords 3904.31 14.752 8429.424
+  angleX 3.284
+  angleY 93.641
+  angleZ -2.342
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9B884B2A9E}" {
+    m_iSquadCallsign 2
+   }
+  }
+  coords 3904.524 14.619 8432.661
+  angleX 3.284
+  angleY 93.641
+  angleZ -2.342
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9B884B2A9E}" {
+    m_iSquadCallsign 3
+   }
+  }
+  coords 3904.715 14.5 8435.561
+  angleX 3.284
+  angleY 93.641
+  angleZ -2.342
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9B884B2A9E}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 1
+   }
+  }
+  coords 3906.536 13.372 8463.148
+  angleX 3.284
+  angleY 93.641
+  angleZ -2.342
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9B884B2A9E}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 2
+   }
+  }
+  coords 3906.75 13.239 8466.386
+  angleX 3.284
+  angleY 93.641
+  angleZ -2.342
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9B884B2A9E}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 3
+   }
+  }
+  coords 3906.941 13.12 8469.285
+  angleX 3.284
+  angleY 93.641
+  angleZ -2.342
+ }
+}
+$grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_P.et" {
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9BA407DF7C}" {
+   }
+  }
+  coords 3903.984 15.225 8426.304
+  angleY 92.646
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9BA407DF7C}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 3906.21 13.845 8460.028
+  angleY 92.646
+ }
+}

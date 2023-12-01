@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{C0A7597CA4025234}Worlds/PvP_80_VDV/PvP_86_VDV.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}

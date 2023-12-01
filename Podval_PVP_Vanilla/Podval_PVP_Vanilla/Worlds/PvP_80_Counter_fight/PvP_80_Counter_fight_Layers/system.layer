@@ -1,0 +1,54 @@
+SCR_AIWorld : "{E0A05C76552E7F58}Prefabs/AI/SCR_AIWorld.et" {
+ coords 10027.308 4.573 1575.383
+}
+PerceptionManager PerceptionManager2 : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+ coords 10027.308 4.573 1575.383
+}
+TagManager : "{2FA9E172CAB1857A}Prefabs/MP/Managers/TagManager.et" {
+ coords 10026.659 4.573 1586.658
+}
+PS_GameModeCoop : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_GameMode_Lobby.et" {
+ components {
+  PS_MissionDescriptionManager "{5ED908871838D082}" {
+   m_aDescriptions {
+    PS_MapDescription "{5EFD4A994E5BA92A}" {
+     m_sTitle "#PS-Description_HeaderFIA"
+     m_sFactions "FIA"
+     m_sDescriptionLayout "{7745DAD34C1006BF}UI/MissionDescriptionTemplates/Counter/FIA_TASK.layout"
+    }
+    PS_MapDescription "{5EFD4A994A7347BD}" {
+     m_sTitle "#PS-Description_HeaderUSSR"
+     m_sFactions "USSR"
+     m_sDescriptionLayout "{72C625D8B4003EDD}UI/MissionDescriptionTemplates/Counter/USSR_TASK.layout"
+    }
+    PS_MapDescription "{5EFD4A99FFA6D7CA}" {
+     m_sTitle "#PS-Description_HeaderRules"
+     m_sDescriptionLayout "{573785E7C2E61ED6}UI/MissionDescriptionTemplates/VDV/Rules.layout"
+    }
+    PS_MapDescription "{5EFD4A99C23BA2E9}" {
+     m_sTitle "#PS-Description_HeaderAboutMission"
+     m_sDescriptionLayout "{4367ABD94FDCB823}UI/MissionDescriptionTemplates/Counter/About.layout"
+    }
+   }
+  }
+ }
+ coords 10027.308 4.573 1575.383
+ m_bKillRedundantUnits 1
+ m_iFreezeTime 300000
+ {
+  SCR_FactionManager "5EED0348606599B2" {
+   ID "5ED9088735FF2D8B"
+   Factions {
+    SCR_Faction "{56DEAC40D2DBC8B1}" {
+     m_bIsPlayable 1
+    }
+    SCR_Faction "{56DEAC40D3C2E623}" {
+     m_bIsPlayable 1
+    }
+    SCR_Faction "{56DEAC40D132400B}" {
+     m_bIsPlayable 1
+    }
+   }
+  }
+ }
+}

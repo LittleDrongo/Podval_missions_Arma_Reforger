@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{21D32E4847F084EF}UI/MissionDescriptionTemplates/From_The_Screw/FIA_TASK.layout"
+ Configurations {
+  LayoutResourceClass PC {
+  }
+  LayoutResourceClass XBOX_ONE : PC {
+  }
+  LayoutResourceClass XBOX_SERIES : PC {
+  }
+  LayoutResourceClass PS4 : PC {
+  }
+  LayoutResourceClass HEADLESS : PC {
+  }
+ }
+}

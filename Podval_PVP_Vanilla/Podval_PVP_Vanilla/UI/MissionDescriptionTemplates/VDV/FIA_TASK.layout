@@ -1,0 +1,39 @@
+FrameWidgetClass {
+ Name "rootFrame"
+ components {
+  PS_MissionDescriptionContentUI "{5EC27C7C182EA2DF}" {
+   m_sTitle "#PS-Description_HeaderFIA"
+  }
+ }
+ {
+  OverlayWidgetClass "{5EFD4A998BAC0A3D}" {
+   Name "Overlay0"
+   Slot FrameWidgetSlot "{5EEE8DC88859D294}" {
+    OffsetLeft 0
+    OffsetTop 0
+    SizeX 480
+    OffsetRight -480
+    SizeY 601
+    OffsetBottom -601
+   }
+   {
+    RichTextWidgetClass "{5EFD4A998BAC0A38}" {
+     Name "RichText0"
+     Slot OverlayWidgetSlot "{5EFD4A998BAC08C5}" {
+      HorizontalAlign 0
+      VerticalAlign 0
+      Padding 10 10 10 10
+     }
+     Text "Нашему взводу поставлена задача. "\
+     ""\
+     "1. Основобить аэродром от десента противника в течении 60-80 минут."\
+     ""\
+     "Внимание! Враг может осуществлять засады на маршруте движения."
+     "Font Size" 20
+     "Min Font Size" 20
+     Wrap 1
+    }
+   }
+  }
+ }
+}

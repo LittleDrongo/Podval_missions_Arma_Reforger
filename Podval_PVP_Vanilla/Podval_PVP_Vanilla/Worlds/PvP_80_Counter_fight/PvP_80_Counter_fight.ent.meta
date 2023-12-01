@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{4E972C5DDA2EEC07}Worlds/PvP_80_Counter_fight/PvP_80_Counter_fight.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}

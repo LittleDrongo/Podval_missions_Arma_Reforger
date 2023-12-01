@@ -19,5 +19,13 @@ SCR_ChimeraCharacter : "{E9AEEF2D9E41321B}Prefabs/Characters/Factions/OPFOR/USSR
     }
    }
   }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{5D7CC173E6675BF7}" {
+     PrefabsToSpawn +{
+     }
+    }
+   }
+  }
  }
 }

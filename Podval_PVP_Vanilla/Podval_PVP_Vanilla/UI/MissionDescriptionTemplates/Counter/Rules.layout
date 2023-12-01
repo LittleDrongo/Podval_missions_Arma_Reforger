@@ -1,0 +1,48 @@
+FrameWidgetClass "{5F02D0C85120D460}" {
+ Name "rootFrame"
+ components {
+  PS_MissionDescriptionContentUI "{5EC27C7C182EA2DF}" {
+   m_sTitle "#PS-Description_HeaderRules"
+  }
+ }
+ {
+  OverlayWidgetClass "{5F02D0C85120D47E}" {
+   Name "Overlay0"
+   Slot FrameWidgetSlot "{5EEE8DC870F56E3B}" {
+    OffsetLeft 0
+    OffsetTop 0
+    SizeX 480
+    OffsetRight -480
+    SizeY 601
+    OffsetBottom -601
+   }
+   {
+    RichTextWidgetClass "{5F02D0C85120D47B}" {
+     Name "RichText0"
+     Slot OverlayWidgetSlot "{5EFD4A9999079D1A}" {
+      HorizontalAlign 0
+      VerticalAlign 0
+      Padding 10 10 10 10
+     }
+     Text "ОБЩИЕ ПРАВИЛА"\
+     "— Всем запрещено надевать форму, головные уборы, разгрузки, бронижилеты противника (рюкзаки можно)"\
+     "— Продолжительность фризтайма 5 минут"\
+     "— Внимание, ограничено количество радиостанций у рядовых бойцов. "\
+     ""\
+     "ЗАДАЧИ ДЛЯ СССР"\
+     "— Выполнить вертолётную высадку и захватить позиции аэродрома."\
+     "— Удержать контроль до конца миссии."\
+     ""\
+     "ЗАДАЧИ ДЛЯ FIA"\
+     "— Освободить аэродром от присутствия десантников СССР."\
+     ""\
+     "ПАРАМЕТРЫ МИССИИ"\
+     "Время на миссию: 60-80 минут"
+     "Font Size" 20
+     "Min Font Size" 20
+     Wrap 1
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,51 @@
+FrameWidgetClass {
+ Name "rootFrame"
+ components {
+  PS_MissionDescriptionContentUI "{5EC27C7C182EA2DF}" {
+   m_sTitle "#PS-Description_HeaderRules"
+  }
+ }
+ {
+  ScrollLayoutWidgetClass "{5F02D0C919AD7982}" {
+   Name "ScrollLayout0"
+   Slot FrameWidgetSlot "{5F02D0C919AD7961}" {
+    OffsetLeft 0
+    OffsetTop 0
+    SizeX 480
+    OffsetRight -480
+    SizeY 601
+    OffsetBottom -601
+   }
+   {
+    OverlayWidgetClass "{5EFD4A9999079823}" {
+     Name "Overlay0"
+     Slot AlignableSlot "{5F02D0C9198BF4B0}" {
+     }
+     {
+      RichTextWidgetClass "{5EFD4A9999079822}" {
+       Name "RichText0"
+       Slot OverlayWidgetSlot "{5EFD4A9999079D1A}" {
+        HorizontalAlign 0
+        VerticalAlign 0
+        Padding 10 10 10 10
+       }
+       Text "ОБЩИЕ ПРАВИЛА"\
+       "— Всем запрещено надевать форму, головные уборы, разгрузки, бронижилеты противника (рюкзаки можно)"\
+       "— Продолжительность фризтайма 5 минут"\
+       "— Внимание, ограничено количество радиостанций у рядовых бойцов. "\
+       ""\
+       "ЗАДАЧИ ДЛЯ СССР И FIA"\
+       "— Занять и удержать населённый пункт Вильнёв быстрее противника."\
+       ""\
+       "ПАРАМЕТРЫ МИССИИ"\
+       "Время на миссию: 60-80 минут"
+       "Font Size" 20
+       "Min Font Size" 20
+       Wrap 1
+      }
+     }
+    }
+   }
+  }
+ }
+}

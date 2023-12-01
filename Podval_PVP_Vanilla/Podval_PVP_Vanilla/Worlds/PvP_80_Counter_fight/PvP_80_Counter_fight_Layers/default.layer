@@ -1,0 +1,42 @@
+$grp Vehicle : "{B70E6D12A8EC2410}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_FIA_transport_covered.et" {
+ Ural4320_FIA_transport_covered1 {
+  coords 3921.147 15.219 8416.658
+  angleY 0.096
+ }
+ Ural4320_FIA_transport_covered2 {
+  coords 3915.71 15.219 8416.657
+  angleY 2.441
+ }
+ Ural4320_FIA_transport_covered3 {
+  coords 3910.457 15.219 8416.881
+  angleY 2.441
+ }
+ Ural4320_FIA_transport_covered6 {
+  coords 3880.061 15.29 8474.086
+  angleX -0.885
+  angleY 98.6
+  angleZ -0.134
+ }
+ Ural4320_FIA_transport_covered4 {
+  coords 3867.631 15.03 8475.966
+  angleX 1.77
+  angleY 98.612
+  angleZ 0.268
+ }
+ {
+  coords 3856.427 14.568 8477.661
+  angleX 3.536
+  angleY 98.629
+  angleZ 0.536
+ }
+}
+$grp Vehicle : "{DF5CCB7C0FF049F4}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT.et" {
+ Mi8MT1 {
+  coords 11092.252 21.125 11877.239
+  angleY -144.501
+ }
+ Mi8MT2 {
+  coords 11063.727 21.125 11897.586
+  angleY -144.501
+ }
+}
