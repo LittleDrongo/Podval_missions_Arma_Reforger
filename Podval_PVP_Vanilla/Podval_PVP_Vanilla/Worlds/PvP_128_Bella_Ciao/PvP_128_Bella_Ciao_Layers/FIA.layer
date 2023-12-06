@@ -4,37 +4,54 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
+   PS_GroupCallsignAssigner "{5F0CD1CD8C15DE8B}" {
+    m_iCompanyCallsign 1
+   }
   }
-  coords 6124.854 121.53 5201.556
+  coords 6124.854 124.785 5201.556
  }
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
+   PS_GroupCallsignAssigner "{5F0CD1CDC656CD04}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 1
+   }
   }
-  coords 6122 121.835 5201.556
+  coords 6122 124.815 5201.556
  }
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
+   PS_GroupCallsignAssigner "{5F0CD1CDC87848E4}" {
+    m_iCompanyCallsign 2
+   }
   }
-  coords 6109.097 121.784 5201.556
+  coords 6109.097 124.786 5201.556
  }
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
+   PS_GroupCallsignAssigner "{5F0CD1CDCBB1F929}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 1
+   }
   }
-  coords 6111.63 121.819 5201.556
+  coords 6111.63 124.878 5201.556
  }
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5F0CD1CDDEFB7AF2}" {
+    m_iCompanyCallsign 3
    }
   }
   coords 6152.832 121.58 5201.556
@@ -44,6 +61,10 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
+   PS_GroupCallsignAssigner "{5F0CD1CC243CEACC}" {
+    m_iCompanyCallsign 3
+    m_iSquadCallsign 1
+   }
   }
   coords 6148.696 121.552 5201.556
  }
@@ -52,14 +73,20 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
+   PS_GroupCallsignAssigner "{5F0CD1CC243CEACC}" {
+    m_iCompanyCallsign 3
+    m_iSquadCallsign 2
+   }
   }
-  coords 6144.421 121.505 5201.556
+  coords 6150.943 121.552 5201.556
  }
 }
 SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_P.et" {
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "Line"
+  }
+  PS_GroupCallsignAssigner "{5F0CD1CD80B4F049}" {
   }
  }
  coords 6132.806 121.066 5182.529
