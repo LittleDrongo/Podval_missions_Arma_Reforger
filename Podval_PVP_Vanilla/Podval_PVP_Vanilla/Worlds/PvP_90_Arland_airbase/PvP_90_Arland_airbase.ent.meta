@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{5D9746A7ED44D33B}Worlds/PvP_90_Arland_airbase/PvP_90_Arland_airbase.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}

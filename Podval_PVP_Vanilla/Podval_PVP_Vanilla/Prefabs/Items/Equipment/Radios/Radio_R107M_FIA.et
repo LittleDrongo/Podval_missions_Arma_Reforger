@@ -4,5 +4,25 @@ GenericEntity : "{5879D8E9C56E358E}Prefabs/Items/Equipment/Radios/Radio_Deployab
   BaseRadioComponent "{5A30BAE7673C63CA}" {
    "Encryption key" "beefGoulash"
   }
+  MeshObject "{5A30BAE7673C63D1}" {
+   Materials {
+    MaterialAssignClass "{5F0CF2C45726608D}" {
+     SourceMaterial "Radio_R107M_01"
+     AssignedMaterial "{E65286CCB6C80A96}Assets/Items/Equipment/Radios/Radio_R107M/Data/Radio_R107M_01.emat"
+    }
+    MaterialAssignClass "{5F0CF2C46F8AFA0C}" {
+     SourceMaterial "Radio_R107M_01"
+     AssignedMaterial "{CBB78C92DD957EF3}Assets/Items/Equipment/Radios/Radio_R107M/Data/Radio_R107M_fia_01.emat"
+    }
+   }
+  }
+  BaseLoadoutClothComponent "{5EA4A89F0D06E1DE}" {
+   WornMaterialsOverride {
+    "{CBB78C92DD957EF3}Assets/Items/Equipment/Radios/Radio_R107M/Data/Radio_R107M_fia_01.emat"
+   }
+   ItemMaterialsOverride {
+    "{CBB78C92DD957EF3}Assets/Items/Equipment/Radios/Radio_R107M/Data/Radio_R107M_fia_01.emat"
+   }
+  }
  }
 }

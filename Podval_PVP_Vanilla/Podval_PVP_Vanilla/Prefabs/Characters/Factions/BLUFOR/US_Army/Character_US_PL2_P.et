@@ -1,8 +1,0 @@
-SCR_ChimeraCharacter : "{22CC3857A92AB4B9}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_PL1_P.et" {
- ID "51FA90A59C87A851"
- components {
-  PS_PlayableComponent "{5E61249FA37809F5}" {
-   m_name "Командир 2-го взвода"
-  }
- }
-}

@@ -1,0 +1,230 @@
+$grp GenericEntity : "{14B2D417839BF8A3}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_USSR.et" {
+ {
+  coords 1684.55 48.234 3018.396
+ }
+ {
+  coords 1368.476 50.56 2962.121
+ }
+ {
+  coords 1376.218 43.981 2358.201
+ }
+}
+$grp Vehicle : "{DF5CCB7C0FF049F4}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT.et" {
+ Mi8MT6 {
+  components {
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C416}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C414}" {
+      MaxFuel 0
+     }
+    }
+   }
+  }
+  coords 664.958 39 2653.77
+  angleY -35.747
+ }
+ Mi8MT4 {
+  components {
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C416}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C414}" {
+      MaxFuel 0
+     }
+    }
+   }
+  }
+  coords 775.84 39 2726.428
+  angleY -33.759
+ }
+ Mi8MT2 {
+  components {
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C416}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C414}" {
+      MaxFuel 0
+     }
+    }
+   }
+  }
+  coords 933.763 38.968 2786.407
+  angleY 57.472
+ }
+ Mi8MT3 {
+  components {
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C416}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C414}" {
+      MaxFuel 0
+     }
+    }
+   }
+  }
+  coords 909.307 39.05 2822.819
+  angleX -0.481
+  angleY 57.478
+  angleZ -0.755
+ }
+ Mi8MT5 {
+  components {
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C416}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C414}" {
+      MaxFuel 0
+     }
+    }
+   }
+  }
+  coords 719.82 39 2687.28
+  angleY -35.747
+ }
+ Mi8MT8 {
+  components {
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C416}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C414}" {
+      MaxFuel 0
+     }
+    }
+   }
+  }
+  coords 1445.158 38.02 2690.947
+  angleX -1.958
+  angleY -104.604
+  angleZ -0.415
+ }
+ Mi8MT7 {
+  components {
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C416}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C414}" {
+      MaxFuel 0
+     }
+    }
+   }
+  }
+  coords 1412.364 36.861 2682.402
+  angleX -1.958
+  angleY -104.604
+  angleZ -0.415
+ }
+ Mi8MT9 {
+  components {
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C416}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C414}" {
+      MaxFuel 0
+     }
+    }
+   }
+  }
+  coords 1369.556 35.349 2671.249
+  angleX -1.958
+  angleY -104.604
+  angleZ -0.415
+ }
+ Mi8MT10 {
+  components {
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C416}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C414}" {
+      MaxFuel 0
+     }
+    }
+   }
+  }
+  coords 1287.74 39 2259.285
+  angleY 139.463
+ }
+ Mi8MT11 {
+  components {
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C416}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C414}" {
+      MaxFuel 0
+     }
+    }
+   }
+  }
+  coords 1263.139 39 2234.953
+  angleY 139.463
+ }
+ Mi8MT12 {
+  components {
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C416}" {
+      MaxFuel 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C414}" {
+      MaxFuel 0
+     }
+    }
+   }
+  }
+  coords 1289.655 39 2223.565
+  angleY -31.36
+ }
+}

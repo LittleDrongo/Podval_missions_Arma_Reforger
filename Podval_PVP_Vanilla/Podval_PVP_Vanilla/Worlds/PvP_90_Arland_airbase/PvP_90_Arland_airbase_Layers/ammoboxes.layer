@@ -1,0 +1,76 @@
+$grp GameEntity : "{CCFBDDED9E41349A}PrefabsEditable/Auto/Props/Civilian/LampKerosene_01/E_LampKerosene_01_military_USSR.et" {
+ {
+  coords 1670.022 1.045 1912.672
+ }
+ {
+  coords 326.732 1.891 2329.591
+ }
+ {
+  coords 2260.109 9.126 3185.449
+ }
+}
+$grp GenericEntity : "{E521AEA6D14589B1}Prefabs/Props/Military/AmmoBoxes/AmmoBox_545x39_2160rnd.et" {
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{62A30D148D0D93B0}Assets/Props/Military/AmmoBox/EquipmentBoxWooden_01/EquipmentBoxWooden_Equipment_01.xob"
+   }
+   SCR_UniversalInventoryStorageComponent "{5476A2F100DF4EFF}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5EBE9BE3CEFB5AFA}" {
+      SlotTemplate InventoryStorageSlot Saline {
+       Prefab "{49FFE8F373F55960}Prefabs/Weapons/Explosives/Mine_M15AT/Mine_M15AT.et"
+      }
+      NumSlots 20
+     }
+    }
+   }
+  }
+  coords 2260.358 8.677 3185.154
+  angleX -1.562
+  angleY 61.444
+  angleZ -0.519
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{62A30D148D0D93B0}Assets/Props/Military/AmmoBox/EquipmentBoxWooden_01/EquipmentBoxWooden_Equipment_01.xob"
+   }
+   SCR_UniversalInventoryStorageComponent "{5476A2F100DF4EFF}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5EBE9BE3CEFB5AFA}" {
+      SlotTemplate InventoryStorageSlot Saline {
+       Prefab "{49FFE8F373F55960}Prefabs/Weapons/Explosives/Mine_M15AT/Mine_M15AT.et"
+      }
+      NumSlots 20
+     }
+    }
+   }
+  }
+  coords 326.51 1.438 2329.909
+  angleX -1.562
+  angleY 61.444
+  angleZ -0.519
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{62A30D148D0D93B0}Assets/Props/Military/AmmoBox/EquipmentBoxWooden_01/EquipmentBoxWooden_Equipment_01.xob"
+   }
+   SCR_UniversalInventoryStorageComponent "{5476A2F100DF4EFF}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5EBE9BE3CEFB5AFA}" {
+      SlotTemplate InventoryStorageSlot Saline {
+       Prefab "{49FFE8F373F55960}Prefabs/Weapons/Explosives/Mine_M15AT/Mine_M15AT.et"
+      }
+      NumSlots 20
+     }
+    }
+   }
+  }
+  coords 1670.305 0.594 1912.453
+  angleX -1.562
+  angleY 61.444
+  angleZ -0.519
+ }
+}

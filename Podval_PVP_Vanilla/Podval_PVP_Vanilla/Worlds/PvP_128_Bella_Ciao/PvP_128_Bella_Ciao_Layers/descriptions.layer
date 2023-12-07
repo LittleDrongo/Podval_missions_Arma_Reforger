@@ -13,7 +13,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "— 1. Найти и уничтожить лагерь партизан FIA в лесах Симона"\
   "— 2. Нанести серьёзный урон партизанам FIA"\
   ""\
-  "СПОСОБЫ ПАРТИЗАН FIA"\
+  "СПОСОБЫ ПОБЕДЫ ПАРТИЗАН FIA"\
   "— 1. Удержать контроль над лагерем FIA в лесах Симона"\
   "— 2. Нанести серьёзный урон ВС СССР"\
   ""\
@@ -52,9 +52,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   coords 5626.204 38.464 10536.691
   m_sTitle "#PS-Description_HeaderUS"
   m_sTextData "ОБЩИЕ ПРАВИЛА"\
-  "— Не ебаться в жопу"\
-  ""\
-  "ПРАВИЛА ДЛЯ ПАРТИЗАН FIA"\
+  "— ПРАВИЛА ДЛЯ ПАРТИЗАН FIA"\
   "—"\
   "ПРАВИЛА ДЛЯ ВС СССР"\
   "—"\

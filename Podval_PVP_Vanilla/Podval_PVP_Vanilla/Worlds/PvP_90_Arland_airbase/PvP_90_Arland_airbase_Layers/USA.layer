@@ -1,0 +1,116 @@
+$grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_p.et" {
+ {
+  components {
+   PS_GroupCallsignAssigner "{5F0CF2F9859740EB}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 2
+   }
+  }
+  coords 2262.755 8.63 3186.354
+  angleY -120.411
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{5F0CF2F9859740EB}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 1
+   }
+  }
+  coords 2261.257 8.63 3188.906
+  angleY -120.411
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{5F0CF2F9859740EB}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 1
+   }
+  }
+  coords 1669.488 0.562 1910.588
+  angleY 13.593
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{5F0CF2F9859740EB}" {
+    m_iCompanyCallsign 3
+    m_iSquadCallsign 1
+   }
+  }
+  coords 325.152 1.388 2323.765
+  angleY 45.31
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{5F0CF2F9859740EB}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 2
+   }
+  }
+  coords 1673.735 0.562 1909.561
+  angleY 13.593
+ }
+}
+$grp SCR_AIGroup : "{E25C65A6D4926522}Prefabs/Groups/BLUFOR/Group_US_PlatoonSquad_P.et" {
+ {
+  components {
+   PS_GroupCallsignAssigner "{5F0CF2F9BF13A3D4}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 2264.788 8.625 3183.59
+  angleY -125.16
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{5F0CF2F9BF13A3D4}" {
+   }
+  }
+  coords 2266.534 11.079 3180.516
+  m_aUnitPrefabSlots {
+   "{5124771ECBFB79A7}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Officer_P.et"
+  }
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{5F0CF2F9BF13A3D4}" {
+    m_iCompanyCallsign 2
+   }
+  }
+  coords 1665.271 0.558 1911.243
+  angleY 8.844
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{5F0CF2F9BF13A3D4}" {
+    m_iCompanyCallsign 3
+   }
+  }
+  coords 320.419 1.384 2328.046
+  angleY 40.561
+  m_aUnitPrefabSlots {
+   "{D164278FD7D9C81A}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_PL_P.et" "{B452527EA042DFF0}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Sniper_P.et"
+  }
+ }
+}
+$grp Vehicle : "{F6B23D17D5067C11}Prefabs/Vehicles/Wheeled/M151A2/M151A2_M2HB.et" {
+ M151A2_M2HB3 {
+  coords 305.296 1.223 2323.628
+  angleX 1.896
+  angleY 44.76
+  angleZ -0.641
+ }
+ M151A2_M2HB4 {
+  coords 316.782 1.499 2335.198
+  angleY 44.797
+ }
+ M151A2_M2HB2 {
+  coords 312.503 1.437 2330.887
+  angleY 44.792
+ }
+ M151A2_M2HB5 {
+  coords 300.019 1.005 2318.31
+  angleX 1.266
+  angleY 44.781
+  angleZ -0.005
+ }
+}

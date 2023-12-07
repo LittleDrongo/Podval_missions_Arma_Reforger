@@ -1,8 +1,0 @@
-SCR_ChimeraCharacter : "{0E7312ACCBFDA538}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_PL1_P.et" {
- ID "520EC961A090B1EE"
- components {
-  PS_PlayableComponent "{5E61249E5A65C9C6}" {
-   m_name "Командир 2-го взвода"
-  }
- }
-}

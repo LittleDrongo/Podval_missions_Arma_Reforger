@@ -7,6 +7,9 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
    PS_GroupCallsignAssigner "{5F0CD1CD8C15DE8B}" {
     m_iCompanyCallsign 1
    }
+   PS_GroupCallsignAssigner "{5F0CF2CA5860FA6D}" {
+    Enabled 0
+   }
   }
   coords 6124.854 124.785 5201.556
  }
@@ -19,6 +22,9 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
     m_iCompanyCallsign 1
     m_iSquadCallsign 1
    }
+   PS_GroupCallsignAssigner "{5F0CF2CA5860FA6D}" {
+    Enabled 0
+   }
   }
   coords 6122 124.815 5201.556
  }
@@ -29,6 +35,9 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
    }
    PS_GroupCallsignAssigner "{5F0CD1CDC87848E4}" {
     m_iCompanyCallsign 2
+   }
+   PS_GroupCallsignAssigner "{5F0CF2CA5860FA6D}" {
+    Enabled 0
    }
   }
   coords 6109.097 124.786 5201.556
@@ -42,6 +51,9 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
     m_iCompanyCallsign 2
     m_iSquadCallsign 1
    }
+   PS_GroupCallsignAssigner "{5F0CF2CA5860FA6D}" {
+    Enabled 0
+   }
   }
   coords 6111.63 124.878 5201.556
  }
@@ -52,6 +64,9 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
    }
    PS_GroupCallsignAssigner "{5F0CD1CDDEFB7AF2}" {
     m_iCompanyCallsign 3
+   }
+   PS_GroupCallsignAssigner "{5F0CF2CA5860FA6D}" {
+    Enabled 0
    }
   }
   coords 6152.832 121.58 5201.556
@@ -65,6 +80,9 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
     m_iCompanyCallsign 3
     m_iSquadCallsign 1
    }
+   PS_GroupCallsignAssigner "{5F0CF2CA5860FA6D}" {
+    Enabled 0
+   }
   }
   coords 6148.696 121.552 5201.556
  }
@@ -77,16 +95,16 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
     m_iCompanyCallsign 3
     m_iSquadCallsign 2
    }
+   PS_GroupCallsignAssigner "{5F0CF2CA5860FA6D}" {
+    Enabled 0
+   }
   }
   coords 6150.943 121.552 5201.556
  }
 }
 SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_P.et" {
  components {
-  AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "Line"
-  }
-  PS_GroupCallsignAssigner "{5F0CD1CD80B4F049}" {
+  PS_GroupCallsignAssigner "{5F0CF2C6EC29CB00}" {
   }
  }
  coords 6132.806 121.066 5182.529
