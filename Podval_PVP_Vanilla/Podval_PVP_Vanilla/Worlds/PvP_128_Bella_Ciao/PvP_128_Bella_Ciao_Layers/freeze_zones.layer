@@ -2,8 +2,8 @@ $grp SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/Restri
  {
   coords 4839.557 54.289 5852.001
   m_fWarnRadius 90
-  m_fZoneRadius 100
-  m_fZoneTeleportedRadius 110
+  m_fZoneRadius 150
+  m_fZoneTeleportedRadius 160
   {
    GenericEntity {
     ID "59D673B36B893D84"
@@ -18,8 +18,8 @@ $grp SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/Restri
  {
   coords 6109.438 127.427 5198.698
   m_fWarnRadius 190
-  m_fZoneRadius 200
-  m_fZoneTeleportedRadius 210
+  m_fZoneRadius 250
+  m_fZoneTeleportedRadius 260
   {
    GenericEntity {
     ID "59D673B36B893D84"

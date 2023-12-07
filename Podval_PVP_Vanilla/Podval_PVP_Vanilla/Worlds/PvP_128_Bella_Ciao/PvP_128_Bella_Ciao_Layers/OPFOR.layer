@@ -1,5 +1,34 @@
 Vehicle UAZ452_ambulance1 : "{43C4AF1EEBD001CE}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_ambulance.et" {
  components {
+  SCR_UniversalInventoryStorageComponent "{5D7E924E84B181BC}" {
+   MultiSlots {
+    MultiSlotConfiguration "{5D7EA3CA68FB9515}" {
+     SlotTemplate InventoryStorageSlot Bandages : FieldDressing {
+     }
+     NumSlots 80
+    }
+    MultiSlotConfiguration "{5D84B47FDEF684C1}" {
+     SlotTemplate InventoryStorageSlot Saline : Tourniquet {
+     }
+     NumSlots 20
+    }
+    MultiSlotConfiguration "{5D84B47F3360BA6B}" {
+     SlotTemplate InventoryStorageSlot Morphine {
+     }
+     NumSlots 20
+    }
+    MultiSlotConfiguration "{5D84B47F341951B5}" {
+     SlotTemplate InventoryStorageSlot Saline {
+     }
+     NumSlots 24
+    }
+    MultiSlotConfiguration "{5E3AC1AE9A7BEDB8}" {
+     SlotTemplate InventoryStorageSlot Saline {
+     }
+     NumSlots 3
+    }
+   }
+  }
   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
    m_fVehicleDestroyDamage 4493.57
   }
