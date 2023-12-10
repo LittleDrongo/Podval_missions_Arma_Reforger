@@ -1,0 +1,59 @@
+$grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescription/EditableMissionDescription.et" {
+ RULES {
+  coords 5534.73 61.71 10496.381
+  m_sTitle "#PS-Description_HeaderRules"
+  m_sTextData "ОБЩИЕ ПРАВИЛА"\
+  "— Всем запрещено надевать форму, головные уборы, разгрузки, бронижилеты противника (рюкзаки можно)"\
+  "— Количество радиостанций ограничено до 2-3 шт. в отделении."\
+  "— Время фризтайма 5 минут"\
+  ""\
+  "СПОСОБЫ ПОБЕДЫ ВС СССР"\
+  "— 1. Удержать контроль над городом Монтиньяк."\
+  "— 2. Нанести серьёзный урон ВС СССР."\
+  ""\
+  "СПОСОБЫ ПОБЕДЫ ДЛЯ ВС США"\
+  "— 1. Удержать контроль над городом Монтиньяк."\
+  "— 2. Нанести серьёзный урон Армия США."
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bEmptyFactionVisibility 1
+ }
+ FIA {
+  coords 5159.505 56.132 10322.095
+  m_sTitle "#PS-Description_HeaderFIA"
+  m_sTextData "ВВОДНАЯ ИНФОРМАЦИЯ:"\
+  "Агентурная разведка сообщила что ВС СССР обнаружила наше местоположение и в близжайшее время они планируют провести войсковую операцию. "\
+  ""\
+  "НАША ЗАДАЧА:"\
+  "Наша задача осуществить тёплый приём не прошенным гостям."
+  m_aVisibleForFactions {
+   "FIA"
+  }
+ }
+ USSR {
+  coords 5534.418 43.503 10540.239
+  m_sTitle "#PS-Description_HeaderUSSR"
+  m_sTextData "Удержать контроль над городом Монтиньяк."
+  m_aVisibleForFactions {
+   "USSR"
+  }
+ }
+ USA {
+  coords 5626.204 38.464 10536.691
+  m_sTitle "#PS-Description_HeaderUS"
+  m_sTextData "Удержать контроль над городом Монтиньяк."
+  m_aVisibleForFactions {
+   "US"
+  }
+ }
+ ABOUT {
+  coords 5568.057 56.802 10524.196
+  m_sTitle "#PS-Description_HeaderAboutMission"
+  m_sTextData "Встречный бой за контроль города Монтиньяк."
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bEmptyFactionVisibility 1
+ }
+}

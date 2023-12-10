@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{9DAC2540AF86117E}Worlds/PvP_90_Gravette/PvP_90_Gravette.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}
