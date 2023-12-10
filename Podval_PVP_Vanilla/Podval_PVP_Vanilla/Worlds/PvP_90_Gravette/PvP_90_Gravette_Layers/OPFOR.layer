@@ -1,34 +1,76 @@
+$grp Vehicle : "{C012BB3488BEA0C2}Prefabs/Vehicles/Wheeled/BTR70/BTR70.et" {
+ BTR1 {
+  coords 4783.997 149.688 7511.77
+  angleX -5.636
+  angleY -15.385
+  angleZ -0.3
+ }
+ BTR2 {
+  coords 4788.778 152.4 7485.632
+  angleX -5.384
+  angleY -2.005
+  angleZ -0.704
+ }
+ BTR3 {
+  coords 4788.752 156.188 7446.914
+  angleX -4.466
+  angleY 1.208
+  angleZ -0.094
+ }
+ BTR4 {
+  coords 4788.868 159.003 7409.601
+  angleX -3.576
+  angleY 1.207
+  angleZ -0.075
+ }
+ BTR5 {
+  coords 4789.135 160.352 7386.529
+  angleX -3.576
+  angleY 1.207
+  angleZ -0.075
+ }
+ BTR6 {
+  coords 4774.517 146.036 7541.696
+  angleX -6.758
+  angleY -17.979
+  angleZ -0.616
+ }
+}
 $grp SCR_AIGroup : "{D52B025B45C01253}Prefabs/Groups/OPFOR/Group_USSR_PlatoonSquad_P.et" {
- {
+ P_1_0 {
   components {
    PS_GroupCallsignAssigner "{5F0CF2C246D3042D}" {
     m_iCompanyCallsign 1
    }
   }
-  coords 5233.444 171.625 7020.52
-  angleY -140.418
+  coords 4772.352 145.309 7564.671
+  angleX -15.785
+  angleY -20.79
+  angleZ -0.31
   m_aUnitPrefabSlots {
    "{6772CFC570B0D2EF}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_PL_P.et" "{A8A47F001DA13B73}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Sharpshooter_P.et" "{DD80FA65DDFF68B9}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Medic_P.et"
   }
  }
- {
+ P_2_0 {
   components {
    PS_GroupCallsignAssigner "{5F0CF2C246D3042D}" {
     m_iCompanyCallsign 2
    }
   }
-  coords 5177.7 173.776 7082.849
-  angleY -156.984
+  coords 4793.229 154.262 7466.977
+  angleX -15.547
+  angleY 1.3
+  angleZ -2.785
   m_aUnitPrefabSlots {
    "{6772CFC570B0D2EF}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_PL_P.et" "{A8A47F001DA13B73}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Sharpshooter_P.et" "{DD80FA65DDFF68B9}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Medic_P.et"
   }
  }
- {
+ P_0_0 {
   components {
    PS_GroupCallsignAssigner "{5F0CF2C246D3042D}" {
    }
   }
-  coords 5224.953 172.727 7089.388
+  coords 4785.381 155.108 7458.529
   angleY -140.418
   m_aUnitPrefabSlots {
    "{B5AEDC813E4F4A58}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Officer_P.et"
@@ -36,7 +78,7 @@ $grp SCR_AIGroup : "{D52B025B45C01253}Prefabs/Groups/OPFOR/Group_USSR_PlatoonSqu
  }
 }
 $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad_p.et" {
- {
+ P_1_1 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
@@ -46,13 +88,15 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
     m_iSquadCallsign 1
    }
   }
-  coords 5231.638 171.625 7022.697
-  angleY -135.711
+  coords 4776.822 146.245 7552.44
+  angleX -15.641
+  angleY -17.852
+  angleZ -0.143
   m_aUnitPrefabSlots + {
-   "{47B0BA658525301A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Rifleman_P.et" "{47B0BA658525301A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Rifleman_P.et" "{47B0BA658525301A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Rifleman_P.et"
+   "{868EC6BC9E4A9CC0}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_1_BTR_P.et" "{0752D7BC4DCBECD8}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_2_BTR_P.et"
   }
  }
- {
+ P_1_2 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
@@ -62,13 +106,15 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
     m_iSquadCallsign 2
    }
   }
-  coords 5230.002 171.625 7024.292
-  angleY -135.711
+  coords 4786.064 150.324 7523.249
+  angleX -15.641
+  angleY -17.935
+  angleZ -0.143
   m_aUnitPrefabSlots + {
-   "{47B0BA658525301A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Rifleman_P.et" "{47B0BA658525301A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Rifleman_P.et" "{47B0BA658525301A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Rifleman_P.et"
+   "{868EC6BC9E4A9CC0}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_1_BTR_P.et" "{0752D7BC4DCBECD8}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_2_BTR_P.et"
   }
  }
- {
+ P_2_2 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
@@ -78,13 +124,13 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
     m_iSquadCallsign 2
    }
   }
-  coords 5173.327 173.776 7085.483
-  angleY -152.277
+  coords 4792.811 158.333 7419.532
+  angleY -0.371
   m_aUnitPrefabSlots + {
-   "{47B0BA658525301A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Rifleman_P.et" "{47B0BA658525301A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Rifleman_P.et" "{47B0BA658525301A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Rifleman_P.et"
+   "{868EC6BC9E4A9CC0}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_1_BTR_P.et" "{0752D7BC4DCBECD8}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_2_BTR_P.et"
   }
  }
- {
+ P_2_1 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
@@ -94,25 +140,44 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
     m_iSquadCallsign 1
    }
   }
-  coords 5175.349 173.776 7084.42
-  angleY -152.277
+  coords 4792.878 155.419 7455.309
+  angleY 0.89
   m_aUnitPrefabSlots + {
-   "{47B0BA658525301A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Rifleman_P.et" "{47B0BA658525301A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Rifleman_P.et" "{47B0BA658525301A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Rifleman_P.et"
+   "{868EC6BC9E4A9CC0}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_1_BTR_P.et" "{0752D7BC4DCBECD8}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_2_BTR_P.et"
   }
  }
- {
+ P_2_3 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
    }
-   PS_GroupCallsignAssigner "{5F0EC8D17FBC8F34}" {
-    m_iCompanyCallsign 3
+   PS_GroupCallsignAssigner "{5F0CF2C25DC5E694}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 3
    }
   }
-  coords 5207.147 172.158 7097.984
-  angleY -80.757
-  m_aUnitPrefabSlots {
-   "{951CA4F244097071}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_MG_P.et" "{D1786D7659BC2E7C}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_AMG_P.et" "{D1786D7659BC2E7C}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_AMG_P.et"
+  coords 4793.155 160.161 7390.09
+  angleY -0.371
+  m_aUnitPrefabSlots + {
+   "{868EC6BC9E4A9CC0}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_1_BTR_P.et" "{0752D7BC4DCBECD8}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_2_BTR_P.et"
+  }
+ }
+ P_1_3 {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5F0CF2C25DC5E694}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 3
+   }
+  }
+  coords 4793.83 151.604 7493.905
+  angleX -7.734
+  angleY -3.431
+  angleZ -4.044
+  m_aUnitPrefabSlots + {
+   "{868EC6BC9E4A9CC0}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_1_BTR_P.et" "{0752D7BC4DCBECD8}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Crewman_2_BTR_P.et"
   }
  }
 }

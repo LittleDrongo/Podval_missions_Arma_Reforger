@@ -1,0 +1,124 @@
+$grp StaticModelEntity : "{9AF0242036F3D3D3}PrefabLibrary/Terrain/Erosion/ErodedEmbankment_01_dirt_straight.et" {
+ {
+  coords 9879.054 0.987 4673.917
+  angleX -14.904
+  angleY -89.067
+  scale 1.37
+ }
+ {
+  coords 9878.939 0.987 4666.982
+  angleX -14.904
+  angleY -89.067
+  scale 1.37
+ }
+ {
+  coords 9876.8 0.987 4659.529
+  angleX -14.904
+  angleY -60.119
+  scale 1.37
+ }
+ {
+  coords 9881.172 0.903 4673.715
+  angleX -19.529
+  angleY 88.582
+  angleZ 0.118
+  scale 1.37
+ }
+ {
+  coords 9881.171 0.903 4666.019
+  angleX -19.529
+  angleY 88.582
+  angleZ 0.118
+  scale 1.37
+ }
+ {
+  coords 9878.939 0.987 4683.544
+  angleX -14.904
+  angleY -89.067
+  scale 1.37
+ }
+ {
+  coords 9881.166 0.903 4682.58
+  angleX -19.529
+  angleY 88.582
+  angleZ 0.118
+  scale 1.37
+ }
+ {
+  coords 5560.195 86.282 5615.73
+  angleX -19.126
+  angleY 88.183
+  angleZ 1.313
+  scale 1.37
+ }
+ {
+  coords 5558.083 86.18 5607.066
+  angleX -15.253
+  angleY -88.762
+  angleZ -1.186
+  scale 1.37
+ }
+ {
+  coords 5557.969 86.041 5600.133
+  angleX -15.253
+  angleY -88.762
+  angleZ -1.186
+  scale 1.37
+ }
+ {
+  coords 5555.83 85.879 5592.682
+  angleX -14.655
+  angleY -59.813
+  angleZ -1.211
+  scale 1.37
+ }
+ {
+  coords 5560.202 86.106 5606.866
+  angleX -19.126
+  angleY 88.183
+  angleZ 1.313
+  scale 1.37
+ }
+ {
+  coords 5560.202 85.953 5599.171
+  angleX -19.126
+  angleY 88.183
+  angleZ 1.313
+  scale 1.37
+ }
+ {
+  coords 5557.968 86.37 5616.692
+  angleX -15.253
+  angleY -88.762
+  angleZ -1.186
+  scale 1.37
+ }
+ {
+  coords 5560.195 86.282 5623.624
+  angleX -19.126
+  angleY 88.183
+  angleZ 1.313
+  scale 1.37
+ }
+ {
+  coords 5557.968 86.37 5624.585
+  angleX -15.253
+  angleY -88.762
+  angleZ -1.186
+  scale 1.37
+ }
+ {
+  coords 5560.195 86.282 5630.889
+  angleX -19.126
+  angleY 88.183
+  angleZ 1.313
+  scale 1.37
+ }
+ {
+  coords 5557.968 86.37 5631.85
+  angleX -15.253
+  angleY -88.762
+  angleZ -1.186
+  scale 1.37
+ }
+}
