@@ -54,7 +54,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  ABOUT {
   coords 5568.057 56.802 10524.196
   m_sTitle "#PS-Description_HeaderAboutMission"
-  m_sTextData "Встречный бой за контроль города Граветт."
+  m_sTextData "Бой за контроль города Граветт."
   m_aVisibleForFactions {
    "US" "USSR" "FIA"
   }
