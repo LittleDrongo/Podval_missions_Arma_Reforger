@@ -1,0 +1,470 @@
+$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ attack4 {
+  coords 3110.883 28.144 2566.467
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack3 {
+  coords 3085.533 27.174 2576.738
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack5 {
+  coords 3067.002 27.322 2580.903
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack6 {
+  coords 3043.663 26.845 2589.108
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack7 {
+  coords 3021.903 27.989 2598.912
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack8 {
+  coords 3017.492 25.247 2631.562
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack9 {
+  coords 3014.59 28.455 2648.045
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack10 {
+  coords 3005.198 25.74 2667.459
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack11 {
+  coords 2997.326 24.534 2683.861
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack12 {
+  coords 2991.439 23.755 2696.926
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack13 {
+  coords 2983.276 23.136 2712.871
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack14 {
+  coords 2973.374 24.28 2733.833
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack15 {
+  coords 2974.448 24.515 2738.833
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack16 {
+  coords 2989.313 21.922 2735.635
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack17 {
+  coords 3004.814 20.091 2731.151
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack18 {
+  coords 3016.007 18.16 2754.383
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack19 {
+  coords 3027.173 17.718 2777.513
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack20 {
+  coords 3039.297 16.418 2807.32
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack21 {
+  coords 3050.788 13.239 2839.493
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack22 {
+  coords 3068.067 11.748 2865.157
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack23 {
+  coords 3068.109 11.715 2889.544
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack24 {
+  coords 3095.74 10.511 2911.445
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack25 {
+  coords 3127.516 7.283 2923.47
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack26 {
+  coords 3154.676 7.449 2903.274
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack27 {
+  coords 3180.445 7.748 2884.114
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack28 {
+  coords 3204.026 6.822 2860.373
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack29 {
+  coords 3222.751 6.407 2844.283
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack30 {
+  coords 3235.231 5.076 2850.175
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack31 {
+  coords 3240.291 6.618 2826.673
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack32 {
+  coords 3242.639 8.98 2800.848
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack33 {
+  coords 3243.624 11.546 2780.416
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack34 {
+  coords 3245.433 14.643 2756.217
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack35 {
+  coords 3240.381 17.795 2723.878
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack36 {
+  coords 3235.544 19.047 2700.899
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack37 {
+  coords 3223.144 19.123 2677.069
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack38 {
+  coords 3201.48 18.573 2646.678
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack39 {
+  coords 3182.741 18.924 2623.406
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack40 {
+  coords 3160.294 21.526 2600.589
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack41 {
+  coords 3135.948 25.13 2581.151
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.235 0.063 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+}
