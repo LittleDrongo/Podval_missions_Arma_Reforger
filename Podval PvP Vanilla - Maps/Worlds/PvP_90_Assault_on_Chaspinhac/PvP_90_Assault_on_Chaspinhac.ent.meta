@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{747D426A6A3FA9E7}Worlds/PvP_90_Assault_on_Chaspinhac/PvP_90_Assault_on_Chaspinhac.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}

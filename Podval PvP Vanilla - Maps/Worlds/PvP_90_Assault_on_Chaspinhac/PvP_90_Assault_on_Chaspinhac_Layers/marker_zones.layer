@@ -1,0 +1,98 @@
+$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ point_1 {
+  coords 1480.096 0 1103.705
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 0 0 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ point_2 {
+  coords 1406.546 0.956 1174.567
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 0 0 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ point_3 {
+  coords 1304.188 0 1237.915
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 0 0 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ point_4 {
+  coords 1235.88 -0 1300.215
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 0 0 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ point_5 {
+  coords 1149.789 0 1293.473
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 0 0 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ point_6 {
+  coords 1046.52 0 1318.332
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 0 0 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ point_7 {
+  coords 956.161 0 1353.127
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 0 0 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ point_8 {
+  coords 838.586 0 1370.892
+  m_sImageSet "{BCD5479864D1A79A}UI/Textures/Map/topographicIcons/icons_topographic_map.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 0 0 1
+  m_sQuadName "single-bush"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+}

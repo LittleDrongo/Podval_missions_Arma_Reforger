@@ -1,0 +1,20 @@
+GameProject {
+ ID "PodvalPvPVanillaMaps"
+ GUID "5F170B961ED57736"
+ TITLE "Podval PvP Vanilla - Maps"
+ Dependencies {
+  "5E5EE20DFDEDE5F0" "58D0FB3206B6F859" "5EAF354E3B3071C4"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

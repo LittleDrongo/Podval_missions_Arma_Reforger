@@ -1,0 +1,66 @@
+$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ USSR_inf {
+  coords 1394.194 7.635 2593.056
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "infantry-opfor"
+  m_fWorldSize 35
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack2 {
+  coords 1281.162 15.734 938.614
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "Task_Attack"
+  m_fWorldSize 35
+  m_sDescription "Фабрика"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack3 {
+  coords 1147.649 14.387 1091.362
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "Task_Attack"
+  m_fWorldSize 35
+  m_sDescription "Адм. здание"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ bluefor_inf {
+  coords 1299.351 4.309 1004.496
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "infantry-blufor"
+  m_fWorldSize 35
+  m_sDescription "Atlas, Blazer"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ bluefor_inf2 {
+  coords 1243.138 5.993 1054.073
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "infantry-blufor"
+  m_fWorldSize 35
+  m_sDescription "Chaos"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+}

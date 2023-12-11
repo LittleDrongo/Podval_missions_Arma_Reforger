@@ -1,0 +1,92 @@
+$grp Vehicle : "{3EA6F47D95867114}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB.et" {
+ M1025_armed_M2HB2 {
+  coords 3896.065 15.26 8420.546
+  angleY 4.034
+ }
+ M1025_armed_M2HB1 {
+  coords 3901.272 15.219 8419.943
+  angleY 4.034
+ }
+ M1025_armed_M2HB3 {
+  coords 3905.9 15.219 8419.577
+  angleY 4.034
+ }
+ M1025_armed_M2HB4 {
+  coords 3911.057 15.219 8419.253
+  angleY 4.034
+ }
+}
+$grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_p.et" {
+ Plt_2_1 {
+  components {
+   PS_GroupCallsignAssigner "{5F0EC8D11D41FA11}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 1
+   }
+  }
+  coords 1137.063 10.87 1089.118
+  angleY 111.2
+ }
+ Plt_2_2 {
+  components {
+   PS_GroupCallsignAssigner "{5F0EC8D1167628A0}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 2
+   }
+  }
+  coords 1137.62 10.856 1092.64
+  angleY 110.105
+ }
+ Plt_1_1 {
+  components {
+   PS_GroupCallsignAssigner "{5F0EC8D10CFDCCE5}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 2
+   }
+  }
+  coords 1286.924 3.874 966.091
+  angleX -1.087
+  angleY 49.477
+  angleZ 0.837
+ }
+}
+$grp SCR_AIGroup : "{E25C65A6D4926522}Prefabs/Groups/BLUFOR/Group_US_PlatoonSquad_P.et" {
+ Plt_2_0 {
+  components {
+   PS_GroupCallsignAssigner "{5F0CF2F9BF13A3D4}" {
+    m_iCompanyCallsign 2
+   }
+  }
+  coords 1136.78 10.886 1086.33
+  angleX -1.09
+  angleY 106.097
+  angleZ -0.834
+ }
+ Plt_1_0 {
+  components {
+   PS_GroupCallsignAssigner "{5F0CF2F9BF13A3D4}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 1289.19 3.844 963.43
+  angleX 0.958
+  angleY 51.936
+  angleZ -0.908
+  m_aUnitPrefabSlots + {
+   "{64AD55FF89C97DF9}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman_P.et"
+  }
+ }
+ Plt_0 {
+  components {
+   PS_GroupCallsignAssigner "{5F0CF2F9BF13A3D4}" {
+   }
+  }
+  coords 1293.567 3.77 962.795
+  angleX 1.234
+  angleY 18.024
+  angleZ 0.468
+  m_aUnitPrefabSlots {
+   "{5124771ECBFB79A7}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Officer_P.et"
+  }
+ }
+}
