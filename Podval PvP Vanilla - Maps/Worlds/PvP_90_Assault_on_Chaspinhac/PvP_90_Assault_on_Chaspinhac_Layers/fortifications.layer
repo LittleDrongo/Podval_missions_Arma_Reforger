@@ -152,10 +152,10 @@ $grp StaticModelEntity : "{1C2C424CBCF3A599}PrefabLibrary/Terrain/Erosion/Eroded
   scale 0.47
  }
  {
-  coords 894.307 17.897 1109.267
+  coords 894.289 17.728 1109.263
   angleX -3.373
   angleY 24.316
-  angleZ 5.481
+  angleZ 1.225
   scale 0.47
  }
 }

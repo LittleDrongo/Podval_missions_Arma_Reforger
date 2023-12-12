@@ -1,0 +1,149 @@
+SCR_GameModeEditor GameMode_Editor_Full1 : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor/GameMode_Editor_Full.et" {
+ components {
+  PS_LanguageManager "{5EE94125006C04E8}" {
+   Enabled 0
+  }
+  SCR_ArsenalManagerComponent "{57155C58179F516B}" {
+   Enabled 0
+  }
+  SCR_CallsignManagerComponent "{56B6E8B2652E1419}" {
+   Enabled 0
+  }
+  SCR_CampaignBuildingManagerComponent "{5D7CEE59B8954EBB}" {
+   m_OutlineManager SCR_CampaignBuildingCompositionOutlineManager "{5DF6FBB5913F3245}" {
+    m_aCompositionLayouts {
+     SCR_CampaignBuildingCompositionOutline "{5F1771E6AD4E30F8}" {
+      m_sEditableEntity "{B2BE9F96CF7399CC}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatLarge/E_Helipad_L_USSR_01.et"
+      m_sCompositionLayout "{2862411B0FB84CF7}Prefabs/Compositions/Misc/FreeRoamBuilding/Layouts/FRB_LivingArea_L_USSR_01.et"
+     }
+    }
+   }
+  }
+  SCR_CommandingManagerComponent "{5D24CC701B322136}" {
+   Enabled 0
+  }
+  SCR_CompositionSlotManagerComponent "{56C2DDA631D5EE38}" {
+   Enabled 0
+  }
+  SCR_DataCollectorComponent "{5ADE83EE64329989}" {
+   Enabled 0
+  }
+  SCR_EditorRespawnBriefingComponent "{570245454BF91285}" {
+   Enabled 0
+  }
+  SCR_GameModeHealthSettings "{5A22E11F9ACBB1DF}" {
+   Enabled 0
+  }
+  SCR_GameOverScreenManagerComponent "{56DEC646298AD219}" {
+   Enabled 0
+  }
+  SCR_GroupsManagerComponent "{5706EC99934496F5}" {
+   Enabled 0
+  }
+  SCR_HintManagerComponent "{5702B54C6CBC9D7F}" {
+   Enabled 0
+  }
+  SCR_InitWeatherComponent "{58DCAB6D83A0CB17}" {
+   Enabled 0
+  }
+  SCR_MapConfigComponent "{5C669498E250A34B}" {
+   Enabled 0
+  }
+  SCR_MapMarkerManagerComponent "{5D32E876D3886A72}" {
+   Enabled 0
+  }
+  SCR_NametagConfigComponent "{571AA9E54FC9210D}" {
+   Enabled 0
+  }
+  SCR_NightModeGameModeComponent "{5D50E84688D5A408}" {
+   Enabled 0
+  }
+  SCR_NotificationSenderComponent "{56FA84B04BE7D4C0}" {
+   Enabled 0
+  }
+  SCR_PlayerSpawnPointManagerComponent "{56C2DDA69EF94C6D}" {
+   Enabled 0
+  }
+  SCR_PlayersRestrictionZoneManagerComponent "{56D09BEE802CA7C5}" {
+   Enabled 0
+  }
+  SCR_PossessingManagerComponent "{56E0B02F4D91C3EF}" {
+   Enabled 0
+  }
+  SCR_RadialMenuItemsComponent "{5C92B03271ABD8AA}" {
+   Enabled 0
+  }
+  SCR_ReconnectComponent "{5A02809D5E8ABE42}" {
+   Enabled 0
+  }
+  SCR_RestoreEditorModesComponent "{5DAD37E0319AC92E}" {
+   Enabled 0
+   m_bRestoreLimitedEditors 1
+  }
+  SCR_RewindComponent "{5DBB38A8E194B4AA}" {
+   Enabled 0
+  }
+  SCR_SaveLoadComponent "{58FA739CBE3E9FC5}" {
+   Enabled 0
+  }
+  SCR_ScoringSystemComponent "{56C2DDA6F5A5E41B}" {
+   Enabled 0
+  }
+  SCR_SpawnerAIGroupManagerComponent "{5D24928789534FCF}" {
+   Enabled 0
+  }
+  SCR_SupportStationManagerComponent "{5B0AB3A852FCBF7E}" {
+   Enabled 0
+  }
+  SCR_VotingManagerComponent "{5650BB6B6089393A}" {
+   Enabled 0
+  }
+  SCR_WelcomeScreenComponent "{5D7290AC8A3E657E}" {
+   Enabled 0
+  }
+  SerializerInventoryStorageManagerComponent "{5A8C89AA30C7A9A6}" {
+   Enabled 0
+  }
+ }
+ Flags 2097152
+ {
+  RadioManagerEntity {
+   ID "56E685E9ECAABCFD"
+   Flags 2097152
+  }
+  ScriptedChatEntity {
+   ID "56E685E9EF952A67"
+   Flags 2097155
+  }
+  SCR_FactionManager "5F177E0571C4D46F" {
+   ID "56E685E92F1B7E7A"
+   Flags 2097152
+  }
+  SCR_BaseTaskManager {
+   ID "56E685E92F1B7FAB"
+   Flags 2097155
+   {
+    SCR_BaseTaskSupportEntity {
+     ID "5A0AA0B0D37D2B35"
+     Flags 2097155
+    }
+    SCR_EditorTaskSupportEntity {
+     ID "5A0AA0B0D37D2BC3"
+     Flags 2097155
+    }
+    SCR_TriggerTaskSupportEntity {
+     ID "5A0AA0B0D37D2BFF"
+     Flags 2097155
+    }
+   }
+  }
+  SCR_EditorSettingsEntity {
+   ID "5982CAB0B3E6AA4C"
+   Flags 2097155
+  }
+  SCR_LoadoutManager {
+   ID "56E685E92F1B7E2A"
+   Flags 2097152
+  }
+ }
+}

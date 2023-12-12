@@ -1,0 +1,74 @@
+SCR_AIWorld : "{70CCCF16487C927F}Prefabs/AI/SCR_AIWorld_Eden.et" {
+ coords 4823.654 28.101 11857.553
+}
+PerceptionManager PerceptionManager1 : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+ coords 4820.043 28.069 11859.924
+}
+TagManager : "{2FA9E172CAB1857A}Prefabs/MP/Managers/TagManager.et" {
+ coords 4820.878 28.09 11859.204
+}
+PS_GameModeCoop PS_GameMode_Lobby1 : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_GameMode_Lobby.et" {
+ components {
+  SCR_CampaignBuildingManagerComponent "{5F177E02157C1D7B}" {
+   m_sFreeRoamBuildingClientTrigger "{5E191CEAF4B95816}Prefabs/MP/FreeRoamBuildingClientTrigger.et"
+   m_BudgetType CAMPAIGN
+   m_iCompositionRefundPercentage 100
+   m_OutlineManager SCR_CampaignBuildingCompositionOutlineManager "{5F177E02695FF3C1}" {
+    m_sSlotFlatSmallLayout "{7FD4E6A668B4537A}Prefabs/Compositions/Misc/FreeRoamBuilding/Layouts/FRB_SlotFLatSmall.et"
+    m_sSlotFlatMediumLayout "{579FF731013436B5}Prefabs/Compositions/Misc/FreeRoamBuilding/Layouts/FRB_SlotFlatMedium.et"
+    m_sSlotFlatLargeLayout "{D06D9D47008E794F}Prefabs/Compositions/Misc/FreeRoamBuilding/Layouts/FRB_SlotRoadLarge.et"
+    m_sSlotRoadSmallLayout "{8DBA7E7BF662A393}Prefabs/Compositions/Misc/FreeRoamBuilding/Layouts/FRB_SlotRoadSmall.et"
+    m_sSlotRoadMediumLayout "{3A5E87ADA26C6940}Prefabs/Compositions/Misc/FreeRoamBuilding/Layouts/FRB_SlotRoadMedium.et"
+    m_sSlotRoadLargeLayout "{D06D9D47008E794F}Prefabs/Compositions/Misc/FreeRoamBuilding/Layouts/FRB_SlotRoadLarge.et"
+    m_aCompositionLayouts {
+     SCR_CampaignBuildingCompositionOutline "{5D34D094366A7550}" {
+      m_sEditableEntity "{18BEFC9A7FA72CD8}PrefabsEditable/Auto/Compositions/Misc/FreeRoamBuilding/E_BarbedTapeKnifeRest_S_US_01.et"
+      m_sCompositionLayout "{9721D32C8E5CDE9C}Prefabs/Compositions/Misc/FreeRoamBuilding/Layouts/FRB_BarbedTapeKnifeRest.et"
+      m_iBuildingValue 20
+     }
+     SCR_CampaignBuildingCompositionOutline "{5D72F0270133FB37}" {
+      m_sEditableEntity "{54523DB76981D7E0}PrefabsEditable/Auto/Compositions/Misc/FreeRoamBuilding/E_CzechHedgehog_S_01_painted.et"
+      m_sCompositionLayout "{8E0A17590AA58A72}Prefabs/Compositions/Misc/FreeRoamBuilding/Layouts/FRB_CzechHedgehog.et"
+      m_iBuildingValue 20
+     }
+     SCR_CampaignBuildingCompositionOutline "{5F177E025AD3BB48}" {
+      m_sEditableEntity "{F3208517509E0B9B}PrefabsEditable/Auto/Compositions/Misc/FreeRoamBuilding/E_Dragonsteeth_S_US_01.et"
+      m_sCompositionLayout "{8E0A17590AA58A72}Prefabs/Compositions/Misc/FreeRoamBuilding/Layouts/FRB_CzechHedgehog.et"
+      m_iBuildingValue 20
+     }
+     SCR_CampaignBuildingCompositionOutline "{5E5F0CB45E2A23A7}" {
+      m_sEditableEntity "{CC778DF86D8A69F5}PrefabsEditable/Auto/Compositions/Misc/FreeRoamBuilding/E_SandbagWallPlastic_S_US_01.et"
+      m_sCompositionLayout "{F470194B53F2A4F2}Prefabs/Compositions/Misc/FreeRoamBuilding/Layouts/FRB_Sandbag_Solid.et"
+      m_iBuildingValue 30
+     }
+     SCR_CampaignBuildingCompositionOutline "{5D72F02746156600}" {
+      m_sEditableEntity "{9E4FAFB289C2EA68}PrefabsEditable/Auto/Compositions/Misc/FreeRoamBuilding/E_SandbagRoundHighBurlap_S_USSR_01.et"
+      m_sCompositionLayout "{A407FE596AB356EE}Prefabs/Compositions/Misc/FreeRoamBuilding/Layouts/FRB_Sandbag_01_Round.et"
+      m_iBuildingValue 20
+     }
+     SCR_CampaignBuildingCompositionOutline "{5D34D092A3936AEF}" {
+      m_sEditableEntity "{977FF11A13375BEB}PrefabsEditable/Auto/Compositions/Misc/FreeRoamBuilding/E_SandbagLongBurlap_S_USSR_01.et"
+      m_sCompositionLayout "{1EC6725681D75742}Prefabs/Compositions/Misc/FreeRoamBuilding/Layouts/FRB_Sandbag_Long.et"
+      m_iBuildingValue 20
+     }
+     SCR_CampaignBuildingCompositionOutline "{5D62992D16358CB8}" {
+      m_sEditableEntity "{93C99155F356A38A}PrefabsEditable/Auto/Compositions/Misc/FreeRoamBuilding/E_SandbagLongHighBurlap_S_USSR_01.et"
+      m_sCompositionLayout "{1EC6725681D75742}Prefabs/Compositions/Misc/FreeRoamBuilding/Layouts/FRB_Sandbag_Long.et"
+      m_iBuildingValue 30
+     }
+    }
+   }
+   m_sPrefabsToBuildResource "{D2527D9AA5B4A33E}Configs/Editor/PlaceableEntities/Compositions/Compositions_FreeRoamBuilding.conf"
+  }
+  SCR_TimeAndWeatherHandlerComponent "{5EE3229927D4D2F5}" {
+   m_iStartingHours 9
+  }
+ }
+ coords -1532.325 -117.873 5563.803
+ m_bKillRedundantUnits 1
+ m_bRemoveSquadMarkers 1
+ m_iFreezeTime 300000
+}
+HitRegistrationManager HitRegManager1 : "{0EDA3D48791120DD}Prefabs/MP/HitRegManager.et" {
+ coords 4821.052 27.968 11861.742
+}

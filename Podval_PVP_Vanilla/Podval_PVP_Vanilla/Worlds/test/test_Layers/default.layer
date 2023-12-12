@@ -122,3 +122,6 @@ $grp StaticModelEntity : "{9AF0242036F3D3D3}PrefabLibrary/Terrain/Erosion/Eroded
   scale 1.37
  }
 }
+SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad_p.et" {
+ coords 4824.957 65.896 11823.283
+}
