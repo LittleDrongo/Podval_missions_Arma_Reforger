@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{3EE5B606574AAA1C}Worlds/PvP_Test_world/PvP_test_world.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}
