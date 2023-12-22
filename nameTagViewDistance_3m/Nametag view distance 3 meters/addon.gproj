@@ -1,0 +1,8 @@
+GameProject {
+ ID "Nametagviewdistance3meters"
+ GUID "5F27399D7277A18A"
+ TITLE "Nametag view distance 3 meters"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
