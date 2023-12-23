@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{BB94F7B05AB99BED}Images/Battle_for_regina_img.edds"
+ Name "{519A62BD212C0127}Images/regina_battle_img.edds"
  Configurations {
   JPGResourceClass PC : "{DC555BD399D92412}Configs/System/ResourceTypes/PC/TextureUnspecified.conf" {
   }
