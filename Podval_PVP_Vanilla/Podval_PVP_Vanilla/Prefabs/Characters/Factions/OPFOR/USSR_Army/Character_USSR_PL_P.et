@@ -23,8 +23,24 @@ SCR_ChimeraCharacter : "{6A840CB36D1670C2}Prefabs/Characters/Factions/OPFOR/USSR
   }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{22963D69CA50EB9E}Prefabs/Characters/HeadGear/Helmet_SSh68_01/Helmet_SSh68_01_net.et"
+    }
+    LoadoutSlotInfo Jacket {
+     Prefab "{9F546CCA2582D16F}Prefabs/Characters/Uniforms/Jacket_M88.et"
+    }
+    LoadoutSlotInfo ArmoredVest {
+     Enabled 1
+     Prefab "{4CBDC206FEF9897C}Prefabs/Characters/Vests/Vest_6B3/Vest_6B3.et"
+    }
+    LoadoutSlotInfo Pants {
+     Prefab "{DCF980831E880F6A}Prefabs/Characters/Uniforms/Pants_M88.et"
+    }
     LoadoutSlotInfo Back {
      Prefab "{54C68E438DD34265}Prefabs/Items/Equipment/Radios/Radio_R107M.et"
+    }
+    LoadoutSlotInfo Vest {
+     Prefab ""
     }
    }
   }

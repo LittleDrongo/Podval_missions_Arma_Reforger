@@ -7,11 +7,11 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "— Количество радиостанций ограничено до 2-3 шт. в отделении. "\
   ""\
   "СПОСОБЫ ПОБЕДЫ ВС СССР "\
-  "— 1. Занять административное здание Штаба ВС США и удерживать в течении 5-10 минут."\
+  "— 1. Удержать контроль над городом Регина."\
   "— 2. Нанести серьёзный урон Армия США. "\
   ""\
   "СПОСОБЫ ПОБЕДЫ ДЛЯ ВС США "\
-  "— 1. Удержать контроль над штабом размещенным в городе Регина. "\
+  "— 1. Захватить и удержать город Регина."\
   "— 2. Нанести серьёзный урон ВС СССР. "
   m_aVisibleForFactions {
    "US" "USSR" "FIA"
@@ -33,7 +33,10 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  USSR {
   coords 5534.418 43.503 10540.239
   m_sTitle "#PS-Description_HeaderUSSR"
-  m_sTextData "Получить контроль над городом Регина."
+  m_sTextData "Удержать контроль над городом Регина."\
+  ""\
+  "ВНИМАНИЕ!"\
+  "Вертолёт Ми-8МТ не заправлены! Не теряйте время на фризтайме, заправляйте вертолёт."
   m_aVisibleForFactions {
    "USSR"
   }
@@ -41,12 +44,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  USA {
   coords 5626.204 38.464 10536.691
   m_sTitle "#PS-Description_HeaderUS"
-  m_sTextData "Удержать контроль над городом Регина."\
-  ""\
-  "Обратите внимание! В пункте временной дислокации имеется арсенал с ПТ минами и ПТ средствами. "\
-  ""\
-  "Противник превосходит США по численности личного состава и бронетехники."\
-  ""
+  m_sTextData "Захватить город Регина."
   m_aVisibleForFactions {
    "US"
   }
@@ -55,6 +53,20 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   coords 5568.057 56.802 10524.196
   m_sTitle "#PS-Description_HeaderAboutMission"
   m_sTextData "Бой за контроль города Регина."
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bEmptyFactionVisibility 1
+ }
+ FORCES {
+  coords 7165.422 144.467 2319.141
+  m_sTitle "Техника сторон"
+  m_sTextData "Техника США: "\
+  "M998 M2 (Хамви): x11"\
+  ""\
+  "Техника СССР:"\
+  "Ми-8МТ x1"\
+  "УАЗ-452 (Буханка) x1"
   m_aVisibleForFactions {
    "US" "USSR" "FIA"
   }
