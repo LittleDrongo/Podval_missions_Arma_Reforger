@@ -1,0 +1,15 @@
+SCR_ChimeraCharacter : "{29897044D8592C99}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_TL.et" {
+ ID "520EC961A090B1EE"
+ components {
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{3F7F0D1881E59439}Prefabs/Weapons/Rifles/AK74/Rifle_AK74_Ses_CDF.et"
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Back {
+     Prefab "{3DE0155EC9767B98}Prefabs/Items/Equipment/Backpacks/Backpack_Veshmeshok.et"
+    }
+   }
+  }
+ }
+}

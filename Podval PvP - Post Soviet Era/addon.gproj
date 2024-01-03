@@ -1,0 +1,77 @@
+GameProject {
+ ID "PodvalPvPPostSovietEra"
+ GUID "60472E56A7CBC173"
+ TITLE "Podval PvP - Post Soviet Era"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+ Configurations {
+  GameProjectConfig PC {
+   WidgetManagerSettings WidgetManagerSettings "{AC4BE58770485E02}" {
+    StringTables {
+     StringTableDefinition "{604744B0562FAC05}" {
+      StringTableSource "{152461DE0635F771}Language/RolesNames.st"
+      Languages {
+       LanguageDefinition "{604744B0510A344B}" {
+        Code "cs_cz"
+        StringTableRuntime "{0F8464F6DC724B13}Language/RolesNames.cs_cz.conf"
+       }
+       LanguageDefinition "{604744B0510A3435}" {
+        Code "de_de"
+        StringTableRuntime "{DAFA7EC5CFD15A33}Language/RolesNames.de_de.conf"
+       }
+       LanguageDefinition "{604744B0510A341D}" {
+        Code "en_us"
+        StringTableRuntime "{840AF48EA5225F32}Language/RolesNames.en_us.conf"
+       }
+       LanguageDefinition "{604744B0510A35EB}" {
+        Code "es_es"
+        StringTableRuntime "{4146B9074B20342D}Language/RolesNames.es_es.conf"
+       }
+       LanguageDefinition "{604744B0510A35FA}" {
+        Code "fr_fr"
+        StringTableRuntime "{FAEE4C30ADA3D72F}Language/RolesNames.fr_fr.conf"
+       }
+       LanguageDefinition "{604744B0510A35C5}" {
+        Code "it_it"
+        StringTableRuntime "{7AF2C304008154D6}Language/RolesNames.it_it.conf"
+       }
+       LanguageDefinition "{604744B0510A35D1}" {
+        Code "ja_jp"
+        StringTableRuntime "{6AE97E963EF0647D}Language/RolesNames.ja_jp.conf"
+       }
+       LanguageDefinition "{604744B0510A35BD}" {
+        Code "ko_kr"
+        StringTableRuntime "{CA57563AADDD6742}Language/RolesNames.ko_kr.conf"
+       }
+       LanguageDefinition "{604744B0510A358A}" {
+        Code "pl_pl"
+        StringTableRuntime "{9626F0C01332FB3E}Language/RolesNames.pl_pl.conf"
+       }
+       LanguageDefinition "{604744B0510A3594}" {
+        Code "pt_br"
+        StringTableRuntime "{43516A0C28CC3184}Language/RolesNames.pt_br.conf"
+       }
+       LanguageDefinition "{604744B0510A357A}" {
+        Code "ru_ru"
+        StringTableRuntime "{16107EA4B5B554F2}Language/RolesNames.ru_ru.conf"
+       }
+       LanguageDefinition "{604744B0510A36A3}" {
+        Code "zh_cn"
+        StringTableRuntime "{46F8456FE03B3ABA}Language/RolesNames.zh_cn.conf"
+       }
+      }
+     }
+    }
+   }
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

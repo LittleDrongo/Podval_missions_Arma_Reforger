@@ -1,0 +1,38 @@
+$grp SCR_AIGroup : "{F497C91720379FE7}Prefabs/Groups/BLUFOR/Group_CDF_RifleSquad.et" {
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+  }
+  coords 3820.403 311.125 8853.856
+  angleY 26.987
+  m_aUnitPrefabSlots {
+   "{16165F4184929A6A}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_SL.et" "{6B0EB3B9E101A6F0}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_SR.et" "{7B9EAE5EB616387A}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_AR.et" "{A336C79FCF9F2626}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_AT.et" "{A0FFE636D44E5918}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_AAT.et" "{764BD07F41A15150}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_GL.et" "{6DA7E54B8E4F3FC3}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_LAT.et" "{9DE22FB5586591CC}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Rifleman.et"
+  }
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+  }
+  coords 3825.684 311.125 8851.167
+  angleY 26.987
+  m_aUnitPrefabSlots {
+   "{29897044D8592C9A}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_MG.et" "{2A4051EDC38853A7}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_AMG.et" "{2A4051EDC38853A7}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_AMG.et"
+  }
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+  }
+  coords 3823.185 311.125 8852.439
+  angleY 26.987
+  m_aUnitPrefabSlots {
+   "{8F08E6D89975ABF9}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_PL.et" "{2A4051EDC38853A7}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_AMG.et" "{16165F4184929A69}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Medic.et"
+  }
+ }
+}
