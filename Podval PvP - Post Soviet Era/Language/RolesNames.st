@@ -1,11 +1,35 @@
 StringTable {
  ItemClassName "CustomStringTableItem"
  Items {
+  CustomStringTableItem "{6048E3A3C7FC0B33}" {
+   Id "DRG-Automatic_rifleman_RPK"
+   Target_en_us "Automatic rifleman"
+   Target_ru_ru "Пулемётчик РПК"
+   Modified 1615397889
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{604744B0A9F4D6F3}" {
    Id "DRG-COMPANY_LEADER"
    Target_en_us "Company Leader"
    Target_ru_ru "Командир роты"
    Modified 1615283655
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{6048E3AB987DEBB7}" {
+   Id "DRG-Description_HeaderCDF"
+   Target_en_us "Tasks for CDF"
+   Target_ru_ru "Задачи для ЧСО"
+   Modified 1615401750
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{6048E3AB7E2BE2B7}" {
+   Id "DRG-Description_HeaderRUS"
+   Target_en_us "Tasks for AFRF"
+   Target_ru_ru "Задачи для ВС РФ"
+   Modified 1615401621
    Author "hasta"
    LastChanged "hasta"
   }

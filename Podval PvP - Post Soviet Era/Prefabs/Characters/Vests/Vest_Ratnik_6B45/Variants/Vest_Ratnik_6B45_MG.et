@@ -1,0 +1,47 @@
+GenericEntity : "{1EED0C006408490B}Prefabs/Characters/Vests/Vest_Ratnik_6B45/Vest_Ratnik_6B45_Loadout_base.et" {
+ ID "50D8C49B3558F152"
+ components {
+  ClothNodeStorageComponent "{5DEB2A8AB559C576}" {
+   Attributes SCR_ItemAttributeCollection "{5DEB2A8AB559C568}" {
+    ItemDisplayName UIInfo "{5DEB2A8AB559C56B}" {
+     Name "#AR-LBS_Harness_MG_Name"
+     Description "#AR-LBS_Harness_MG_Description"
+    }
+   }
+  }
+  MeshObject "{5312D798A817A294}" {
+   Object "{8D7B9D2378659684}Assets/Characters/Vests/Vest_Common/rhs_equipment_empty_item.xob"
+  }
+  BaseLoadoutClothComponent "{5312D798A71DFBB1}" {
+   Slots {
+    LoadoutSlotInfo Pouch1 {
+     AutoTransform 1
+     Prefab ""
+     AreaType LoadoutVestArea "{6048CEFEB950CEAE}" {
+     }
+    }
+    LoadoutSlotInfo Pouch2 {
+     Prefab ""
+    }
+    LoadoutSlotInfo Pouch3 {
+    }
+    LoadoutSlotInfo Bayonet {
+     PivotID "Spine5"
+     Offset 0.17 0.08 0.142
+     Angles 0 30 1
+     Prefab "{F03EAAE51C256CFA}Prefabs/Items/Equipment/Accessories/Pouch_Soviet_100rnd_PKM/Pouch_Soviet_100rnd_PKM.et"
+    }
+    LoadoutSlotInfo FirstAid {
+     Prefab ""
+    }
+    LoadoutSlotInfo Etool {
+     PivotID "Spine5"
+     Offset 0.2013 -0.053 -0.0457
+     Angles -3.3068 98.44891 0.2473
+     Prefab ""
+    }
+   }
+   DebugWornModel 0
+  }
+ }
+}

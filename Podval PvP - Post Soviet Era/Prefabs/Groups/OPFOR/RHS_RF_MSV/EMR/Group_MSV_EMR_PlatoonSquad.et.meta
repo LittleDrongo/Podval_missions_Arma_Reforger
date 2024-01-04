@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{A9E489D4A7DB8926}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Unarmed.et"
+ Name "{407ABD5B1CBB7AD9}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_PlatoonSquad.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
