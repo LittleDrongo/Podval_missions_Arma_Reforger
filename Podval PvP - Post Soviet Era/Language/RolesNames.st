@@ -1,6 +1,14 @@
 StringTable {
  ItemClassName "CustomStringTableItem"
  Items {
+  CustomStringTableItem "{604B22650FBF60AB}" {
+   Id "DRG-Automatic_rifleman_assistant"
+   Target_en_us "Assistant Automatic Rifleman"
+   Target_ru_ru "Помощник пулемётчика"
+   Modified 1615539588
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{6048E3A3C7FC0B33}" {
    Id "DRG-Automatic_rifleman_RPK"
    Target_en_us "Automatic rifleman"

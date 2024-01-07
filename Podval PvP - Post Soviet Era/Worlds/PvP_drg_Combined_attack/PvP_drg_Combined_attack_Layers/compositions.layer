@@ -1,0 +1,30 @@
+GenericEntity : "{2ACE3A315F531CFD}Prefabs/Compositions/Slotted/SlotFlatMedium/FieldHospital_M_USSR_01.et" {
+ coords 4956.426 172.729 13056.248
+ angleX 0.895
+ angleY -0.014
+ angleZ -0.895
+}
+StaticModelEntity : "{2D303C505CC6576A}Prefabs/Structures/Military/Camps/TentUSSR_01/TentUSSR_01_camonet_foundation.et" {
+ coords 5062.293 170.539 12996.496
+ angleX -0.895
+ angleY 178.195
+ angleZ 0.028
+}
+GenericEntity : "{4510C273B794F3A9}Prefabs/Compositions/Slotted/SlotFlatMedium/VehicleMaintenance_M_USSR_01.et" {
+ coords 5079.065 171.527 13023.926
+ angleX 0.148
+ angleY 87.637
+ angleZ 3.573
+}
+StaticModelEntity : "{6DEC3A82BA35F108}Prefabs/Compositions/Misc/SubCompositions/Tent_BarrackHQ_Cluttered_USSR_01.et" {
+ coords 5020.134 170.288 12986.155
+ angleX 1.644
+ angleY 91.211
+ angleZ 0.97
+}
+GenericEntity : "{7C85836D444E3797}Prefabs/Compositions/Slotted/SlotRoadMedium/Checkpoint_M_USSR_01.et" {
+ coords 4808.806 174.132 13110.489
+ angleX -1.05
+ angleY -95.064
+ angleZ -1.704
+}

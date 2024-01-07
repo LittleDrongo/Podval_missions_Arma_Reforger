@@ -1,0 +1,560 @@
+$grp GenericEntity : "{6762F7C5C3A2419B}Prefabs/Props/Military/Sandbags/Sandbag_01_short_plastic.et" {
+ {
+  coords 4803.625 0.567 13122.281
+  angleX 0.436
+  angleY -98.371
+  angleZ -1.12
+  Flags 525315
+ }
+ {
+  coords 4803.364 0.609 13124.044
+  angleX 0.31
+  angleY -104.681
+  angleZ -1.161
+  Flags 525315
+ }
+ {
+  coords 4802.921 0.632 13125.732
+  angleX 0.31
+  angleY -104.681
+  angleZ -1.161
+  Flags 525315
+ }
+ {
+  coords 4802.565 0.667 13127.094
+  angleX 0.31
+  angleY -104.681
+  angleZ -1.161
+  Flags 525315
+ }
+ {
+  coords 4801.917 0.711 13128.636
+  angleY -119.644
+  angleZ -1.202
+  Flags 525315
+ }
+ {
+  coords 4799.997 0.75 13136.681
+  angleX 0.063
+  angleY -116.651
+  angleZ -1.2
+  Flags 525315
+ }
+ {
+  coords 4801.202 0.739 13132.02
+  angleX 0.371
+  angleY -101.688
+  angleZ -1.143
+  Flags 525315
+ }
+ {
+  coords 4800.847 0.732 13133.729
+  angleX 0.371
+  angleY -101.688
+  angleZ -1.143
+  Flags 525315
+ }
+ {
+  coords 4800.562 0.74 13135.106
+  angleX 0.371
+  angleY -101.688
+  angleZ -1.143
+  Flags 525315
+ }
+ {
+  coords 4801.369 0.73 13130.245
+  angleX 0.494
+  angleY -95.377
+  angleZ -1.096
+  Flags 525315
+ }
+ {
+  coords 4797.387 0.805 13143.453
+  angleX -0.669
+  angleY -140.849
+  angleZ -1.418
+  Flags 525315
+ }
+ {
+  coords 4799.634 0.759 13139.354
+  angleX 0.181
+  angleY -108.977
+  angleZ -1.557
+  Flags 525315
+ }
+ {
+  coords 4799.064 0.762 13141.007
+  angleX 0.181
+  angleY -108.977
+  angleZ -1.557
+  Flags 525315
+ }
+ {
+  coords 4798.42 0.782 13142.365
+  angleX -0.197
+  angleY -122.833
+  angleZ -1.555
+  Flags 525315
+ }
+ {
+  coords 4800.024 0.753 13137.613
+  angleX 0.351
+  angleY -102.668
+  angleZ -1.528
+  Flags 525315
+ }
+ {
+  coords 4796.146 0.822 13144.462
+  angleX -0.669
+  angleY -140.849
+  angleZ -1.418
+  Flags 525315
+ }
+ {
+  coords 4794.818 0.831 13145.563
+  angleX -0.669
+  angleY -140.849
+  angleZ -1.418
+  Flags 525315
+ }
+ {
+  coords 4793.875 0.845 13146.787
+  angleX -0.029
+  angleY -116.649
+  angleZ -1.567
+  Flags 525315
+ }
+ {
+  coords 4793.123 0.857 13148.387
+  angleX 0.235
+  angleY -106.983
+  angleZ -1.55
+  Flags 525315
+ }
+ {
+  coords 4792.767 0.731 13149.979
+  angleX 0.455
+  angleY -98.735
+  angleZ 0.037
+  Flags 525315
+ }
+ {
+  coords 4792.248 0.684 13151.507
+  angleX 0.447
+  angleY -115.218
+  angleZ -0.094
+  Flags 525315
+ }
+ {
+  coords 4791.99 0.649 13153.146
+  angleX 0.434
+  angleY -85.176
+  angleZ 0.142
+  Flags 525315
+ }
+ {
+  coords 4792.253 0.685 13154.688
+  angleX 0.434
+  angleY -85.176
+  angleZ -2.351
+  Flags 525315
+ }
+ {
+  coords 4792.081 0.704 13156.367
+  angleX -0.176
+  angleY -99.851
+  angleZ -2.385
+  Flags 525315
+ }
+ {
+  coords 4791.579 0.721 13157.924
+  angleX -0.745
+  angleY -113.754
+  angleZ -2.272
+  Flags 525315
+ }
+ {
+  coords 4790.993 0.746 13159.468
+  angleX -0.032
+  angleY -96.376
+  angleZ -2.391
+  Flags 525315
+ }
+ {
+  coords 4790.699 0.784 13161.042
+  angleX -0.097
+  angleY -97.936
+  angleZ -2.389
+  Flags 525315
+ }
+ {
+  coords 4790.231 0.806 13162.658
+  angleX -0.515
+  angleY -108.043
+  angleZ -2.335
+  Flags 525315
+ }
+ {
+  coords 4789.604 0.823 13164.25
+  angleX -0.515
+  angleY -108.043
+  angleZ -2.335
+  Flags 525315
+ }
+ {
+  coords 4789.18 0.84 13165.549
+  angleX -0.515
+  angleY -108.043
+  angleZ -2.335
+  Flags 525315
+ }
+ {
+  coords 4788.352 0.798 13166.956
+  angleX -1.262
+  angleY -127.462
+  angleZ 0.791
+  Flags 525315
+ }
+ {
+  coords 4787.114 0.671 13168.049
+  angleX -1.705
+  angleY -141.084
+  angleZ 1.178
+  Flags 525315
+ }
+ {
+  coords 4785.998 0.596 13168.95
+  angleX -1.622
+  angleY -144.951
+  angleZ 1.29
+  Flags 525315
+ }
+ {
+  coords 4784.759 0.706 13169.947
+  angleX -1.622
+  angleY -144.951
+  angleZ -5.13
+  Flags 525315
+ }
+ {
+  coords 4783.741 0.704 13170.979
+  angleX 0.256
+  angleY -124.737
+  angleZ 0.198
+  Flags 525315
+ }
+ {
+  coords 4782.984 0.5 13172.644
+  angleX 3.323
+  angleY -89.391
+  angleZ -4.233
+  Flags 525315
+ }
+ {
+  coords 4783.018 0.671 13174.309
+  angleX 2.753
+  angleY -96.754
+  angleZ -4.624
+  Flags 525315
+ }
+ {
+  coords 4782.595 0.785 13175.943
+  angleX 1.553
+  angleY -110.725
+  angleZ -5.151
+  Flags 525315
+ }
+ {
+  coords 4782.048 0.872 13177.398
+  angleX 1.553
+  angleY -110.725
+  angleZ -5.151
+  Flags 525315
+ }
+ {
+  coords 4781.736 0.882 13178.752
+  angleX 3.273
+  angleY -90.067
+  angleZ 3.193
+  Flags 525315
+ }
+ {
+  coords 4781.519 0.694 13180.501
+  angleX 3.003
+  angleY -99.062
+  angleZ -1.964
+  Flags 525315
+ }
+ {
+  coords 4781.084 0.711 13182.067
+  angleX 2.191
+  angleY -118.251
+  angleZ -2.841
+  Flags 525315
+ }
+ {
+  coords 4780.525 0.843 13183.468
+  angleX 3.128
+  angleY -102.489
+  angleZ -4.03
+  Flags 525315
+ }
+ {
+  coords 4780.104 0.842 13185.144
+  angleX 1.123
+  angleY -110.404
+  angleZ 2.217
+  Flags 525315
+ }
+ {
+  coords 4779.456 0.735 13186.657
+  angleX 1.123
+  angleY -110.404
+  angleZ 2.217
+  Flags 525315
+ }
+ {
+  coords 4778.901 0.767 13188.146
+  angleX 1.123
+  angleY -110.404
+  angleZ -3.929
+  Flags 525315
+ }
+ {
+  coords 4778.413 0.835 13189.46
+  angleX 1.569
+  angleY -103.786
+  angleZ -3.773
+  Flags 525315
+ }
+ {
+  coords 4777.868 0.784 13190.903
+  angleX 0.694
+  angleY -116.568
+  angleZ 1.372
+  Flags 525315
+ }
+ {
+  coords 4777.225 0.717 13192.188
+  angleX 0.694
+  angleY -116.568
+  angleZ 1.372
+  Flags 525315
+ }
+ {
+  coords 4776.875 0.628 13193.631
+  angleX 0.245
+  angleY -98.905
+  angleZ 1.518
+  Flags 525315
+ }
+ {
+  coords 4776.534 0.554 13195.109
+  angleX 0.487
+  angleY -108.203
+  angleZ 1.458
+  Flags 525315
+ }
+ {
+  coords 4776.113 0.712 13196.2
+  angleX 0.487
+  angleY -108.203
+  angleZ -7.123
+  Flags 525315
+ }
+ {
+  coords 4775.664 0.789 13197.835
+  angleX -3.398
+  angleY -108.16
+  angleZ -0.631
+  Flags 525315
+ }
+ {
+  coords 4774.856 0.593 13199.24
+  angleX -3.3
+  angleY -135.98
+  angleZ 1.026
+  Flags 525315
+ }
+ {
+  coords 4773.453 0.596 13200.154
+  angleX -2.87
+  angleY -152.6
+  angleZ 1.927
+  Flags 525315
+ }
+ {
+  coords 4772.062 0.623 13200.872
+  angleX -2.985
+  angleY -156.829
+  angleZ -1.457
+  Flags 525315
+ }
+ {
+  coords 4770.52 0.717 13201.687
+  angleX -8.659
+  angleY -156.684
+  angleZ -1.472
+  Flags 525315
+ }
+ {
+  coords 4768.974 0.572 13202.314
+  angleX -8.659
+  angleY -156.684
+  angleZ 2.721
+  Flags 525315
+ }
+ {
+  coords 4767.403 0.422 13202.682
+  angleX -7.827
+  angleY -169.761
+  angleZ 4.604
+  Flags 525315
+ }
+ {
+  coords 4765.779 0.625 13203.158
+  angleX -1.992
+  angleY -148.139
+  angleZ -5.993
+  Flags 525315
+ }
+ {
+  coords 4764.41 0.726 13204.002
+  angleX -1.992
+  angleY -148.139
+  angleZ -3.556
+  Flags 525315
+ }
+ {
+  coords 4762.903 0.777 13204.724
+  angleX -2.282
+  angleY -152.924
+  angleZ -3.378
+  Flags 525315
+ }
+ {
+  coords 4761.589 0.823 13205.391
+  angleX -2.282
+  angleY -152.924
+  angleZ -3.378
+  Flags 525315
+ }
+ {
+  coords 4760.188 0.796 13206.232
+  angleX -1.007
+  angleY -133.21
+  angleZ -3.949
+  Flags 525315
+ }
+ {
+  coords 4759.075 0.872 13207.414
+  angleX -1.007
+  angleY -133.21
+  angleZ -3.949
+  Flags 525315
+ }
+ {
+  coords 4757.903 0.943 13208.684
+  angleX -0.415
+  angleY -124.757
+  angleZ -4.054
+  Flags 525315
+ }
+ {
+  coords 4756.885 1.005 13210.04
+  angleX -0.415
+  angleY -124.757
+  angleZ -4.054
+  Flags 525315
+ }
+ {
+  coords 4752.568 0.697 13216.28
+  angleX 0.694
+  angleY -109.131
+  angleZ -5.337
+  Flags 525315
+ }
+ {
+  coords 4751.989 0.674 13217.816
+  angleX 0.685
+  angleY -107.598
+  angleZ 0.367
+  Flags 525315
+ }
+ {
+  coords 4751.246 0.634 13219.211
+  angleX 0.758
+  angleY -123.074
+  angleZ -2.777
+  Flags 525315
+ }
+ {
+  coords 4750.561 0.76 13220.566
+  angleX 1.406
+  angleY -109.105
+  angleZ -2.512
+  Flags 525315
+ }
+ {
+  coords 4749.801 0.796 13221.83
+  angleX 0.632
+  angleY -125.658
+  angleZ -2.808
+  Flags 525315
+ }
+ {
+  coords 4749.044 0.821 13223.235
+  angleX 2.287
+  angleY -85.737
+  angleZ -1.748
+  Flags 525315
+ }
+ {
+  coords 4749.282 0.831 13224.751
+  angleX 2.507
+  angleY -77.796
+  angleZ -1.416
+  Flags 525315
+ }
+ {
+  coords 4749.533 0.855 13226.4
+  angleX 2.319
+  angleY -84.669
+  angleZ -1.705
+  Flags 525315
+ }
+ {
+  coords 4749.696 0.886 13228.131
+  angleX 2.319
+  angleY -84.669
+  angleZ -1.705
+  Flags 525315
+ }
+ {
+  coords 4749.85 0.937 13229.763
+  angleX 2.319
+  angleY -84.669
+  angleZ -1.705
+  Flags 525315
+ }
+ {
+  coords 4750.002 0.985 13231.372
+  angleX 2.319
+  angleY -84.669
+  angleZ -1.705
+  Flags 525315
+ }
+ {
+  coords 4750.165 0.957 13233.136
+  angleX 1.912
+  angleY -96.738
+  angleZ -2.152
+  Flags 525315
+ }
+}
+StaticModelEntity : "{D4177594212A056F}Prefabs/Props/Military/Sandbags/Sandbag_01_bunker_plastic_foundation.et" {
+ coords 4751.658 176.632 13212.085
+ angleX 0.262
+ angleY -123.069
+ angleZ -1.238
+}
