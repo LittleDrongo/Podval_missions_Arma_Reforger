@@ -4,11 +4,31 @@ GenericEntity : "{2ACE3A315F531CFD}Prefabs/Compositions/Slotted/SlotFlatMedium/F
  angleY -0.014
  angleZ -0.895
 }
-StaticModelEntity : "{2D303C505CC6576A}Prefabs/Structures/Military/Camps/TentUSSR_01/TentUSSR_01_camonet_foundation.et" {
- coords 5062.293 170.539 12996.496
- angleX -0.895
- angleY 178.195
- angleZ 0.028
+$grp StaticModelEntity : "{2D303C505CC6576A}Prefabs/Structures/Military/Camps/TentUSSR_01/TentUSSR_01_camonet_foundation.et" {
+ {
+  coords 5062.293 170.539 12996.496
+  angleX -0.895
+  angleY 178.195
+  angleZ 0.028
+ }
+ {
+  coords 5052.64 170.534 12996.191
+  angleX -0.895
+  angleY 178.195
+  angleZ 0.028
+ }
+ {
+  coords 5043.316 170.529 12995.896
+  angleX -0.895
+  angleY 178.195
+  angleZ 0.028
+ }
+ {
+  coords 5033.891 170.524 12995.6
+  angleX -0.895
+  angleY 178.195
+  angleZ 0.028
+ }
 }
 GenericEntity : "{4510C273B794F3A9}Prefabs/Compositions/Slotted/SlotFlatMedium/VehicleMaintenance_M_USSR_01.et" {
  coords 5079.065 171.527 13023.926
@@ -27,4 +47,8 @@ GenericEntity : "{7C85836D444E3797}Prefabs/Compositions/Slotted/SlotRoadMedium/C
  angleX -1.05
  angleY -95.064
  angleZ -1.704
+}
+StaticModelEntity : "{8CDB9C117669AF4A}Prefabs/Structures/Military/Camps/HelipadImprovised_01/HelipadImprovised_USSR_01.et" {
+ coords 5007.847 0.049 13114.056
+ angleY 0.763
 }

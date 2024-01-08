@@ -16,9 +16,7 @@ PS_GameModeCoop PS_GameMode_Lobby1 : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_Game
  }
  m_fAutoReloadTime 300
  m_iAvailableReconnectTime 300000
- m_bCanOpenLobbyInGame 1
- m_bRemoveSquadMarkers 1
- m_iFreezeTime 300000
+ m_iFreezeTime 600000
  {
   SCR_FactionManager "5F2B25DD2FE1CDD2" {
    ID "5ED9088735FF2D8B"
