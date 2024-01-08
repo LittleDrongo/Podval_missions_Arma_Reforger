@@ -1,0 +1,8 @@
+GameProject {
+ ID "PodvalPvPPostSovietEra2"
+ GUID "6050B1AB3294CEA8"
+ TITLE "Podval PvP - Post Soviet Era 2"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
