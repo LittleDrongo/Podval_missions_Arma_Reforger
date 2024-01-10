@@ -1,0 +1,8 @@
+MatPBRBasic {
+ Color 0.376 0.745 0.468 1
+ SpecularIBL 1 1 1 1
+ RoughnessScale 1.3
+ MetalnessScale 1.5
+ BCRMap "{ACA7BCF0D7A2109C}Assets/Items/Equipment/Radios/Radio_R107M/Data/Radio_R107M_01_BCR.edds"
+ NMOMap "{947F07620ED54202}Assets/Items/Equipment/Radios/Radio_R107M/Data/Radio_R107M_01_NMO.edds"
+}

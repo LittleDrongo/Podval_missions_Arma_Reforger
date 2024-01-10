@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{4E4E8A67CBC75BB1}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_SR.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

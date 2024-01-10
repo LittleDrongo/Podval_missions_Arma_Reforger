@@ -1,0 +1,13 @@
+GameEntity : "{CD83152AA78F35DD}Prefabs/Characters/HeadGear/Hat_Shemagh/Hat_Shemagh.et" {
+ ID "50D485E1435D6C72"
+ components {
+  MeshObject "{5112706CD4157AE0}" {
+   Materials {
+    MaterialAssignClass "{6054F4E9D4093C8D}" {
+     SourceMaterial "Shemagh"
+     AssignedMaterial "{5A4E0D5A5E608DEF}Assets/Characters/HeadGear/Shemagh/Data/Shemagh_black.emat"
+    }
+   }
+  }
+ }
+}

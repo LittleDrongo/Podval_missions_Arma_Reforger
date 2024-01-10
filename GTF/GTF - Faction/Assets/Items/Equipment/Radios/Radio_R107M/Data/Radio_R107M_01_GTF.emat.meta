@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{617F6AFA478651F8}Assets/Items/Equipment/Radios/Radio_R107M/Data/Radio_R107M_01_GTF.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

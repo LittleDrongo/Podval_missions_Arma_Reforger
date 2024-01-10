@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{5A4E0D5A5E608DEF}Assets/Characters/HeadGear/Shemagh/Data/Shemagh_black.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}
