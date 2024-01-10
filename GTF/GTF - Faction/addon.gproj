@@ -1,0 +1,77 @@
+GameProject {
+ ID "GTFFaction"
+ GUID "6054BD25805D47CF"
+ TITLE "GTF - Faction"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+ Configurations {
+  GameProjectConfig PC {
+   WidgetManagerSettings WidgetManagerSettings "{AC4BE58770485E02}" {
+    StringTables {
+     StringTableDefinition "{6054C4BB93884ECF}" {
+      StringTableSource "{1D0BE5857994E65E}Language/mainText.st"
+      Languages {
+       LanguageDefinition "{6054C4BB9E6F5340}" {
+        Code "cs_cz"
+        StringTableRuntime "{D6E4EF666CBA60E7}Language/mainText.cs_cz.conf"
+       }
+       LanguageDefinition "{6054C4BB9E6F530C}" {
+        Code "de_de"
+        StringTableRuntime "{039AF5557F1971C7}Language/mainText.de_de.conf"
+       }
+       LanguageDefinition "{6054C4BB9E6F531B}" {
+        Code "en_us"
+        StringTableRuntime "{5D6A7F1E15EA74C6}Language/mainText.en_us.conf"
+       }
+       LanguageDefinition "{6054C4BB9E6F5CEB}" {
+        Code "es_es"
+        StringTableRuntime "{98263297FBE81FD9}Language/mainText.es_es.conf"
+       }
+       LanguageDefinition "{6054C4BB9E6F5CFC}" {
+        Code "fr_fr"
+        StringTableRuntime "{238EC7A01D6BFCDB}Language/mainText.fr_fr.conf"
+       }
+       LanguageDefinition "{6054C4BB9E6F5CCA}" {
+        Code "it_it"
+        StringTableRuntime "{A3924894B0497F22}Language/mainText.it_it.conf"
+       }
+       LanguageDefinition "{6054C4BB9E6F5CD9}" {
+        Code "ja_jp"
+        StringTableRuntime "{B389F5068E384F89}Language/mainText.ja_jp.conf"
+       }
+       LanguageDefinition "{6054C4BB9E6F5CA8}" {
+        Code "ko_kr"
+        StringTableRuntime "{1337DDAA1D154CB6}Language/mainText.ko_kr.conf"
+       }
+       LanguageDefinition "{6054C4BB9E6F5CBA}" {
+        Code "pl_pl"
+        StringTableRuntime "{4F467B50A3FAD0CA}Language/mainText.pl_pl.conf"
+       }
+       LanguageDefinition "{6054C4BB9E6F5C8C}" {
+        Code "pt_br"
+        StringTableRuntime "{9A31E19C98041A70}Language/mainText.pt_br.conf"
+       }
+       LanguageDefinition "{6054C4BB9E6F5C99}" {
+        Code "ru_ru"
+        StringTableRuntime "{CF70F534057D7F06}Language/mainText.ru_ru.conf"
+       }
+       LanguageDefinition "{6054C4BB9E6F5C65}" {
+        Code "zh_cn"
+        StringTableRuntime "{9F98CEFF50F3114E}Language/mainText.zh_cn.conf"
+       }
+      }
+     }
+    }
+   }
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

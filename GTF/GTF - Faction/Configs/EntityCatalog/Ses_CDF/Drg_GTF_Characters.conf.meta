@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{55B8E907A8026C71}Configs/EntityCatalog/Ses_CDF/Drg_GTF_Characters.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

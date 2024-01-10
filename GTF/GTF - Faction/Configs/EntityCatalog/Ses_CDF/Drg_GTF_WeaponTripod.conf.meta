@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{8F8287CECE3B4F8B}Configs/EntityCatalog/Ses_CDF/Drg_GTF_WeaponTripod.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}
