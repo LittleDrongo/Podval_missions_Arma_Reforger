@@ -1,0 +1,13 @@
+GameEntity : "{DCF980831E880F6A}Prefabs/Characters/Uniforms/Pants_M88.et" {
+ ID "5104869D194C6243"
+ components {
+  MeshObject "{5104869D194C6262}" {
+   Materials {
+    MaterialAssignClass "{605504E3118EFC31}" {
+     SourceMaterial "pants_M88_01"
+     AssignedMaterial "{331A358F4B16A539}Assets/Characters/Uniforms/Pants_M88/Data/Pants_M88_01_item_blk.emat"
+    }
+   }
+  }
+ }
+}

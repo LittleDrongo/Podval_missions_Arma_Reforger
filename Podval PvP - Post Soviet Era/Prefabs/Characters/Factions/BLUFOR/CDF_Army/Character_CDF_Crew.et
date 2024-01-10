@@ -1,3 +1,13 @@
 SCR_ChimeraCharacter : "{7E40A30CA801819C}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_BaseLoadout.et" {
  ID "520EC961A090B1EE"
+ components {
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{5F38CCEF4072B9AC}" {
+     PrefabsToSpawn +{
+     }
+    }
+   }
+  }
+ }
 }

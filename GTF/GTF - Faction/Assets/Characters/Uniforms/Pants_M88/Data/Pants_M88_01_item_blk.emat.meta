@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{331A358F4B16A539}Assets/Characters/Uniforms/Pants_M88/Data/Pants_M88_01_item_blk.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

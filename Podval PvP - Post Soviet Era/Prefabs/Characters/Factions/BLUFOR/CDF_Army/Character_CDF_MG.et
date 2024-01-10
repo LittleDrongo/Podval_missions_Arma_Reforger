@@ -13,6 +13,10 @@ SCR_ChimeraCharacter : "{7E40A30CA801819C}Prefabs/Characters/Factions/BLUFOR/CDF
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{5F38CCEF4072B9AC}" {
+     PrefabsToSpawn +{
+     }
+    }
     ItemsInitConfigurationItem "{604730702D9DCA55}" {
      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok.et"
      PrefabsToSpawn {

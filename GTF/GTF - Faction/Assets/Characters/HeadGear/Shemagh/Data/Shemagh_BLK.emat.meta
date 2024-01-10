@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{A9307C924C9043EB}Assets/Characters/HeadGear/Shemagh/Data/Shemagh_BLK.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

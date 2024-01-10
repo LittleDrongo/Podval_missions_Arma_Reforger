@@ -3,7 +3,7 @@ GameProject {
  GUID "6054BD25805D47CF"
  TITLE "GTF - Faction"
  Dependencies {
-  "58D0FB3206B6F859"
+  "58D0FB3206B6F859" "595F2BF2F44836FB"
  }
  Configurations {
   GameProjectConfig PC {

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{FC32A6B8BF0FFE21}Prefabs/Characters/Uniforms/Pants_M88_Black.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

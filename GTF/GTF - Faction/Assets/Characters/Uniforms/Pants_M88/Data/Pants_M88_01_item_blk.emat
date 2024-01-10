@@ -1,0 +1,6 @@
+MatPBRBasic {
+ Color 0.019 0.019 0.019 1
+ CavityFromAO 1
+ BCRMap "{F339444378B87C85}Assets/Characters/Uniforms/Pants_M88/Data/Pants_M88_01_item_BCR.edds"
+ NMOMap "{CBE1FFD1A1CF2E1B}Assets/Characters/Uniforms/Pants_M88/Data/Pants_M88_01_item_NMO.edds"
+}

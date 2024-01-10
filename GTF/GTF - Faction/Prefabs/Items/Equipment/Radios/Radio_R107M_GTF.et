@@ -14,9 +14,9 @@ GenericEntity : "{5879D8E9C56E358E}Prefabs/Items/Equipment/Radios/Radio_Deployab
   MeshObject "{5A30BAE7673C63D1}" {
    Object "{77C9FCF3FB1246E9}Assets/Items/Equipment/Radios/Radio_R107M/Radio_R107M_01_item.xob"
    Materials {
-    MaterialAssignClass "{6054F4EA834BAE25}" {
+    MaterialAssignClass "{60553B6F455AFDCF}" {
      SourceMaterial "Radio_R107M_01"
-     AssignedMaterial "{617F6AFA478651F8}Assets/Items/Equipment/Radios/Radio_R107M/Data/Radio_R107M_01_GTF.emat"
+     AssignedMaterial "{5E3649192B032E9C}Assets/Items/Equipment/Radios/Radio_R107M/Data/Radio_R107M_01_Mlod_GTF.emat"
     }
    }
   }

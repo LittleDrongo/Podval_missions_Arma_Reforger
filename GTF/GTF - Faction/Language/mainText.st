@@ -97,5 +97,29 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{605504E117BA1FFF}" {
+   Id "DRG-Role_CompanyLeader"
+   Target_en_us "Field commander"
+   Target_ru_ru "Полевой командир"
+   Modified 1616197786
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{605504E10BB16D78}" {
+   Id "DRG-Role_PlatoonLeader"
+   Target_en_us "Group commander"
+   Target_ru_ru "Командир группы"
+   Modified 1616197761
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{605504E10EB3A66A}" {
+   Id "DRG-Role_SquadLeader"
+   Target_en_us "Squad Commander"
+   Target_ru_ru "Командир отряда"
+   Modified 1616197732
+   Author "hasta"
+   LastChanged "hasta"
+  }
  }
 }

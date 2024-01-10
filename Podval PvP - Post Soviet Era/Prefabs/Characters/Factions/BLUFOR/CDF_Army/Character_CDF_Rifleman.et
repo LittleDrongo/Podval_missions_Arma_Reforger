@@ -11,6 +11,14 @@ SCR_ChimeraCharacter : "{7E40A30CA801819C}Prefabs/Characters/Factions/BLUFOR/CDF
     }
    }
   }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{5F38CCEF4072B9AC}" {
+     PrefabsToSpawn +{
+     }
+    }
+   }
+  }
  }
  coords 3816.243 311.125 8856.166
 }

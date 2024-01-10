@@ -1,0 +1,42 @@
+SCR_ChimeraCharacter : "{8676FE41E559DB67}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_AT.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "#AR-Role_AntiTankAssistant"
+    Icon "{FB48FAD32DA8BC91}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_AmmoBearer.edds"
+   }
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFB7}" {
+   WeaponTemplate ""
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{AFA2ADC004D48F57}Prefabs/Characters/HeadGear/Hat_Shemagh/Hat_Shemagh_BLK.et"
+    }
+    LoadoutSlotInfo ArmoredVest {
+    }
+    LoadoutSlotInfo Pants {
+     Prefab "{FC32A6B8BF0FFE21}Prefabs/Characters/Uniforms/Pants_M88_Black.et"
+    }
+    LoadoutSlotInfo Back {
+     Prefab "{6A39B5843B3F36DA}Prefabs/Items/Equipment/Backpacks/Backpack_RPG_Assistant.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{6054D3884726C62A}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Pants_M88_Black.et"
+    }
+    ItemsInitConfigurationItem "{6054E9F1BBB39B1D}" {
+     TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_RPG_Assistant.et"
+     PrefabsToSpawn + {
+      "{32E12D322E107F1C}Prefabs/Weapons/Ammo/Ammo_Rocket_PG7VM.et"
+     }
+    }
+   }
+  }
+ }
+}

@@ -17,5 +17,13 @@ SCR_ChimeraCharacter : "{29897044D8592C99}Prefabs/Characters/Factions/BLUFOR/CDF
     }
    }
   }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{5F38CCEF4072B9AC}" {
+     PrefabsToSpawn +{
+     }
+    }
+   }
+  }
  }
 }
