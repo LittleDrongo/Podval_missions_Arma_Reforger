@@ -1,5 +1,13 @@
-SCR_ChimeraCharacter : "{0CC9499AF29FD1D8}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_MG.et" {
- coords 144.315 1 144.201
+$grp SCR_ChimeraCharacter : "{0CC9499AF29FD1D8}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_MG.et" {
+ {
+  coords 144.315 1 144.201
+ }
+ {
+  coords 144.118 1 157.117
+ }
+ {
+  coords 139.117 1 157.227
+ }
 }
 SCR_ChimeraCharacter : "{4E4E8A67CBC75BB1}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_SR.et" {
  coords 140.521 1 144.165
