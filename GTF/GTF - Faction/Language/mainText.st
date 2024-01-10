@@ -35,7 +35,9 @@ StringTable {
   }
   CustomStringTableItem "{6054C4B80AA6EAD4}" {
    Id "DRG-Callsign_GTF_Company_E"
-   Modified 1616169581
+   Target_en_us "Esharat"
+   Target_ru_ru "Эшарат"
+   Modified 1616171308
    Author "hasta"
    LastChanged "hasta"
   }
@@ -57,31 +59,41 @@ StringTable {
   }
   CustomStringTableItem "{6054C4B8179F1069}" {
    Id "DRG-Callsign_GTF_Company_H"
-   Modified 1616169590
+   Target_en_us "Hujum"
+   Target_ru_ru "Худжум"
+   Modified 1616170720
    Author "hasta"
    LastChanged "hasta"
   }
   CustomStringTableItem "{6054C4B81834626C}" {
    Id "DRG-Callsign_GTF_Platoon_1"
-   Modified 1616169608
+   Target_en_us "Alif"
+   Target_ru_ru "Алиф"
+   Modified 1616171491
    Author "hasta"
    LastChanged "hasta"
   }
   CustomStringTableItem "{6054C4B81993D789}" {
    Id "DRG-Callsign_GTF_Platoon_2"
-   Modified 1616169610
+   Target_en_us "Bahr"
+   Target_ru_ru "Бахр"
+   Modified 1616171506
    Author "hasta"
    LastChanged "hasta"
   }
   CustomStringTableItem "{6054C4B81BD7B7BD}" {
    Id "DRG-Callsign_GTF_Platoon_3"
-   Modified 1616169613
+   Target_en_us "Cairo"
+   Target_ru_ru "Каиро"
+   Modified 1616171526
    Author "hasta"
    LastChanged "hasta"
   }
   CustomStringTableItem "{6054C4B861D4DB61}" {
    Id "DRG-Callsign_GTF_Platoon_4"
-   Modified 1616170063
+   Target_en_us "Dune"
+   Target_ru_ru "Дюн"
+   Modified 1616171543
    Author "hasta"
    LastChanged "hasta"
   }

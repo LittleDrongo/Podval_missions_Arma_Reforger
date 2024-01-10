@@ -1,0 +1,15 @@
+GenericEntity : "{F525EBC0492840C5}Prefabs/Items/Equipment/Radios/Radio_R148_GTF.et" {
+ ID "508AB2013EEE1E00"
+ components {
+  BaseRadioComponent "{5A30BAE7673C63CA}" {
+   "Encryption key" "Babah"
+   Transceivers {
+    RadioTransceiver "{6054D38FE68A769E}" {
+     ChannelFrequency 78000
+     "Transmitting Range" 500
+     "Max tunable frequency" 90000
+    }
+   }
+  }
+ }
+}

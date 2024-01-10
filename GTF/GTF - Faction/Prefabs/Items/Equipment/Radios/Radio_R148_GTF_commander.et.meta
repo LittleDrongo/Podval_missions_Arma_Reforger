@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{A1349AC0ACB262CA}Prefabs/Items/Equipment/Radios/Radio_R148_GTF_commander.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

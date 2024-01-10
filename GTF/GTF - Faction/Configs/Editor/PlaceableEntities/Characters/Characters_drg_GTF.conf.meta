@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{EB92F7C7CFCFE6A0}Configs/Editor/PlaceableEntities/Characters/Characters_drg_GTF.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

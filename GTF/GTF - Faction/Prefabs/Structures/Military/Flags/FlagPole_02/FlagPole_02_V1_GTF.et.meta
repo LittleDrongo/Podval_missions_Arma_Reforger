@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{9D52954B4BB3342E}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V1_GTF.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

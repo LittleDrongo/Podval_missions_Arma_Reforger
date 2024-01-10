@@ -1,0 +1,16 @@
+SCR_EditorModeEntity : "{E56F54E533ACE527}Prefabs/Editor/Modes/EditorModeBase.et" {
+ ID "54F0A77282A3AA3B"
+ components {
+  SCR_PlacingEditorComponent "{5145484399BAA2E7}" {
+   m_Registries {
+    SCR_PlaceableEntitiesRegistry "{6054E9F2285624AB}" {
+     m_sAddon "drg_GTF"
+     m_sSourceDirectory "{A317BA3193B77EF5}Prefabs/Characters"
+     m_Prefabs {
+      "{DF3119ACA202D958}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_Rifleman.et" "{E34175B727D814A9}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_Unnarmed.et"
+     }
+    }
+   }
+  }
+ }
+}
