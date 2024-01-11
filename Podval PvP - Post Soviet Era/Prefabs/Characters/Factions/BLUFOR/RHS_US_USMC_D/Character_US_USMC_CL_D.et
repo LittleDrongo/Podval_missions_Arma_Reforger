@@ -1,3 +1,28 @@
 SCR_ChimeraCharacter : "{10501B7E5A7378CF}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC/Character_US_USMC_CL.et" {
  ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{C7E31755334DCB9E}Prefabs/Characters/HeadGear/Helmet_LWH/Helmet_LWH_Shroud_marpatDesert.et"
+    }
+    LoadoutSlotInfo Jacket {
+     Prefab "{7A31BAAF2D74B8B4}Prefabs/Characters/Uniforms/Jacket_FROG_Combat_Shirt_Arid.et"
+    }
+    LoadoutSlotInfo Pants {
+     Prefab "{F6A9C2400BE103E4}Prefabs/Characters/Uniforms/Pants_FROG_Trousers_Arid.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{5CC8B5EF85FB5082}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Jacket_FROG_Combat_Shirt_Arid.et"
+    }
+    ItemsInitConfigurationItem "{5EA287E0AEFD25ED}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Jacket_FROG_Combat_Shirt_Arid.et"
+    }
+   }
+  }
+ }
 }
