@@ -1,0 +1,14 @@
+SCR_AIGroup : "{000CD338713F2B5A}Prefabs/AI/Groups/Group_Base.et" {
+ ID "0000000000000001"
+ components {
+  AIFormationComponent "{507E9DC12F541FE6}" {
+   DefaultFormation "Column"
+  }
+  PS_GroupCallsignAssigner "{6056D5D7C3C872DB}" {
+  }
+ }
+ m_faction "drg_GTF"
+ m_aUnitPrefabSlots {
+  "{AA48DF06B3B356B8}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_PL.et" "{DF3119ACA202D958}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_Rifleman.et"
+ }
+}

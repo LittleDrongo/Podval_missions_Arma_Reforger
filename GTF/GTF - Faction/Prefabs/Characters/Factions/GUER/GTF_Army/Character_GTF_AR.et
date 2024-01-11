@@ -39,7 +39,7 @@ SCR_ChimeraCharacter : "{DF3119ACA202D958}Prefabs/Characters/Factions/GUER/GTF_A
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{6054D3884726C62A}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Jacket_M88.et"
+     TargetStorage "Prefabs/Characters/Uniforms/Pants_US_BDU.et"
     }
     ItemsInitConfigurationItem "{6054E9F105ECB707}" {
      TargetStorage "Prefabs/Characters/Uniforms/Pants_US_BDU.et"

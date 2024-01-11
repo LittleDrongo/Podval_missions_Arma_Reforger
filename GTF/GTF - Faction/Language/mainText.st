@@ -67,33 +67,33 @@ StringTable {
   }
   CustomStringTableItem "{6054C4B81834626C}" {
    Id "DRG-Callsign_GTF_Platoon_1"
-   Target_en_us "Alif"
-   Target_ru_ru "Алиф"
-   Modified 1616171491
+   Target_en_us "1"
+   Target_ru_ru "1"
+   Modified 1616313492
    Author "hasta"
    LastChanged "hasta"
   }
   CustomStringTableItem "{6054C4B81993D789}" {
    Id "DRG-Callsign_GTF_Platoon_2"
-   Target_en_us "Bahr"
-   Target_ru_ru "Бахр"
-   Modified 1616171506
+   Target_en_us "1"
+   Target_ru_ru "1"
+   Modified 1616313498
    Author "hasta"
    LastChanged "hasta"
   }
   CustomStringTableItem "{6054C4B81BD7B7BD}" {
    Id "DRG-Callsign_GTF_Platoon_3"
-   Target_en_us "Cairo"
-   Target_ru_ru "Каиро"
-   Modified 1616171526
+   Target_en_us "1"
+   Target_ru_ru "1"
+   Modified 1616313503
    Author "hasta"
    LastChanged "hasta"
   }
   CustomStringTableItem "{6054C4B861D4DB61}" {
    Id "DRG-Callsign_GTF_Platoon_4"
-   Target_en_us "Dune"
-   Target_ru_ru "Дюн"
-   Modified 1616171543
+   Target_en_us "1"
+   Target_ru_ru "1"
+   Modified 1616313508
    Author "hasta"
    LastChanged "hasta"
   }

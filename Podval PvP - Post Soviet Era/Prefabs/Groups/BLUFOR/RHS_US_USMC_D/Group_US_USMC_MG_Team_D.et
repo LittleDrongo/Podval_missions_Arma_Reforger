@@ -1,0 +1,6 @@
+SCR_AIGroup : "{40A0D10CFAC8CE25}Prefabs/Groups/BLUFOR/RHS_US_USMC/Group_US_USMC_MG_Team.et" {
+ ID "0000000000000001"
+ m_aUnitPrefabSlots {
+  "{1F8AE54DA5A5C940}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC_D/Character_US_USMC_MG_D.et" "{5CBA7B34A292AAB4}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC_D/Character_US_USMC_MGA_D.et" "{5CBA7B34A292AAB4}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC_D/Character_US_USMC_MGA_D.et"
+ }
+}

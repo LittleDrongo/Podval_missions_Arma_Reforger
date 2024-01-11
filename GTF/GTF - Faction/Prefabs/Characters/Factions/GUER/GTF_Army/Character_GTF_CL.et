@@ -12,7 +12,7 @@ SCR_ChimeraCharacter : "{AA48DF06B3B356B8}Prefabs/Characters/Factions/GUER/GTF_A
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Hat {
-     Prefab "{B02281435AED8274}Prefabs/Characters/HeadGear/Hat_M70_01/Hat_M70_01.et"
+     Prefab "{CD83152AA78F35DD}Prefabs/Characters/HeadGear/Hat_Shemagh/Hat_Shemagh.et"
     }
     LoadoutSlotInfo Back {
      Prefab "{E0A852A5A3EC86AD}Prefabs/Items/Equipment/Radios/Radio_R107M_GTF.et"

@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{46A09C94F0217E58}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Prv.et"
+ Name "{C2EA56B44E333B35}Prefabs/AI/Groups/Group_GTF_RifleSquad.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }

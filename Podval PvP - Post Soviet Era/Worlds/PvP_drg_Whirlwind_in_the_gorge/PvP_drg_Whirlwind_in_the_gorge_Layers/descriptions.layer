@@ -1,0 +1,60 @@
+$grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescription/EditableMissionDescription.et" {
+ RULES {
+  coords 5534.73 61.71 10496.381
+  m_sTitle "#PS-Description_HeaderRules"
+  m_sTextData "ОБЩИЕ ПРАВИЛА"\
+  "— Всем запрещено надевать форму, головные уборы, разгрузки, бронежилеты противника (рюкзаки можно) "\
+  "  "\
+  "ПРАВИЛА ДЛЯ ЧСО"\
+  "— Запрещено пересекать ручей обозначенный красными маркерами. "\
+  "  "\
+  "СПОСОБЫ ПОБЕДЫ ВС РФ"\
+  "— 1. Занять административное здание г. Выбор и Штаб Гарнизона. "\
+  "— 2. Нанести серьёзный урон ЧСО. "\
+  "  "\
+  "СПОСОБЫ ПОБЕДЫ ДЛЯ ЧСО"\
+  "— 1. Удержать хотя бы один из объектов административное здание г. Выбор и Штаб Гарнизона. "\
+  "— 2. Нанести серьёзный урон ВС РФ. "
+  m_aVisibleForFactions {
+   "RHS_US_USMC" "drg_GTF"
+  }
+  m_bEmptyFactionVisibility 1
+ }
+ FIA {
+  coords 5159.505 56.132 10322.095
+  m_sTitle "#PS-Description_HeaderFIA"
+  m_sTextData "ВВОДНАЯ ИНФОРМАЦИЯ:"\
+  "Агентурная разведка сообщила что ВС СССР обнаружила наше местоположение и в близжайшее время они планируют провести войсковую операцию. "\
+  ""\
+  "НАША ЗАДАЧА:"\
+  "Наша задача осуществить тёплый приём не прошенным гостям."
+  m_aVisibleForFactions {
+   "FIA"
+  }
+ }
+ GTF {
+  coords 5534.418 43.503 10540.239
+  m_sTitle "#DRG-Description_HeaderRUS"
+  m_sTextData "Получить контроль над городом Выбор."
+  m_aVisibleForFactions {
+   "drg_GTF"
+  }
+ }
+ RHS_US_USMC {
+  coords 5626.204 38.464 10536.691
+  m_sTitle "#DRG-Description_HeaderCDF"
+  m_sTextData "Удержать контроль над городом Выбор."
+  m_aVisibleForFactions {
+   "RHS_US_USMC"
+  }
+ }
+ ABOUT {
+  coords 5568.057 56.802 10524.196
+  m_sTitle "#PS-Description_HeaderAboutMission"
+  m_sTextData "Бой за контроль города Выбор."
+  m_aVisibleForFactions {
+   "RHS_US_USMC" "drg_GTF"
+  }
+  m_bEmptyFactionVisibility 1
+ }
+}

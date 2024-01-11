@@ -30,23 +30,48 @@ SCR_ChimeraCharacter : "{3356669FAE546728}Prefabs/Characters/Factions/GUER/GTF_A
 SCR_ChimeraCharacter : "{4E4E8A67CBC75BB1}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_SR.et" {
  coords 140.521 1 144.165
 }
-SCR_ChimeraCharacter : "{530BE9A16B67AC11}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_GL.et" {
- coords 148.185 1 144.108
-}
-SCR_ChimeraCharacter : "{58B1D364B22A0CD6}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_Sniper.et" {
- components {
-  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
-   InitialInventoryItems {
-    ItemsInitConfigurationItem "{6054D3884726C62A}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Pants_US_BDU.et"
+$grp SCR_ChimeraCharacter : "{530BE9A16B67AC11}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_GL.et" {
+ {
+  coords 148.185 1 144.108
+ }
+ {
+  components {
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{6054D3884726C62A}" {
+      PrefabsToSpawn +{
+      }
+     }
     }
    }
   }
+  coords 154.08 1 131.059
  }
- coords 154.365 1 144.132
 }
-SCR_ChimeraCharacter : "{5EDE97809CD0C53B}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_AR.et" {
- coords 142.136 1 143.819
+$grp SCR_ChimeraCharacter : "{58B1D364B22A0CD6}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_Sniper.et" {
+ {
+  components {
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{6054D3884726C62A}" {
+      TargetStorage "Prefabs/Characters/Uniforms/Pants_US_BDU.et"
+     }
+    }
+   }
+  }
+  coords 154.365 1 144.132
+ }
+ {
+  coords 162.232 1 153.669
+ }
+}
+$grp SCR_ChimeraCharacter : "{5EDE97809CD0C53B}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_AR.et" {
+ {
+  coords 142.136 1 143.819
+ }
+ {
+  coords 163.667 1 153.5
+ }
 }
 SCR_ChimeraCharacter : "{8676FE41E559DB67}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_AT.et" {
  coords 150.428 1 144.091
@@ -54,23 +79,45 @@ SCR_ChimeraCharacter : "{8676FE41E559DB67}Prefabs/Characters/Factions/GUER/GTF_A
 GenericEntity : "{9D52954B4BB3342E}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V1_GTF.et" {
  coords 134.48 1 127.923
 }
+GenericEntity : "{A1349AC0ACB262CA}Prefabs/Items/Equipment/Radios/Radio_R148_GTF_commander.et" {
+ coords 161.676 1 159.033
+}
 SCR_ChimeraCharacter : "{AA48DF06B3B356B8}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_PL.et" {
  coords 163.756 1 147.133
 }
 SCR_ChimeraCharacter : "{ADC0F996831EC335}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_AMG.et" {
  coords 146.199 1 144.087
 }
-SCR_ChimeraCharacter : "{CDD2AA6910062742}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_CL.et" {
- components {
-  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
-   Slots {
-    LoadoutSlotInfo Back {
-     Prefab "{E0A852A5A3EC86AD}Prefabs/Items/Equipment/Radios/Radio_R107M_GTF.et"
+GenericEntity : "{B343AB76B0725657}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD.et" {
+ coords 162.267 1 158.825
+}
+$grp SCR_ChimeraCharacter : "{CDD2AA6910062742}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_CL.et" {
+ {
+  components {
+   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+    Slots {
+     LoadoutSlotInfo Back {
+      Prefab "{E0A852A5A3EC86AD}Prefabs/Items/Equipment/Radios/Radio_R107M_GTF.et"
+     }
     }
    }
   }
+  coords 165.711 1 146.621
  }
- coords 165.711 1 146.621
+ {
+  coords 161.044 1 153.668
+ }
+ {
+  coords 156.622 1 131.991
+ }
+}
+GenericEntity : "{D69684663E89D6EA}Prefabs/Items/Equipment/Radios/Radio_ANPRC152A_OLD.et" {
+ components {
+  BaseRadioComponent "{5A30BAE7673C63CA}" {
+   "Encryption key" "Babah"
+  }
+ }
+ coords 162.11 1 158.765
 }
 SCR_ChimeraCharacter : "{DF3119ACA202D958}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_Rifleman.et" {
  coords 138.893 1 143.997

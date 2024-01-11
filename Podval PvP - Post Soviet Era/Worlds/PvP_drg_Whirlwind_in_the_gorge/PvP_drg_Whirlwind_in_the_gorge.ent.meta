@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{9FE1D99C92849606}Worlds/PvP_drg_Whirlwind_in_the_gorge/PvP_drg_Whirlwind_in_the_gorge.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+  ENTResourceClass Xbox : PC {
+  }
+ }
+}
