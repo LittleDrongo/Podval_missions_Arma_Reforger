@@ -1,0 +1,8 @@
+GameProject {
+ ID "SlowingStrafe"
+ GUID "60557550B10EB832"
+ TITLE "Slowing Strafe"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
