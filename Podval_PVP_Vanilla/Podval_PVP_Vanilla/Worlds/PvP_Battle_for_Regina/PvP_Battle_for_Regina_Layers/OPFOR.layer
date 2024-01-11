@@ -27,44 +27,6 @@ Vehicle Ural4320_tanker1 : "{4C81D7ED8F8C0D87}Prefabs/Vehicles/Wheeled/Ural4320/
  coords 4907.772 28.593 11962.343
  angleY -97.956
 }
-$grp Vehicle : "{C012BB3488BEA0C2}Prefabs/Vehicles/Wheeled/BTR70/BTR70.et" {
- BTR1 {
-  coords 4783.997 149.688 7511.77
-  angleX -5.636
-  angleY -15.385
-  angleZ -0.3
- }
- BTR2 {
-  coords 4788.778 152.4 7485.632
-  angleX -5.384
-  angleY -2.005
-  angleZ -0.704
- }
- BTR3 {
-  coords 4788.752 156.188 7446.914
-  angleX -4.466
-  angleY 1.208
-  angleZ -0.094
- }
- BTR4 {
-  coords 4788.868 159.003 7409.601
-  angleX -3.576
-  angleY 1.207
-  angleZ -0.075
- }
- BTR5 {
-  coords 4789.135 160.352 7386.529
-  angleX -3.576
-  angleY 1.207
-  angleZ -0.075
- }
- BTR6 {
-  coords 4774.517 146.036 7541.696
-  angleX -6.758
-  angleY -17.979
-  angleZ -0.616
- }
-}
 $grp SCR_AIGroup : "{D52B025B45C01253}Prefabs/Groups/OPFOR/Group_USSR_PlatoonSquad_P.et" {
  P_1_0 {
   components {
