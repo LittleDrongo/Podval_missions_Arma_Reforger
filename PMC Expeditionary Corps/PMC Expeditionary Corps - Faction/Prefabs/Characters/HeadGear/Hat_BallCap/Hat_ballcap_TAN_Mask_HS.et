@@ -1,0 +1,19 @@
+GameEntity : "{D2A6902141DEE749}Prefabs/Characters/HeadGear/Hat_BallCap/Hat_ballcap_TAN_Mask.et" {
+ ID "50D485E1435D6C72"
+ components {
+  BaseLoadoutClothComponent "{5112706CD4157AF8}" {
+   Slots {
+    LoadoutSlotInfo Goggles {
+     AreaType LoadoutGooglesArea "{5A6A76155B00AA4A}" {
+     }
+    }
+    LoadoutSlotInfo Masks {
+     Prefab "{8388B77DCA5B071D}Prefabs/Characters/HeadGear/Helmet_LShZ/Balaclava_frog.et"
+    }
+    LoadoutSlotInfo Headset {
+     Prefab "{85D618A51C013F7A}Prefabs/Characters/HeadGear/Headphones_Peltor/Headphones_Peltor_yellow.et"
+    }
+   }
+  }
+ }
+}

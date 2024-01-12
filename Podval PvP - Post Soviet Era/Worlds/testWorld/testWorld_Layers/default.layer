@@ -1,15 +1,6 @@
 GenericEntity {
  coords 85.111 1 184.228
 }
-SCR_ChimeraCharacter : "{0070924C2A289430}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Base.et" {
- coords 132.86 1 107.785
-}
-SCR_ChimeraCharacter : "{03A6062FDF62A7F8}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Sharpshooter.et" {
- coords 115.446 1 106.382
-}
-SCR_ChimeraCharacter : "{03A6062FDF62A7F9}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Sniper.et" {
- coords 113.008 1 106.479
-}
 $grp GenericEntity : "{0773336E335429E0}Prefabs/Items/Equipment/Radios/Radio_ANPRC152A_OLD_Prv.et" {
  {
   coords 84.746 1 185.156
@@ -18,17 +9,8 @@ $grp GenericEntity : "{0773336E335429E0}Prefabs/Items/Equipment/Radios/Radio_ANP
   coords 83.673 1 184.844
  }
 }
-SCR_ChimeraCharacter : "{0779E285709FDE16}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Spotter.et" {
- coords 111.014 1 106.199
-}
 SCR_ChimeraCharacter : "{0C2053BEACC389D2}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SniperSVD.et" {
  coords 129.491 1 146.878
-}
-SCR_ChimeraCharacter : "{16165F4184929A69}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Medic.et" {
- coords 121.655 1 106.432
-}
-SCR_ChimeraCharacter : "{16165F4184929A6A}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_SL.et" {
- coords 114.496 1 106.337
 }
 $grp SCR_ChimeraCharacter : "{1B03EDA67BC16844}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Base.et" {
  {
@@ -77,15 +59,6 @@ $grp SCR_AIGroup : "{218445F83827D92A}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_
 SCR_ChimeraCharacter : "{238318D6442F33B7}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AAT.et" {
  coords 132.105 1 135.441
 }
-SCR_ChimeraCharacter : "{29897044D8592C99}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_TL.et" {
- coords 108.83 1 106.482
-}
-SCR_ChimeraCharacter : "{29897044D8592C9A}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_MG.et" {
- coords 120.767 1 106.492
-}
-SCR_ChimeraCharacter : "{2A4051EDC38853A7}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_AMG.et" {
- coords 129.238 1.004 107.655
-}
 SCR_ChimeraCharacter : "{2A885D8232C489E2}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_BaseTEST.et" {
  coords 124.48 1 136.977
 }
@@ -97,6 +70,20 @@ $grp SCR_AIGroup : "{2C27F364EE779AFB}Prefabs/Groups/BLUFOR/RHS_US_USMC/Group_US
   coords 65.904 1 179.289
   m_aUnitPrefabSlots {
    "{10501B7E5A7378CF}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC/Character_US_USMC_CL.et"
+  }
+ }
+ {
+  components {
+   SCR_EditableGroupComponent "{50D291F6C83FA532}" {
+    m_UIInfo SCR_EditableGroupUIInfo "{5298E609432D192D}" {
+     m_sFaction "drg_PMC_EC"
+    }
+   }
+  }
+  coords 90.532 1 124.005
+  m_faction "drg_PMC_EC"
+  m_aUnitPrefabSlots {
+   "{C7EF9B21D446A922}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_SL.et" "{CC35A95C0BDA9355}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Rifleman.et" "{AE99910775844087}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Rifleman_2.et" "{1A880649F9DB0877}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Unarmed.et" "{1A880649F9DB0877}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Unarmed.et"
   }
  }
 }
@@ -133,40 +120,6 @@ $grp SCR_ChimeraCharacter : "{4217CE96EE103024}Prefabs/Characters/Factions/OPFOR
   coords 129.322 1 136.198
  }
 }
-GenericEntity : "{46A09C94F0217E57}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Prv.et" {
- coords 129.756 1 108.915
-}
-SCR_ChimeraCharacter : "{5C3875FDB56CB949}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Rifleman2.et" {
- coords 117.544 1 106.235
-}
-SCR_ChimeraCharacter : "{6B0EB3B9E101A6F0}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_SR.et" {
- coords 109.973 1 106.395
-}
-SCR_ChimeraCharacter : "{6DA7E54B8E4F3FC3}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_LAT.et" {
- coords 123.309 1 106.502
-}
-SCR_ChimeraCharacter : "{764BD07F41A15150}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_GL.et" {
- coords 124.477 1 106.77
-}
-SCR_ChimeraCharacter : "{7B9EAE5EB616387A}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_AR.et" {
- coords 128.384 1 107.466
-}
-SCR_ChimeraCharacter : "{7C646869CFA3B721}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_RTO.et" {
- coords 116.529 1 106.608
-}
-SCR_ChimeraCharacter : "{7E40A30CA801819C}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_BaseLoadout.et" {
- components {
-  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
-   InitialInventoryItems {
-    ItemsInitConfigurationItem "{5F38CCEF4072B9AC}" {
-     PrefabsToSpawn +{
-     }
-    }
-   }
-  }
- }
- coords 133.691 1 108.136
-}
 SCR_ChimeraCharacter : "{866DCFFB9C40D4C8}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC/Character_US_USMC_Base.et" {
  components {
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
@@ -183,28 +136,6 @@ SCR_ChimeraCharacter : "{866DCFFB9C40D4C8}Prefabs/Characters/Factions/BLUFOR/RHS
 SCR_ChimeraCharacter : "{8A2FBAB0C08EB0F2}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SR.et" {
  coords 131.098 1 149.047
 }
-SCR_ChimeraCharacter : "{8F08E6D89975ABF9}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_PL.et" {
- coords 119.902 1 106.266
-}
-SCR_ChimeraCharacter : "{930302D9F14EEFC0}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Crew.et" {
- coords 125.28 1 107.08
-}
-SCR_ChimeraCharacter : "{9DE22FB5586591CC}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Rifleman.et" {
- coords 118.609 1 106.265
-}
-SCR_ChimeraCharacter : "{A0FFE636D44E5918}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_AAT.et" {
- components {
-  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
-   InitialInventoryItems {
-    ItemsInitConfigurationItem "{5F38CCEF4072B9AC}" {
-     PrefabsToSpawn +{
-     }
-    }
-   }
-  }
- }
- coords 130.169 1 107.765
-}
 $grp SCR_ChimeraCharacter : "{A14976FE29316F1D}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_CL.et" {
  {
   coords 138.439 1 170.377
@@ -215,9 +146,6 @@ $grp SCR_ChimeraCharacter : "{A14976FE29316F1D}Prefabs/Characters/Factions/OPFOR
 }
 GenericEntity : "{A2DD1D2EEB52BFC0}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD_Prv.et" {
  coords 139.73 1 168.576
-}
-SCR_ChimeraCharacter : "{A336C79FCF9F2626}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_AT.et" {
- coords 127.372 1 107.285
 }
 SCR_ChimeraCharacter : "{A6D630CBAF1A6A10}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Medic.et" {
  coords 132.718 1 140.342
@@ -231,26 +159,26 @@ SCR_ChimeraCharacter : "{AD5AC68AC312CA44}Prefabs/Characters/Factions/OPFOR/RHS_
 SCR_ChimeraCharacter : "{C6D303918A841EE7}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_PL.et" {
  coords 128.408 1 144.19
 }
+SCR_ChimeraCharacter : "{C7EF9B21D446A922}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_SL.et" {
+ coords 87.349 1 124.411
+}
 SCR_AIGroup : "{C824AA59A0243488}Prefabs/Groups/BLUFOR/RHS_US_USMC/Group_US_USMC_RifleSquad.et" {
  coords 78.8 1 179.025
 }
 SCR_ChimeraCharacter : "{C8A8794DF9D63A9B}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_MG.et" {
  coords 131.375 1 140.923
 }
+SCR_ChimeraCharacter : "{CC35A95C0BDA9355}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Rifleman.et" {
+ coords 88.9 1 124.038
+}
 GenericEntity : "{D69684663E89D6EA}Prefabs/Items/Equipment/Radios/Radio_ANPRC152A_OLD.et" {
  coords 85.546 1 184.141
-}
-SCR_ChimeraCharacter : "{E89293B73AC0DA03}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_CL.et" {
- coords 126.372 1 107.212
 }
 SCR_ChimeraCharacter : "{EE5A2E600DB0C7C6}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AR.et" {
  coords 130.082 1 135.732
 }
 SCR_ChimeraCharacter : "{EED4D788E42138A5}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC/Character_US_USMC_SL.et" {
  coords 82.431 1 185.268
-}
-SCR_ChimeraCharacter : "{F2731E83FD425009}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Sniper_m40.et" {
- coords 111.749 1 105.915
 }
 $grp SCR_ChimeraCharacter : "{F7375648A51D8C6B}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SL.et" {
  {

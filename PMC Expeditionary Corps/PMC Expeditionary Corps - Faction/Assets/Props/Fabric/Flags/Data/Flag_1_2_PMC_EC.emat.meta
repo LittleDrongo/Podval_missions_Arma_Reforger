@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{F43643E0B16C84AA}Assets/Props/Fabric/Flags/Data/Flag_1_2_PMC_EC.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

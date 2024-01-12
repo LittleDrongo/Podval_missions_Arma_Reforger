@@ -1,0 +1,14 @@
+GameEntity : "{7546F9BBF7BB5BE5}Prefabs/Characters/HeadGear/Hat_BallCap/Hat_ballcap_OD_Mask.et" {
+ ID "50D485E1435D6C72"
+ components {
+  BaseLoadoutClothComponent "{5112706CD4157AF8}" {
+   Slots {
+    LoadoutSlotInfo Goggles {
+    }
+    LoadoutSlotInfo Headset {
+     Prefab "{150CBCB5E706F291}Prefabs/Characters/HeadGear/Headphones_6M2/Headphones_6M2-1.et"
+    }
+   }
+  }
+ }
+}

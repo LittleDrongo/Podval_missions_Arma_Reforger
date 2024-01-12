@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{3F00A1A5C22433F9}Configs/Factions/drg_PMC_EC.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{C2496B81C303E2C2}Prefabs/Characters/HeadGear/Hat_BallCap/Hat_ballcap_OD_Mask_GLS.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,12 @@
+GameEntity : "{20C05AF8047F741C}Prefabs/Characters/HeadGear/Hat_BallCap/Hat_ballcap_TAN.et" {
+ ID "50D485E1435D6C72"
+ components {
+  BaseLoadoutClothComponent "{5112706CD4157AF8}" {
+   Slots {
+    LoadoutSlotInfo Masks {
+     Prefab "{8388B77DCA5B071D}Prefabs/Characters/HeadGear/Helmet_LShZ/Balaclava_frog.et"
+    }
+   }
+  }
+ }
+}

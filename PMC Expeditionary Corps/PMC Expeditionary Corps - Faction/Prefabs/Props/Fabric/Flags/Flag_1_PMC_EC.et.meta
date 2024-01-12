@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{4CCB5ADFA38A40F0}Prefabs/Props/Fabric/Flags/Flag_1_PMC_EC.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

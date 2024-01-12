@@ -1,0 +1,15 @@
+GameEntity : "{D2A6902141DEE749}Prefabs/Characters/HeadGear/Hat_BallCap/Hat_ballcap_TAN_Mask.et" {
+ ID "50D485E1435D6C72"
+ components {
+  BaseLoadoutClothComponent "{5112706CD4157AF8}" {
+   Slots {
+    LoadoutSlotInfo Masks {
+     Prefab ""
+    }
+    LoadoutSlotInfo Headset {
+     Prefab "{6D6ADA201AD4E09B}Prefabs/Characters/HeadGear/Headphones_Peltor/Headphones_Peltor_olive.et"
+    }
+   }
+  }
+ }
+}

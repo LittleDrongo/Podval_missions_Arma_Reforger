@@ -1,0 +1,8 @@
+SCR_ChimeraCharacter : "{5346CF7E39A65A6B}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Base.et" {
+ ID "520EC961A090BE1E"
+ components {
+  FactionAffiliationComponent "{520EC9618276DF23}" {
+   "faction affiliation" "drg_PMC_EC"
+  }
+ }
+}

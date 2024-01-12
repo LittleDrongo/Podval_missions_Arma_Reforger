@@ -1,0 +1,11 @@
+SCR_ChimeraCharacter : "{CC35A95C0BDA9355}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Rifleman.et" {
+ ID "520EC961A090BE1E"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Pants {
+    }
+   }
+  }
+ }
+}

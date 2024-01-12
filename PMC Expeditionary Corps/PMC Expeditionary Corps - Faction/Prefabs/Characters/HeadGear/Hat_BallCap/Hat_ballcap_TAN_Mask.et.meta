@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{D2A6902141DEE749}Prefabs/Characters/HeadGear/Hat_BallCap/Hat_ballcap_TAN_Mask.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,59 @@
+GenericEntity : "{0A84AA5A3884176F}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Last_5Tracer.et" {
+ coords 118.728 1.103 137.814
+}
+SCR_ChimeraCharacter : "{1A880649F9DB0877}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Unarmed.et" {
+ coords 124.271 1 131.895
+}
+GenericEntity : "{59015F7C36DE86C2}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_Tracer_camo.et" {
+ coords 121.601 1 133.649
+}
+GenericEntity : "{63C1E699345B24F9}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Base.et" {
+ coords 119.007 1.111 137.371
+}
+SCR_ChimeraCharacter : "{73D76A624D46BDBE}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SL.et" {
+ coords 117.559 1 131.345
+}
+GenericEntity : "{97803BFD13AFA67F}Prefabs/Items/Equipment/Radios/Radio_R148_Prv.et" {
+ coords 123.117 1 131.213
+}
+SCR_ChimeraCharacter : "{98EB9CDD85B8C92C}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Unarmed.et" {
+ coords 125.624 1 131.755
+}
+SCR_ChimeraCharacter : "{AE99910775844087}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Rifleman_2.et" {
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{7C4F3874D540C0BF}Prefabs/Characters/HeadGear/Hat_BallCap/Hat_ballcap_TAN_Mask_GLS.et"
+    }
+    LoadoutSlotInfo Jacket {
+    }
+   }
+  }
+ }
+ coords 120.834 1 132.099
+}
+GenericEntity : "{B295CF28DE7F95B0}Prefabs/Weapons/Rifles/AK74M/Rifle_AK74M_camo.et" {
+ coords 123.098 1 133.514
+}
+GenericEntity : "{B343AB76B0725657}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD.et" {
+ coords 117.928 1 132.312
+}
+GenericEntity : "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" {
+ coords 118.859 1.109 137.597
+}
+SCR_ChimeraCharacter : "{C7EF9B21D446A922}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_SL.et" {
+ coords 118.938 1 131.751
+}
+SCR_ChimeraCharacter : "{CC35A95C0BDA9355}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Rifleman.et" {
+ coords 122.495 1 132.09
+}
+GenericEntity : "{DD810D0313E8C01A}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_Ball_camo.et" {
+ coords 121.832 1 133.584
+}
+GenericEntity : "{E5912E45754CD421}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Tracer.et" {
+ coords 118.531 1.101 138.028
+}
+GenericEntity : "{E711752AC6D2123D}Prefabs/Characters/Vests/Vest_Ratnik_6B45/Variants/Vest_Ratnik_6B45_officer_GL.et" {
+ coords 116.537 1.518 132.739
+}

@@ -1,0 +1,16 @@
+SCR_EditorModeEntity : "{E56F54E533ACE527}Prefabs/Editor/Modes/EditorModeBase.et" {
+ ID "54F0A77282A3AA3B"
+ components {
+  SCR_PlacingEditorComponent "{5145484399BAA2E7}" {
+   m_Registries {
+    SCR_PlaceableEntitiesRegistry "{6058E240AFF1BA4E}" {
+     m_sAddon "PMC_EC"
+     m_sSourceDirectory "{C502C0D612FB13CE}Prefabs"
+     m_Prefabs {
+      "{A296C9A6B63A855C}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V1_PMC_EC.et" "{1A880649F9DB0877}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Unarmed.et" "{CC35A95C0BDA9355}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Rifleman.et"
+     }
+    }
+   }
+  }
+ }
+}

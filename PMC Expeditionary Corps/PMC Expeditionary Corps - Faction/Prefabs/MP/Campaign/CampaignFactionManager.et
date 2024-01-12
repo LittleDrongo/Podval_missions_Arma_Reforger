@@ -1,0 +1,15 @@
+SCR_CampaignFactionManager : "{A242612865F2A48E}Prefabs/MP/Managers/Factions/FactionManager_Base.et" {
+ ID "50A6CDA4F7C1474A"
+ Factions {
+  SCR_CampaignFaction "{6058E24B64C1EF7D}" {
+   FactionKey "drg_PMC_EC"
+   m_OutlineFactionColor 0.168 0.006 0.007 0
+   m_sFactionFlag "{4C318A5E92A1B73B}Images/flag_Faction_Texture_Wave.edds"
+   m_FactionFlagMaterial "{F43643E0B16C84AA}Assets/Props/Fabric/Flags/Data/Flag_1_2_PMC_EC.emat"
+   m_FactionLabel FACTION_Drg_PMC_EC
+   m_aFriendlyFactionsIds {
+    "USSR"
+   }
+  }
+ }
+}

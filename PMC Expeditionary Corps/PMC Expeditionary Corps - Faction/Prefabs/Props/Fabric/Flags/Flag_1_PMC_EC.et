@@ -1,0 +1,13 @@
+GenericEntity : "{AE09DA7896F9DB37}Prefabs/Props/Fabric/Flags/Flag_1_2.et" {
+ ID "50E2C85E7DD38DD0"
+ components {
+  MeshObject "{52AE82368499B365}" {
+   Materials {
+    MaterialAssignClass "{6058B3D496535344}" {
+     SourceMaterial "Flag_1_2"
+     AssignedMaterial "{F43643E0B16C84AA}Assets/Props/Fabric/Flags/Data/Flag_1_2_PMC_EC.emat"
+    }
+   }
+  }
+ }
+}
