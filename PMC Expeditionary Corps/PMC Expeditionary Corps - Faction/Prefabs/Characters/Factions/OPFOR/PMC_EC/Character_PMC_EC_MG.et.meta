@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{CC35A95C0BDA9355}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Rifleman.et"
+ Name "{F870B424888D1FD2}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_MG.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
@@ -10,6 +10,8 @@ MetaFileClass {
   EntityTemplateResourceClass PS4 : PC {
   }
   EntityTemplateResourceClass HEADLESS : PC {
+  }
+  EntityTemplateResourceClass Xbox : PC {
   }
  }
 }

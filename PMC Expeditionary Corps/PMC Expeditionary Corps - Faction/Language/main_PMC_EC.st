@@ -9,6 +9,22 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{6059361D330C80AD}" {
+   Id "DRG-Role_AAT"
+   Target_en_us "Assistant AT Gunner"
+   Target_ru_ru "Помощник гранатомётчика"
+   Modified 1616460736
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{6059361F369C759A}" {
+   Id "DRG-Role_AT"
+   Target_en_us "AT Gunner"
+   Target_ru_ru "Гранатомётчик"
+   Modified 1616459843
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{605903B4CDF26F1C}" {
    Id "DRG-Role_SquadLeader"
    Target_en_us "Squad Leader"

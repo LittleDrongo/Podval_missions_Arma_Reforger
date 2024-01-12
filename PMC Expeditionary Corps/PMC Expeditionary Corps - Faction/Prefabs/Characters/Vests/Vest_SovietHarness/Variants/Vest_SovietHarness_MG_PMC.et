@@ -1,0 +1,27 @@
+GenericEntity : "{15067AD09803580D}Prefabs/Characters/Vests/Vest_SovietHarness/Variants/Vest_SovietHarness_MG.et" {
+ ID "50D8C49B3558F152"
+ components {
+  BaseLoadoutClothComponent "{5312D798A71DFBB1}" {
+   Slots {
+    LoadoutSlotInfo Suspenders {
+    }
+    LoadoutSlotInfo GrenadePouch {
+     Offset -0.1433 -0.1613 0.1424
+     Angles -1.0645 -43.1795 10.031
+    }
+    LoadoutSlotInfo PKM_Pouch {
+     PivotID "spine3"
+     Offset -0.0158 -0.2863 0.291
+     Angles -1.0645 -43.1795 74.9465
+     Prefab "{F03EAAE51C256CFA}Prefabs/Items/Equipment/Accessories/Pouch_Soviet_100rnd_PKM/Pouch_Soviet_100rnd_PKM.et"
+     EnableDeflatedOffset 1
+     DeflatedOffset -0.1531 -0.1074 0.1554
+     DeflatedAngles -7.0578 -36.9128 0.0361
+    }
+    LoadoutSlotInfo MagPouch_6Sh46 {
+     Prefab ""
+    }
+   }
+  }
+ }
+}

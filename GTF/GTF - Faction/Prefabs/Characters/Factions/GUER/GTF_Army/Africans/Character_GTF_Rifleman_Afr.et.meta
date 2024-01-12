@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{C0BAA0D0A9194EB8}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_Rifleman_Afr.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+  EntityTemplateResourceClass Xbox : PC {
+  }
+ }
+}
