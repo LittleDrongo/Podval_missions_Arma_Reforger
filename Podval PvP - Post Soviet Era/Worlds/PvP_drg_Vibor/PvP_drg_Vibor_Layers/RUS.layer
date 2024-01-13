@@ -1,4 +1,4 @@
-$grp SCR_AIGroup : "{218445F83827D92A}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_RifleSquad.et" {
+$grp SCR_AIGroup : "{218445F83827D92B}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_RifleSquad.et" {
  {
   components {
    PS_GroupCallsignAssigner "{6048E3A2E620DF54}" {
