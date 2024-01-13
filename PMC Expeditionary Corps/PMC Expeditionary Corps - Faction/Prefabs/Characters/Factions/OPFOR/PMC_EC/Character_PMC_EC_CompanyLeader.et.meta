@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{A8C141AE08360AF7}Prefabs/Characters/HeadGear/Helmet_LShZ/Balaclava_frog_HS.et"
+ Name "{D4026782F0C73B5D}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_CompanyLeader.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }

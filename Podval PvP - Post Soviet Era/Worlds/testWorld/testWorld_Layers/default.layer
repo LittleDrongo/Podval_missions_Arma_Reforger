@@ -1,25 +1,6 @@
 GenericEntity {
  coords 85.111 1 184.228
 }
-$grp GenericEntity : "{00F1863DF6E61C73}Prefabs/Characters/Vests/Vest_SovietHarness/Variants/Vest_SovietHarness_MG_PMC.et" {
- {
-  coords 86.874 1 122.241
- }
- {
-  components {
-   BaseLoadoutClothComponent "{5312D798A71DFBB1}" {
-    Slots {
-     LoadoutSlotInfo PKM_Pouch {
-     }
-    }
-   }
-  }
-  coords 85.758 1.735 123.925
- }
- {
-  coords 82.526 1 122.724
- }
-}
 $grp GenericEntity : "{0773336E335429E0}Prefabs/Items/Equipment/Radios/Radio_ANPRC152A_OLD_Prv.et" {
  {
   coords 84.746 1 185.156
@@ -30,9 +11,6 @@ $grp GenericEntity : "{0773336E335429E0}Prefabs/Items/Equipment/Radios/Radio_ANP
 }
 SCR_ChimeraCharacter : "{0C2053BEACC389D2}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SniperSVD.et" {
  coords 129.491 1 146.878
-}
-Projectile : "{12AFA740BE9ED3CD}Prefabs/Weapons/Ammo/RPG/RHS_AmmoRocket_TBG7V.et" {
- coords 79.229 1 119.284
 }
 $grp SCR_ChimeraCharacter : "{1B03EDA67BC16844}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Base.et" {
  {
@@ -94,28 +72,6 @@ $grp SCR_AIGroup : "{2C27F364EE779AFB}Prefabs/Groups/BLUFOR/RHS_US_USMC/Group_US
    "{10501B7E5A7378CF}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC/Character_US_USMC_CL.et"
   }
  }
- {
-  components {
-   SCR_EditableGroupComponent "{50D291F6C83FA532}" {
-    m_UIInfo SCR_EditableGroupUIInfo "{5298E609432D192D}" {
-     m_sFaction "drg_PMC_EC"
-    }
-   }
-  }
-  coords 90.532 1 124.005
-  m_faction "drg_PMC_EC"
-  m_aUnitPrefabSlots {
-   "{C7EF9B21D446A922}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_SL.et" "{CC35A95C0BDA9355}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Rifleman.et" "{AE99910775844087}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Rifleman_2.et" "{1A880649F9DB0877}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Unarmed.et" "{1A880649F9DB0877}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Unarmed.et"
-  }
- }
-}
-$grp GenericEntity : "{2C84EF274C972456}Prefabs/Weapons/MachineGuns/PKM/MG_PKM_1pn93.et" {
- {
-  coords 84.012 1 122.121
- }
- {
-  coords 84.228 1 121.02
- }
 }
 SCR_ChimeraCharacter : "{3F9035365250E44E}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Rifleman_GL.et" {
  coords 129.485 1 145.559
@@ -150,33 +106,6 @@ $grp SCR_ChimeraCharacter : "{4217CE96EE103024}Prefabs/Characters/Factions/OPFOR
   coords 129.322 1 136.198
  }
 }
-GenericEntity : "{4A79F283F7DA624F}Prefabs/Weapons/Rifles/AK74M/Rifle_AK74M_1P78_GP25.et" {
- coords 85.456 1.084 126.442
- angleZ 0
-}
-SCR_ChimeraCharacter : "{5109F8A7AE28F486}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_AAT.et" {
- coords 77.209 1 118.79
-}
-GenericEntity : "{5995414BD20D4290}Prefabs/Weapons/MachineGuns/PKM/MG_PKM_B51_1p87.et" {
- coords 83.359 1 122.015
-}
-GenericEntity : "{5D6226C0B4631749}Prefabs/Weapons/MachineGuns/PKM/MG_PKM_B51.et" {
- coords 83.469 1 122.181
-}
-$grp GameEntity : "{68BFCC840EBE7BAF}Prefabs/Characters/HeadGear/Hat_BallCap/Hat_ballcap_OD_HS.et" {
- {
-  coords 80.06 1 119.528
- }
- {
-  coords 79.636 1 120.994
- }
-}
-SCR_ChimeraCharacter : "{72CF03FF9F4B156D}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_AT.et" {
- coords 81.018 1 118.904
-}
-GenericEntity : "{7701C6F717D852C6}Prefabs/Weapons/Rifles/AK74M/Rifle_AK74M_npz_rail_camo.et" {
- coords 84.479 1.456 126.327
-}
 SCR_ChimeraCharacter : "{866DCFFB9C40D4C8}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC/Character_US_USMC_Base.et" {
  components {
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
@@ -190,17 +119,11 @@ SCR_ChimeraCharacter : "{866DCFFB9C40D4C8}Prefabs/Characters/Factions/BLUFOR/RHS
  }
  coords 86.161 1 183.469
 }
-Projectile : "{86A7681BD1D4E4BB}Prefabs/Weapons/Ammo/RPG/RHS_AmmoRocket_PG7VR.et" {
- coords 78.637 1 119.674
+GenericEntity : "{880A80C1FD1AE546}Prefabs/Weapons/Handguns/APS/Handgun_APS.et" {
+ coords 79.252 1 111.687
 }
 SCR_ChimeraCharacter : "{8A2FBAB0C08EB0F2}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SR.et" {
  coords 131.098 1 149.047
-}
-Projectile : "{9535D6E39DCA78FB}Prefabs/Weapons/Ammo/RPG/RHS_AmmoRocket_TBG7VL.et" {
- coords 79.449 1 119.2
-}
-GenericEntity : "{9B8800768D78B0F6}Prefabs/Weapons/Rifles/AK74M/Rifle_AK74M_npz_rail_1p87_1p90.et" {
- coords 86.98 1.269 126.379
 }
 $grp SCR_ChimeraCharacter : "{A14976FE29316F1D}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_CL.et" {
  {
@@ -222,22 +145,11 @@ SCR_ChimeraCharacter : "{A93CAF0D53E93908}Prefabs/Characters/Factions/OPFOR/RHS_
 SCR_ChimeraCharacter : "{AD5AC68AC312CA44}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Rifleman.et" {
  coords 125.942 1 146.345
 }
-$grp SCR_ChimeraCharacter : "{C0BAA0D0A9194EB8}Prefabs/Characters/Factions/GUER/GTF_Army/Africans/Character_GTF_Rifleman_Afr.et" {
- {
-  coords 71.824 1 119.981
- }
- {
-  coords 70.222 1 119.794
- }
- {
-  coords 68.847 1 119.659
- }
+SCR_AIGroup : "{B0ADB348B8BA8DF5}Prefabs/Groups/OPFOR/PMC_EC/Group_PMC_RifleSquad.et" {
+ coords 108.203 1 118.057
 }
 SCR_ChimeraCharacter : "{C6D303918A841EE7}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_PL.et" {
  coords 128.408 1 144.19
-}
-SCR_ChimeraCharacter : "{C7EF9B21D446A922}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_SL.et" {
- coords 87.349 1 124.411
 }
 SCR_AIGroup : "{C824AA59A0243488}Prefabs/Groups/BLUFOR/RHS_US_USMC/Group_US_USMC_RifleSquad.et" {
  coords 78.8 1 179.025
@@ -245,14 +157,11 @@ SCR_AIGroup : "{C824AA59A0243488}Prefabs/Groups/BLUFOR/RHS_US_USMC/Group_US_USMC
 SCR_ChimeraCharacter : "{C8A8794DF9D63A9B}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_MG.et" {
  coords 131.375 1 140.923
 }
-SCR_ChimeraCharacter : "{CC35A95C0BDA9355}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Rifleman.et" {
- coords 88.9 1 124.038
+GameEntity : "{D2A6902141DEE749}Prefabs/Characters/HeadGear/Hat_BallCap/Hat_ballcap_TAN_Mask.et" {
+ coords 78.147 1 113.521
 }
 GenericEntity : "{D69684663E89D6EA}Prefabs/Items/Equipment/Radios/Radio_ANPRC152A_OLD.et" {
  coords 85.546 1 184.141
-}
-GenericEntity : "{E998FA484B0C4BFF}Prefabs/Weapons/Handguns/Glock/Handgun_Glock17.et" {
- coords 83.306 1 123.656
 }
 SCR_ChimeraCharacter : "{EE5A2E600DB0C7C6}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AR.et" {
  coords 130.082 1 135.732
@@ -267,85 +176,6 @@ $grp SCR_ChimeraCharacter : "{F7375648A51D8C6B}Prefabs/Characters/Factions/OPFOR
  {
   coords 131.342 1 143.616
  }
-}
-SCR_ChimeraCharacter : "{F870B424888D1FD2}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_MG.et" {
- components {
-  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
-   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
-    Name "#DRG-Role_Stormtrooper"
-    Icon "{AE53796BC5D21A08}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_Rifleman.edds"
-   }
-  }
-  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
-   WeaponTemplate "{5995414BD20D4290}Prefabs/Weapons/MachineGuns/PKM/MG_PKM_B51_1p87.et"
-  }
-  CharacterWeaponSlotComponent "{520EA1D2F659CFDC}" {
-   AttachType InventoryStorageSlot "{9113A68B4D97E2E6}" {
-    Offset -0.3617 -0.0729 0.228
-    Angles -38.5346 -175.7493 -17.4291
-   }
-   WeaponTemplate "{1353C6EAD1DCFE43}Prefabs/Weapons/Handguns/M9/Handgun_M9.et"
-   HolsteredHidden 0
-  }
-  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
-   Slots {
-    LoadoutSlotInfo Hat {
-     Prefab "{C2496B81C303E2C2}Prefabs/Characters/HeadGear/Hat_BallCap/Hat_ballcap_OD_Mask_GLS.et"
-    }
-    LoadoutSlotInfo Jacket {
-     Prefab "{A18238B56E378F4B}Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_ATACS.et"
-    }
-    LoadoutSlotInfo Pants {
-     Prefab "{54F4BE2F9CA75DAD}Prefabs/Characters/Uniforms/Tactical_Pants/Tactical_Pants_MC.et"
-    }
-    LoadoutSlotInfo Back {
-     Prefab "{41A9C55B61F375F0}Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok.et"
-    }
-    LoadoutSlotInfo Vest {
-     Prefab "{00F1863DF6E61C73}Prefabs/Characters/Vests/Vest_SovietHarness/Variants/Vest_SovietHarness_MG_PMC.et"
-    }
-   }
-  }
-  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
-   InitialInventoryItems {
-    ItemsInitConfigurationItem "{6058E24706565C18}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Tactical_Pants/Tactical_Pants_MC.et"
-    }
-    ItemsInitConfigurationItem "{6058E24706320C10}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_ATACS.et"
-    }
-    ItemsInitConfigurationItem "{6058F543E036777B}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_ATACS.et"
-    }
-    ItemsInitConfigurationItem "{6058E2464F399F7A}" {
-     TargetStorage "Prefabs/Items/Equipment/Accessories/Pouch_Soviet_100rnd_PKM/Pouch_Soviet_100rnd_PKM.et"
-     PrefabsToSpawn +{
-     }
-    }
-    ItemsInitConfigurationItem "{6058E246C0D0F3AD}" {
-     TargetStorage "Prefabs/Items/Equipment/Accessories/Pouch_Soviet_100rnd_PKM/Pouch_Soviet_100rnd_PKM.et"
-     PrefabsToSpawn +{
-     }
-    }
-    ItemsInitConfigurationItem "{6058E24680F1F403}" {
-     TargetStorage "Prefabs/Characters/Vests/Vest_SovietHarness/Vest_SovietHarness_Suspenders.et"
-     PrefabsToSpawn +{
-     }
-    }
-    ItemsInitConfigurationItem "{6058E246809A31D5}" {
-     TargetStorage "Prefabs/Characters/Vests/Vest_SovietHarness/Vest_SovietHarness_Suspenders.et"
-     PrefabsToSpawn +{
-     }
-    }
-    ItemsInitConfigurationItem "{6058E2464FB540E7}" {
-     TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok.et"
-     PrefabsToSpawn +{
-     }
-    }
-   }
-  }
- }
- coords 84.963 1 122.314
 }
 SCR_ChimeraCharacter : "{FAF3A7DE833CD514}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_CrewDriver.et" {
  coords 133.967 1 137.129

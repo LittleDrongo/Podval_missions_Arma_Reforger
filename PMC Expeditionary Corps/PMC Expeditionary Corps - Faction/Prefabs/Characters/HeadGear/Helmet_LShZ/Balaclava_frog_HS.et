@@ -4,7 +4,7 @@ GameEntity : "{8388B77DCA5B071D}Prefabs/Characters/HeadGear/Helmet_LShZ/Balaclav
   BaseLoadoutClothComponent "{5112706CD4157AF8}" {
    Slots {
     LoadoutSlotInfo Headset {
-     Prefab "{85D618A51C013F7A}Prefabs/Characters/HeadGear/Headphones_Peltor/Headphones_Peltor_yellow.et"
+     Prefab "{150CBCB5E706F291}Prefabs/Characters/HeadGear/Headphones_6M2/Headphones_6M2-1.et"
     }
    }
   }

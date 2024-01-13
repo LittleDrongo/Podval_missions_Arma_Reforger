@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{00F1863DF6E61C73}Prefabs/Characters/Vests/Vest_SovietHarness/Variants/Vest_SovietHarness_MG_PMC.et"
+ Name "{5EF122B8C9A198B2}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_PL.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }

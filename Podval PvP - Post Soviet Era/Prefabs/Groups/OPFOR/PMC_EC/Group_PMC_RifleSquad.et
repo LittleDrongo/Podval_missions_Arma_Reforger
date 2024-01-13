@@ -4,7 +4,7 @@ SCR_AIGroup : "{FD26CDBF9EBEA023}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_E
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "Column"
   }
-  PS_GroupCallsignAssigner "{605B46D27B457BCD}" {
+  PS_GroupCallsignAssigner "{605B46D243BA3ADC}" {
   }
   SCR_EditableGroupComponent "{50D291F6C83FA532}" {
    m_UIInfo SCR_EditableGroupUIInfo "{5298E609432D192D}" {
@@ -17,12 +17,12 @@ SCR_AIGroup : "{FD26CDBF9EBEA023}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_E
      72 1670057115
     }
     m_EntityChildrenBudgetCost {
-     SCR_EntityBudgetValue "{605B46D27B457BD9}" {
+     SCR_EntityBudgetValue "{605B46D243BA3AD1}" {
       m_BudgetType AI
       m_Value 6
      }
     }
-    m_MilitarySymbol SCR_MilitarySymbol "{605B46D27B457BD4}" {
+    m_MilitarySymbol SCR_MilitarySymbol "{605B46D243BA3AAE}" {
      m_Identity OPFOR
      m_Dimension LAND
      m_Icons INFANTRY
@@ -39,7 +39,7 @@ SCR_AIGroup : "{FD26CDBF9EBEA023}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_E
   SCR_PreviewEntityComponent "{56368A4E2AE45029}" : "{6CADA7A88A6265FD}Prefabs/Editor/Components/PreviewEntityComponentClass.ct" {
    m_bRuntime 0
    m_aEntries {
-    SCR_BasePreviewEntry "{605B46D27B457BAC}" {
+    SCR_BasePreviewEntry "{605B46D243BA3AA8}" {
      m_iParentID -1
      m_Mesh ""
      m_Flags 3
@@ -48,7 +48,7 @@ SCR_AIGroup : "{FD26CDBF9EBEA023}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_E
      m_vPosition 0 -5 0
      m_vAngles 0 0 0
     }
-    SCR_BasePreviewEntry "{605B46D27B457BA9}" {
+    SCR_BasePreviewEntry "{605B46D243BA3AA7}" {
      m_iParentID 0
      m_Mesh "{7B2420C8BC72373A}Prefabs/Characters/Core/Character_Base_Preview.et"
      m_Flags 0
@@ -57,7 +57,7 @@ SCR_AIGroup : "{FD26CDBF9EBEA023}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_E
      m_vPosition 0 0 0
      m_vAngles 0 0 0
     }
-    SCR_BasePreviewEntry "{605B46D27B457BA7}" {
+    SCR_BasePreviewEntry "{605B46D243BA3AA6}" {
      m_iParentID 0
      m_Mesh "{7B2420C8BC72373A}Prefabs/Characters/Core/Character_Base_Preview.et"
      m_Flags 0
@@ -66,7 +66,7 @@ SCR_AIGroup : "{FD26CDBF9EBEA023}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_E
      m_vPosition 3 0 -3
      m_vAngles 0 0 0
     }
-    SCR_BasePreviewEntry "{605B46D27B457BA4}" {
+    SCR_BasePreviewEntry "{605B46D243BA3AA5}" {
      m_iParentID 0
      m_Mesh "{7B2420C8BC72373A}Prefabs/Characters/Core/Character_Base_Preview.et"
      m_Flags 0
@@ -75,7 +75,7 @@ SCR_AIGroup : "{FD26CDBF9EBEA023}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_E
      m_vPosition -3 0 -3
      m_vAngles 0 0 0
     }
-    SCR_BasePreviewEntry "{605B46D27B457BA1}" {
+    SCR_BasePreviewEntry "{605B46D243BA3AA4}" {
      m_iParentID 0
      m_Mesh "{7B2420C8BC72373A}Prefabs/Characters/Core/Character_Base_Preview.et"
      m_Flags 0
@@ -84,7 +84,7 @@ SCR_AIGroup : "{FD26CDBF9EBEA023}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_E
      m_vPosition 6 0 -6
      m_vAngles 0 0 0
     }
-    SCR_BasePreviewEntry "{605B46D27B457BBF}" {
+    SCR_BasePreviewEntry "{605B46D243BA3AA3}" {
      m_iParentID 0
      m_Mesh "{7B2420C8BC72373A}Prefabs/Characters/Core/Character_Base_Preview.et"
      m_Flags 0
@@ -93,7 +93,7 @@ SCR_AIGroup : "{FD26CDBF9EBEA023}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_E
      m_vPosition -6 0 -6
      m_vAngles 0 0 0
     }
-    SCR_BasePreviewEntry "{605B46D27B457BBC}" {
+    SCR_BasePreviewEntry "{605B46D243BBF4EB}" {
      m_iParentID 0
      m_Mesh "{7B2420C8BC72373A}Prefabs/Characters/Core/Character_Base_Preview.et"
      m_Flags 0
@@ -106,7 +106,8 @@ SCR_AIGroup : "{FD26CDBF9EBEA023}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_E
   }
  }
  coords 0 0 0
+ m_faction "drg_PMC_EC"
  m_aUnitPrefabSlots {
-  "{F7375648A51D8C6B}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SL.et" "{8A2FBAB0C08EB0F2}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SR.et" "{C8A8794DF9D63A9B}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_MG.et" "{A93CAF0D53E93908}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AMG.et" "{4217CE96EE103024}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AT.et" "{238318D6442F33B7}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AAT.et" "{3F9035365250E44E}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Rifleman_GL.et" "{0C2053BEACC389D2}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SniperSVD.et" "{1DD8003EABCBDCB9}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_CrewGunner.et" "{FAF3A7DE833CD514}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_CrewDriver.et"
+  "{C7EF9B21D446A922}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_SL.et" "{C0286170B2C013E1}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_TL.et" "{CC35A95C0BDA9355}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Rifleman.et" "{AE99910775844087}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Rifleman_2.et" "{CC35A95C0BDA9355}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Rifleman.et" "{C0286170B2C013E1}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_TL.et" "{72CF03FF9F4B156D}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_AT.et" "{5109F8A7AE28F486}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_AAT.et" "{F870B424888D1FD2}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_MG.et" "{1B7C9E82B4E0F0CB}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Sniper.et"
  }
 }
