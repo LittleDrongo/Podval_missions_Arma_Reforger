@@ -1,3 +1,7 @@
+Vehicle M1025_armed_M2HB1 : "{3EA6F47D95867114}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB.et" {
+ coords 3836.094 311.103 8941.519
+ angleY -156.706
+}
 $grp Vehicle : "{4A71F755A4513227}Prefabs/Vehicles/Wheeled/M998/M1025.et" {
  M1 {
   coords 3830.188 311.103 8928.377
@@ -7,10 +11,6 @@ $grp Vehicle : "{4A71F755A4513227}Prefabs/Vehicles/Wheeled/M998/M1025.et" {
   coords 3840.913 311.135 8953.717
   angleY -153.267
  }
-}
-Vehicle kiok_m1114_armed_m2tower_green1 : "{589F8D16C55CFD00}Prefabs/Vehicles/Wheeled/M998/kiok_m1114_armed_m2tower_green.et" {
- coords 3835.687 311.103 8942.001
- angleY -155.767
 }
 $grp SCR_AIGroup : "{F497C91720379FE7}Prefabs/Groups/BLUFOR/Group_CDF_RifleSquad.et" {
  {
@@ -100,7 +100,7 @@ $grp SCR_AIGroup : "{F497C91720379FE7}Prefabs/Groups/BLUFOR/Group_CDF_RifleSquad
     m_iSquadCallsign 1
    }
   }
-  coords 3839.845 311.094 8939.557
+  coords 3839.575 311.094 8938.803
   angleY -157.27
   m_aUnitPrefabSlots {
    "{16165F4184929A6A}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_SL.et" "{6B0EB3B9E101A6F0}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_SR.et" "{7B9EAE5EB616387A}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_AR.et" "{A336C79FCF9F2626}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_AT.et" "{A0FFE636D44E5918}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_AAT.et" "{764BD07F41A15150}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_GL.et" "{6DA7E54B8E4F3FC3}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_LAT.et" "{9DE22FB5586591CC}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Rifleman.et"
