@@ -1,99 +1,28 @@
-$grp PS_ManualMarker {
- {
-  coords 998.882 2.773 6029.323
-  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
-  m_sImageSetGlow "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
-  m_sQuadName "infantry-opfor"
-  m_fWorldSizeWidth 45
-  m_fWorldSizeHeight 30
-  m_sDescription "Буран"
-  m_bUseWorldScale 0
- }
- target_2 {
-  coords 9923.863 300.848 2608.659
+$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ attack2 {
+  coords 9927.528 304.792 2602.272
   m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
-  m_sImageSetGlow "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
   m_sQuadName "Task_Attack"
-  m_fWorldSizeWidth 30
-  m_fWorldSizeHeight 30
+  m_fWorldSize 35
+  m_sDescription "Плацдарм А"
   m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "Ses_CDF" "RHS_RF_MSV" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
  }
- {
-  coords 8243.928 228.176 2198.006
+ attack3 {
+  coords 8249.693 232.274 2191.996
   m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
-  m_sImageSetGlow "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
   m_sQuadName "Task_Attack"
-  m_fWorldSizeWidth 30
-  m_fWorldSizeHeight 30
+  m_fWorldSize 35
+  m_sDescription "Плацдарм Б"
   m_bUseWorldScale 0
- }
- {
-  coords 1086.233 3.301 6037.862
-  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
-  m_sImageSetGlow "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
-  m_sQuadName "infantry-opfor"
-  m_fWorldSizeWidth 45
-  m_fWorldSizeHeight 30
-  m_sDescription "Актив"
-  m_bUseWorldScale 0
- }
- {
-  coords 4767.407 24.574 11989.91
-  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
-  m_sImageSetGlow "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
-  m_sQuadName "infantry-blufor"
-  m_fWorldSizeWidth 45
-  m_fWorldSizeHeight 30
-  m_sDescription "Blazer-Red"
-  m_bUseWorldScale 0
- }
- {
-  coords 4766.53 26.368 11885.665
-  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
-  m_sImageSetGlow "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
-  m_sQuadName "infantry-blufor"
-  m_fWorldSizeWidth 45
-  m_fWorldSizeHeight 30
-  m_sDescription "Chaos Red"
-  m_bUseWorldScale 0
- }
- {
-  coords 4844.145 28.543 11880.105
-  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
-  m_sImageSetGlow "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
-  m_sQuadName "Helicopter-blufor"
-  m_fWorldSizeWidth 45
-  m_fWorldSizeHeight 30
-  m_sDescription "Disco Red"
-  m_bUseWorldScale 0
- }
- {
-  coords 4843.656 27.475 11986.042
-  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
-  m_sImageSetGlow "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
-  m_sQuadName "Helicopter-blufor"
-  m_fWorldSizeWidth 45
-  m_fWorldSizeHeight 30
-  m_sDescription "Eagle Red"
-  m_bUseWorldScale 0
- }
- {
-  coords 8454.646 167.544 3656.849
-  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
-  m_sImageSetGlow "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
-  m_sQuadName "Recon-indfor"
-  m_fWorldSizeWidth 45
-  m_fWorldSizeHeight 30
-  m_sDescription "Гейзер"
-  m_bUseWorldScale 0
- }
- target_1 {
-  coords 8242.162 224.748 2196.018
-  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
-  m_sImageSetGlow "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
-  m_sQuadName "Task_Attack"
-  m_fWorldSizeWidth 30
-  m_fWorldSizeHeight 30
-  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "Ses_CDF" "RHS_RF_MSV" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
  }
 }

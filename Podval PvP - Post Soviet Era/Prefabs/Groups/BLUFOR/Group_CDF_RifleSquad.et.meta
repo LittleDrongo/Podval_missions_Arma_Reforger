@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{58B1D364B22A0CD6}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_Sniper.et"
+ Name "{F497C91720379FE8}Prefabs/Groups/BLUFOR/Group_CDF_RifleSquad.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }

@@ -1,59 +1,7 @@
-$grp Vehicle : "{1BABF6B33DA0AEB6}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_command.et" {
- Ural4320_command1 {
-  coords 1677.255 38.008 3019.249
-  angleX -0.899
-  angleY -179.781
-  angleZ 0.892
- }
- Ural4320_command2 {
-  coords 1358.724 37.712 2979.134
-  angleX 1.044
-  angleY 169.411
-  angleZ 0.715
- }
-}
 GenericEntity : "{5BA978B9D36641DD}Prefabs/Props/Military/Compositions/USSR/Antenna_01_USSR.et" {
  coords 1687.614 47.713 3023.072
 }
 $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
- FIA_inf {
-  coords 6133.256 121.406 5185.251
-  m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "infantry-indfor"
-  m_fWorldSize 35
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "US" "USSR" "FIA"
-  }
-  m_bVisibleForEmptyFaction 1
- }
- USSR_inf {
-  coords 1321.595 38.024 2950.477
-  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "infantry-opfor"
-  m_fWorldSize 35
-  m_sDescription "Актив, Буран"
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "US" "USSR" "FIA"
-  }
-  m_bVisibleForEmptyFaction 1
- }
- USSR_inf2 {
-  coords 2711.029 77.541 1647.271
-  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "infantry-opfor"
-  m_fWorldSize 35
-  m_sDescription "Динамо"
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "US" "USSR" "FIA"
-  }
-  m_bVisibleForEmptyFaction 1
- }
  attack2 {
   coords 1355.782 38.353 2970.863
   m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
@@ -132,45 +80,6 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   }
   m_bVisibleForEmptyFaction 1
  }
- bluefor_inf {
-  coords 2259.876 8.648 3186.627
-  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "infantry-blufor"
-  m_fWorldSize 35
-  m_sDescription "Atlas, Blazer"
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "US" "USSR" "FIA"
-  }
-  m_bVisibleForEmptyFaction 1
- }
- bluefor_inf2 {
-  coords 1671.901 0.594 1912.318
-  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "infantry-blufor"
-  m_fWorldSize 35
-  m_sDescription "Chaos"
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "US" "USSR" "FIA"
-  }
-  m_bVisibleForEmptyFaction 1
- }
- bluefor_inf3 {
-  coords 329.415 1.456 2333.191
-  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "infantry-blufor"
-  m_fWorldSize 35
-  m_sDescription "Disco"
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "US" "USSR" "FIA"
-  }
-  m_bVisibleForEmptyFaction 1
- }
  attack4 {
   coords 1376.997 36.502 2387.106
   m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
@@ -178,19 +87,6 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sQuadName "Task_Attack"
   m_fWorldSize 35
   m_sDescription "Гарнизон"
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "US" "USSR" "FIA"
-  }
-  m_bVisibleForEmptyFaction 1
- }
- USSR_inf3 {
-  coords 1361.628 37.392 2388.504
-  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "infantry-opfor"
-  m_fWorldSize 35
-  m_sDescription "Компас"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
    "US" "USSR" "FIA"

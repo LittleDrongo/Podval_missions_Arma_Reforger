@@ -1,8 +1,10 @@
+Vehicle Ural4320_command1 : "{1BABF6B33DA0AEB6}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_command.et" {
+ coords 2632.615 91.993 5370.936
+ angleX -0.168
+ angleY 100.839
+ angleZ 0.879
+}
 $grp Vehicle : "{70BAEEFC2D3FEE64}Prefabs/Vehicles/Helicopters/UH1H/UH1H.et" {
- UH1H1 {
-  coords 4848.758 27.003 12018.479
-  angleY -179.73
- }
  UH1H2 {
   coords 4849.681 27.038 11989.231
   angleX 0.886
@@ -14,12 +16,6 @@ $grp Vehicle : "{70BAEEFC2D3FEE64}Prefabs/Vehicles/Helicopters/UH1H/UH1H.et" {
   angleX 0.933
   angleY 179.196
   angleZ 2.671
- }
- UH1H4 {
-  coords 4847.793 28.568 11899.062
-  angleX -0.002
-  angleY -179.841
-  angleZ 0.895
  }
  UH1H5 {
   coords 4848.155 28.387 11869.653
@@ -44,7 +40,7 @@ $grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_
     m_iCompanyCallsign 1
    }
   }
-  coords 4766.687 24.663 11986.064
+  coords 4766.687 24.663 11986.063
   angleY 89.077
   m_aUnitPrefabSlots {
    "{DBC177C261C93B9D}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_SL_P.et" "{094747C4F8BE9F9F}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_TL_P.et" "{7E44CF4FB58F8FF7}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_AR_P.et" "{A47EB499090D69B9}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_GL_P.et" "{C262DC827577226C}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_LAT_P.et" "{094747C4F8BE9F9F}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_TL_P.et" "{A47EB499090D69B9}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_GL_P.et" "{C262DC827577226C}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_LAT_P.et"
@@ -62,22 +58,6 @@ $grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_
   }
   coords 4766.792 24.569 11990.192
   angleY 92.429
-  m_aUnitPrefabSlots {
-   "{DBC177C261C93B9D}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_SL_P.et" "{094747C4F8BE9F9F}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_TL_P.et" "{7E44CF4FB58F8FF7}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_AR_P.et" "{A47EB499090D69B9}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_GL_P.et" "{C262DC827577226C}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_LAT_P.et" "{094747C4F8BE9F9F}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_TL_P.et" "{A47EB499090D69B9}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_GL_P.et" "{C262DC827577226C}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_LAT_P.et"
-  }
- }
- {
-  components {
-   AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "Column"
-   }
-   PS_GroupCallsignAssigner "{5EED034D8ECA0BFE}" {
-    m_iCompanyCallsign 1
-    m_iSquadCallsign 2
-   }
-  }
-  coords 4766.932 24.514 11994.438
-  angleY 92.883
   m_aUnitPrefabSlots {
    "{DBC177C261C93B9D}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_SL_P.et" "{094747C4F8BE9F9F}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_TL_P.et" "{7E44CF4FB58F8FF7}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_AR_P.et" "{A47EB499090D69B9}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_GL_P.et" "{C262DC827577226C}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_LAT_P.et" "{094747C4F8BE9F9F}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_TL_P.et" "{A47EB499090D69B9}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_GL_P.et" "{C262DC827577226C}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_LAT_P.et"
   }
@@ -116,22 +96,6 @@ $grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "Column"
-   }
-   PS_GroupCallsignAssigner "{5EED034D8ECA0BFE}" {
-    m_iCompanyCallsign 2
-    m_iSquadCallsign 2
-   }
-  }
-  coords 4765.044 26.327 11889.704
-  angleY 89.546
-  m_aUnitPrefabSlots {
-   "{DBC177C261C93B9D}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_SL_P.et" "{094747C4F8BE9F9F}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_TL_P.et" "{7E44CF4FB58F8FF7}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_AR_P.et" "{A47EB499090D69B9}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_GL_P.et" "{C262DC827577226C}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_LAT_P.et" "{094747C4F8BE9F9F}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_TL_P.et" "{A47EB499090D69B9}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_GL_P.et" "{C262DC827577226C}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_LAT_P.et"
-  }
- }
- {
-  components {
-   AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Line"
    }
    PS_GroupCallsignAssigner "{5EEE8DCCFB0E4764}" {
@@ -141,7 +105,7 @@ $grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_
   coords 4842.902 28.497 11838.061
   angleY -91.942
   m_aUnitPrefabSlots {
-   "{42A502E3BB727CEB}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot.et" "{42A502E3BB727CEB}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot.et"
+   "{E9601333852C637F}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot_P.et" "{E9601333852C637F}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot_P.et"
   }
  }
  {
@@ -157,23 +121,7 @@ $grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_
   coords 4841.957 28.791 11865.964
   angleY -91.942
   m_aUnitPrefabSlots {
-   "{42A502E3BB727CEB}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot.et" "{42A502E3BB727CEB}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot.et"
-  }
- }
- {
-  components {
-   AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "Line"
-   }
-   PS_GroupCallsignAssigner "{5EEE8DCCFB0E4764}" {
-    m_iCompanyCallsign 3
-    m_iSquadCallsign 2
-   }
-  }
-  coords 4840.941 28.791 11895.914
-  angleY -91.942
-  m_aUnitPrefabSlots {
-   "{42A502E3BB727CEB}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot.et" "{42A502E3BB727CEB}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot.et"
+   "{E9601333852C637F}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot_P.et" "{E9601333852C637F}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot_P.et"
   }
  }
  {
@@ -188,7 +136,7 @@ $grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_
   coords 4838.997 28.791 11953.249
   angleY -91.942
   m_aUnitPrefabSlots {
-   "{42A502E3BB727CEB}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot.et" "{42A502E3BB727CEB}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot.et"
+   "{E9601333852C637F}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot_P.et" "{E9601333852C637F}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot_P.et"
   }
  }
  {
@@ -204,23 +152,27 @@ $grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_
   coords 4837.822 28.791 11987.876
   angleY -91.942
   m_aUnitPrefabSlots {
-   "{42A502E3BB727CEB}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot.et" "{42A502E3BB727CEB}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot.et"
+   "{E9601333852C637F}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot_P.et" "{E9601333852C637F}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot_P.et"
   }
  }
  {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "Line"
+    DefaultFormation "Column"
    }
-   PS_GroupCallsignAssigner "{5EEE8DCCFB0E4764}" {
-    m_iCompanyCallsign 4
-    m_iSquadCallsign 2
+   PS_GroupCallsignAssigner "{5EED034D8ECA0BFE}" {
    }
   }
-  coords 4836.938 28.791 12013.894
-  angleY -91.942
+  coords 4767.883 25.629 11934.296
+  angleY 89.077
   m_aUnitPrefabSlots {
-   "{42A502E3BB727CEB}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot.et" "{42A502E3BB727CEB}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot.et"
+   "{5124771ECBFB79A7}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Officer_P.et"
   }
  }
+}
+Vehicle Ural4320_transport_covered1 : "{D9B91FAB817A6033}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_covered.et" {
+ coords 2471.32 87.75 5339.427
+ angleX -4.467
+ angleY 90.544
+ angleZ -0.042
 }

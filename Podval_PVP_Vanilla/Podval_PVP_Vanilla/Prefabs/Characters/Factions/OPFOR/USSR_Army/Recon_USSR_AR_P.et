@@ -22,5 +22,15 @@ SCR_ChimeraCharacter : "{00716F7369F3C5E8}Prefabs/Characters/Factions/OPFOR/USSR
     }
    }
   }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{5D7CC173E6675BF7}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Pants_Pilot_USSR_01/Pants_Pilot_USSR_01.et"
+    }
+    ItemsInitConfigurationItem "{5590D9E7EF8BF25D}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Jacket_Pilot_USSR_01/Jacket_Pilot_USSR_01.et"
+    }
+   }
+  }
  }
 }
