@@ -1,0 +1,20 @@
+Vehicle M1025_MERDC1 : "{27E2E58E734A80EC}Prefabs/Vehicles/Wheeled/M998/M1025_MERDC.et" {
+ coords 7181.956 137.166 2373.778
+}
+Vehicle M1025_armed_M2HB1 : "{3EA6F47D95867114}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB.et" {
+ coords 7181.719 137.229 2360.741
+}
+Vehicle M1 : "{4A71F755A4513227}Prefabs/Vehicles/Wheeled/M998/M1025.et" {
+ coords 7181.625 137.26 2354.022
+}
+Vehicle M2 : "{5674FAEB9AB7BDD0}Prefabs/Vehicles/Wheeled/M998/M998.et" {
+ coords 7181.766 137.338 2346.981
+ angleX -0.895
+}
+Vehicle M1025_armed_M2HB_MERDC1 : "{DD774A8FD0989A78}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_MERDC.et" {
+ coords 7181.612 137.185 2366.811
+ angleX -0.895
+}
+Vehicle M151A1 : "{F649585ABB3706C4}Prefabs/Vehicles/Wheeled/M151A2/M151A2.et" {
+ coords 7175.495 137.305 2357.481
+}
