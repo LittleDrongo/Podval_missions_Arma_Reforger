@@ -1,0 +1,33 @@
+PolylineShapeEntity {
+ components {
+  PS_PolyZone "{6072F480C4AF98CA}" {
+   m_cPolygonBorderColor 0 0.125 0.502 1
+   m_fPolygonBorderUVScale 0.956
+   m_fPolygonBorderWidth 44.333
+  }
+ }
+ coords 7273.669 138.75 2515.066
+ Points {
+  ShapePoint "{6072F4809A3473CC}" {
+   Position 0 -0 0
+  }
+  ShapePoint "{6072F4809A42187C}" {
+   Position 5 0.24 0
+  }
+  ShapePoint "{6072F480E5CB77BE}" {
+   Position -31.951 0.077 -13.286
+  }
+  ShapePoint "{6072F480E0C62A8D}" {
+   Position -98.152 2.55 -18.867
+  }
+  ShapePoint "{6072F480E203F7C8}" {
+   Position -233.65 22.186 94.008
+  }
+  ShapePoint "{6072F480E31D8D4B}" {
+   Position -146.109 14.447 168.442
+  }
+  ShapePoint "{6072F480EC20C947}" {
+   Position -38.655 5.455 71.732
+  }
+ }
+}

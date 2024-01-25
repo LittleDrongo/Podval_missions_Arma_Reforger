@@ -9,15 +9,18 @@ TagManager : "{2FA9E172CAB1857A}Prefabs/MP/Managers/TagManager.et" {
 }
 PS_GameModeCoop PS_GameMode_Lobby1 : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_GameMode_Lobby.et" {
  components {
+  SCR_InitWeatherComponent "{6072F483ED5419AE}" {
+   m_sInitialStartingWeatherId "Overcast"
+  }
   SCR_TimeAndWeatherHandlerComponent "{5EE3229927D4D2F5}" {
-   m_iStartingHours 23
+   m_iStartingHours 13
   }
  }
  m_bCanOpenLobbyInGame 1
  m_bRemoveSquadMarkers 1
  m_iFreezeTime 300000
  {
-  SCR_FactionManager {
+  SCR_FactionManager "6072F48C7890B996" {
    ID "5ED9088735FF2D8B"
    Factions {
     SCR_Faction "{56DEAC40D2DBC8B1}" {

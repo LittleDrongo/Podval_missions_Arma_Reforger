@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{F77D0A9E92E5009F}Prefabs/Groups/OPFOR/Group_USSR_PHQ.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{FACEC2D53A154DBE}Prefabs/Items/Equipment/Radios/Radio_R107M_Plt.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,6 @@
+SCR_AIGroup : "{B50B7BF31273C2A6}Prefabs/Groups/OPFOR/Group_USSR_Base.et" {
+ ID "0000000000000001"
+ m_aUnitPrefabSlots {
+  "{DB71C633DA9D1BFD}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_SL.et" "{29786A5DBA2EC48A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_Rifleman.et" "{29786A5DBA2EC48A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_Rifleman.et" "{29786A5DBA2EC48A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_Rifleman.et" "{29786A5DBA2EC48A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_Rifleman.et" "{150806463FF4097B}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_Unnarmed.et"
+ }
+}

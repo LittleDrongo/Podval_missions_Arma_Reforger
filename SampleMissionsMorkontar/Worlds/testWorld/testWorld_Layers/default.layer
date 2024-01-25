@@ -1,0 +1,42 @@
+SCR_ChimeraCharacter : "{1ADC4934980AA91A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_PL.et" {
+ coords 156.17 1 160.771
+}
+$grp SCR_AIGroup : "{6B6B2B2836D6DC79}Prefabs/Groups/OPFOR/Group_USSR_Riflesquad.et" {
+ {
+  coords 146.694 1.002 159.311
+  m_aUnitPrefabSlots {
+   "{DB71C633DA9D1BFD}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_SL.et" "{29786A5DBA2EC48A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_Rifleman.et" "{29786A5DBA2EC48A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_Rifleman.et" "{29786A5DBA2EC48A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_Rifleman.et" "{150806463FF4097B}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_Unnarmed.et"
+  }
+  m_sCustomNameSet "Цветок-1"
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{6072F48D01FE32B7}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 142.991 1 159.311
+  m_aUnitPrefabSlots {
+   "{DB71C633DA9D1BFD}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_SL.et" "{29786A5DBA2EC48A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_Rifleman.et" "{29786A5DBA2EC48A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_Rifleman.et" "{29786A5DBA2EC48A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_Rifleman.et" "{150806463FF4097B}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_Unnarmed.et"
+  }
+  m_sCustomNameSet "Тигр"
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{6072F48D01FE32B7}" {
+    m_iCompanyCallsign 2
+   }
+  }
+  coords 137.633 1 159.311
+  m_aUnitPrefabSlots {
+   "{DB71C633DA9D1BFD}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_SL.et" "{29786A5DBA2EC48A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_Rifleman.et" "{29786A5DBA2EC48A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_Rifleman.et" "{29786A5DBA2EC48A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_Rifleman.et" "{150806463FF4097B}Prefabs/Characters/Factions/OPFOR/USSR_Army/Drg_Character_USSR_Unnarmed.et"
+  }
+  m_sCustomNameSet "Равездка"
+ }
+}
+SCR_AIGroup : "{F77D0A9E92E5009F}Prefabs/Groups/OPFOR/Group_USSR_PHQ.et" {
+ coords 151.105 1 158.636
+}
+GenericEntity : "{FACEC2D53A154DBE}Prefabs/Items/Equipment/Radios/Radio_R107M_Plt.et" {
+ coords 154.759 1 160.894
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{6492196F107687BC}Prefabs/Items/Equipment/Radios/Radio_R148_Sl.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
