@@ -119,8 +119,13 @@ GenericEntity : "{D69684663E89D6EA}Prefabs/Items/Equipment/Radios/Radio_ANPRC152
  }
  coords 162.11 1 158.765
 }
-SCR_ChimeraCharacter : "{DF3119ACA202D958}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_Rifleman.et" {
- coords 138.893 1 143.997
+$grp SCR_ChimeraCharacter : "{DF3119ACA202D958}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_Rifleman.et" {
+ {
+  coords 138.893 1 143.997
+ }
+ {
+  coords 137.657 1 144.926
+ }
 }
 GenericEntity : "{F1AC5E87378A6157}Prefabs/Props/Fabric/Flags/Flag_1_GTF.et" {
  coords 131.467 3.608 131.305

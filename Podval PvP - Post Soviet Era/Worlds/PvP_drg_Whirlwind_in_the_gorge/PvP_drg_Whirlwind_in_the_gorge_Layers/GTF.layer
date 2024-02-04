@@ -8,6 +8,8 @@ $grp SCR_AIGroup : "{C2EA56B44E333B35}Prefabs/AI/Groups/Group_GTF_RifleSquad.et"
   }
   coords 2410.137 87.545 1623.738
   angleY -0.686
+  m_sCustomNameSet "1-я группа"
+  m_bSetPlayable 1
  }
  {
   components {
@@ -18,6 +20,7 @@ $grp SCR_AIGroup : "{C2EA56B44E333B35}Prefabs/AI/Groups/Group_GTF_RifleSquad.et"
   }
   coords 1871.265 211.52 1955.203
   angleY -0.686
+  m_sCustomNameSet "2-я группа"
  }
  {
   components {
@@ -28,6 +31,7 @@ $grp SCR_AIGroup : "{C2EA56B44E333B35}Prefabs/AI/Groups/Group_GTF_RifleSquad.et"
   }
   coords 2368.212 255.99 2354.526
   angleY -107.972
+  m_sCustomNameSet "3-я группа"
  }
  {
   components {
@@ -38,6 +42,7 @@ $grp SCR_AIGroup : "{C2EA56B44E333B35}Prefabs/AI/Groups/Group_GTF_RifleSquad.et"
   }
   coords 2529.275 109.03 2053.238
   angleY -43.962
+  m_sCustomNameSet "4-я группа"
  }
  {
   components {
@@ -48,6 +53,7 @@ $grp SCR_AIGroup : "{C2EA56B44E333B35}Prefabs/AI/Groups/Group_GTF_RifleSquad.et"
   }
   coords 2531.041 109.198 2055.253
   angleY -43.962
+  m_sCustomNameSet "4-я группа - 2-е отделени"
  }
 }
 $grp SCR_AIGroup : "{CD91F27702A13DDB}Prefabs/AI/Groups/Group_GTF_PlatoonSquad.et" {
@@ -59,6 +65,7 @@ $grp SCR_AIGroup : "{CD91F27702A13DDB}Prefabs/AI/Groups/Group_GTF_PlatoonSquad.e
   }
   coords 2411.58 87.544 1623.813
   angleY -9.714
+  m_sCustomNameSet "5 группа"
  }
  {
   components {
@@ -93,5 +100,6 @@ $grp SCR_AIGroup : "{CD91F27702A13DDB}Prefabs/AI/Groups/Group_GTF_PlatoonSquad.e
   m_aUnitPrefabSlots {
    "{CDD2AA6910062742}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_CL.et"
   }
+  m_sCustomNameSet "Командование"
  }
 }

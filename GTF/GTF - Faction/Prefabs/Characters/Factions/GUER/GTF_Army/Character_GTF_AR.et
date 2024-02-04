@@ -42,7 +42,7 @@ SCR_ChimeraCharacter : "{DF3119ACA202D958}Prefabs/Characters/Factions/GUER/GTF_A
      TargetStorage "Prefabs/Characters/Uniforms/Pants_US_BDU.et"
     }
     ItemsInitConfigurationItem "{6054E9F105ECB707}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Pants_US_BDU.et"
+     TargetStorage "Prefabs/Characters/Uniforms/Jacket_M88.et"
     }
     ItemsInitConfigurationItem "{6054E9F155141F37}" {
      PrefabsToSpawn {

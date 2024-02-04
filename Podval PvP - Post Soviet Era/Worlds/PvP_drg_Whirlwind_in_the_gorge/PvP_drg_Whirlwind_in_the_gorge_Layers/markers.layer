@@ -1,118 +1,12 @@
-$grp GenericEntity : "{74E665E138AA8E21}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V1_CDF.et" {
- {
-  coords 3848.107 318.579 8943.552
+PS_ManualMarker attack2 : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ coords 2349.224 162.802 1859.413
+ m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+ m_sImageSetGlow ""
+ m_sQuadName "Task_Attack"
+ m_fWorldSize 35
+ m_bUseWorldScale 0
+ m_aVisibleForFactions {
+  "Ses_CDF" "RHS_US_USMC" "drg_GTF"
  }
- {
-  coords 3766.665 323.155 8912.496
- }
-}
-$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
- attack2 {
-  coords 2349.224 162.802 1859.413
-  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "Task_Attack"
-  m_fWorldSize 35
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "Ses_CDF" "RHS_US_USMC" "drg_GTF"
-  }
-  m_bVisibleForEmptyFaction 1
- }
- bluefor_inf3 {
-  coords 1900.977 17.892 3818.1
-  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "infantry-blufor"
-  m_fWorldSize 35
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "RHS_US_USMC" "drg_GTF"
-  }
-  m_bVisibleForEmptyFaction 1
- }
- bluefor_inf2 {
-  coords 2182.342 17.051 3602.972
-  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "infantry-blufor"
-  m_fWorldSize 35
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "RHS_US_USMC" "drg_GTF"
-  }
-  m_bVisibleForEmptyFaction 1
- }
- bluefor_inf4 {
-  coords 2353.327 162.932 1838.162
-  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "infantry-blufor"
-  m_fWorldSize 35
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "RHS_US_USMC" "drg_GTF"
-  }
-  m_bVisibleForEmptyFaction 1
- }
- bluefor_inf {
-  coords 2220.975 16.557 3587.214
-  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "infantry-blufor"
-  m_fWorldSize 35
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "RHS_US_USMC" "drg_GTF"
-  }
-  m_bVisibleForEmptyFaction 1
- }
- guer_1 {
-  coords 2529.004 109.232 2052.405
-  m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "infantry-indfor"
-  m_fWorldSize 35
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "RHS_US_USMC" "drg_GTF"
-  }
-  m_bVisibleForEmptyFaction 1
- }
- guer_2 {
-  coords 2410.965 87.547 1623.618
-  m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "infantry-indfor"
-  m_fWorldSize 35
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "RHS_US_USMC" "drg_GTF"
-  }
-  m_bVisibleForEmptyFaction 1
- }
- guer_3 {
-  coords 2369.826 255.84 2354.486
-  m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "infantry-indfor"
-  m_fWorldSize 35
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "RHS_US_USMC" "drg_GTF"
-  }
-  m_bVisibleForEmptyFaction 1
- }
- guer_4 {
-  coords 1869.87 211.643 1955.316
-  m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "infantry-indfor"
-  m_fWorldSize 35
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "RHS_US_USMC" "drg_GTF"
-  }
-  m_bVisibleForEmptyFaction 1
- }
+ m_bVisibleForEmptyFaction 1
 }

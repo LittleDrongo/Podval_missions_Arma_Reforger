@@ -89,35 +89,3 @@ $grp SCR_AIGroup : "{BE15EB6441A31CEB}Prefabs/Groups/BLUFOR/RHS_US_USMC_D/Group_
   angleY -14.666
  }
 }
-$grp Vehicle : "{F7F948A915467C48}Prefabs/Vehicles/Wheeled/M998/kiok_m1114_armed_m2tower_tan.et" {
- kiok_m1114_armed_m2tower_tan1 {
-  coords 2188.719 16.936 3601.979
-  angleX -0.862
-  angleY 105.63
-  angleZ -0.241
- }
- kiok_m1114_armed_m2tower_tan2 {
-  coords 2175.051 17.227 3605.226
-  angleX -1.759
-  angleY 100.703
-  angleZ -0.332
- }
- kiok_m1114_armed_m2tower_tan3 {
-  coords 2223.98 16.484 3584.365
-  angleX -1.265
-  angleY 132.436
-  angleZ 0.057
- }
- kiok_m1114_armed_m2tower_tan4 {
-  coords 2210.736 16.685 3593.162
-  angleX -0.764
-  angleY 121.382
-  angleZ -0.466
- }
- kiok_m1114_armed_m2tower_tan5 {
-  coords 2234.983 16.216 3574.203
-  angleX -1.266
-  angleY 134.356
-  angleZ 0.014
- }
-}

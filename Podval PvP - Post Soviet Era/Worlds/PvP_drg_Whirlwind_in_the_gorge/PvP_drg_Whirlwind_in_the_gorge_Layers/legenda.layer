@@ -1,0 +1,8 @@
+SCR_AIGroup : "{7C5FD1ED23CD3460}Prefabs/Groups/BLUFOR/RHS_US_USMC_D/Group_US_USMC_RifleSquad_D.et" {
+ coords 2874.793 383.714 721.484
+ angleY -6.034
+ m_faction "drg_PMC_EC"
+ m_aUnitPrefabSlots {
+  "{C7EF9B21D446A922}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_SL.et" "{F870B424888D1FD2}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_MG.et" "{C0286170B2C013E1}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_TL.et" "{CC35A95C0BDA9355}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Rifleman.et" "{AE99910775844087}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_Rifleman_2.et" "{72CF03FF9F4B156D}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_AT.et" "{5109F8A7AE28F486}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_AAT.et" "{72CF03FF9F4B156D}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_AT.et" "{5109F8A7AE28F486}Prefabs/Characters/Factions/OPFOR/PMC_EC/Character_PMC_EC_AAT.et"
+ }
+}
