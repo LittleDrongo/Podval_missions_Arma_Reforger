@@ -1,0 +1,26 @@
+$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ {
+  coords 9620.641 22.429 5262.071
+  m_sImageSetGlow ""
+  m_MarkerColor 1 0.007 0.007 1
+  m_sQuadName "flag-2"
+  m_fWorldSize 40
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "USSR" "US" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ {
+  coords 9334.429 4.442 5061.864
+  m_sImageSetGlow ""
+  m_MarkerColor 1 0.007 0.007 1
+  m_sQuadName "flag-2"
+  m_fWorldSize 40
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "USSR" "US" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+}
