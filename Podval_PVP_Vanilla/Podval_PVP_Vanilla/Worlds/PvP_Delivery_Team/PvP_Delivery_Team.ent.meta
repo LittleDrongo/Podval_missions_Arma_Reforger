@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{33D52A21FA6B99CB}Worlds/PvP_Delivery_Team/PvP_Delivery_Team.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}
