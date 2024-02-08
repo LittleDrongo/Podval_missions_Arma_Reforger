@@ -1,0 +1,114 @@
+$grp SCR_DestructibleBuildingEntity : "{48023B0C1DCC8F0D}Prefabs/Structures/Infrastructure/Naval/Piers/PierWooden_01_10m.et" {
+ {
+  coords 10884.396 0.237 8457.396
+  angleY 159.401
+  HouseNumber -2
+ }
+ {
+  coords 10888.048 0.237 8447.908
+  angleY 159.401
+  HouseNumber -2
+ }
+ {
+  coords 10891.7 0.237 8438.228
+  angleY 159.401
+  HouseNumber -2
+ }
+ {
+  coords 10895.333 0.237 8428.521
+  angleY 159.401
+  HouseNumber -2
+ }
+ {
+  coords 10994.398 -0.121 8495.498
+  angleY 130.163
+  HouseNumber -2
+ }
+ {
+  coords 10986.579 -0.121 8501.993
+  angleY 130.163
+  HouseNumber -2
+ }
+ {
+  coords 11002.316 -0.121 8488.833
+  angleY 130.163
+  HouseNumber -2
+ }
+ {
+  coords 11004.749 -0.121 8460.111
+  angleY 130.163
+  HouseNumber -2
+ }
+ {
+  coords 10967.867 -0.121 8464.063
+  angleY 130.163
+  HouseNumber -2
+ }
+ {
+  coords 10975.787 -0.121 8457.396
+  angleY 130.163
+  HouseNumber -2
+ }
+ {
+  coords 10981.314 -0.121 8479.995
+  angleY 130.163
+  HouseNumber -2
+ }
+ {
+  coords 10989.233 -0.121 8473.33
+  angleY 130.163
+  HouseNumber -2
+ }
+ {
+  coords 10991.303 -0.121 8444.179
+  angleY 130.163
+  HouseNumber -2
+ }
+ {
+  coords 10983.696 -0.121 8450.703
+  angleY 130.163
+  HouseNumber -2
+ }
+ {
+  coords 11017.832 -0.121 8475.615
+  angleY 130.163
+  HouseNumber -2
+ }
+ {
+  coords 10997.144 -0.121 8466.636
+  angleY 130.163
+  HouseNumber -2
+ }
+ {
+  coords 10973.496 -0.121 8486.49
+  angleY 130.163
+  HouseNumber -2
+ }
+ {
+  coords 10960.05 -0.121 8470.558
+  angleY 130.163
+  HouseNumber -2
+ }
+ {
+  coords 11010.227 -0.121 8482.139
+  angleY 130.163
+  HouseNumber -2
+ }
+}
+GenericEntity : "{68ED84218EA1BDC3}Prefabs/Compositions/Slotted/SlotFlatSmall/Antenna_S_USSR_01.et" {
+ coords 9586.492 10.875 5213.7
+}
+StaticModelEntity : "{B6D61E3EC914119E}Prefabs/Compositions/Misc/SubCompositions/Tent_Barrack_Camo_Cluttered_USSR_01.et" {
+ coords 9652.599 22.228 5267.41
+ angleY 0
+}
+$grp StaticModelEntity : "{DA822ADE75D09EB0}Prefabs/Compositions/Misc/SubCompositions/Tent_Barrack_Camo_Cluttered_USSR_02.et" {
+ {
+  coords 9609.837 23.046 5264.934
+  angleY 0
+ }
+ {
+  coords 9623.498 22.438 5276.425
+  angleY 0
+ }
+}

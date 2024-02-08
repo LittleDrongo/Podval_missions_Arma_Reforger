@@ -111,4 +111,20 @@ $grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_
   coords 3906.21 13.845 8460.028
   angleY 92.646
  }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9BA407DF7C}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 4906.501 28.594 11786.522
+  angleY 92.646
+  m_aUnitPrefabSlots {
+   "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman_P.et"
+  }
+  m_sCustomNameSet "Сторож Вазген"
+ }
 }

@@ -1,0 +1,106 @@
+$grp PolylineShapeEntity {
+ {
+  components {
+   PS_PolyZone "{609138D715D8A5CC}" {
+    m_cPolygonColor 1 1 1 0
+    m_cPolygonBorderColor 0 0.502 0.125 1
+    m_fPolygonBorderWidth 6
+   }
+  }
+  coords 6656.812 -3.291 4294.65
+  Points {
+   ShapePoint "{609138D7356AA564}" {
+    Position 0 0.008 0
+   }
+   ShapePoint "{609138D72BB430F3}" {
+    Position 5 0.321 0
+   }
+   ShapePoint "{609138D7310963A2}" {
+    Position 378.619 97.754 -0.041
+   }
+   ShapePoint "{609138D73283A57A}" {
+    Position 616.184 175.781 -248.815
+   }
+   ShapePoint "{609138D73CF3A5F5}" {
+    Position 559.014 170.796 -421.526
+   }
+   ShapePoint "{609138D73DED0BA5}" {
+    Position 553.692 162.296 -675.779
+   }
+   ShapePoint "{609138D73EB8B29A}" {
+    Position 583.249 154.392 -862.338
+   }
+   ShapePoint "{609138D73834B4F0}" {
+    Position 512.629 144.43 -1099.677
+   }
+   ShapePoint "{609138D739F87EC1}" {
+    Position 255.668 65.59 -1115.425
+   }
+   ShapePoint "{609138D73AA0E922}" {
+    Position 20.726 2.732 -957.758
+   }
+   ShapePoint "{609138D704087CA7}" {
+    Position 103.532 2.519 -710.512
+   }
+   ShapePoint "{609138D705F3D163}" {
+    Position 1.073 -6.115 -493.078
+   }
+   ShapePoint "{609138D706D0AF5E}" {
+    Position 78.344 -3.088 -369.147
+   }
+   ShapePoint "{609138D707A2D450}" {
+    Position 54.951 1.92 -182.979
+   }
+  }
+  IsClosed 1
+ }
+ {
+  components {
+   PS_PolyZone "{609138D78E287E91}" {
+    m_cPolygonColor 1 1 1 0
+    m_cPolygonBorderColor 0.561 0.071 0.071 1
+    m_fPolygonBorderWidth 8
+   }
+  }
+  coords 7105.255 157.257 2627.944
+  Points {
+   ShapePoint "{609138D7B157CF54}" {
+    Position 0 0 0
+   }
+   ShapePoint "{609138D7B7925BEF}" {
+    Position 5 -0.503 0
+   }
+   ShapePoint "{609138D7B2C30D54}" {
+    Position -26.959 -26.782 239.814
+   }
+   ShapePoint "{609138D7B382389E}" {
+    Position -139.117 -52.386 178.58
+   }
+   ShapePoint "{609138D7BDD0B084}" {
+    Position -3.982 -44.447 430.233
+   }
+   ShapePoint "{609138D7BF71A95B}" {
+    Position 219.243 43.222 253.876
+   }
+   ShapePoint "{609138D7B82A0093}" {
+    Position 75.972 -11.491 272.273
+   }
+   ShapePoint "{609138D7BA2E8673}" {
+    Position 133.108 -5.114 44.703
+   }
+  }
+  LineColor 0 0.502 0.125 1
+ }
+}
+PS_ManualMarker attack : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ coords 6951.471 49.128 3495.957
+ m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+ m_sImageSetGlow ""
+ m_sQuadName "Task_Attack"
+ m_fWorldSize 40
+ m_bUseWorldScale 0
+ m_aVisibleForFactions {
+  "USSR" "US" "FIA"
+ }
+ m_bVisibleForEmptyFaction 1
+}
