@@ -26,7 +26,7 @@ $grp SCR_AIGroup : "{D52B025B45C01253}Prefabs/Groups/OPFOR/Group_USSR_PlatoonSqu
   coords 11084.857 21.125 11874.698
   angleY -148.022
   m_aUnitPrefabSlots {
-   "{A62FA97C4EC64F14}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_HeliPilot.et" "{A62FA97C4EC64F14}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_HeliPilot.et"
+   "{2B0F3996B07194C4}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_HeliCrew_P.et" "{2B0F3996B07194C4}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_HeliCrew_P.et"
   }
  }
  {
@@ -42,7 +42,7 @@ $grp SCR_AIGroup : "{D52B025B45C01253}Prefabs/Groups/OPFOR/Group_USSR_PlatoonSqu
   coords 11054.333 21.125 11895.722
   angleY -148.022
   m_aUnitPrefabSlots {
-   "{A62FA97C4EC64F14}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_HeliPilot.et" "{A62FA97C4EC64F14}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_HeliPilot.et"
+   "{2B0F3996B07194C4}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_HeliCrew_P.et" "{2B0F3996B07194C4}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_HeliCrew_P.et"
   }
  }
 }

@@ -1,6 +1,9 @@
 $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
  FIA_G_000_M {
-  coords 7053.48 141.327 3299.144
+  coords 6918.968 121.009 2631.331
+  angleX 28.646
+  angleY 90.978
+  angleZ 2.04
   m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
@@ -17,7 +20,10 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  FIA_G_100_M {
-  coords 6971.411 161.161 3417.508
+  coords 7156.435 137.298 2365.478
+  angleX 0.89
+  angleY 89.93
+  angleZ -4.468
   m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
@@ -34,7 +40,10 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  FIA_G_101_M {
-  coords 7200.815 142.495 3400.671
+  coords 7393.317 141.442 2435.733
+  angleX 6.218
+  angleY 89.61
+  angleZ -3.598
   m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
@@ -51,7 +60,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  FIA_G_102_M {
-  coords 7072.395 155.634 3566.294
+  coords 7072.395 155.634 2668.54
   m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
@@ -68,7 +77,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  FIA_G_103_M {
-  coords 6928.854 157.707 3486.065
+  coords 6928.854 157.707 2588.311
   m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
@@ -85,7 +94,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  FIA_G_104_M {
-  coords 6872.9 143.61 3434.902
+  coords 6872.9 143.61 2537.149
   m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
@@ -102,7 +111,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  FIA_G_104_M {
-  coords 6966.645 138.493 3607.083
+  coords 6942.258 138.493 2587.381
   m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1

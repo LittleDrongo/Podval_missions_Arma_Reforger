@@ -62,7 +62,7 @@ $grp PolylineShapeEntity {
     m_fPolygonBorderWidth 8
    }
   }
-  coords 7105.255 157.257 2627.944
+  coords 7152.521 157.257 2099.273
   Points {
    ShapePoint "{609138D7B157CF54}" {
     Position 0 0 0
