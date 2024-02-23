@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{B3640ADFB8CA99C7}Missions/PvP_96_The_Siege.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

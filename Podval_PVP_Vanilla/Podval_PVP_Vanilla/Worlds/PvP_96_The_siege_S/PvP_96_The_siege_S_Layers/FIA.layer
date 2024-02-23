@@ -1,0 +1,144 @@
+$grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad_P.et" {
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9B884B2A9E}" {
+    m_iSquadCallsign 1
+   }
+  }
+  coords 8624.619 264.309 1829.295
+  angleX 13.429
+  angleY 129.163
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9B9CB3442F}" {
+    m_iSquadCallsign 2
+   }
+  }
+  coords 8620.309 264.076 1824.875
+  angleX 13.429
+  angleY 129.163
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9BF5A19318}" {
+    m_iCompanyCallsign 1
+    m_iPlatoonCallsign 1
+    m_iSquadCallsign 1
+   }
+  }
+  coords 10114.827 68.009 447.84
+  angleX 7.614
+  angleY -58.069
+  angleZ 1.794
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9BF02040EE}" {
+    m_iCompanyCallsign 1
+    m_iPlatoonCallsign 1
+    m_iSquadCallsign 2
+   }
+  }
+  coords 10110.186 67.494 443.721
+  angleX 7.614
+  angleY -58.069
+  angleZ 1.794
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9BFA74B524}" {
+    m_iCompanyCallsign 2
+    m_iPlatoonCallsign 2
+    m_iSquadCallsign 1
+   }
+  }
+  coords 8971.359 51.624 609.444
+  angleX 17.152
+  angleY 47.206
+  angleZ 5.822
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9BC51CA21A}" {
+    m_iCompanyCallsign 2
+    m_iPlatoonCallsign 2
+    m_iSquadCallsign 2
+   }
+  }
+  coords 8977.464 50.838 599.917
+  angleX 16.972
+  angleY 48.975
+  angleZ 6.341
+ }
+}
+$grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_P.et" {
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9BA407DF7C}" {
+   }
+  }
+  coords 8630.64 262.522 1835.112
+  angleY 119.301
+  m_aUnitPrefabSlots + {
+   "{21AF32D19CB52406}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_GL_P.et"
+  }
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9BEC457FCA}" {
+    m_iCompanyCallsign 1
+    m_iPlatoonCallsign 1
+   }
+  }
+  coords 10107.082 67.023 438.655
+  angleX -5.417
+  angleY -68.389
+  angleZ 2.758
+  m_aUnitPrefabSlots + {
+   "{21AF32D19CB52406}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_GL_P.et"
+  }
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+   PS_GroupCallsignAssigner "{5EC31C9BFD4635E8}" {
+    m_iCompanyCallsign 2
+    m_iPlatoonCallsign 2
+   }
+  }
+  coords 8967.607 53.018 613.47
+  angleX 3.776
+  angleY 42.376
+  angleZ -0.728
+  m_aUnitPrefabSlots + {
+   "{21AF32D19CB52406}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_GL_P.et" "{21AF32D19CB52406}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_GL_P.et"
+  }
+ }
+}

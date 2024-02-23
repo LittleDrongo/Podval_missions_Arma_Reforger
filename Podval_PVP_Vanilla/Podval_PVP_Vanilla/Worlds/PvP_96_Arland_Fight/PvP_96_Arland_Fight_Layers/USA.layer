@@ -103,18 +103,6 @@ $grp Vehicle : "{3EA6F47D95867114}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB
   angleY 91.873
   angleZ 0.204
  }
- M1025_armed_M2HB13 {
-  coords 1333.946 16.129 3331.148
-  angleX 6.239
-  angleY 91.863
-  angleZ 0.203
- }
- M1025_armed_M2HB14 {
-  coords 1317.271 14.412 3331.868
-  angleX 5.382
-  angleY 91.91
-  angleZ -0.712
- }
 }
 $grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_p.et" {
  {
@@ -171,10 +159,10 @@ $grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_
     m_iCompanyCallsign 1
    }
   }
-  coords 2147.734 13.643 3279.618
+  coords 2148.199 13.643 3277.894
   angleY 164.889
   m_aUnitPrefabSlots {
-   "{DBC177C261C93B9D}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_SL_P.et" "{EC7EDB04B4C7B73A}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_RTO_P.et"
+   "{DBC177C261C93B9D}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_SL_P.et" "{EC7EDB04B4C7B73A}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_RTO_P.et" "{EB2904CE98753A6E}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_MG_P.et" "{CA2EB3A73FABC625}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_AMG_P.et"
   }
  }
  {
@@ -191,24 +179,7 @@ $grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_
   angleY 91.633
   angleZ 0.659
   m_aUnitPrefabSlots {
-   "{DBC177C261C93B9D}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_SL_P.et" "{EC7EDB04B4C7B73A}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_RTO_P.et"
-  }
- }
- {
-  components {
-   AIFormationComponent "{507E9DC12F541FE6}" {
-    DefaultFormation "Column"
-   }
-   PS_GroupCallsignAssigner "{5EED034D8ECA0BFE}" {
-    m_iCompanyCallsign 2
-    m_iSquadCallsign 1
-   }
-  }
-  coords 1343.991 17.598 3334.181
-  angleX 8.559
-  angleY 92.424
-  angleZ 0.777
-  m_aUnitPrefabSlots +{
+   "{DBC177C261C93B9D}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_SL_P.et" "{EC7EDB04B4C7B73A}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_RTO_P.et" "{EB2904CE98753A6E}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_MG_P.et" "{CA2EB3A73FABC625}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_AMG_P.et"
   }
  }
  {
