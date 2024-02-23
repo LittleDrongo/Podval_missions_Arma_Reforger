@@ -35,5 +35,5 @@ PS_GameModeCoop PS_GameMode_Lobby1 : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_Game
  }
 }
 HitRegistrationManager HitRegManager1 : "{0EDA3D48791120DD}Prefabs/MP/HitRegManager.et" {
- coords 6353.377 145.841 6297.939
+ coords 6353.003 145.841 6298.233
 }
