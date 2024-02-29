@@ -1,0 +1,173 @@
+PolylineShapeEntity {
+ components {
+  PS_PolyZone "{60BB51558AF248C0}" {
+   m_mPolygonTexture "{DA30F5461395738C}UI/Textures/grid1.edds"
+   m_cPolygonColor 0 0.125 0.502 1
+   m_cPolygonBorderColor 0 0.125 0.502 1
+   m_fPolygonBorderWidth 5
+  }
+ }
+ coords 4679.495 345.093 5550.396
+ Points {
+  ShapePoint "{60BB5154933B9830}" {
+   Position 0 0.001 0
+  }
+  ShapePoint "{60BB5154933BDA24}" {
+   Position 5 0.001 0
+  }
+  ShapePoint "{60BB5154E9AB7164}" {
+   Position -4648.116 0 416.693
+  }
+  ShapePoint "{60BB5154FA90D39C}" {
+   Position -4568.322 0 -5480.834
+  }
+  ShapePoint "{60BB5154C7461363}" {
+   Position 10649.73 -498.636 -5517.919
+  }
+  ShapePoint "{60BB5154CF4DA097}" {
+   Position 10677.493 -133.703 9806.953
+  }
+  ShapePoint "{60BB5154D66EE63A}" {
+   Position -4677.565 100.469 9807.223
+  }
+  ShapePoint "{60BB5154DDC2E97F}" {
+   Position -4665.889 -91.447 446.51
+  }
+  ShapePoint "{60BB515525D5DF7C}" {
+   Position -3272.63 -149.694 340.058
+  }
+  ShapePoint "{60BB51552D72D5D1}" {
+   Position -3290.639 -170.598 703.559
+  }
+  ShapePoint "{60BB51552E0C9EC2}" {
+   Position -3327.68 -174.566 754.189
+  }
+  ShapePoint "{60BB51552FBC53DB}" {
+   Position -3349.854 -175.044 777.098
+  }
+  ShapePoint "{60BB51553197A0A7}" {
+   Position -3178.83 -161.141 1203.937
+  }
+  ShapePoint "{60BB51553D583A9F}" {
+   Position -3004.379 -148.279 1299.306
+  }
+  ShapePoint "{60BB51553E91855A}" {
+   Position -2796.08 -119.957 1442.813
+  }
+  ShapePoint "{60BB5155070B115F}" {
+   Position -2593.003 -29.473 2119.366
+  }
+  ShapePoint "{60BB515509514AF2}" {
+   Position -2764.288 -29.104 2569.363
+  }
+  ShapePoint "{60BB5155155E8F75}" {
+   Position -2758.659 -23.171 2672.295
+  }
+  ShapePoint "{60BB515510EA3B7D}" {
+   Position -2676.326 -8.243 2861.503
+  }
+  ShapePoint "{60BB51551C097E4A}" {
+   Position -2565.712 -31.292 3177.756
+  }
+  ShapePoint "{60BB51551F18E4EB}" {
+   Position -2549.659 -41.141 3266.14
+  }
+  ShapePoint "{60BB5155199F9B61}" {
+   Position -2529.198 -44.434 3296.035
+  }
+  ShapePoint "{60BB515560DCC95C}" {
+   Position -2481.266 -61.959 3469.631
+  }
+  ShapePoint "{60BB515563BCFC60}" {
+   Position -2442.599 -81.817 3726.318
+  }
+  ShapePoint "{60BB51556D6F8D77}" {
+   Position -2430.754 -82.399 3741.204
+  }
+  ShapePoint "{60BB51556E4E293A}" {
+   Position -2410.879 -83.16 3751.64
+  }
+  ShapePoint "{60BB51556AAD67D5}" {
+   Position -1697.129 -74.197 4156.737
+  }
+  ShapePoint "{60BB515575EDA9D6}" {
+   Position -836.463 -18.829 3765.771
+  }
+  ShapePoint "{60BB515572C93516}" {
+   Position 621.562 -7.249 3192.688
+  }
+  ShapePoint "{60BB51557C87588D}" {
+   Position 569.336 -4.491 3084.652
+  }
+  ShapePoint "{60BB51557F5ECEDA}" {
+   Position 561.361 -4.357 3061.622
+  }
+  ShapePoint "{60BB515579A3768F}" {
+   Position 530.586 -1.339 3058.154
+  }
+  ShapePoint "{60BB51557B62F8E3}" {
+   Position 498.654 1.67 3039.115
+  }
+  ShapePoint "{60BB515545D8195D}" {
+   Position 426.799 2.035 2957.849
+  }
+  ShapePoint "{60BB515547B2506F}" {
+   Position 380.995 2.261 2881.476
+  }
+  ShapePoint "{60BB515542ED23B6}" {
+   Position 355.262 2.571 2784.534
+  }
+  ShapePoint "{60BB51554D7F491A}" {
+   Position 344.893 2.18 2755.189
+  }
+  ShapePoint "{60BB51554F2E25C2}" {
+   Position 303.74 -1.291 2694.721
+  }
+  ShapePoint "{60BB51554A68D4CC}" {
+   Position 303.186 -5.631 2598.335
+  }
+  ShapePoint "{60BB515554F33088}" {
+   Position 285.165 -8.638 2561.771
+  }
+  ShapePoint "{60BB515550D5FC1B}" {
+   Position 294.678 -11.171 2362.685
+  }
+  ShapePoint "{60BB51555C6FB916}" {
+   Position 249.03 -11.127 2272.037
+  }
+  ShapePoint "{60BB515558926A74}" {
+   Position 46.943 -19.296 2166.983
+  }
+  ShapePoint "{60BB51555AB39DBF}" {
+   Position -25.627 -19.654 2046.781
+  }
+  ShapePoint "{60BB5155A532D788}" {
+   Position -24.117 -32.588 1803.034
+  }
+  ShapePoint "{60BB5155A0DFA76D}" {
+   Position -66.191 -35.25 1747.512
+  }
+  ShapePoint "{60BB5155B4670211}" {
+   Position -712.622 -1.632 68.296
+  }
+ }
+ IsClosed 1
+ {
+  PS_PolyZoneTrigger {
+   components {
+    Hierarchy "{60ACB74C27BD43DA}" {
+    }
+   }
+   coords -1704.472 -66.538 363.249
+   TriggerShapeType Polyline
+   "Polyline Height" 10000
+   TriggerActivationType "All changes"
+   PeriodicQueries 1
+   ClassesFilter {
+    "SCR_ChimeraCharacter"
+   }
+   m_polyZoneEffect PS_PolyZoneEffectScreenBlure "{60ACB74CC1B55EF5}" {
+   }
+  }
+ }
+}
