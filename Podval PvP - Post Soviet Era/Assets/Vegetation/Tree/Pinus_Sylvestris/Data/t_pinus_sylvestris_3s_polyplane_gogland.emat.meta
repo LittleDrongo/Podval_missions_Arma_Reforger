@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{3A37C815B2C7C913}Assets/Vegetation/Tree/Pinus_Sylvestris/Data/t_pinus_sylvestris_3s_polyplane_gogland.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+  EMATResourceClass Xbox : PC {
+  }
+ }
+}

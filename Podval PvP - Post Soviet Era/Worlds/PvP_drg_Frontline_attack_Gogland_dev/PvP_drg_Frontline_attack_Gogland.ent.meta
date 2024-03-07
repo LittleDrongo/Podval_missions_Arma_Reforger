@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{2499BD4600DF803D}Worlds/PvP_drg_Frontline_attack_Gogland/PvP_drg_Frontline_attack_Gogland.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}

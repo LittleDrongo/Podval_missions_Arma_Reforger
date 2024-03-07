@@ -1,0 +1,58 @@
+PolylineShapeEntity {
+ components {
+  PS_PolyZone "{60CF3AE09871D24C}" {
+   m_mPolygonTexture ""
+   m_cPolygonColor 0.06 0.118 0.292 0
+   m_mPolygonTextureBorder ""
+   m_cPolygonBorderColor 0.06 0.118 0.292 1
+   m_fPolygonBorderWidth 5
+   m_bReversed 1
+   m_aVisibleForFactions {
+    "RHS_US_USMC" "RHS_RF_MSV" ""
+   }
+  }
+ }
+ coords 7268.984 6.109 4859.741
+ Points {
+  ShapePoint "{60CF3AE08F608136}" {
+   Position 0 0.001 0
+  }
+  ShapePoint "{60CF3AE08F60C3BE}" {
+   Position 5 0.079 0
+  }
+  ShapePoint "{60CF3AE0899A2101}" {
+   Position -573.989 6.254 60.09
+  }
+  ShapePoint "{60CF3AE08BB45EE5}" {
+   Position -734.736 71.057 -1052.968
+  }
+  ShapePoint "{60CF3AE096FD1157}" {
+   Position -46.013 36.242 -1161.835
+  }
+  ShapePoint "{60CF3AE092C1BEB8}" {
+   Position -9.568 4.385 -253.828
+  }
+ }
+ {
+  PS_PolyZoneTrigger {
+   components {
+    PS_PolyZoneMeshComponent "{604680A38E9862B7}" {
+     Enabled 0
+     m_fHeight 8
+     m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+    }
+    Hierarchy "{604680A07599CEC5}" {
+    }
+   }
+   TriggerShapeType Polyline
+   TriggerActivationType "All changes"
+   PeriodicQueries 1
+   ClassesFilter {
+    "SCR_ChimeraCharacter"
+   }
+   m_polyZoneEffect PS_PolyZoneEffectFreezeZone "{604680A0AED1CC5E}" {
+   }
+   m_bReversed 1
+  }
+ }
+}
