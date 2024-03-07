@@ -1,0 +1,107 @@
+$grp StaticModelEntity : "{528AB2322A646026}Prefabs/Terrain/Erosion/ErodedEmbankment_01/ErodedEmbankment_01_forest_wave.et" {
+ {
+  coords 7033.363 96.115 4078.998
+  angleX -35.266
+  angleZ -2.53
+  scale 1.21
+ }
+ {
+  coords 7026.312 95.929 4078.885
+  angleX -32.931
+  angleY 0.009
+  angleZ 0.175
+  scale 1.21
+ }
+ {
+  coords 7019.995 96.389 4079.185
+  angleX -32.931
+  angleY 0.009
+  angleZ 3.552
+  scale 1.21
+ }
+ {
+  coords 7013.041 96.333 4079.15
+  angleX -32.931
+  angleY 0.009
+  angleZ -4.009
+  scale 1.21
+ }
+ {
+  coords 6879.368 92.792 4113.851
+  angleX -25.153
+  angleY -14.216
+  angleZ 4.23
+  scale 1.21
+ }
+ {
+  coords 6872.627 92.807 4112.147
+  angleX -25.153
+  angleY -14.217
+  angleZ -3.331
+  scale 1.21
+ }
+ {
+  coords 6885.55 92.228 4115.142
+  angleX -25.153
+  angleY -14.217
+  angleZ 0.853
+  scale 1.21
+ }
+ {
+  coords 6892.373 92.353 4116.924
+  angleX -27.488
+  angleY -14.256
+  angleZ -1.84
+  scale 1.21
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{656EAED3FFE0786A}Prefabs/Structures/Models/Gogland_trench1.et" {
+ {
+  coords 6879.973 94.372 4106.892
+  angleX -6.68
+  angleY -33.387
+  angleZ 1.198
+ }
+ {
+  coords 6873.614 94.326 4102.696
+  angleX -6.68
+  angleY -33.387
+  angleZ 0.08
+ }
+ {
+  coords 6886.568 94.208 4111.215
+  angleX -6.68
+  angleY -33.387
+  angleZ 1.198
+ }
+ {
+  coords 6900.148 95.031 4110.79
+  angleY 12.626
+ }
+ {
+  coords 6892.554 95.031 4112.491
+  angleY 12.626
+ }
+ {
+  coords 6914.056 94.744 4112.638
+  angleX -8.659
+  angleY 12.917
+  angleZ -1.978
+ }
+ {
+  coords 6921.682 95.154 4110.93
+  angleX -11.194
+  angleY 13.032
+  angleZ -2.573
+ }
+ {
+  coords 6978.15 95.918 4078.619
+  angleX -7.274
+  angleY 12.985
+  angleZ 8.594
+ }
+}
+SCR_DestructibleBuildingEntity : "{A9195A7D1F744209}Prefabs/Structures/Military/Bunkers/Bunker_01/Bunker_01_Base.et" {
+ coords 7000.825 0.602 4076.449
+ angleY -12.89
+}

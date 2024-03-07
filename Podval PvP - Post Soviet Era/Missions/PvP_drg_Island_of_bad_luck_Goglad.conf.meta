@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{9CEED1F19F664C50}Missions/PvP_drg_Island_of_bad_luck_Goglad.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

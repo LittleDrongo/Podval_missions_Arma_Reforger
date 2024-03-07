@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{D3161B77DC996442}Worlds/PvP_drg_Island_of_bad_luck_Goglad/PvP_drg_Island_of_bad_luck_Goglad.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{CD5F42B230061363}Worlds/PvP_drg_Rogovo_Chernorus/PVP_drg_Rogovo_Chernorus.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}

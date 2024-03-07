@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{9C4DB0B6F241A8DB}Missions/PvP_drg_Frontline_attack_Gogland.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

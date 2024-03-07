@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{660601A6DAD31635}Worlds/PvP_drg_Combined_attack/PvP_drg_Combined_attack.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}
