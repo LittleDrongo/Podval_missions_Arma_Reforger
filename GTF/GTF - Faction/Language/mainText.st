@@ -4,8 +4,8 @@ StringTable {
   CustomStringTableItem "{6054C4B807B273E9}" {
    Id "DRG-Callsign_GTF_Company_A"
    Target_en_us "Anabah"
-   Target_ru_ru "Анаба"
-   Modified 1616170387
+   Target_ru_ru "Anabah-Анаба"
+   Modified 1624411890
    Author "hasta"
    LastChanged "hasta"
   }

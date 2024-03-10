@@ -44,7 +44,8 @@ PolylineShapeEntity {
     Hierarchy "{604680A07599CEC5}" {
     }
    }
-   TriggerShapeType Polyline
+   TriggerShapeType Sphere
+   SphereRadius 1000000
    TriggerActivationType "All changes"
    PeriodicQueries 1
    ClassesFilter {

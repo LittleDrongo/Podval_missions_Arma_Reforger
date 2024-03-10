@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{381E62827C293DF2}Worlds/PvP_drg_Caspian_Border/PvP_drg_Caspian_Border.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}
