@@ -1,8 +1,8 @@
 PolylineShapeEntity {
  components {
   PS_PolyZone "{60D37D069696E7EE}" {
-   m_mPolygonTexture ""
-   m_cPolygonColor 0.06 0.118 0.292 0
+   m_mPolygonTexture "{F1D46C55A1C06565}UI/Textures/x_big.edds"
+   m_cPolygonColor 0.094 0 0.181 1
    m_mPolygonTextureBorder ""
    m_cPolygonBorderColor 0.094 0 0.181 1
    m_fPolygonBorderWidth 5
