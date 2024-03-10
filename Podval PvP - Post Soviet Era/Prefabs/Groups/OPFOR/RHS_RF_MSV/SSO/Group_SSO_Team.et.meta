@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{97803BFD13AFA680}Prefabs/Items/Equipment/Radios/Radio_R148_prv.et"
+ Name "{5EC52DC5123AA81D}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_SSO_Team.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }

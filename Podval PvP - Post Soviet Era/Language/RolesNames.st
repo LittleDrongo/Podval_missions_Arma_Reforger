@@ -65,6 +65,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{60D4A950E1A5DEA1}" {
+   Id "DRG-Rifleman_SSO"
+   Target_en_us "Scout saboteur"
+   Target_ru_ru "Разведчик-диверсант"
+   Modified 1624569787
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{60477B7FC9D67E7C}" {
    Id "DRG-SNIPER"
    Target_en_us "Sniper"
@@ -73,11 +81,27 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{60D4D46322504D8F}" {
+   Id "DRG-Sniper_SSO"
+   Target_en_us "Scout sniper"
+   Target_ru_ru "Разведчик-снайпер"
+   Modified 1624570464
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{60477B7FF537C175}" {
    Id "DRG-SPOTTER"
    Target_en_us "Spotter"
    Target_ru_ru "Снайпер-наблюдатель"
    Modified 1615333120
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{60D4D46598F5433C}" {
+   Id "DRG-Squadleader_SSO"
+   Target_en_us "Sabotage squad"
+   Target_ru_ru "Командир диверсионной отряда"
+   Modified 1624569930
    Author "hasta"
    LastChanged "hasta"
   }

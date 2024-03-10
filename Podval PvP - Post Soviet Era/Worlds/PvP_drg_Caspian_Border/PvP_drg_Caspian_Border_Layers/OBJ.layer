@@ -1,22 +1,50 @@
 $grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
- {
+ task_A_rf {
   coords 6877.231 51.667 4338.621
-  m_sTitle "Занять опорный пункт"
+  m_iScore 25
+  m_sTitle "Занять город А"
   m_sFactionKey "RHS_RF_MSV"
  }
- {
-  coords 6800.49 40.146 4615.779
-  m_sTitle "Разгромить противника"
+ task_A_usmc {
+  coords 1609.471 5.399 1641.601
+  m_iScore 25
+  m_sTitle "Удержать город А"
+  m_sFactionKey "RHS_US_USMC"
+ }
+ task_B_usmc {
+  coords 1726.5 17.024 1471.328
+  m_iScore 25
+  m_sTitle "Удержать город Б"
+  m_sFactionKey "RHS_US_USMC"
+ }
+ task_B_rf {
+  coords 6994.26 63.293 4168.349
+  m_iScore 25
+  m_sTitle "Занять город Б"
   m_sFactionKey "RHS_RF_MSV"
  }
- {
-  coords 6800.49 40.146 4615.779
-  m_sTitle "Удержать опорный пункт"
+ task_D_usmc {
+  coords 1738.777 2.448 1721.848
+  m_iScore 25
+  m_sTitle "Сохранить хотя бы один танк"
   m_sFactionKey "RHS_US_USMC"
  }
- {
-  coords 6723.749 28.625 4892.938
-  m_sTitle "Разгромить противника"
+ task_C_rf {
+  coords 7006.537 48.716 4418.869
+  m_iScore 25
+  m_sTitle "Занять антенну"
+  m_sFactionKey "RHS_RF_MSV"
+ }
+ task_C_usmc {
+  coords 1723.328 1.823 1669.149
+  m_iScore 25
+  m_sTitle "Удержать антенну"
   m_sFactionKey "RHS_US_USMC"
+ }
+ task_D_rf {
+  coords 6991.089 48.092 4366.17
+  m_iScore 25
+  m_sTitle "Уничтожить все танки"
+  m_sFactionKey "RHS_RF_MSV"
  }
 }

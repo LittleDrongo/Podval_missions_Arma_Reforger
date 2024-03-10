@@ -1,0 +1,26 @@
+SCR_ChimeraCharacter : "{1B03EDA67BC16844}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Base.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Icon "{FBB7E60937300171}UI/Icons/sso_icon_256.edds"
+   }
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{7429DFF39CEF10BD}Prefabs/Characters/HeadGear/Hat_BallCap/Hat_ballcap_ATACS.et"
+    }
+    LoadoutSlotInfo Jacket {
+     Prefab "{A18238B56E378F4B}Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_ATACS.et"
+    }
+    LoadoutSlotInfo Pants {
+     Prefab "{DE2F0A4C83BD3A6F}Prefabs/Characters/Uniforms/Crye_Pants/crye_pants_atacs.et"
+    }
+    LoadoutSlotInfo Boots {
+     Prefab "{AB9E3D5524876346}Prefabs/Characters/Footwear/Boots_Faradey_1085/Footware_Faradey_1085.et"
+    }
+   }
+  }
+ }
+}
