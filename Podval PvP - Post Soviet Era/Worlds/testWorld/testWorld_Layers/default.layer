@@ -18,12 +18,6 @@ SCR_AIGroup : "{5EC52DC5123AA81D}Prefabs/Groups/OPFOR/RHS_RF_MSV/SSO/Group_SSO_T
 GameEntity : "{6B6D2E582549A66D}Prefabs/Characters/HeadGear/Helmet_LShZ/Helmet_LShZ_B_6m2_atacs_nvg_drg.et" {
  coords 143.046 1 158.791
 }
-SCR_ChimeraCharacter : "{8DEA4437557B8A4B}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Sapper.et" {
- coords 143.805 1 159.818
-}
 GameEntity : "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et" {
  coords 143.169 1 158.273
-}
-SCR_ChimeraCharacter : "{D5642BF65606EDE7}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_SL.et" {
- coords 142.73 1 152.967
 }

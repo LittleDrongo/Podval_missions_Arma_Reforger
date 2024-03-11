@@ -1,0 +1,6 @@
+SCR_AIGroup : "{5EC52DC5123AA81D}Prefabs/Groups/OPFOR/RHS_RF_MSV/SSO/Group_SSO_Team.et" {
+ ID "0000000000000001"
+ m_aUnitPrefabSlots {
+  "{4C7A926F4BE1DC77}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_PL.et"
+ }
+}

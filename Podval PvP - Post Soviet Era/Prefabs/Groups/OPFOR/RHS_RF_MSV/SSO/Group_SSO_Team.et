@@ -107,6 +107,6 @@ SCR_AIGroup : "{FD26CDBF9EBEA023}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_E
  }
  coords 0 0 0
  m_aUnitPrefabSlots {
-  "{D5642BF65606EDE7}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_SL.et" "{4C07A8212F4B9081}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Rifleman.et" "{4C07A8212F4B9081}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Rifleman.et" "{4C07A8212F4B9081}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Rifleman.et" "{4C07A8212F4B9081}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Rifleman.et" "{4C07A8212F4B9081}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Rifleman.et"
+  "{D5642BF65606EDE7}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_SL.et" "{B8ECDAE964824FF4}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_AR.et" "{6044B3281D0B51A8}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_AT.et" "{4C07A8212F4B9081}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Rifleman.et" "{8E9F2224EC7C5B58}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Medic.et" "{8DEA4437557B8A4B}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Sapper.et" "{E367DC566254C5A1}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Sniper.et"
  }
 }

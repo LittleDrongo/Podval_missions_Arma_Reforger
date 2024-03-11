@@ -25,6 +25,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{60D6C02F2C2C3EEC}" {
+   Id "DRG-Commander_SSO"
+   Target_en_us "Commander SpecOPS"
+   Target_ru_ru "Командущий спец-операцией"
+   Modified 1624689428
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{604744B0A9F4D6F3}" {
    Id "DRG-COMPANY_LEADER"
    Target_en_us "Company Leader"
@@ -65,6 +73,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{60D6C02FD69A7C32}" {
+   Id "DRG-Medic_SSO"
+   Target_en_us "Scout medic"
+   Target_ru_ru "Разветчик-санинструктор"
+   Modified 1624689839
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{60D69CE9F9892157}" {
    Id "DRG-MGA_SSO"
    Target_en_us "Scount machinegunner"
@@ -78,6 +94,14 @@ StringTable {
    Target_en_us "Platoon Leader"
    Target_ru_ru "Командир взвода"
    Modified 1615283535
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{60D6C02CF3A73204}" {
+   Id "DRG-PlatoonLeader_SSO"
+   Target_en_us "Squad Platoon Leader"
+   Target_ru_ru "Командир развед-взвода"
+   Modified 1624689363
    Author "hasta"
    LastChanged "hasta"
   }
@@ -107,9 +131,9 @@ StringTable {
   }
   CustomStringTableItem "{60D4D46322504D8F}" {
    Id "DRG-Sniper_SSO"
-   Target_en_us "Scout saboteur"
-   Target_ru_ru "Разведчик-сапёр"
-   Modified 1624682191
+   Target_en_us "Scout marksman"
+   Target_ru_ru "Разведчик-снайпер"
+   Modified 1624690126
    Author "hasta"
    LastChanged "hasta"
   }
