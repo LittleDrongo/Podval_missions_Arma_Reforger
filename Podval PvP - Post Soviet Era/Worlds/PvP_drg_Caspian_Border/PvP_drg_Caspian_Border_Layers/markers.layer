@@ -5,7 +5,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sImageSetGlow ""
   m_sQuadName "Task_Attack"
   m_fWorldSize 35
-  m_sDescription "Город (25)"
+  m_sDescription "Перекрёсток (25)"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
    "RHS_US_USMC" "RHS_RF_MSV" "FIA"
@@ -31,7 +31,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sImageSetGlow ""
   m_sQuadName "Task_Attack"
   m_fWorldSize 35
-  m_sDescription "Погран переход (75)"
+  m_sDescription "Погран переход (100)"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
    "RHS_US_USMC" "RHS_RF_MSV" "FIA"
@@ -44,7 +44,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sImageSetGlow ""
   m_sQuadName "Task_Attack"
   m_fWorldSize 35
-  m_sDescription "Антена (75)"
+  m_sDescription "Антена (100)"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
    "RHS_US_USMC" "RHS_RF_MSV" "FIA"

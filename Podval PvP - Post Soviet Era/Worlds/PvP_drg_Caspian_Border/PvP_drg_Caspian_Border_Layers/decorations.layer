@@ -1,3 +1,13 @@
+$grp StaticModelEntity : "{07F043DD6AACCD0B}Prefabs/Structures/Infrastructure/Barriers/BarGate_01/BarGate_01.et" {
+ {
+  coords 2004.547 0 1856.143
+  angleY 26.028
+ }
+ {
+  coords 1908.932 0 1907.446
+  angleY -150.811
+ }
+}
 SCR_DestructibleBuildingEntity : "{2EBA3486062A5A53}Prefabs/Structures/Military/Bunkers/AirfieldBunker_E_01/AirfieldBunker_E_01_big.et" {
  coords 1546.76 2.056 668.8
 }
@@ -37,6 +47,9 @@ SCR_DestructibleBuildingEntity : "{8A8A7A558772D718}Prefabs/Structures/Military/
  angleX -4.609
  angleY 121.257
  angleZ -0.03
+}
+GenericEntity : "{E55FC02F8C1518A2}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V1_US.et" {
+ coords 1717.493 9.639 811.76
 }
 $grp GenericEntity : "{EB610025D1631E00}Prefabs/Vehicles/Airplanes/IL76/Plane_IL76.et" {
  {
