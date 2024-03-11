@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{8DEA4437557B8A4B}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Sapper.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

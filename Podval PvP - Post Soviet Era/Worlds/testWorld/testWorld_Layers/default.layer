@@ -1,132 +1,29 @@
 GenericEntity {
  coords 85.111 1 184.228
 }
-SCR_ChimeraCharacter : "{151470C07717601A}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Unarmed.et" {
- coords 139.007 1 136.302
+GameEntity : "{465BDFBC7904A8FB}Prefabs/Characters/HeadGear/Helmet_LShZ/Helmet_LShZ_B_6m2_atacs_drg.et" {
+ coords 142.918 1 158.468
 }
-SCR_AIGroup : "{218445F83827D92B}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_RifleSquad.et" {
- coords 132.129 1 144.538
-}
-SCR_ChimeraCharacter : "{337AAC6E5BA44B86}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Base.et" {
- coords 135.545 1 136.472
-}
-SCR_AIGroup : "{407ABD5B1CBB7AD9}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_PlatoonSquad.et" {
- coords 129.393 1 144.44
-}
-GenericEntity : "{455E257F80BE6C1B}Prefabs/Weapons/Rifles/SVD/Rifle_SVD_1pn93.et" {
- coords 154.38 1 145.059
-}
-$grp SCR_ChimeraCharacter : "{4C07A8212F4B9081}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Rifleman.et" {
- {
-  coords 138.599 1 132.796
- }
- {
-  coords 141.592 1 151.841
- }
- {
-  coords 140.059 1 155.088
- }
-}
-$grp SCR_AIGroup : "{5EC52DC5123AA81D}Prefabs/Groups/OPFOR/RHS_RF_MSV/SSO/Group_SSO_Team.et" {
- {
-  components {
-   PS_GroupCallsignAssigner "{60D4D4642ABDDE8E}" {
-    m_iCompanyCallsign 2
-   }
+SCR_AIGroup : "{5EC52DC5123AA81D}Prefabs/Groups/OPFOR/RHS_RF_MSV/SSO/Group_SSO_Team.et" {
+ components {
+  PS_GroupCallsignAssigner "{60D4D4642ABDDE8E}" {
+   m_iCompanyCallsign 3
   }
-  coords 142.817 1 139.895
  }
- {
-  components {
-   PS_GroupCallsignAssigner "{60D4D4642ABDDE8E}" {
-    m_iCompanyCallsign 3
-   }
-  }
-  coords 146.34 1 146.399
+ coords 146.34 1 146.399
+ m_aUnitPrefabSlots {
+  "{D5642BF65606EDE7}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_SL.et" "{B8ECDAE964824FF4}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_AR.et" "{6044B3281D0B51A8}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_AT.et" "{4C07A8212F4B9081}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Rifleman.et" "{8DEA4437557B8A4B}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Sapper.et" "{E367DC566254C5A1}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Sniper.et"
  }
 }
-GenericEntity : "{6415B7923DE28C1B}Prefabs/Weapons/Rifles/SVD/Rifle_SVD_PSO.et" {
- coords 154.125 1 144.108
+GameEntity : "{6B6D2E582549A66D}Prefabs/Characters/HeadGear/Helmet_LShZ/Helmet_LShZ_B_6m2_atacs_nvg_drg.et" {
+ coords 143.046 1 158.791
 }
-GenericEntity : "{B343AB76B0725657}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD.et" {
- coords 137.308 1 137.63
+SCR_ChimeraCharacter : "{8DEA4437557B8A4B}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Sapper.et" {
+ coords 143.805 1 159.818
 }
-GenericEntity : "{C828F6D563E1A9BE}Prefabs/Weapons/Rifles/SVD/Rifle_SVD_PSO_7N14.et" {
- coords 156.87 1.262 142.883
+GameEntity : "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et" {
+ coords 143.169 1 158.273
 }
-$grp SCR_ChimeraCharacter : "{D5642BF65606EDE7}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_SL.et" {
- {
-  components {
-   SCR_CharacterInventoryStorageComponent "{520EA1D2DB118DAC}" {
-    components {
-     SCR_EquipmentStorageComponent "{56B49DA9722B635D}" {
-      InitialStorageSlots {
-       SCR_EquipmentStorageSlot BinocularSlot {
-        Prefab "{BCEA0EB0D764D8DD}Prefabs/Items/Equipment/Binoculars/Rangefinder_PDU4.et"
-       }
-      }
-     }
-    }
-   }
-  }
-  coords 137.313 1 136.095
- }
- {
-  coords 136.3 1 139.902
- }
-}
-$grp SCR_ChimeraCharacter : "{E367DC566254C5A1}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Sniper.et" {
- {
-  components {
-   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
-    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
-     Name "#DRG-Sniper_SSO"
-    }
-   }
-   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
-    WeaponTemplate "{C828F6D563E1A9BE}Prefabs/Weapons/Rifles/SVD/Rifle_SVD_PSO_7N14.et"
-   }
-   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
-    InitialInventoryItems {
-     ItemsInitConfigurationItem "{60D4C051DF61F0C7}" {
-      PrefabsToSpawn {
-       "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et" "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et"
-      }
-     }
-     ItemsInitConfigurationItem "{60D4C05214C7E52B}" {
-      PrefabsToSpawn {
-       "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et" "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et"
-      }
-     }
-     ItemsInitConfigurationItem "{60D4C0521570A8AC}" {
-      PrefabsToSpawn {
-       "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et" "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et"
-      }
-     }
-     ItemsInitConfigurationItem "{60D4C68F3F978593}" {
-      PrefabsToSpawn {
-       "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et" "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et"
-      }
-     }
-     ItemsInitConfigurationItem "{60D4C68F380AE289}" {
-      PrefabsToSpawn {
-       "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et" "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et"
-      }
-     }
-     ItemsInitConfigurationItem "{60D4C68F0EACE3D3}" {
-      PrefabsToSpawn {
-       "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et" "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et"
-      }
-     }
-    }
-   }
-  }
-  coords 142.3 1 149.856
- }
- {
-  coords 140.734 1 152.791
- }
-}
-GenericEntity : "{F44A9C628408B6CF}Prefabs/Weapons/Rifles/SVD/Rifle_SVD_1P21.et" {
- coords 154.444 1 145.607
+SCR_ChimeraCharacter : "{D5642BF65606EDE7}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_SL.et" {
+ coords 142.73 1 152.967
 }

@@ -1,6 +1,14 @@
 StringTable {
  ItemClassName "CustomStringTableItem"
  Items {
+  CustomStringTableItem "{60D69CEAC1E9BFB9}" {
+   Id "DRG-AT_SSO"
+   Target_en_us "Scout anti-tank"
+   Target_ru_ru "Разведчик-гранатомётчик"
+   Modified 1624681510
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{604B22650FBF60AB}" {
    Id "DRG-Automatic_rifleman_assistant"
    Target_en_us "Assistant Automatic Rifleman"
@@ -57,6 +65,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{60D69CE9F9892157}" {
+   Id "DRG-MGA_SSO"
+   Target_en_us "Scount machinegunner"
+   Target_ru_ru "Разведчик-пулемётчик"
+   Modified 1624680138
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{604744B067136560}" {
    Id "DRG-PLATOON_LEADER"
    Target_en_us "Platoon Leader"
@@ -68,8 +84,16 @@ StringTable {
   CustomStringTableItem "{60D4A950E1A5DEA1}" {
    Id "DRG-Rifleman_SSO"
    Target_en_us "Scout saboteur"
-   Target_ru_ru "Разведчик-диверсант"
+   Target_ru_ru "Разведчик"
    Modified 1624569787
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{60D69CE45493CFAD}" {
+   Id "DRG-Scout-saboteur_SSO"
+   Target_en_us "Scout sapper"
+   Target_ru_ru "Разведчик-подрывник"
+   Modified 1624682565
    Author "hasta"
    LastChanged "hasta"
   }
@@ -83,9 +107,9 @@ StringTable {
   }
   CustomStringTableItem "{60D4D46322504D8F}" {
    Id "DRG-Sniper_SSO"
-   Target_en_us "Scout sniper"
-   Target_ru_ru "Разведчик-снайпер"
-   Modified 1624570464
+   Target_en_us "Scout saboteur"
+   Target_ru_ru "Разведчик-сапёр"
+   Modified 1624682191
    Author "hasta"
    LastChanged "hasta"
   }
@@ -99,9 +123,9 @@ StringTable {
   }
   CustomStringTableItem "{60D4D46598F5433C}" {
    Id "DRG-Squadleader_SSO"
-   Target_en_us "Sabotage squad"
+   Target_en_us "Sabotage squadleader"
    Target_ru_ru "Командир диверсионной отряда"
-   Modified 1624569930
+   Modified 1624682549
    Author "hasta"
    LastChanged "hasta"
   }

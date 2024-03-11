@@ -19,9 +19,55 @@ SCR_ChimeraCharacter : "{4C07A8212F4B9081}Prefabs/Characters/Factions/OPFOR/SSO/
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{5EA287E11A3D09CF}" {
+     PrefabsToSpawn {
+     }
+    }
+    ItemsInitConfigurationItem "{60D4C05115620014}" {
+     TargetStorage "Prefabs/Items/Equipment/Backpacks/FILBE_Backpack.et"
+     PrefabsToSpawn {
+      "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et" "{9F9D2A11F3D39866}Prefabs/Weapons/Magazines/sr3m_magazine_30rnd/Magazine_9x39_SR3M_30rnd_SP6_base.et" "{9F9D2A11F3D39866}Prefabs/Weapons/Magazines/sr3m_magazine_30rnd/Magazine_9x39_SR3M_30rnd_SP6_base.et" "{9F9D2A11F3D39866}Prefabs/Weapons/Magazines/sr3m_magazine_30rnd/Magazine_9x39_SR3M_30rnd_SP6_base.et" "{9F9D2A11F3D39866}Prefabs/Weapons/Magazines/sr3m_magazine_30rnd/Magazine_9x39_SR3M_30rnd_SP6_base.et" "{9F9D2A11F3D39866}Prefabs/Weapons/Magazines/sr3m_magazine_30rnd/Magazine_9x39_SR3M_30rnd_SP6_base.et" "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et" "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et" "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et" "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et" "{F20D1122BC5CD9F2}Prefabs/Weapons/Magazines/glock_magazine/Magazine_9x19_Glock_17rnd.et" "{F20D1122BC5CD9F2}Prefabs/Weapons/Magazines/glock_magazine/Magazine_9x19_Glock_17rnd.et" "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et"
+     }
+    }
+    ItemsInitConfigurationItem "{60D4C051DF61F0C7}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Taktika_Pouches/Pouch_Taktika_magpouch_morphed_base.et"
+     PrefabsToSpawn {
+      "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et"
+     }
+    }
     ItemsInitConfigurationItem "{60D4C0521400C043}" {
      PrefabsToSpawn {
       "{B343AB76B0725657}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD.et"
+     }
+    }
+    ItemsInitConfigurationItem "{60D4C05214C7E52B}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Taktika_Pouches/Pouch_Taktika_magpouch_base.et"
+     PrefabsToSpawn {
+      "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et"
+     }
+    }
+    ItemsInitConfigurationItem "{60D4C0521570A8AC}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Taktika_Pouches/Pouch_ArsArma_magouch_morphed_MC.et"
+     PrefabsToSpawn {
+      "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et"
+     }
+    }
+    ItemsInitConfigurationItem "{60D4C68F3F978593}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Taktika_Pouches/Pouch_Taktika_magpouch_morphed_base.et"
+     PrefabsToSpawn {
+      "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et"
+     }
+    }
+    ItemsInitConfigurationItem "{60D4C68F380AE289}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Taktika_Pouches/Pouch_Taktika_magpouch_morphed_base.et"
+     PrefabsToSpawn {
+      "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et"
+     }
+    }
+    ItemsInitConfigurationItem "{60D4C68F0EACE3D3}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Taktika_Pouches/Pouch_Taktika_magpouch_morphed_base.et"
+     PrefabsToSpawn {
+      "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et"
      }
     }
    }

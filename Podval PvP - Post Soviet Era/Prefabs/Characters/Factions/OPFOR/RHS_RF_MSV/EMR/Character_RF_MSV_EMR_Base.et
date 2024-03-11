@@ -1,4 +1,4 @@
-SCR_ChimeraCharacter {
+SCR_ChimeraCharacter : "{0C64FB5BB7FD0DC9}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Base.et" {
  ID "520EC961A090B1EE"
  components {
   PS_PlayableComponent "{5EFCC1946F475F15}" {
