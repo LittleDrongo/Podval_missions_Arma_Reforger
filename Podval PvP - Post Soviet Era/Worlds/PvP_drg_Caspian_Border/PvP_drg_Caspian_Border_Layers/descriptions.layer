@@ -5,9 +5,6 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sDescriptionLayout "{0DF2089A5BA70D01}UI/MissionDescription/DescriptionEditable_drg.layout"
   m_sTextData "ОБЩИЕ ПРАВИЛА"\
   "— Всем запрещено надевать форму, головные уборы, разгрузки, бронежилеты противника (рюкзаки можно) "\
-  ""\
-  "ОБЩАЯ ПАМЯТКА"\
-  "— Внимание, силы сторон появляются близко, возможно даже в зоне прямой видимости. На фризтайме будеьте готовы к бою."\
   "  "\
   "СПОСОБЫ ПОБЕДЫ ВС РФ"\
   "— 1. Получить больше 50 баллов"\
