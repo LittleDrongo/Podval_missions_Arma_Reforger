@@ -1,0 +1,54 @@
+$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ attack2 {
+  coords 1558.39 11.1 1674.01
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "Task_Attack"
+  m_fWorldSize 35
+  m_sDescription "Перекрёсток (25)"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack3 {
+  coords 1710.683 11.425 1448.318
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "Task_Attack"
+  m_fWorldSize 35
+  m_sDescription "Высота (50)"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack4 {
+  coords 1809.588 9.053 1263.466
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "Task_Attack"
+  m_fWorldSize 35
+  m_sDescription "Погран переход (100)"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack5 {
+  coords 1389.876 14.948 1210.389
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "Task_Attack"
+  m_fWorldSize 35
+  m_sDescription "Антена (100)"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+}

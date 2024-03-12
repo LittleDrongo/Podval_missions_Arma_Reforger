@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{7886515F51CBA438}Prefabs/Groups/INDFOR/Group_GTF_Rifle_squad.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

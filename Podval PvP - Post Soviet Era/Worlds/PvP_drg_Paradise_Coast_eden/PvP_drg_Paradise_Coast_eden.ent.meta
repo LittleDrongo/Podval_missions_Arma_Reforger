@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{FB6F9E1A63396538}Worlds/PvP_drg_Paradise_Coast_eden/PvP_drg_Paradise_Coast_eden.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}
