@@ -4,8 +4,11 @@ SCR_ChimeraCharacter : "{AD5AC68AC312CA44}Prefabs/Characters/Factions/OPFOR/RHS_
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "#AR-Role_HelicopterPilot"
-    Icon "{C8D22D6EC2B5DD09}UI/Icons/sso_pilot.edds"
+    Icon "{C8D22D6EC2B5DD0A}UI/Icons/sso_pilot.edds"
    }
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{3FA38ECE65392FC3}Prefabs/Weapons/Rifles/AKS74UN/Rifle_AKS74UN.et"
   }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {

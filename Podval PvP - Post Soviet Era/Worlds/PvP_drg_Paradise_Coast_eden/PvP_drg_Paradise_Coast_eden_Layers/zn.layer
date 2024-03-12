@@ -88,6 +88,7 @@ PolylineShapeEntity {
    Position -108.932 -15.321 12.42
   }
  }
+ IsClosed 1
  {
   PS_PolyZoneTrigger {
    components {
@@ -109,7 +110,6 @@ PolylineShapeEntity {
    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "{604680A0AED1CC5E}" {
     m_fKillTime 30
    }
-   m_bReversed 1
   }
  }
 }
