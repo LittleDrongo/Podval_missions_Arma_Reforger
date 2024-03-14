@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{8B5B5B55B5DBD07E}Missions/PvP_drg_Paradise_Coast.conf"
+ Name "{255DF87EC6C06867}Missions/PvP_drg_Paradise_Coast_dev.conf"
  Configurations {
   CONFResourceClass PC {
   }
@@ -8,6 +8,8 @@ MetaFileClass {
   CONFResourceClass XBOX_SERIES : PC {
   }
   CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
   }
   CONFResourceClass HEADLESS : PC {
   }
