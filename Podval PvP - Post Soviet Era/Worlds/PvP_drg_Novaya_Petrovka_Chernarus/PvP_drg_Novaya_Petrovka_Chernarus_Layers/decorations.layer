@@ -1,0 +1,29 @@
+GenericEntity : "{071B55C2A5E0346F}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V2_US.et" {
+ coords 3274.313 203.303 13057.957
+}
+$grp GenericEntity : "{8547E5B779B7BCAA}Prefabs/Props/Fabric/Flags/Flagpole_US.et" {
+ {
+  coords 3266.712 207.867 13061.409
+  angleY 67.99
+  {
+   GenericEntity : "{971F705971EF6F4B}Prefabs/Props/Fabric/Flags/Flag_1_2_US_01.et" {
+    coords -0.027 2.575 1.448
+    angleX 19.32
+    angleY 138.575
+    angleZ -20.223
+   }
+  }
+ }
+ {
+  coords 3271.592 207.867 13049.705
+  angleY 65.97
+  {
+   GenericEntity : "{971F705971EF6F4B}Prefabs/Props/Fabric/Flags/Flag_1_2_US_01.et" {
+    coords -0.027 2.575 1.448
+    angleX 19.32
+    angleY 138.575
+    angleZ -20.223
+   }
+  }
+ }
+}

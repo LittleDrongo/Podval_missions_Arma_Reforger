@@ -1,0 +1,121 @@
+$grp SCR_AIGroup : "{218445F83827D92B}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_RifleSquad.et" {
+ RED_1_1 {
+  components {
+   PS_GroupCallsignAssigner "{605B46D27B457BCD}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 1
+   }
+  }
+  coords 2672.842 274.062 10085.564
+  angleY -37.805
+ }
+ RED_1_2 {
+  components {
+   PS_GroupCallsignAssigner "{605B46D27B457BCD}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 2
+   }
+  }
+  coords 2696.746 274.094 10052.804
+  angleY -18.603
+ }
+ RED_2_1 {
+  components {
+   PS_GroupCallsignAssigner "{605B46D27B457BCD}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 1
+   }
+  }
+  coords 2704.642 274.095 9997.817
+  angleX 1.38
+  angleY 11.978
+  angleZ 2.122
+ }
+ RED_2_2 {
+  components {
+   PS_GroupCallsignAssigner "{605B46D27B457BCD}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 2
+   }
+  }
+  coords 2693.671 274.136 9949.121
+  angleX 0.649
+  angleY 30.161
+  angleZ 2.446
+ }
+ RED_2_3 {
+  components {
+   PS_GroupCallsignAssigner "{605B46D27B457BCD}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 2
+   }
+  }
+  coords 2673.936 273.547 9916.765
+  angleX 0.649
+  angleY 30.161
+  angleZ 2.446
+  m_aUnitPrefabSlots {
+   "{2B53BF27C381E46A}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_CrewCommander.et" "{1DD8003EABCBDCB9}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_CrewGunner.et" "{FAF3A7DE833CD514}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_CrewDriver.et"
+  }
+  m_sCustomNameSet "Экипаж Т-14"
+ }
+}
+$grp Vehicle : "{31F0866273C46D76}Prefabs/Vehicles/Wheeled/K17/APC_K17_Berezok.et" {
+ APC_K17_Berezok1 {
+  coords 2677.587 274.094 10073.213
+  angleY -33.801
+ }
+ APC_K17_Berezok2 {
+  coords 2696.561 274.094 10041.516
+  angleY -21.854
+ }
+ APC_K17_Berezok3 {
+  coords 2698.593 274.064 9990.123
+  angleX 0.875
+  angleY 12.307
+  angleZ 0.191
+ }
+ APC_K17_Berezok4 {
+  coords 2681.433 274.094 9937.137
+  angleY 35.207
+ }
+}
+$grp SCR_AIGroup : "{407ABD5B1CBB7AD9}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_PlatoonSquad.et" {
+ RED_1_0 {
+  components {
+   PS_GroupCallsignAssigner "{6048E3A0897E61F5}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 2667.216 274.092 10092.692
+  angleY -39.279
+  m_aUnitPrefabSlots {
+   "{C6D303918A841EE7}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_PL.et" "{A6D630CBAF1A6A10}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Medic.et"
+  }
+ }
+ RED_0_0 {
+  coords 2661.5 274.094 10099.745
+  angleY -37.708
+  m_aUnitPrefabSlots {
+   "{A14976FE29316F1D}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_CL.et"
+  }
+ }
+ RED_2_0 {
+  components {
+   PS_GroupCallsignAssigner "{6048E3A0897E61F5}" {
+    m_iCompanyCallsign 2
+   }
+  }
+  coords 2707.205 274.094 10010.875
+  angleY 6.28
+  m_aUnitPrefabSlots {
+   "{C6D303918A841EE7}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_PL.et" "{A6D630CBAF1A6A10}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Medic.et"
+  }
+ }
+}
+RHS_Tank Tank_T1 : "{48BB423641D40E77}Prefabs/Vehicles/Tracked/T14/Tank_T14.et" {
+ coords 2668.362 273.308 9915.783
+ angleX 4.766
+ angleY 29.524
+ angleZ 0.646
+}
