@@ -1,0 +1,26 @@
+$grp PS_Objective {
+ {
+  coords 5031.407 179.318 12590.334
+  m_iScore 75
+  m_sDescription "Удержать опорный пункт"
+  m_sFactionKey "RHS_RF_MSV"
+ }
+ {
+  coords 6036.917 286.45 13805.464
+  m_iScore 75
+  m_sDescription "Разгромить противника"
+  m_sFactionKey "RHS_RF_MSV"
+ }
+ {
+  coords 6036.917 286.45 13805.464
+  m_iScore 75
+  m_sDescription "Занять опорный пункт"
+  m_sFactionKey "RHS_US_USMC"
+ }
+ {
+  coords 6036.917 286.45 13805.464
+  m_iScore 75
+  m_sDescription "Разгромить противника"
+  m_sFactionKey "RHS_US_USMC"
+ }
+}

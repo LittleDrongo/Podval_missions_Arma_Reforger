@@ -2,9 +2,15 @@ $grp PolylineShapeEntity {
  {
   components {
    PS_PolyZone "{604F569CA4D704A5}" {
+    m_mPolygonTexture ""
     m_cPolygonColor 1 1 1 0
+    m_mPolygonTextureBorder ""
     m_cPolygonBorderColor 0 0.159 0.631 1
-    m_fPolygonBorderWidth 10
+    m_fPolygonBorderWidth 5
+    m_bReversed 1
+    m_aVisibleForFactions {
+     "RHS_RF_MSV" "RHS_US_USMC" ""
+    }
    }
   }
   coords 5677.464 218.719 13521.865
@@ -86,13 +92,42 @@ $grp PolylineShapeEntity {
    }
   }
   IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     PS_PolyZoneMeshComponent "{604680A38E9862B7}" {
+      Enabled 0
+      m_fHeight 60
+      m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+     }
+     Hierarchy "{604680A07599CEC5}" {
+     }
+    }
+    TriggerShapeType Sphere
+    SphereRadius 1000000
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "{604680A0AED1CC5E}" {
+     m_fKillTime 30
+    }
+    m_bReversed 1
+   }
+  }
  }
  {
   components {
    PS_PolyZone "{604F56803876EA18}" {
+    m_mPolygonTexture ""
     m_cPolygonColor 1 1 1 0
+    m_mPolygonTextureBorder ""
     m_cPolygonBorderColor 0.708 0.007 0.007 1
-    m_fPolygonBorderWidth 10
+    m_fPolygonBorderWidth 5
+    m_aVisibleForFactions {
+     "RHS_RF_MSV" "RHS_US_USMC" ""
+    }
    }
   }
   coords 3735.014 283.895 12068.403
@@ -218,7 +253,7 @@ $grp PolylineShapeEntity {
     Position -162.048 -54.374 1537.765
    }
    ShapePoint "{604F569FAEF29AF7}" {
-    Position -172.105 -52.677 1569.187
+    Position -175.316 -52.096 1585.454
    }
    ShapePoint "{604F569FBC3530D4}" {
     Position -162.289 -54.38 1537.673
