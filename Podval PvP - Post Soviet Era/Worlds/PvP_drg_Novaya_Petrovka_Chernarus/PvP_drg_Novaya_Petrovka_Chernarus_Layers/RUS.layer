@@ -46,8 +46,7 @@ $grp SCR_AIGroup : "{218445F83827D92B}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_
  RED_2_3 {
   components {
    PS_GroupCallsignAssigner "{605B46D27B457BCD}" {
-    m_iCompanyCallsign 2
-    m_iSquadCallsign 2
+    m_iCompanyCallsign 6
    }
   }
   coords 2673.936 273.547 9916.765
