@@ -7,11 +7,11 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "— Всем запрещено надевать форму, головные уборы, разгрузки, бронежилеты противника (рюкзаки можно) "\
   "  "\
   "СПОСОБЫ ПОБЕДЫ ВС РФ"\
-  "— 1. Удержать маяк"\
+  "— 1. Занять школу в г. Новая Петровка"\
   "— 2. Разгромить противника"\
   "  "\
   "СПОСОБЫ ПОБЕДЫ ДЛЯ ВС США"\
-  "— 1. Захвать маяк"\
+  "— 1. Удержать школу в г. Новая Петровкак"\
   "— 2. Разгромить противника"
   m_aVisibleForFactions {
    "RHS_US_USMC" "RHS_RF_MSV"
@@ -34,7 +34,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  RF {
   coords 5534.418 43.503 10540.239
   m_sTitle "#DRG-Description_HeaderRUS"
-  m_sTextData "Нам нужно удержать под контролем Маяк"
+  m_sTextData "Нам нужно занять школу в г. Новая Петровка"
   m_aVisibleForFactions {
    "RHS_RF_MSV"
   }
@@ -42,7 +42,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  USMC {
   coords 5626.204 38.464 10536.691
   m_sTitle "#PS-Description_HeaderUS"
-  m_sTextData "Нам необходимо захватить маяк, он нам очень нужен."
+  m_sTextData "Нам необходимо удержать школу в г. Новая Петровка, он нам очень нужен."
   m_aVisibleForFactions {
    "RHS_US_USMC"
   }
@@ -50,7 +50,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  ABOUT {
   coords 5568.057 56.802 10524.196
   m_sTitle "#PS-Description_HeaderAboutMission"
-  m_sTextData "Горный бой с красивыми видами на море"
+  m_sTextData "Битва за г. Новая Петровка"
   m_aVisibleForFactions {
    "RHS_US_USMC" "RHS_RF_MSV" "FIA"
   }
