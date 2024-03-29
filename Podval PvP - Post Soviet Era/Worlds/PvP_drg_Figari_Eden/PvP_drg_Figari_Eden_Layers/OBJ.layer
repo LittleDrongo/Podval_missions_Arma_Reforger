@@ -1,0 +1,38 @@
+$grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
+ A_RF1 {
+  coords 1609.265 14.084 1574.584
+  m_iScore 25
+  m_sTitle "Разгромить противника"
+  m_sFactionKey "RHS_RF_MSV"
+ }
+ A_RF2 {
+  coords 1825.696 2.382 1634.993
+  m_iScore 75
+  m_sTitle "Удержать Фигари"
+  m_sFactionKey "RHS_RF_MSV"
+ }
+ A_RF7 {
+  coords 1425.615 9.106 1481.058
+  m_iScore 75
+  m_sTitle "Занять фигари"
+  m_sFactionKey "RHS_US_USMC"
+ }
+ A_RF8 {
+  coords 1622.525 10.578 1559.802
+  m_iScore 25
+  m_sTitle "Разромить противника"
+  m_sFactionKey "RHS_US_USMC"
+ }
+ A_RF3 {
+  coords 11485.836 0 2372.163
+  m_iScore 10
+  m_sTitle "Выжить чушпану (Lazy_Max)"
+  m_sFactionKey "RHS_RF_MSV"
+ }
+ A_RF4 {
+  coords 11555.354 0 2591.747
+  m_iScore 10
+  m_sTitle "Убить чушпана (Lazy_Max)"
+  m_sFactionKey "RHS_US_USMC"
+ }
+}

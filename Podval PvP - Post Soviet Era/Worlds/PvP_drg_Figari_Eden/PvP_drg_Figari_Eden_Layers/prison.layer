@@ -1,0 +1,60 @@
+$grp GenericEntity : "{651C94FCE07504DD}Prefabs/Structures/Signs/Military/SignRectangle_01_140x100/Sign_FieldHospital_US_01.et" {
+ {
+  components {
+   MeshObject "{54969A6AAAADA251}" {
+    Materials {
+     MaterialAssignClass "{567878E46CE60474}" {
+      SourceMaterial "SignRectangle_01_140x100"
+      AssignedMaterial "{88D4E2A9EDCB230B}Assets/Structures/Signs/Military/Data/Sign_FieldHospital_US_01_MLOD_LaxyMax.emat"
+     }
+     MaterialAssignClass "{567878E46CE6059F}" {
+      SourceMaterial "SignRectangle_01_140x100_MLOD"
+      AssignedMaterial "{B90156E13459CFA7}Assets/Structures/Signs/Military/Data/Sign_FieldHospital_US_01_LazyMax.emat"
+     }
+    }
+   }
+  }
+  coords 5275.878 62.886 5353.589
+  angleY 49.393
+ }
+ {
+  components {
+   MeshObject "{54969A6AAAADA251}" {
+    Materials {
+     MaterialAssignClass "{567878E46CE60474}" {
+      SourceMaterial "SignRectangle_01_140x100"
+      AssignedMaterial "{88D4E2A9EDCB230B}Assets/Structures/Signs/Military/Data/Sign_FieldHospital_US_01_MLOD_LaxyMax.emat"
+     }
+     MaterialAssignClass "{567878E46CE6059F}" {
+      SourceMaterial "SignRectangle_01_140x100_MLOD"
+      AssignedMaterial "{B90156E13459CFA7}Assets/Structures/Signs/Military/Data/Sign_FieldHospital_US_01_LazyMax.emat"
+     }
+    }
+   }
+  }
+  coords 5275.761 62.933 5353.532
+  angleY -130.703
+ }
+}
+GenericEntity : "{B9003EF716A534D4}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_single.et" {
+ components {
+  MeshObject "{5556E3DC64B0A1FC}" {
+   Object "{B268331F3524B2B2}Assets/Structures/Walls/Net/NetFence_01/NetFence_01_Pole_Corner.xob"
+  }
+ }
+ coords 5284.302 -0.001 5355.695
+ angleY 137.208
+ scale 3.065
+ {
+  GenericEntity : "{B9003EF716A534D4}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_single.et" {
+   components {
+    MeshObject "{5556E3DC64B0A1FC}" {
+     Object "{B268331F3524B2B2}Assets/Structures/Walls/Net/NetFence_01/NetFence_01_Pole_Corner.xob"
+    }
+   }
+   coords 2.598 0.041 -2.457
+   angleY -179.842
+   scale 0.983
+  }
+ }
+}

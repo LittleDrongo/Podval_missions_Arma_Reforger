@@ -21,3 +21,7 @@ GameEntity : "{6B6D2E582549A66D}Prefabs/Characters/HeadGear/Helmet_LShZ/Helmet_L
 GameEntity : "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et" {
  coords 143.169 1 158.273
 }
+SCR_ChimeraCharacter : "{D5642BF65606EDE7}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_SL.et" {
+ coords 134.579 1 142.926
+ scale 0.17
+}

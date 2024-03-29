@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{509C54017DFA1D09}Assets/Structures/BuildingsParts/Signs/SignWall_01/Data/SignWall_01_95x72_RadioEveron_Lazy.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

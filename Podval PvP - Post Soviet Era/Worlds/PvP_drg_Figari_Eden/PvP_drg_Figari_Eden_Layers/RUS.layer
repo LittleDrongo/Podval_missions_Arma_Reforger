@@ -1,0 +1,94 @@
+$grp SCR_AIGroup : "{218445F83827D92B}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_RifleSquad.et" {
+ RF_1_1 {
+  components {
+   PS_GroupCallsignAssigner "{605B46D27B457BCD}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 1
+   }
+  }
+  coords 5293.637 62.994 5363.386
+  angleY 28.997
+ }
+ RF_1_2 {
+  components {
+   PS_GroupCallsignAssigner "{605B46D27B457BCD}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 2
+   }
+  }
+  coords 5277.008 63.935 5331.954
+  angleY 24.031
+ }
+ RF_1_3 {
+  components {
+   PS_GroupCallsignAssigner "{605B46D27B457BCD}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 3
+   }
+  }
+  coords 5258.457 65.231 5291.598
+  angleY 27.631
+ }
+}
+Vehicle GAZ_TIGR_PKM_Green1 : "{2DC4DFC25370A088}Prefabs/Vehicles/Wheeled/TIGR/GAZ_TIGR_PKM_Green.et" {
+ coords 5523.989 95.65 6023.206
+ angleX -1.604
+ angleY 26.379
+ angleZ -0.795
+}
+$grp SCR_AIGroup : "{407ABD5B1CBB7AD9}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_PlatoonSquad.et" {
+ RF_1_0 {
+  components {
+   PS_GroupCallsignAssigner "{6048E3A0897E61F5}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 5292.478 62.231 5370.344
+  angleX 7.341
+  angleY 125.75
+  angleZ 1.987
+  m_aUnitPrefabSlots {
+   "{C6D303918A841EE7}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_PL.et" "{A6D630CBAF1A6A10}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Medic.et"
+  }
+ }
+ RF_0_0 {
+  coords 5280.241 62.977 5356.29
+  angleX 1.037
+  angleY 22.714
+  angleZ -2.476
+  m_aUnitPrefabSlots {
+   "{C6D303918A841EE7}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_PL.et"
+  }
+ }
+}
+SCR_AIGroup : "{5EC52DC5123AA81D}Prefabs/Groups/OPFOR/RHS_RF_MSV/SSO/Group_SSO_Team.et" {
+ components {
+  PS_GroupCallsignAssigner "{60D4D4642ABDDE8E}" {
+   m_iCompanyCallsign 5
+  }
+ }
+ coords 5522.405 95.48 6030.077
+ angleX 0.114
+ angleY 29.833
+ angleZ -1.998
+}
+$grp Vehicle : "{C012BB3488BEA0C2}Prefabs/Vehicles/Wheeled/BTR70/BTR70.et" {
+ BTR1 {
+  coords 5292.49 62.779 5353.81
+  angleX -2
+  angleY 25.14
+  angleZ 0.05
+ }
+ BTR2 {
+  coords 5276.292 63.917 5321.521
+  angleX -1.997
+  angleY 23.034
+  angleZ 0.123
+ }
+ BTR3 {
+  coords 5259.747 65.506 5283.929
+  angleX -1.999
+  angleY 29.113
+  angleZ -0.089
+ }
+}

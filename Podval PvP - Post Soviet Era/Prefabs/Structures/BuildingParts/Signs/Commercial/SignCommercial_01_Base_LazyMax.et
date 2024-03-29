@@ -1,0 +1,37 @@
+GenericEntity : "{533AC2E8A0F5272A}Prefabs/Structures/BuildingParts/BuildingParts_Base.et" {
+ ID "5111E74D4E7A8DB6"
+ components {
+  MeshObject "{5111E74D5E891458}" {
+   Object "{BAB85A48FE0E2403}Assets/Structures/BuildingsParts/Signs/SignCommercial_01/SignCommercial_01.xob"
+  }
+  RigidBody "{5111E74C06F5C1E1}" {
+   ResponseIndex "HugeDestructible"
+  }
+  SCR_DestructionMultiPhaseComponent "{58F896B4CD371A8B}" : "{76DA308CC9E2AB84}Prefabs/Props/Core/DestructionMultiPhase_Base.ct" {
+   m_fBaseHealth 300
+   m_DestroySpawnObjects {
+    SCR_DebrisSpawnable "{60FA958D55484F1C}" {
+     m_ModelPrefabs {
+      "{28D92407F96758EA}Assets/Structures/BuildingsParts/Signs/SignCommercial_01/Dst/SignCommercial_01_dst_02.xob"
+     }
+     m_eMaterialSoundType METAL_HEAVY
+    }
+   }
+   m_aDamagePhases {
+    SCR_DamagePhaseData "{60FA958D55484F15}" {
+     m_fPhaseHealth 300
+     m_PhaseModel "{B1C79D9EE480697A}Assets/Structures/BuildingsParts/Signs/SignCommercial_01/Dst/SignCommercial_01_dst_01.xob"
+     m_PhaseDestroySpawnObjects {
+      SCR_DebrisSpawnable "{60FA958D55484F13}" {
+       m_ModelPrefabs {
+        "{B1C79D9EE480697A}Assets/Structures/BuildingsParts/Signs/SignCommercial_01/Dst/SignCommercial_01_dst_01.xob"
+       }
+       m_eMaterialSoundType METAL_HEAVY
+      }
+     }
+    }
+   }
+   m_eMaterialSoundType BREAK_METAL
+  }
+ }
+}

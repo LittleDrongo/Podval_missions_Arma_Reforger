@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{88D4E2A9EDCB230B}Assets/Structures/Signs/Military/Data/Sign_FieldHospital_US_01_MLOD_LaxyMax.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}
