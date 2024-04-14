@@ -1,0 +1,184 @@
+$grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescription/EditableMissionDescription.et" {
+ ABOUT {
+  coords 138.232 -111.118 9843.15
+  m_sTitle "#PS-Description_HeaderAboutMission"
+  m_sTextData "Операция Армии США по штурму опорного пункта МП ВМФ СССР в н/п Арлевиль"
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bEmptyFactionVisibility 1
+ }
+ FIA {
+  coords -270.32 -111.788 9641.049
+  m_sTitle "#PS-Description_HeaderFIA"
+  m_sTextData "ВВОДНАЯ ИНФОРМАЦИЯ:"\
+  "Агентурная разведка сообщила что ВС СССР обнаружила наше местоположение и в близжайшее время они планируют провести войсковую операцию. "\
+  ""\
+  "НАША ЗАДАЧА:"\
+  "Наша задача осуществить тёплый приём не прошенным гостям."
+  m_aVisibleForFactions {
+   "FIA"
+  }
+ }
+ RULES {
+  coords 104.905 -106.21 9815.335
+  m_sTitle "#PS-Description_HeaderRules"
+  m_sTextData "ОБЩИЕ ПРАВИЛА"\
+  "— Всем запрещено надевать форму, головные уборы, разгрузки, бронежилеты противника (рюкзаки можно)"\
+  ""\
+  ""\
+  "СПОСОБЫ ПОБЕДЫ ВС СССР"\
+  "— 1. Удержать под контролем центр Арлевиля"\
+  "— 2. Нанести серьёзный урон Армия США."\
+  ""\
+  "СПОСОБЫ ПОБЕДЫ ДЛЯ ВС США"\
+  "— 1. Занять и удержать Арлевиль"\
+  "— 2. Нанести серьёзный урон ВС СССР.  "
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bEmptyFactionVisibility 1
+ }
+ USA {
+  coords 196.379 -129.456 9855.646
+  m_sTitle "#PS-Description_HeaderUS"
+  m_sTextData "Командование поставило задачу выбить чертовых русских из городка Арлевиль. Что-ж, давно пора. Кажется, у них остался только один БТР-70"
+  m_aVisibleForFactions {
+   "US"
+  }
+ }
+ USSR {
+  coords 104.593 -124.417 9859.193
+  m_sTitle "#PS-Description_HeaderUSSR"
+  m_sTextData "Командование поставило задачу удержать плацдарм в Арлевиле во что бы то не стало. Покажем империалистам как стойко держится советский морпех!"\
+  "Противник - Два стрелковых взвода Армии США на машинах Хамви с пулеметами калибра 12.7"
+  m_aVisibleForFactions {
+   "USSR"
+  }
+ }
+}
+$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ attack2 {
+  coords 2742.426 76.542 1640.04
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "Task_Attack"
+  m_fWorldSize 35
+  m_sDescription "Арлевиль"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ US_G_000_M {
+  coords 2147.657 11.909 3279.509
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "Undefined-blufor"
+  m_fWorldSize 50
+  m_sDescription "Blazer"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "FIA" "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ US_G_100_M {
+  coords 1425.412 28.702 3332.601
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "Undefined-blufor"
+  m_fWorldSize 50
+  m_sDescription "Chaos"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "FIA" "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ USSR_G_000_M {
+  coords 2742.095 77.495 1624.325
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "Undefined-opfor"
+  m_fWorldSize 50
+  m_sDescription "Актив"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "FIA" "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ USSR_G_100_M {
+  coords 2801.715 1.291 916.638
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "Undefined-opfor"
+  m_fWorldSize 50
+  m_sDescription "Буран"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "FIA" "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ {
+  coords 2757.132 77.382 1634.471
+  angleX 2.323
+  angleY 185.581
+  angleZ 3.816
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.855 0.031 0.028 1
+  m_sQuadName "APC"
+  m_fWorldSize 3.691
+  m_sDescription "#AR-Vehicle_BTR70_Name"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "FIA" "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 2748.111 4.315 942.565
+  angleX -4.467
+  angleY 180.544
+  angleZ -0.042
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.855 0.031 0.028 1
+  m_sQuadName "Truck"
+  m_fWorldSize 3.722
+  m_sDescription "#AR-Vehicle_Ural4320_Transport_Covered_Name"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "FIA" "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+}

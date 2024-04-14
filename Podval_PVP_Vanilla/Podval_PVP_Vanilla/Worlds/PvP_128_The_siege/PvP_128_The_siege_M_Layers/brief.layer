@@ -1,0 +1,157 @@
+$grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescription/EditableMissionDescription.et" {
+ ABOUT {
+  coords 9352.269 327.434 484.554
+  m_sTitle "#PS-Description_HeaderAboutMission"
+  m_sTextData "Осада!"
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bEmptyFactionVisibility 1
+ }
+ FIA {
+  coords 8943.717 326.764 282.453
+  m_sTitle "#PS-Description_HeaderFIA"
+  m_sTextData "Выбить противника из замка. Из Сейнт Пьера к окупантам выдвинулось подкрепление."
+  m_aVisibleForFactions {
+   "FIA"
+  }
+ }
+ RULES {
+  coords 9318.941 332.342 456.739
+  m_sTitle "#PS-Description_HeaderRules"
+  m_sDescriptionLayout "{B6DE04F7CF7A95DA}UI/MissionDescription/DescriptionEditableScrollable.layout"
+  m_sTextData "ОБЩИЕ ПРАВИЛА"\
+  "— Всем запрещено надевать форму, головные уборы, разгрузки, бронежилеты противника (рюкзаки можно)"\
+  ""\
+  "УСЛОВНОСТИ ДЛЯ ВС СССР"\
+  "— Гарнизону замка запрещено покидать его территорию."\
+  ""\
+  "СПОСОБЫ ПОБЕДЫ ВС СССР"\
+  "— 1. Удержать замок."\
+  "— 2. Нанести серьёзный урон FIA."\
+  ""\
+  "СПОСОБЫ ПОБЕДЫ ДЛЯ ПАРТИЗАН FIA"\
+  "— 1. Выбить противника из замка."\
+  "— 2. Нанести серьёзный урон ВС СССР."\
+  ""
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bEmptyFactionVisibility 1
+ }
+ USA {
+  coords 9410.416 309.096 497.05
+  m_sTitle "#PS-Description_HeaderUS"
+  m_sTextData "---"
+  m_aVisibleForFactions {
+   "US"
+  }
+ }
+ USSR {
+  coords 9318.629 314.135 500.597
+  m_sTitle "#PS-Description_HeaderUSSR"
+  m_sTextData "Сегодня боевики наконец начинают атаку. Посмотрим, чего стоит хваленое эверонское сопротивление. Комбат запретил покидать замок. 2 взвод уже выдвинули нам на помощь из порта в Сент-Пьере."
+  m_aVisibleForFactions {
+   "USSR"
+  }
+ }
+}
+$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ attack {
+  coords 9357.229 204.425 1159.148
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "Task_Attack"
+  m_fWorldSize 40
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "USSR" "US" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ FIA_G_000_M {
+  coords 8625.479 298.972 1835.358
+  m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "Undefined-indfor"
+  m_fWorldSize 50
+  m_sDescription "Рацек"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "FIA" "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ FIA_G_001_M {
+  coords 10114.315 81.706 449.989
+  m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "Undefined-indfor"
+  m_fWorldSize 50
+  m_sDescription "Бриза"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "FIA" "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ FIA_G_002_M {
+  coords 8972.622 52.65 606.646
+  m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "Undefined-indfor"
+  m_fWorldSize 50
+  m_sDescription "Цедр"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "FIA" "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ USSR_G_000_M {
+  coords 9379.392 196.694 1183.873
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "Undefined-opfor"
+  m_fWorldSize 50
+  m_sDescription "Актив"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "FIA" "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ USSR_G_001_M {
+  coords 10046.425 2.54 1574.888
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "Undefined-opfor"
+  m_fWorldSize 50
+  m_sDescription "Буран"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "FIA" "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+}
