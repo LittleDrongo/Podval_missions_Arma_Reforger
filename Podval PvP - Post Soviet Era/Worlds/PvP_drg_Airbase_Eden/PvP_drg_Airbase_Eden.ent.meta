@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{ED8EB60C974F1A4D}Worlds/PvP_drg_Airbase_Eden/PvP_drg_Airbase_Eden.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass PS5 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}

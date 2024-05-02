@@ -1,0 +1,92 @@
+$grp StaticModelEntity : "{341011A1EC5F233A}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_22x18.et" {
+ {
+  coords 4813.083 24.719 11997.988
+  angleX 0.008
+  angleY 90.49
+  angleZ -0.895
+ }
+ {
+  coords 4810.52 25.76 11953.466
+  angleX 1.809
+  angleY 90.406
+  angleZ -2.67
+ }
+ {
+  coords 4809.827 28.16 11777.404
+  angleX 1.797
+  angleY 90.463
+  angleZ -0.88
+ }
+ {
+  coords 4811.616 27.625 11111.1
+  angleY 90.49
+ }
+ {
+  coords 4811.348 27.843 11153.541
+  angleY 90.49
+ }
+ {
+  coords 4810.667 27.724 11822.964
+  angleX 1.797
+  angleY 90.463
+  angleZ -0.88
+ }
+ {
+  coords 4809.712 27.415 11867.032
+  angleX 4.467
+  angleY 90.493
+  angleZ 0.038
+ }
+ {
+  coords 4811.029 26.937 11910.204
+  angleX 5.362
+  angleY 90.411
+  angleZ -0.853
+ }
+}
+$grp Vehicle : "{DF5CCB7C0FF049F4}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT.et" {
+ Mi8MT1 {
+  coords 4826.27 25.349 11997.378
+  angleX 3.448
+  angleY 86.144
+  angleZ -2.023
+ }
+ Mi8MT2 {
+  coords 4823.706 26.508 11952.854
+  angleX 2.5
+  angleY 86.191
+  angleZ -2.853
+ }
+ Mi8MT7 {
+  coords 4823.014 28.501 11776.794
+  angleX 1.786
+  angleY 86.147
+  angleZ -0.12
+ }
+ Mi8MT6 {
+  coords 4824.535 27.843 11152.934
+  angleY 86.144
+ }
+ Mi8MT8 {
+  coords 4824.802 27.625 11110.49
+  angleY 86.144
+ }
+ Mi8MT5 {
+  coords 4823.853 28.181 11822.354
+  angleX 2.678
+  angleY 86.146
+  angleZ -0.18
+ }
+ Mi8MT4 {
+  coords 4822.898 28.122 11866.422
+  angleX 1.786
+  angleY 86.145
+  angleZ -0.12
+ }
+ Mi8MT3 {
+  coords 4824.216 27.857 11909.594
+  angleX 1.726
+  angleY 86.174
+  angleZ -1.012
+ }
+}

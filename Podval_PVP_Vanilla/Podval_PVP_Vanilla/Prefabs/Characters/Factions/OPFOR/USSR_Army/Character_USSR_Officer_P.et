@@ -12,6 +12,11 @@ SCR_ChimeraCharacter : "{5117311FB822FD1F}Prefabs/Characters/Factions/OPFOR/USSR
     }
    }
   }
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Icon "{B0B3E06A17B8AC6D}UI/Icons/officer.edds"
+   }
+  }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo ArmoredVest {

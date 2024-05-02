@@ -4,5 +4,26 @@ SCR_ChimeraCharacter : "{581F9355DEAD8B96}Prefabs/Characters/Factions/OPFOR/USSR
   PS_PlayableComponent "{5EFCC1946F475F15}" {
    m_bIsPlayable 0
   }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{DD35D5EBA6364E77}Prefabs/Characters/HeadGear/Helmet_SSh68_01/Helmet_SSh68_01_cover_KLMK.et"
+    }
+    LoadoutSlotInfo Back {
+     Prefab "{41A9C55B61F375F0}Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{5D7CC173E6675BF7}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Suit_KLMK/Suit_KLMK.et"
+    }
+    ItemsInitConfigurationItem "{54A68D64D7F9124F}" {
+     PrefabsToSpawn +{
+     }
+    }
+   }
+  }
  }
 }

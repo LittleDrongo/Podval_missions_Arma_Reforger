@@ -4,6 +4,7 @@ SCR_ChimeraCharacter : "{47B0BA658525301A}Prefabs/Characters/Factions/OPFOR/USSR
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "Водитель БТР"
+    Icon "{FC10C2531B4A5AFF}UI/Icons/sso_meh.edds"
    }
   }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {

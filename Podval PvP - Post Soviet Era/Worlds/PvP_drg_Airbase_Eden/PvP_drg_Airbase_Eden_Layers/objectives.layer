@@ -1,0 +1,345 @@
+$grp PolylineShapeEntity : "{127D357736B0C350}Prefabs/PolyZone/PolyZone_Destroy.et" {
+ {
+  coords 4835.971 26.268 12012.367
+  Points {
+   ShapePoint "{60E90266E922A02A}" {
+    Position -0.062 -0.725 2.501
+   }
+   ShapePoint "{613AED4187F57794}" {
+    Position -18.97 -2.152 6.432
+   }
+   ShapePoint "{613AED41958D06EA}" {
+    Position -38.18 -2.219 4.592
+   }
+   ShapePoint "{613AED419692764B}" {
+    Position -35.754 -1.355 -34.606
+   }
+   ShapePoint "{613AED419053496D}" {
+    Position -0.786 0.114 -33.234
+   }
+  }
+  {
+   PS_Objective {
+    ID "60E9062E6BABF763"
+    m_sTitle "Уничтожить Ми-8"
+    m_iScore 10
+    m_sFactionKey "RHS_US_USMC"
+   }
+   PS_PolyZoneObjectiveTriggerDestroy {
+    ID "60E9062E6BABF765"
+    "Polyline Height" 12
+    ClassesFilter {
+    }
+    PrefabsFilter {
+     PrefabFilter "{613AED40698A7922}" {
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4834.444 26.699 11964.511
+  Points {
+   ShapePoint "{60E90266E922A02A}" {
+    Position -0.062 -0.725 2.501
+   }
+   ShapePoint "{613AED4187F57794}" {
+    Position -18.97 -2.152 6.432
+   }
+   ShapePoint "{613AED41958D06EA}" {
+    Position -38.18 -2.219 4.592
+   }
+   ShapePoint "{613AED419692764B}" {
+    Position -35.754 -1.355 -34.606
+   }
+   ShapePoint "{613AED419053496D}" {
+    Position -0.786 0.114 -33.234
+   }
+  }
+  {
+   PS_Objective {
+    ID "60E9062E6BABF763"
+    m_sTitle "Уничтожить Ми-8"
+    m_iScore 10
+    m_sFactionKey "RHS_US_USMC"
+   }
+   PS_PolyZoneObjectiveTriggerDestroy {
+    ID "60E9062E6BABF765"
+    "Polyline Height" 12
+    ClassesFilter {
+    }
+    PrefabsFilter {
+     PrefabFilter "{613AED40698A7922}" {
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4833.004 27.675 11925.362
+  Points {
+   ShapePoint "{60E90266E922A02A}" {
+    Position -0.062 -0.725 2.501
+   }
+   ShapePoint "{613AED4187F57794}" {
+    Position -18.97 -2.152 6.432
+   }
+   ShapePoint "{613AED41958D06EA}" {
+    Position -38.18 -2.219 4.592
+   }
+   ShapePoint "{613AED419692764B}" {
+    Position -35.754 -1.355 -34.606
+   }
+   ShapePoint "{613AED419053496D}" {
+    Position -0.786 0.114 -33.234
+   }
+  }
+  {
+   PS_Objective {
+    ID "60E9062E6BABF763"
+    m_sTitle "Уничтожить Ми-8"
+    m_iScore 10
+    m_sFactionKey "RHS_US_USMC"
+   }
+   PS_PolyZoneObjectiveTriggerDestroy {
+    ID "60E9062E6BABF765"
+    "Polyline Height" 12
+    ClassesFilter {
+    }
+    PrefabsFilter {
+     PrefabFilter "{613AED40698A7922}" {
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4832.858 28.252 11881.778
+  Points {
+   ShapePoint "{60E90266E922A02A}" {
+    Position -0.062 -0.725 2.501
+   }
+   ShapePoint "{613AED4187F57794}" {
+    Position -18.97 -2.152 6.432
+   }
+   ShapePoint "{613AED41958D06EA}" {
+    Position -38.18 -2.219 4.592
+   }
+   ShapePoint "{613AED419692764B}" {
+    Position -35.754 -1.355 -34.606
+   }
+   ShapePoint "{613AED419053496D}" {
+    Position -0.786 0.114 -33.234
+   }
+  }
+  {
+   PS_Objective {
+    ID "60E9062E6BABF763"
+    m_sTitle "Уничтожить Ми-8"
+    m_iScore 10
+    m_sFactionKey "RHS_US_USMC"
+   }
+   PS_PolyZoneObjectiveTriggerDestroy {
+    ID "60E9062E6BABF765"
+    "Polyline Height" 12
+    ClassesFilter {
+    }
+    PrefabsFilter {
+     PrefabFilter "{613AED40698A7922}" {
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4832.01 28.354 11834.055
+  Points {
+   ShapePoint "{60E90266E922A02A}" {
+    Position -0.062 -0.725 2.501
+   }
+   ShapePoint "{613AED4187F57794}" {
+    Position -18.97 -2.152 6.432
+   }
+   ShapePoint "{613AED41958D06EA}" {
+    Position -38.18 -2.219 4.592
+   }
+   ShapePoint "{613AED419692764B}" {
+    Position -35.754 -1.355 -34.606
+   }
+   ShapePoint "{613AED419053496D}" {
+    Position -0.786 0.114 -33.234
+   }
+  }
+  {
+   PS_Objective {
+    ID "60E9062E6BABF763"
+    m_sTitle "Уничтожить Ми-8"
+    m_iScore 10
+    m_sFactionKey "RHS_US_USMC"
+   }
+   PS_PolyZoneObjectiveTriggerDestroy {
+    ID "60E9062E6BABF765"
+    "Polyline Height" 12
+    ClassesFilter {
+    }
+    PrefabsFilter {
+     PrefabFilter "{613AED40698A7922}" {
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4832.521 28.594 11788.028
+  Points {
+   ShapePoint "{60E90266E922A02A}" {
+    Position -0.062 -0.725 2.501
+   }
+   ShapePoint "{613AED4187F57794}" {
+    Position -18.97 -2.152 6.432
+   }
+   ShapePoint "{613AED41958D06EA}" {
+    Position -38.18 -2.219 4.592
+   }
+   ShapePoint "{613AED419692764B}" {
+    Position -35.754 -1.355 -34.606
+   }
+   ShapePoint "{613AED419053496D}" {
+    Position -0.786 0.114 -33.234
+   }
+  }
+  {
+   PS_Objective {
+    ID "60E9062E6BABF763"
+    m_sTitle "Уничтожить Ми-8"
+    m_iScore 10
+    m_sFactionKey "RHS_US_USMC"
+   }
+   PS_PolyZoneObjectiveTriggerDestroy {
+    ID "60E9062E6BABF765"
+    "Polyline Height" 12
+    ClassesFilter {
+    }
+    PrefabsFilter {
+     PrefabFilter "{613AED40698A7922}" {
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4833.733 28.692 11125.018
+  Points {
+   ShapePoint "{60E90266E922A02A}" {
+    Position -0.062 -0.725 2.501
+   }
+   ShapePoint "{613AED4187F57794}" {
+    Position -18.97 -2.152 6.432
+   }
+   ShapePoint "{613AED41958D06EA}" {
+    Position -38.18 -2.219 4.592
+   }
+   ShapePoint "{613AED419692764B}" {
+    Position -35.754 -1.355 -34.606
+   }
+   ShapePoint "{613AED419053496D}" {
+    Position -0.786 0.114 -33.234
+   }
+  }
+  {
+   PS_Objective {
+    ID "60E9062E6BABF763"
+    m_sTitle "Уничтожить Ми-8"
+    m_iScore 10
+    m_sFactionKey "RHS_US_USMC"
+   }
+   PS_PolyZoneObjectiveTriggerDestroy {
+    ID "60E9062E6BABF765"
+    "Polyline Height" 12
+    ClassesFilter {
+    }
+    PrefabsFilter {
+     PrefabFilter "{613AED40698A7922}" {
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4831.858 27.846 11169.651
+  Points {
+   ShapePoint "{60E90266E922A02A}" {
+    Position -0.062 -0.725 2.501
+   }
+   ShapePoint "{613AED4187F57794}" {
+    Position -18.97 -2.152 6.432
+   }
+   ShapePoint "{613AED41958D06EA}" {
+    Position -38.18 -2.219 4.592
+   }
+   ShapePoint "{613AED419692764B}" {
+    Position -35.754 -1.355 -34.606
+   }
+   ShapePoint "{613AED419053496D}" {
+    Position -0.786 0.114 -33.234
+   }
+  }
+  {
+   PS_Objective {
+    ID "60E9062E6BABF763"
+    m_sTitle "Уничтожить Ми-8"
+    m_iScore 10
+    m_sFactionKey "RHS_US_USMC"
+   }
+   PS_PolyZoneObjectiveTriggerDestroy {
+    ID "60E9062E6BABF765"
+    "Polyline Height" 12
+    ClassesFilter {
+    }
+    PrefabsFilter {
+     PrefabFilter "{613AED40698A7922}" {
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4739.864 27.849 11088.526
+  Points {
+   ShapePoint "{60E90266E922A02A}" {
+    Position 128.014 -3.825 975.674
+   }
+   ShapePoint "{613AED4187F57794}" {
+    Position 40.171 -4.811 1009.06
+   }
+   ShapePoint "{613AED41958D06EA}" {
+    Position -38.18 -2.219 4.592
+   }
+   ShapePoint "{613AED419692764B}" {
+    Position -35.754 -1.355 -34.606
+   }
+   ShapePoint "{613AED419053496D}" {
+    Position 133.019 -0.005 -23.274
+   }
+  }
+  {
+   PS_Objective {
+    ID "60E9062E6BABF763"
+    m_sTitle "Уничтожить все цели"
+    m_iScore 0
+    m_sFactionKey "RHS_US_USMC"
+    m_bAdvanceWhenTriggered 1
+   }
+   PS_PolyZoneObjectiveTriggerDestroy {
+    ID "60E9062E6BABF765"
+    "Polyline Height" 12
+    ClassesFilter {
+    }
+    PrefabsFilter {
+     PrefabFilter "{613AED40698A7922}" {
+     }
+    }
+   }
+  }
+ }
+}

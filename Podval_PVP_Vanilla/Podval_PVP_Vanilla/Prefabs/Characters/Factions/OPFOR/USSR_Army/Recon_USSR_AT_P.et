@@ -9,29 +9,35 @@ SCR_ChimeraCharacter : "{BDA13DF416E8D9F6}Prefabs/Characters/Factions/OPFOR/USSR
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Hat {
-     Prefab "{2B29B7E1C6BD1048}Prefabs/Characters/HeadGear/Hat_M88_01/Hat_M88_01_v1.et"
+     Prefab "{DD35D5EBA6364E77}Prefabs/Characters/HeadGear/Helmet_SSh68_01/Helmet_SSh68_01_cover_KLMK.et"
     }
     LoadoutSlotInfo Jacket {
-     Prefab "{6835DAF42A09E23C}Prefabs/Characters/Uniforms/Jacket_Pilot_USSR_01/Jacket_Pilot_USSR_01.et"
+     Prefab "{CF221A167DE87E57}Prefabs/Characters/Uniforms/Suit_KLMK/Suit_KLMK.et"
     }
     LoadoutSlotInfo ArmoredVest {
      Enabled 0
     }
     LoadoutSlotInfo Pants {
-     Prefab "{83DFA8F68CA40B10}Prefabs/Characters/Uniforms/Pants_Pilot_USSR_01/Pants_Pilot_USSR_01.et"
+     Prefab ""
     }
    }
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{5D7CC173E6675BF7}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Pants_Pilot_USSR_01/Pants_Pilot_USSR_01.et"
+     TargetStorage "Prefabs/Characters/Uniforms/Suit_KLMK/Suit_KLMK.et"
     }
     ItemsInitConfigurationItem "{5D7CC173E6675BF5}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_SovietHarness/Variants/Vest_SovietHarness_rifleman.et"
     }
+    ItemsInitConfigurationItem "{54A68D62A0B36F76}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_SovietHarness/Variants/Vest_SovietHarness_rifleman.et"
+     PrefabsToSpawn {
+      "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et" "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et" "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{E5912E45754CD421}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Tracer.et" "{E5912E45754CD421}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Tracer.et"
+     }
+    }
     ItemsInitConfigurationItem "{568AD28101F4B0E9}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Jacket_Pilot_USSR_01/Jacket_Pilot_USSR_01.et"
+     TargetStorage "Prefabs/Characters/Vests/Vest_SovietHarness/Vest_SovietHarness_Suspenders.et"
     }
    }
   }

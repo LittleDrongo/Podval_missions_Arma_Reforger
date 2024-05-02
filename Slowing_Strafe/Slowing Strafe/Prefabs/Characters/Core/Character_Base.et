@@ -5,6 +5,12 @@ SCR_ChimeraCharacter {
    components {
     SCR_CharacterCommandHandlerComponent "{520EA1D2F659C99A}" {
      MoveSettings ScriptCharacterCommandMoveSettings "{520EA1D2F659C99B}" {
+      MaxSlope 50
+      SlopeSlowdownCurve {
+       0 1 1 0.401
+      }
+      SlopeSpeedupCurve +{
+      }
       m_fSpeed_Erect_Slow_Strafe 1
       m_fSpeed_Erect_Normal_Strafe 2.53
       m_fSpeed_Erect_Fast_Strafe 3.66
