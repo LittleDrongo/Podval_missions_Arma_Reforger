@@ -4,6 +4,7 @@ SCR_ChimeraCharacter : "{BDA13DF416E8D9F6}Prefabs/Characters/Factions/OPFOR/USSR
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "Разведчик-гранатомётчик"
+    Icon "{0D9BD3A9E383F660}UI/Icons/recon.edds"
    }
   }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
