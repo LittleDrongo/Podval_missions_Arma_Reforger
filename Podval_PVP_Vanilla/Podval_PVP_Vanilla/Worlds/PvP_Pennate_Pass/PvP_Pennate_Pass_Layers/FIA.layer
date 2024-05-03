@@ -11,8 +11,10 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
   m_bDeleteWhenEmpty 0
  }
  FIA_2_2 {
-  coords 7686.952 1.386 1454.543
-  angleY 60.981
+  coords 7709.373 0 1471.582
+  angleX -9.678
+  angleY 71.795
+  angleZ 180
  }
  FIA_1_3 {
   components {
@@ -62,8 +64,10 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
     m_iSquadCallsign 3
    }
   }
-  coords 7681.099 3.505 1464.104
-  angleY 60.981
+  coords 7657.265 0 1450.813
+  angleX -9.678
+  angleY 52.791
+  angleZ 180
  }
 }
 $grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_P.et" {
@@ -85,7 +89,7 @@ $grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_
     m_iCompanyCallsign 2
    }
   }
-  coords 7685.263 2.205 1457.766
+  coords 7674.032 4.674 1465.848
   angleX -1.986
   angleY 59.929
   angleZ -7.496
@@ -111,5 +115,61 @@ $grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_
    "{54B5A1C7426185A5}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_PL_P.et" "{C0C1F1FFD610A6BB}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_RTO_P.et"
   }
   m_bDeleteWhenEmpty 0
+ }
+}
+$grp Vehicle : "{F6B23D17D5067C11}Prefabs/Vehicles/Wheeled/M151A2/M151A2_M2HB.et" {
+ M151A2_M2HB1 {
+  coords 7650.921 1.911 1438.995
+  angleX 7.79
+  angleY -38.345
+  angleZ -1.619
+ }
+ M151A2_M2HB2 {
+  coords 7654.917 1.853 1441.525
+  angleX 6.12
+  angleY -38.403
+  angleZ 1.973
+ }
+ M151A2_M2HB3 {
+  coords 7659.193 1.838 1444.318
+  angleX 8.984
+  angleY -38.257
+  angleZ 4.199
+ }
+ M151A2_M2HB4 {
+  coords 7698.536 1.942 1462.185
+  angleX 9.23
+  angleY -21.733
+  angleZ -0.809
+ }
+ M151A2_M2HB5 {
+  coords 7703.084 1.878 1464.192
+  angleX 11.941
+  angleY -11.432
+  angleZ 1.177
+ }
+ M151A2_M2HB6 {
+  coords 7693.5 2.102 1460.099
+  angleX 9.255
+  angleY -19.378
+  angleZ -0.431
+ }
+ M151A2_M2HB7 {
+  coords 7673.661 1.586 1450.424
+  angleX 9.12
+  angleY -25.368
+  angleZ 0.585
+ }
+ M151A2_M2HB8 {
+  coords 7669.202 1.611 1448.84
+  angleX 9.907
+  angleY -25.119
+  angleZ 4.49
+ }
+ M151A2_M2HB9 {
+  coords 7678.183 1.797 1452.927
+  angleX 9.865
+  angleY -25.339
+  angleZ 2.182
  }
 }
