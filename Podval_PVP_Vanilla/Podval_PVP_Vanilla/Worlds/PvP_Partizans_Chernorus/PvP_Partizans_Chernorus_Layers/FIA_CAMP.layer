@@ -1,0 +1,44 @@
+GenericEntity : "{070E80C72C21BF4F}Prefabs/Compositions/Misc/SubCompositions/Tents/Tent_CommandPost_FIA_01.et" {
+ coords 5976.121 294.536 13995.794
+ angleX -4.125
+ angleY 132.94
+ angleZ 8.303
+}
+$grp GenericEntity : "{795D20A26B62F82F}Prefabs/Compositions/Misc/SubCompositions/Tents/Tent_Barracks_FIA_01.et" {
+ {
+  coords 5992.265 295.503 13997.564
+  angleX -7.615
+  angleY -135.728
+  angleZ -4.911
+ }
+ {
+  coords 5981.29 296.369 14005.795
+  angleX -10.016
+  angleY -157.188
+  angleZ -1.322
+ }
+ {
+  coords 5978.178 289.51 13966.012
+  angleX 9.043
+  angleY 29.372
+  angleZ 2.024
+ }
+ {
+  coords 5971.945 291.295 13978.651
+  angleX 9.019
+  angleY 49.769
+  angleZ 5.127
+ }
+ {
+  coords 5994.342 291.585 13974.077
+  angleX 3.448
+  angleY -56.474
+  angleZ -8.377
+ }
+}
+GenericEntity : "{C0EB5039FEB95354}Prefabs/Compositions/Misc/SubCompositions/Tents/Tent_Medical_FIA_01.et" {
+ coords 5992.794 293.825 13987.133
+ angleX 6.188
+ angleY -0.582
+ angleZ -5.387
+}

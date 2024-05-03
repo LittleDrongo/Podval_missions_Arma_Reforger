@@ -9,5 +9,14 @@ SCR_ChimeraCharacter : "{581F9355DEAD8B96}Prefabs/Characters/Factions/OPFOR/USSR
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
    WeaponTemplate "{EB404DC9E1BCB750}Prefabs/Weapons/Rifles/AK74/Rifle_AK74N_1P29.et"
   }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{5D7CC173E6675BF7}" {
+     PrefabsToSpawn + {
+      "{97803BFD13AFA680}Prefabs/Items/Equipment/Radios/Radio_R148_prv.et"
+     }
+    }
+   }
+  }
  }
 }

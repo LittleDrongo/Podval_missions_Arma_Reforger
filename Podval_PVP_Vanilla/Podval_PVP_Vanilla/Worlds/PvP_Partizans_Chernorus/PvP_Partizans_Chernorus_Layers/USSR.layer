@@ -3,7 +3,7 @@ Vehicle Ural4320_repair1 : "{A5647958579A4149}Prefabs/Vehicles/Wheeled/Ural4320/
  angleY -29.15
 }
 Vehicle Ural4320_FIA_tanker1 : "{DC1C2350CF665F9E}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_FIA_tanker.et" {
- coords 4256.688 339.124 10561.438
+ coords 4253.393 339.125 10568.646
  angleY -30.885
 }
 $grp Vehicle : "{DF5CCB7C0FF049F4}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT.et" {
@@ -48,7 +48,7 @@ $grp Vehicle : "{DF5CCB7C0FF049F4}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT.et" {
     }
    }
   }
-  coords 4250.823 339.125 10626.592
+  coords 4255.01 339.125 10618.878
   angleY 151.51
  }
  Mi8MT3 {
@@ -203,7 +203,7 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
   m_aUnitPrefabSlots {
    "{FFE45AFCB29CD014}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_HeliPilot_P.et" "{2B0F3996B07194C4}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_HeliCrew_P.et"
   }
-  m_sCustomNameSet "2-е развед.отделение"
+  m_sCustomNameSet "Экипаж вертолёта"
  }
  USSR_1_0_5 {
   components {
@@ -215,12 +215,12 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
     m_iSquadCallsign 1
    }
   }
-  coords 4244.559 339.125 10624.262
+  coords 4248.236 339.125 10617.375
   angleY -28.181
   m_aUnitPrefabSlots {
    "{FFE45AFCB29CD014}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_HeliPilot_P.et" "{2B0F3996B07194C4}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_HeliCrew_P.et"
   }
-  m_sCustomNameSet "2-е развед.отделение"
+  m_sCustomNameSet "Экипаж вертолёта"
  }
  USSR_1_0_6 {
   components {
@@ -237,7 +237,7 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
   m_aUnitPrefabSlots {
    "{FFE45AFCB29CD014}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_HeliPilot_P.et" "{2B0F3996B07194C4}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_HeliCrew_P.et"
   }
-  m_sCustomNameSet "2-е развед.отделение"
+  m_sCustomNameSet "Экипаж вертолёта"
  }
  USSR_1_0_7 {
   components {
@@ -253,7 +253,7 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
   m_aUnitPrefabSlots {
    "{F3E5C83A50EBB8B6}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon_USSR_PL_P.et" "{6F11CC682A6D9FBA}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon_USSR_RTO.et"
   }
-  m_sCustomNameSet "Упр. 2-го развед.взвода"
+  m_sCustomNameSet "Упр. 3-го развед.взвода"
  }
  USSR_2_0_3 {
   components {
