@@ -9,6 +9,6 @@ $grp PS_Objective {
   coords 6036.917 286.45 13805.464
   m_sTitle "Захватить опорный пункт"
   m_iScore 100
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "Ses_CDF"
  }
 }

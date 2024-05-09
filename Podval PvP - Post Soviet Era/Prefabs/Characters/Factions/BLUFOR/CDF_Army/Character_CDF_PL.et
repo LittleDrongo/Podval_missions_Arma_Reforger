@@ -7,5 +7,12 @@ SCR_ChimeraCharacter : "{16165F4184929A6B}Prefabs/Characters/Factions/BLUFOR/CDF
     Icon "{A26C465A6AE2AA17}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_Leader.edds"
    }
   }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Back {
+     Prefab "{9B6B61BB3FE3DFB0}Prefabs/Items/Equipment/Radios/Radio_ANPRC77.et"
+    }
+   }
+  }
  }
 }

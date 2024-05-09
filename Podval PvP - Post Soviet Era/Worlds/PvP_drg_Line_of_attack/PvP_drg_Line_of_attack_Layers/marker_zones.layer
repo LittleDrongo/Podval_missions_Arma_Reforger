@@ -122,7 +122,7 @@ $grp PolylineShapeEntity {
      m_fKillTime 20
     }
     m_bReversed 1
-    m_sGroupKey "DEFENCE"
+    m_sFactionKey "RHS_RF_MSV"
    }
   }
  }
