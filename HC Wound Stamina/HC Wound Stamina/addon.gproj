@@ -1,0 +1,8 @@
+GameProject {
+ ID "HCWoundStamina"
+ GUID "614758E9E5EAA0E5"
+ TITLE "HC Wound Stamina"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

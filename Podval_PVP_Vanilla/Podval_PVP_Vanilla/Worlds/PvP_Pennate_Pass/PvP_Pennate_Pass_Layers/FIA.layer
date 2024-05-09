@@ -86,7 +86,7 @@ $grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_
     DefaultFormation "Column"
    }
   }
-  coords 7719.698 2.784 1480.967
+  coords 7673.203 9.873 1476.644
   angleY 58.101
  }
  FIA_2_0 {

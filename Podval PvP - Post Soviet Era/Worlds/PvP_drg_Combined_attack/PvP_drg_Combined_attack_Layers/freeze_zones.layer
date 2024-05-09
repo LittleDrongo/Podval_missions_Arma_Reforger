@@ -49,17 +49,17 @@ $grp SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/Restri
     m_bFollowTerrain 1
    }
   }
-  coords 4953.017 172.538 13028.533
-  m_fWarnRadius 800
+  coords 4930.009 171.379 12955.277
+  m_fWarnRadius 900
   m_fZoneRadius 1000
-  m_fZoneTeleportedRadius 1300
+  m_fZoneTeleportedRadius 1030
   {
    GenericEntity {
     ID "59D673B36B893D84"
     components {
      SCR_CustomAreaMeshComponent "{59D673B22B1EBC57}" {
       m_bFollowTerrain 1
-      m_fRadius 800
+      m_fRadius 900
      }
     }
    }
