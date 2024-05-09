@@ -1,14 +1,46 @@
+$grp GenericEntity : "{25B265F3E7CBDFC8}Prefabs/Props/Wrecks/BMP1_wreck.et" {
+ {
+  coords 3761.58 318.671 7111.24
+  angleX -0.887
+  angleY -0.083
+  angleZ 5.357
+ }
+ {
+  coords 3768.949 321.44 6991.604
+  angleX 4.134
+  angleY -83.465
+  angleZ 3.166
+ }
+ {
+  coords 3830.401 312.779 7094.333
+  angleX 3.452
+  angleY -83.48
+  angleZ 1.293
+ }
+ {
+  coords 3878.699 310.776 7025.946
+  angleX 5.391
+  angleY -142.364
+  angleZ -2.6
+ }
+ {
+  coords 3851.068 311.741 7065.48
+  angleX 1.156
+  angleY -35.678
+  angleZ 4.669
+ }
+ {
+  coords 3933.962 304.394 7090.704
+  angleX 4.337
+  angleY -83.458
+  angleZ 1.395
+ }
+}
 GenericEntity : "{2ACE3A315F531CFD}Prefabs/Compositions/Slotted/SlotFlatMedium/FieldHospital_M_USSR_01.et" {
  coords 3614.944 334.062 6976.901
  angleY 44.038
 }
 $grp StaticModelEntity : "{2D303C505CC6576A}Prefabs/Structures/Military/Camps/TentUSSR_01/TentUSSR_01_camonet_foundation.et" {
- {
-  coords 3542.844 339.142 6940.147
-  angleX -0.895
-  angleY 178.195
-  angleZ 0.028
- }
  {
   coords 3587.488 334.153 6952.415
   angleX 0.766
@@ -32,13 +64,1263 @@ GenericEntity : "{4510C273B794F3A9}Prefabs/Compositions/Slotted/SlotFlatMedium/V
  angleY 4.753
  angleZ 0.966
 }
-StaticModelEntity : "{6DEC3A82BA35F108}Prefabs/Compositions/Misc/SubCompositions/Tent_BarrackHQ_Cluttered_USSR_01.et" {
- coords 3544.561 340.489 6906.149
- angleX 1.644
- angleY 91.211
- angleZ 0.97
+$grp GenericEntity : "{B90E5414AB7C325B}Prefabs/Props/Wrecks/BTR70_wreck_static.et" {
+ {
+  coords 3705.906 323.509 7117.597
+  angleX -0.892
+  angleY -0.056
+  angleZ 3.577
+ }
+ {
+  coords 3769.811 321.221 6996.159
+  angleX -2.668
+  angleY -0.208
+  angleZ 4.472
+ }
+ {
+  coords 3826.325 312.603 7129.771
+  angleX -1.779
+  angleY -0.139
+  angleZ 4.469
+ }
+ {
+  coords 3875.243 310.97 7028.717
+  angleX 3.304
+  angleY -59.99
+  angleZ 4.991
+ }
 }
-StaticModelEntity : "{8CDB9C117669AF4A}Prefabs/Structures/Military/Camps/HelipadImprovised_01/HelipadImprovised_USSR_01.et" {
- coords 3564.359 -0.001 6891.091
- angleY 0.763
+$grp StaticModelEntity : "{DA1B42FB9AEC02BE}Prefabs/Structures/Military/Fortifications/Dragontooth_01/Dragontooth_01_V3.et" {
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3698.594 0 7117.102
+  angleX 3.59
+  angleY -117.163
+  angleZ -0.837
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3849.196 -0 6953.672
+  angleX -5.924
+  angleY 79.242
+  angleZ -2.5
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3855.194 0.001 6943.482
+  angleX -5.923
+  angleY 79.268
+  angleZ -2.503
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3838.704 -0 6961.779
+  angleX -5.055
+  angleY 79.189
+  angleZ -2.665
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3816.543 -0 6984.318
+  angleX 5.601
+  angleY -117.233
+  angleZ 1.13
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3653.579 0 7165.049
+  angleX -2.804
+  angleY 79.168
+  angleZ -0.374
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3821.478 -0 6977.633
+  angleX 5.195
+  angleY -117.235
+  angleZ 0.338
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3852.042 -0.001 6945.861
+  angleX -5.052
+  angleY 79.249
+  angleZ -2.671
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3835.679 -0 6966.24
+  angleX -5.923
+  angleY 79.282
+  angleZ -2.504
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3841.032 -0 6958.215
+  angleX -4.889
+  angleY 79.193
+  angleZ -1.792
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3825.421 0 6974.822
+  angleX 5.6
+  angleY -117.174
+  angleZ 1.136
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3830.606 0 6975.593
+  angleX 5.601
+  angleY -117.222
+  angleZ 1.131
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3856.013 -0 6946.011
+  angleX -4.89
+  angleY 79.143
+  angleZ -1.787
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3812.842 0 6985.705
+  angleX 5.6
+  angleY -117.205
+  angleZ 1.133
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3640.385 -0 7178.257
+  angleX 3.204
+  angleY -117.216
+  angleZ 0.363
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3843.407 0 6954.595
+  angleX -5.924
+  angleY 79.253
+  angleZ -2.501
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3651.093 -0.001 7169.277
+  angleX 3.997
+  angleY -117.24
+  angleZ -0.047
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3812.771 0 6983.047
+  angleX 4.405
+  angleY -117.242
+  angleZ 0.746
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3643.69 0 7175.458
+  angleX 3.204
+  angleY -117.264
+  angleZ 0.361
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3642.551 -0 7171.537
+  angleX 3.997
+  angleY -117.262
+  angleZ -0.049
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3646.933 0.001 7172.7
+  angleX 2.795
+  angleY -117.267
+  angleZ -0.434
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3852.608 -0.001 6950.184
+  angleX -5.057
+  angleY 79.152
+  angleZ -2.662
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3646.173 0 7168.927
+  angleX 2.795
+  angleY -117.276
+  angleZ -0.435
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3636.649 0 7181.008
+  angleX 2.796
+  angleY -117.157
+  angleZ -0.429
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3843.227 -0 6961.653
+  angleX -5.924
+  angleY 79.243
+  angleZ -2.5
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3634.01 0 7182.352
+  angleX 3.204
+  angleY -117.166
+  angleZ 0.366
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3630.303 -0 7179.876
+  angleX 2.001
+  angleY -117.289
+  angleZ -0.025
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3846.214 0 6950.897
+  angleX -4.886
+  angleY 79.265
+  angleZ -1.798
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3661.444 -0.001 7148.726
+  angleX -3.68
+  angleY 79.276
+  angleZ -0.213
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3634.562 -0 7177.499
+  angleX 3.204
+  angleY -117.247
+  angleZ 0.362
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3838.009 0 6969.411
+  angleX 5.195
+  angleY -117.236
+  angleZ 0.338
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3638.505 -0 7174.688
+  angleX 3.204
+  angleY -117.216
+  angleZ 0.363
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3846.212 0 6957.484
+  angleX -5.921
+  angleY 79.313
+  angleZ -2.508
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3629.627 0 7184.184
+  angleX 3.204
+  angleY -117.259
+  angleZ 0.361
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3654.116 -326.647 7158.081
+  angleX -27.326
+  angleY 48.203
+  angleZ -122.092
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3656.491 -0 7154.461
+  angleX -3.847
+  angleY 79.201
+  angleZ -1.085
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3659.296 -0 7157.35
+  angleX -3.847
+  angleY 79.235
+  angleZ -1.088
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3665.126 0 7145.727
+  angleX -3.68
+  angleY 79.215
+  angleZ -0.209
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3625.926 0 7185.571
+  angleX 2.41
+  angleY -117.253
+  angleZ 0.771
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3665.692 0.001 7150.05
+  angleX -3.68
+  angleY 79.163
+  angleZ -0.206
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3651.788 0 7161.645
+  angleX -3.848
+  angleY 79.152
+  angleZ -1.082
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3656.311 0.001 7161.519
+  angleX -3.848
+  angleY 79.17
+  angleZ -1.083
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3625.855 0.001 7182.913
+  angleX 2.41
+  angleY -117.269
+  angleZ 0.77
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3669.097 0 7145.876
+  angleX -3.68
+  angleY 79.178
+  angleZ -0.206
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3662.28 0.001 7153.538
+  angleX -2.804
+  angleY 79.203
+  angleZ -0.376
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3659.298 -0.001 7150.763
+  angleX -3.846
+  angleY 79.252
+  angleZ -1.089
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3668.278 -0 7143.348
+  angleX -3.68
+  angleY 79.24
+  angleZ -0.211
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3648.763 -0 7166.106
+  angleX -3.847
+  angleY 79.208
+  angleZ -1.086
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3704.969 0.001 7113.007
+  angleX 3.589
+  angleY -117.214
+  angleZ -0.84
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3726.028 -0 7083.476
+  angleX -5.428
+  angleY 79.282
+  angleZ 0.119
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3840.495 -0 6965.183
+  angleX -4.889
+  angleY 79.19
+  angleZ -1.791
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3711.517 -0 7107.45
+  angleX 3.18
+  angleY -117.27
+  angleZ -1.638
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3710.757 0.001 7103.677
+  angleX 4.788
+  angleY -117.291
+  angleZ -0.46
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3701.233 -0.001 7115.758
+  angleX 3.59
+  angleY -117.163
+  angleZ -0.837
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3694.888 0 7114.627
+  angleX 4.38
+  angleY -117.29
+  angleZ -1.253
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3707.135 0 7106.287
+  angleX 3.589
+  angleY -117.262
+  angleZ -0.843
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3715.678 0 7104.027
+  angleX 4.381
+  angleY -117.241
+  angleZ -1.249
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3708.274 -0 7110.209
+  angleX 3.589
+  angleY -117.262
+  angleZ -0.843
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3703.089 0 7109.438
+  angleX 3.589
+  angleY -117.214
+  angleZ -0.84
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3699.147 -0.001 7112.249
+  angleX 4.381
+  angleY -117.24
+  angleZ -1.249
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3694.211 0 7118.934
+  angleX 4.788
+  angleY -117.249
+  angleZ -0.456
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3690.439 0.001 7117.663
+  angleX 3.589
+  angleY -117.253
+  angleZ -0.842
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3764.374 0 7046.215
+  angleX 5.577
+  angleY -117.307
+  angleZ -0.869
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3761.131 -0 7048.974
+  angleX 4.788
+  angleY -117.271
+  angleZ -0.458
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3817.219 -0 6980.011
+  angleX 5.195
+  angleY -117.285
+  angleZ 0.333
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3776.739 0.001 7024.278
+  angleX -4.721
+  angleY 79.271
+  angleZ -0.923
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3779.721 -0 7027.053
+  angleX -4.722
+  angleY 79.209
+  angleZ -0.918
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3782.567 0 7019.242
+  angleX -5.759
+  angleY 79.257
+  angleZ -1.629
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3732.862 -0 7078.098
+  angleX -5.428
+  angleY 79.247
+  angleZ 0.122
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3747.068 -0 7057.699
+  angleX 5.577
+  angleY -117.261
+  angleZ -0.865
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3848.36 0.001 6948.86
+  angleX -4.886
+  angleY 79.265
+  angleZ -1.798
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3721.075 -0.001 7089.211
+  angleX -5.428
+  angleY 79.231
+  angleZ 0.124
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3771.02 0 7038.564
+  angleX -4.722
+  angleY 79.182
+  angleZ -0.915
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3768.535 0.001 7042.792
+  angleX 4.788
+  angleY -117.244
+  angleZ -0.456
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3771.557 0.001 7031.596
+  angleX -4.722
+  angleY 79.186
+  angleZ -0.916
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3752.004 -0 7051.014
+  angleX 5.577
+  angleY -117.258
+  angleZ -0.864
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3733.682 -0 7080.627
+  angleX -6.298
+  angleY 79.187
+  angleZ 0.294
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3723.88 0 7092.1
+  angleX -4.389
+  angleY 79.246
+  angleZ 0.833
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3747.744 0.001 7053.392
+  angleX 5.577
+  angleY -117.309
+  angleZ -0.869
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3718.7 -0 7092.831
+  angleX -4.555
+  angleY 79.183
+  angleZ -0.039
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3720.895 -0 7096.269
+  angleX -4.555
+  angleY 79.183
+  angleZ -0.039
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3833.089 0 6969.061
+  angleX 5.195
+  angleY -117.289
+  angleZ 0.333
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3773.752 0 7035.034
+  angleX -4.722
+  angleY 79.186
+  angleZ -0.916
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3786.539 -0 7019.392
+  angleX -4.722
+  angleY 79.162
+  angleZ -0.914
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3785.719 0 7016.863
+  angleX -5.759
+  angleY 79.256
+  angleZ -1.629
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3763.614 -0 7042.442
+  angleX 4.788
+  angleY -117.291
+  angleZ -0.46
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3773.932 0 7027.976
+  angleX -4.888
+  angleY 79.214
+  angleZ -1.793
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3829.467 0 6971.671
+  angleX 6.388
+  angleY -117.227
+  angleZ 0.722
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3769.229 -0 7035.16
+  angleX -4.722
+  angleY 79.168
+  angleZ -0.914
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3827.301 -0 6978.391
+  angleX 6.387
+  angleY -117.178
+  angleZ 0.728
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3778.885 0.001 7022.241
+  angleX -4.721
+  angleY 79.271
+  angleZ -0.923
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3751.451 -0 7055.867
+  angleX 5.578
+  angleY -117.193
+  angleZ -0.858
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3823.565 0 6981.142
+  angleX 5.194
+  angleY -117.153
+  angleZ 0.345
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3743.296 -0.001 7056.428
+  angleX 6.363
+  angleY -117.315
+  angleZ -1.277
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3833.849 0 6972.834
+  angleX 6.388
+  angleY -117.23
+  angleZ 0.722
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3726.864 -0 7088.288
+  angleX -5.428
+  angleY 79.221
+  angleZ 0.125
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3783.133 -0 7023.565
+  angleX -4.722
+  angleY 79.158
+  angleZ -0.913
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3729.71 0.001 7080.477
+  angleX -4.389
+  angleY 79.218
+  angleZ 0.835
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3776.737 0 7030.865
+  angleX -4.721
+  angleY 79.251
+  angleZ -0.921
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3743.367 0 7059.086
+  angleX 6.365
+  angleY -117.256
+  angleZ -1.27
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3716.372 -0 7096.395
+  angleX -4.555
+  angleY 79.166
+  angleZ -0.038
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3730.276 -0 7084.8
+  angleX -5.428
+  angleY 79.17
+  angleZ 0.129
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3713.348 -0.001 7100.855
+  angleX -4.555
+  angleY 79.221
+  angleZ -0.042
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3757.826 0 7051.772
+  angleX 5.578
+  angleY -117.244
+  angleZ -0.863
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3755.946 -0 7048.203
+  angleX 4.788
+  angleY -117.223
+  angleZ -0.454
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3754.09 -0 7054.523
+  angleX 4.382
+  angleY -117.18
+  angleZ -1.245
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3766.204 0 7039.621
+  angleX -4.721
+  angleY 79.224
+  angleZ -0.919
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3759.992 -0 7045.052
+  angleX 4.788
+  angleY -117.271
+  angleZ -0.458
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3723.882 -0.001 7085.513
+  angleX -5.428
+  angleY 79.282
+  angleZ 0.119
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3820.926 -0.001 6982.486
+  angleX 5.194
+  angleY -117.153
+  angleZ 0.345
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3690.51 0.001 7120.321
+  angleX 4.788
+  angleY -117.221
+  angleZ -0.454
+ }
+ {
+  components {
+   Hierarchy "{5CCCBEF310ACB4D8}" {
+    Enabled 1
+   }
+  }
+  coords 3718.163 -0 7099.799
+  angleX -4.555
+  angleY 79.18
+  angleZ -0.039
+ }
 }

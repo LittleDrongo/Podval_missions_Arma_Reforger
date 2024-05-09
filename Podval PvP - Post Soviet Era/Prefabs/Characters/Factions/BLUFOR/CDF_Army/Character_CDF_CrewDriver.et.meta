@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{2AAA7D834A427BCF}Prefabs/Groups/BLUFOR/Group_PMC_RifleSquad.et"
+ Name "{B7998730390F0CDD}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_CrewDriver.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
@@ -8,6 +8,8 @@ MetaFileClass {
   EntityTemplateResourceClass XBOX_SERIES : PC {
   }
   EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
   }
   EntityTemplateResourceClass HEADLESS : PC {
   }

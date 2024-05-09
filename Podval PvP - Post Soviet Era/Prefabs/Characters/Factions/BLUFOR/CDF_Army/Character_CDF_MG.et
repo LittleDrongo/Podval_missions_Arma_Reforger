@@ -1,27 +1,64 @@
-SCR_ChimeraCharacter : "{7E40A30CA801819C}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_BaseLoadout.et" {
+SCR_ChimeraCharacter : "{29897044D8592C9B}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_MGA.et" {
  ID "520EC961A090B1EE"
  components {
-  PS_PlayableComponent "{5EFCC1946F475F15}" {
-   m_bIsPlayable 1
+  SCR_CharacterInventoryStorageComponent "{520EA1D2DB118DAC}" {
+   components {
+    SCR_EquipmentStorageComponent "{56B49DA9722B635D}" {
+     InitialStorageSlots {
+      SCR_EquipmentStorageSlot BinocularSlot {
+       Prefab ""
+      }
+     }
+    }
+   }
+  }
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "#AR-Role_MachineGunner"
+    Icon "{EF1F445746A3391A}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_MachineGunner.edds"
+   }
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{A89BC9D55FFB4CD8}Prefabs/Weapons/MachineGuns/PKM/MG_PKM.et"
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFDC}" {
+   WeaponTemplate "{C0F7DD85A86B2900}Prefabs/Weapons/Handguns/PM/Handgun_PM.et"
   }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
-    LoadoutSlotInfo Back {
-     Prefab "{41A9C55B61F375F0}Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok.et"
+    LoadoutSlotInfo ArmoredVest {
+     Prefab "{ADE19B33DCBB9005}Prefabs/Characters/Vests/Vest_6B2/Vest_6B2.et"
+    }
+    LoadoutSlotInfo Vest {
+     Prefab "{15067AD09803580D}Prefabs/Characters/Vests/Vest_SovietHarness/Variants/Vest_SovietHarness_MG.et"
     }
    }
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
-    ItemsInitConfigurationItem "{5F38CCEF4072B9AC}" {
+    ItemsInitConfigurationItem "{5F38CCEF4BDB4F38}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_SovietHarness/Vest_SovietHarness_Suspenders.et"
+    }
+    ItemsInitConfigurationItem "{5F38CCE59325B11D}" {
+     TargetStorage "Prefabs/Items/Equipment/Accessories/Pouch_Soviet_100rnd_PKM/Pouch_Soviet_100rnd_PKM.et"
      PrefabsToSpawn {
-      "{D69684663E89D6EA}Prefabs/Items/Equipment/Radios/Radio_ANPRC152A_OLD.et" "{7CEF68E2BC68CE71}Prefabs/Items/Equipment/Compass/Compass_Adrianov.et" "{13772C903CB5E4F7}Prefabs/Items/Equipment/Maps/PaperMap_01_folded.et" "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_USSR_01.et" "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_USSR_01.et" "{FEF9FA4072013B5B}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01_base.et" "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et" "{062E2F1D7F6739D6}Prefabs/Items/Equipment/Accessories/ETool_MPL50/ETool_MPL50_FreeRoamBuilding_Gadget.et"
+      "{0110F6D92703114A}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_7N13_4Ball_1Tracer.et"
      }
     }
-    ItemsInitConfigurationItem "{604730702D9DCA55}" {
-     TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok.et"
+    ItemsInitConfigurationItem "{61532AB1B06A281E}" {
+     PrefabsToSpawn +{
+     }
+    }
+    ItemsInitConfigurationItem "{61532ABBBF266AC8}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_SovietHarness/Vest_SovietHarness_Suspenders.et"
      PrefabsToSpawn {
-      "{E5E9C5897CF47F44}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_4Ball_1Tracer.et" "{E5E9C5897CF47F44}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_4Ball_1Tracer.et" "{E5E9C5897CF47F44}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_4Ball_1Tracer.et" "{E5E9C5897CF47F44}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_4Ball_1Tracer.et"
+      "{8B853CDD11BA916E}Prefabs/Weapons/Magazines/Magazine_9x18_PM_8rnd_Ball.et"
+     }
+    }
+    ItemsInitConfigurationItem "{61532ABB8C5E6015}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_SovietHarness/Vest_SovietHarness_Suspenders.et"
+     PrefabsToSpawn {
+      "{8B853CDD11BA916E}Prefabs/Weapons/Magazines/Magazine_9x18_PM_8rnd_Ball.et"
      }
     }
    }

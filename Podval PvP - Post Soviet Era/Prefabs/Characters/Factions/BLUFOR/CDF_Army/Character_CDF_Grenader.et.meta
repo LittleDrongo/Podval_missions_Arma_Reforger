@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{6DA7E54B8E4F3FC3}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_LAT.et"
+ Name "{86B97490BCA08A28}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Grenader.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
@@ -9,7 +9,11 @@ MetaFileClass {
   }
   EntityTemplateResourceClass PS4 : PC {
   }
+  EntityTemplateResourceClass PS5 : PC {
+  }
   EntityTemplateResourceClass HEADLESS : PC {
+  }
+  EntityTemplateResourceClass Xbox : PC {
   }
  }
 }

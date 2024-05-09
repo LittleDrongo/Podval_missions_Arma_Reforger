@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{16165F4184929A69}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Medic.et"
+ Name "{F051151C98DB30CD}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Medic.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
@@ -9,7 +9,11 @@ MetaFileClass {
   }
   EntityTemplateResourceClass PS4 : PC {
   }
+  EntityTemplateResourceClass PS5 : PC {
+  }
   EntityTemplateResourceClass HEADLESS : PC {
+  }
+  EntityTemplateResourceClass Xbox : PC {
   }
  }
 }

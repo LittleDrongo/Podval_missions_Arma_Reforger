@@ -1,129 +1,78 @@
-Vehicle M997_maxi_ambulance1 : "{00C9BBE426F7D459}Prefabs/Vehicles/Wheeled/M998/M997_maxi_ambulance.et" {
- coords 3216.49 203.398 12692.786
- angleX -0.746
- angleY 56.381
- angleZ 0.496
-}
 $grp SCR_AIGroup : "{218445F83827D92B}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_RifleSquad.et" {
  RFFORCE_1 {
   components {
-   PS_GroupCallsignAssigner "{6048E3A2E620DF54}" {
-    m_iSquadCallsign 3
+   PS_GroupCallsignAssigner "{605B46D27B457BCD}" {
+    m_iSquadCallsign 1
    }
   }
-  coords 4929.958 172.15 13038.886
-  angleY -178.267
+  coords 3606.155 333.945 7003.052
+  angleY 43.587
   m_aUnitPrefabSlots {
-   "{F7375648A51D8C6B}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SL.et" "{8A2FBAB0C08EB0F2}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SR.et" "{C8A8794DF9D63A9B}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_MG.et" "{A93CAF0D53E93908}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AMG.et" "{4217CE96EE103024}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AT.et" "{238318D6442F33B7}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AAT.et" "{3F9035365250E44E}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Rifleman_GL.et" "{0C2053BEACC389D2}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SniperSVD.et"
+   "{7EF7AC666EE7A2A6}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SL_2.et" "{8A2FBAB0C08EB0F2}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SR.et" "{C8A8794DF9D63A9B}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_MG.et" "{A93CAF0D53E93908}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AMG.et" "{4217CE96EE103024}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AT.et" "{238318D6442F33B7}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AAT.et" "{3F9035365250E44E}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Rifleman_GL.et" "{AD5AC68AC312CA44}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Rifleman.et"
   }
   m_bDeleteWhenEmpty 0
  }
  RFFORCE_2 {
   components {
-   PS_GroupCallsignAssigner "{6048E3A2E620DF54}" {
+   PS_GroupCallsignAssigner "{605B46D27B457BCD}" {
     m_iSquadCallsign 2
    }
   }
-  coords 4945.592 172.09 13030.335
-  angleX 0.959
-  angleY -88.978
-  angleZ -3.559
+  coords 3608.118 334.006 7000.691
+  angleY 43.587
+  m_aUnitPrefabSlots {
+   "{7EF7AC666EE7A2A6}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SL_2.et" "{8A2FBAB0C08EB0F2}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SR.et" "{C8A8794DF9D63A9B}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_MG.et" "{A93CAF0D53E93908}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AMG.et" "{4217CE96EE103024}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AT.et" "{238318D6442F33B7}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AAT.et" "{3F9035365250E44E}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Rifleman_GL.et" "{AD5AC68AC312CA44}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Rifleman.et"
+  }
   m_bDeleteWhenEmpty 0
  }
  RFFORCE_3 {
   components {
-   PS_GroupCallsignAssigner "{6048E3A2E620DF54}" {
-    m_iSquadCallsign 1
+   PS_GroupCallsignAssigner "{605B46D27B457BCD}" {
+    m_iSquadCallsign 3
    }
   }
-  coords 5025.854 170.094 12954.783
-  angleY -91.237
-  m_bDeleteWhenEmpty 0
- }
-}
-Vehicle GAZ_TIGR_PKM_Green1 : "{2DC4DFC25370A088}Prefabs/Vehicles/Wheeled/TIGR/GAZ_TIGR_PKM_Green.et" {
- coords 4931.001 172.052 13023.382
- angleX 0.895
- angleY 0
-}
-$grp SCR_AIGroup : "{407ABD5B1CBB7AD9}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_PlatoonSquad.et" {
- RFFORCE_5 {
-  coords 4994.904 170.878 13004.179
+  coords 3610.213 334.031 6998.147
+  angleY 43.587
   m_aUnitPrefabSlots {
-   "{A14976FE29316F1D}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_CL.et"
+   "{7EF7AC666EE7A2A6}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SL_2.et" "{8A2FBAB0C08EB0F2}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SR.et" "{C8A8794DF9D63A9B}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_MG.et" "{A93CAF0D53E93908}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AMG.et" "{4217CE96EE103024}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AT.et" "{238318D6442F33B7}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AAT.et" "{3F9035365250E44E}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Rifleman_GL.et" "{AD5AC68AC312CA44}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Rifleman.et"
   }
   m_bDeleteWhenEmpty 0
  }
- SPN_6 {
+ RFFORCE_4 {
   components {
-   PS_GroupCallsignAssigner "{6048E3A0897E61F5}" {
-    m_iCompanyCallsign 6
+   PS_GroupCallsignAssigner "{605B46D27B457BCD}" {
+    m_iSquadCallsign 4
    }
   }
-  coords 4933.99 172.151 13027.655
-  angleX 0.895
-  angleY 0.02
+  coords 3612.757 334.084 6995.566
+  angleY 46.536
   m_aUnitPrefabSlots {
-   "{D5642BF65606EDE7}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_SL.et" "{B8ECDAE964824FF4}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_AR.et" "{6044B3281D0B51A8}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_AT.et" "{4C07A8212F4B9081}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Rifleman.et" "{8E9F2224EC7C5B58}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Medic.et" "{E367DC566254C5A1}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_Sniper.et"
+   "{7EF7AC666EE7A2A6}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SL_2.et" "{8A2FBAB0C08EB0F2}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SR.et" "{C8A8794DF9D63A9B}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_MG.et" "{A93CAF0D53E93908}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AMG.et" "{4217CE96EE103024}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AT.et" "{238318D6442F33B7}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AAT.et" "{3F9035365250E44E}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Rifleman_GL.et" "{AD5AC68AC312CA44}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Rifleman.et"
   }
   m_bDeleteWhenEmpty 0
  }
 }
-Vehicle M4 : "{4A71F755A4513227}Prefabs/Vehicles/Wheeled/M998/M1025.et" {
- coords 3223.889 203.138 12698.571
- angleX -0.919
- angleY 59.104
- angleZ -1.536
+SCR_AIGroup RFFORCE_5 : "{407ABD5B1CBB7AD9}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_PlatoonSquad.et" {
+ coords 3590.13 334 7001.525
+ angleY 38.479
+ m_aUnitPrefabSlots {
+  "{C6D303918A841EE7}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_PL.et" "{A6D630CBAF1A6A10}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Medic.et"
+ }
+ m_bDeleteWhenEmpty 0
 }
-$grp Vehicle : "{6E9142CD2471741C}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_engineer.et" {
- Ural4320_engineer1 {
-  components {
-   SCR_UniversalInventoryStorageComponent "{5916C58171230A92}" {
-    MultiSlots {
-     MultiSlotConfiguration "{5A60D38EDB3709A9}" {
-      SlotTemplate InventoryStorageSlot Bandages {
-       Prefab "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et"
-      }
-      NumSlots 100
+Vehicle Ural4320_engineer1 : "{6E9142CD2471741C}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_engineer.et" {
+ components {
+  SCR_UniversalInventoryStorageComponent "{5916C58171230A92}" {
+   MultiSlots {
+    MultiSlotConfiguration "{5A60D38EDB3709A9}" {
+     SlotTemplate InventoryStorageSlot Bandages {
+      Prefab "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et"
      }
+     NumSlots 100
     }
    }
   }
-  coords 4921.543 172.092 13024.958
-  angleX -0.053
-  angleY 91.691
-  angleZ 1.789
  }
- Ural4320_engineer2 {
-  components {
-   SCR_UniversalInventoryStorageComponent "{5916C58171230A92}" {
-    MultiSlots {
-     MultiSlotConfiguration "{5A60D38EDB3709A9}" {
-      SlotTemplate InventoryStorageSlot Bandages {
-       Prefab "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et"
-      }
-      NumSlots 100
-     }
-    }
-   }
-  }
-  coords 4921.727 172.206 13031.155
-  angleX -0.026
-  angleY 91.692
-  angleZ 0.895
- }
-}
-$grp Vehicle : "{C012BB3488BEA0C2}Prefabs/Vehicles/Wheeled/BTR70/BTR70.et" {
- BTR2 {
-  coords 5038.91 169.809 12949.76
-  angleX -0.03
-  angleY -91.931
-  angleZ -0.895
- }
- BTR3 {
-  coords 4963.354 172.234 13037.18
-  angleX 0.834
-  angleY -91.958
-  angleZ -1.819
- }
+ coords 3569.89 334.594 7013.745
+ angleY -12.679
 }

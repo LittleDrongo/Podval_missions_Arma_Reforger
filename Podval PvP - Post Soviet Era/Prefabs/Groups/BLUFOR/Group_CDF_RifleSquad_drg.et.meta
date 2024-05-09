@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{2A4051EDC38853A7}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_AMG.et"
+ Name "{9BF9E42C7F29E0F6}Prefabs/Groups/BLUFOR/Group_CDF_RifleSquad_drg.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
@@ -9,7 +9,11 @@ MetaFileClass {
   }
   EntityTemplateResourceClass PS4 : PC {
   }
+  EntityTemplateResourceClass PS5 : PC {
+  }
   EntityTemplateResourceClass HEADLESS : PC {
+  }
+  EntityTemplateResourceClass Xbox : PC {
   }
  }
 }
