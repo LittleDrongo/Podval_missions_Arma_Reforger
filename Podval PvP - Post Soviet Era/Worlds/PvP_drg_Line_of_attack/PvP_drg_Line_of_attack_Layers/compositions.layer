@@ -1,0 +1,44 @@
+GenericEntity : "{2ACE3A315F531CFD}Prefabs/Compositions/Slotted/SlotFlatMedium/FieldHospital_M_USSR_01.et" {
+ coords 3614.944 334.062 6976.901
+ angleY 44.038
+}
+$grp StaticModelEntity : "{2D303C505CC6576A}Prefabs/Structures/Military/Camps/TentUSSR_01/TentUSSR_01_camonet_foundation.et" {
+ {
+  coords 3542.844 339.142 6940.147
+  angleX -0.895
+  angleY 178.195
+  angleZ 0.028
+ }
+ {
+  coords 3587.488 334.153 6952.415
+  angleX 0.766
+  angleY 137.419
+  angleZ -3.132
+ }
+ {
+  coords 3626.792 334.031 6958.784
+  angleY -136.879
+ }
+ {
+  coords 5033.891 170.524 12995.6
+  angleX -0.895
+  angleY 178.195
+  angleZ 0.028
+ }
+}
+GenericEntity : "{4510C273B794F3A9}Prefabs/Compositions/Slotted/SlotFlatMedium/VehicleMaintenance_M_USSR_01.et" {
+ coords 3573.854 334.288 6988.287
+ angleX 0.818
+ angleY 4.753
+ angleZ 0.966
+}
+StaticModelEntity : "{6DEC3A82BA35F108}Prefabs/Compositions/Misc/SubCompositions/Tent_BarrackHQ_Cluttered_USSR_01.et" {
+ coords 3544.561 340.489 6906.149
+ angleX 1.644
+ angleY 91.211
+ angleZ 0.97
+}
+StaticModelEntity : "{8CDB9C117669AF4A}Prefabs/Structures/Military/Camps/HelipadImprovised_01/HelipadImprovised_USSR_01.et" {
+ coords 3564.359 -0.001 6891.091
+ angleY 0.763
+}

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{857C66509346EE9B}Worlds/PvP_drg_Line_of_attack/PvP_drg_Line_of_attack.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass PS5 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}

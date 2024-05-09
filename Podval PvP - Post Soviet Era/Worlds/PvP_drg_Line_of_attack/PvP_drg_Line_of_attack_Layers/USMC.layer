@@ -1,16 +1,8 @@
-$grp Vehicle : "{00C9BBE426F7D459}Prefabs/Vehicles/Wheeled/M998/M997_maxi_ambulance.et" {
- M997_maxi_ambulance2 {
-  coords 2560.545 233.555 12063.378
-  angleX -2
-  angleY 61.248
-  angleZ 0.076
- }
- M997_maxi_ambulance1 {
-  coords 3216.49 203.398 12692.786
-  angleX -0.746
-  angleY 56.381
-  angleZ 0.496
- }
+Vehicle M997_maxi_ambulance2 : "{00C9BBE426F7D459}Prefabs/Vehicles/Wheeled/M998/M997_maxi_ambulance.et" {
+ coords 2560.545 233.555 12063.378
+ angleX -2
+ angleY 61.248
+ angleZ 0.076
 }
 $grp SCR_AIGroup : "{2C27F364EE779AFB}Prefabs/Groups/BLUFOR/RHS_US_USMC/Group_US_USMC_PlatoonSquad.et" {
  {
@@ -112,12 +104,6 @@ $grp Vehicle : "{3EA6F47D95867114}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB
   angleY 51.535
   angleZ -0.288
  }
-}
-Vehicle M4 : "{4A71F755A4513227}Prefabs/Vehicles/Wheeled/M998/M1025.et" {
- coords 3223.889 203.138 12698.571
- angleX -0.919
- angleY 59.104
- angleZ -1.536
 }
 $grp SCR_AIGroup : "{C824AA59A0243488}Prefabs/Groups/BLUFOR/RHS_US_USMC/Group_US_USMC_RifleSquad.et" {
  {
