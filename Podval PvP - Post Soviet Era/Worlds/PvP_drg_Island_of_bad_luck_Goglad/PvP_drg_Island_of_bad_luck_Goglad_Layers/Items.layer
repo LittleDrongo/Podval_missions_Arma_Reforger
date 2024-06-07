@@ -21,17 +21,14 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1257.105 4.364 4965.271
-  angleX -0
   angleY -53.951
  }
  {
   coords 1256.733 4.364 4964.764
-  angleX -0
   angleY -53.951
  }
  {
   coords 1256.391 4.364 4964.205
-  angleX -0
   angleY -53.951
  }
  {
@@ -62,27 +59,22 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1255.083 4.364 4963.604
-  angleX -0
   angleY -53.951
  }
  {
   coords 1255.455 4.364 4964.111
-  angleX -0
   angleY -53.951
  }
  {
   coords 1256.583 3.163 4965.66
-  angleX 0
   angleY -53.951
  }
  {
   coords 1256.211 3.163 4965.153
-  angleX 0
   angleY -53.951
  }
  {
   coords 1255.869 3.163 4964.593
-  angleX 0
   angleY -53.951
  }
  {
@@ -99,7 +91,6 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1253.732 3.163 4967.579
-  angleX 0
   angleY -53.951
  }
  {
@@ -108,7 +99,6 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1254.254 4.364 4967.189
-  angleX -0
   angleY -53.951
  }
  {
@@ -125,12 +115,10 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1252.232 4.364 4965.522
-  angleX -0
   angleY -53.951
  }
  {
   coords 1252.604 4.364 4966.029
-  angleX -0
   angleY -53.951
  }
  {
@@ -159,7 +147,6 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1253.54 4.364 4966.124
-  angleX -0
   angleY -53.951
  }
  {
@@ -176,12 +163,10 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1253.359 3.163 4967.071
-  angleX 0
   angleY -53.951
  }
  {
   coords 1253.018 3.163 4966.511
-  angleX 0
   angleY -53.951
  }
  {
@@ -192,12 +177,10 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1253.882 4.364 4966.683
-  angleX -0
   angleY -53.951
  }
  {
   coords 1251.031 3.163 4969.372
-  angleX 0
   angleY -53.951
  }
  {
@@ -206,7 +189,6 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1251.553 4.364 4968.982
-  angleX -0
   angleY -53.951
  }
  {
@@ -223,12 +205,10 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1249.531 4.364 4967.314
-  angleX -0
   angleY -53.951
  }
  {
   coords 1249.903 4.364 4967.822
-  angleX -0
   angleY -53.951
  }
  {
@@ -257,7 +237,6 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1250.839 4.364 4967.917
-  angleX -0
   angleY -53.951
  }
  {
@@ -274,12 +253,10 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1250.658 3.163 4968.864
-  angleX 0
   angleY -53.951
  }
  {
   coords 1250.317 3.163 4968.304
-  angleX 0
   angleY -53.951
  }
  {
@@ -290,12 +267,10 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1251.181 4.364 4968.476
-  angleX -0
   angleY -53.951
  }
  {
   coords 1254.103 3.163 4973.626
-  angleX 0
   angleY -53.951
  }
  {
@@ -304,7 +279,6 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1254.625 4.364 4973.237
-  angleX -0
   angleY -53.951
  }
  {
@@ -321,12 +295,10 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1252.603 4.364 4971.569
-  angleX -0
   angleY -53.951
  }
  {
   coords 1252.975 4.364 4972.077
-  angleX -0
   angleY -53.951
  }
  {
@@ -355,7 +327,6 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1253.911 4.364 4972.171
-  angleX -0
   angleY -53.951
  }
  {
@@ -372,12 +343,10 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1253.73 3.163 4973.119
-  angleX 0
   angleY -53.951
  }
  {
   coords 1253.389 3.163 4972.559
-  angleX 0
   angleY -53.951
  }
  {
@@ -388,12 +357,10 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1254.253 4.364 4972.73
-  angleX -0
   angleY -53.951
  }
  {
   coords 1256.711 3.163 4971.837
-  angleX 0
   angleY -53.951
  }
  {
@@ -402,7 +369,6 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1257.233 4.364 4971.449
-  angleX -0
   angleY -53.951
  }
  {
@@ -419,12 +385,10 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1255.211 4.364 4969.781
-  angleX -0
   angleY -53.951
  }
  {
   coords 1255.583 4.364 4970.289
-  angleX -0
   angleY -53.951
  }
  {
@@ -453,7 +417,6 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1256.519 4.364 4970.383
-  angleX -0
   angleY -53.951
  }
  {
@@ -470,12 +433,10 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1256.338 3.163 4971.331
-  angleX 0
   angleY -53.951
  }
  {
   coords 1255.997 3.163 4970.771
-  angleX 0
   angleY -53.951
  }
  {
@@ -486,12 +447,10 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1256.861 4.364 4970.942
-  angleX -0
   angleY -53.951
  }
  {
   coords 1259.399 3.163 4969.987
-  angleX 0
   angleY -53.951
  }
  {
@@ -500,7 +459,6 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1259.921 4.364 4969.598
-  angleX -0
   angleY -53.951
  }
  {
@@ -517,12 +475,10 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1257.899 4.364 4967.931
-  angleX -0
   angleY -53.951
  }
  {
   coords 1258.271 4.364 4968.438
-  angleX -0
   angleY -53.951
  }
  {
@@ -551,7 +507,6 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1259.207 4.364 4968.532
-  angleX -0
   angleY -53.951
  }
  {
@@ -568,12 +523,10 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1259.026 3.163 4969.48
-  angleX 0
   angleY -53.951
  }
  {
   coords 1258.685 3.163 4968.92
-  angleX 0
   angleY -53.951
  }
  {
@@ -584,12 +537,10 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1259.549 4.364 4969.091
-  angleX -0
   angleY -53.951
  }
  {
   coords 1248.3 3.163 4971.331
-  angleX 0
   angleY -53.951
  }
  {
@@ -598,7 +549,6 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1248.822 4.364 4970.941
-  angleX -0
   angleY -53.951
  }
  {
@@ -615,12 +565,10 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1246.8 4.364 4969.274
-  angleX -0
   angleY -53.951
  }
  {
   coords 1247.172 4.364 4969.781
-  angleX -0
   angleY -53.951
  }
  {
@@ -649,7 +597,6 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1248.108 4.364 4969.875
-  angleX -0
   angleY -53.951
  }
  {
@@ -666,12 +613,10 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1247.927 3.163 4970.823
-  angleX 0
   angleY -53.951
  }
  {
   coords 1247.586 3.163 4970.263
-  angleX 0
   angleY -53.951
  }
  {
@@ -682,7 +627,6 @@ $grp GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
  }
  {
   coords 1248.449 4.364 4970.434
-  angleX -0
   angleY -53.951
  }
 }
@@ -783,9 +727,7 @@ $grp GenericEntity : "{C76C3AF337109066}Prefabs/Props/Crates/CardboardBoxStack_0
  }
  {
   coords 1255.364 5.563 4969.476
-  angleX -0
   angleY -50.715
-  angleZ -0
  }
  {
   coords 1255.893 5.563 4970.539
