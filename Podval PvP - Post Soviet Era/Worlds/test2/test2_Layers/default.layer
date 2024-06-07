@@ -1,0 +1,77 @@
+SCR_DestructibleBuildingEntity : "{35A406D39D6E0ADA}Prefabs/Structures/Military/Houses/Barracks_01/Barracks_01_military_camo_v1.et" {
+ coords 1297.599 1.475 2870.531
+ angleX -0.865
+ angleY 164.997
+ angleZ 0.232
+ scale 3.965
+ {
+  GenericEntity {
+   ID "5AA2B77B57A31FFB"
+   {
+    GenericEntity CS_BAR_SWITCHBOARD_2 {
+     ID "5AA2B77BA620B472"
+    }
+    GenericEntity CS_BAR_DESK_2 {
+     ID "5AA2B77BA6200A40"
+    }
+    GenericEntity CS_BAR_DESK_3 {
+     ID "5AA2B77BA61E035F"
+    }
+    GenericEntity CS_BAR_DESK_4 {
+     ID "5AA2B77BA61F03DB"
+    }
+    GenericEntity CS_BAR_DESK_5 {
+     ID "5AA2B77BA61FD585"
+    }
+    GenericEntity CS_BAR_SHELF_2 {
+     ID "5AA2B77BA61FD62F"
+    }
+    GenericEntity CS_BAR_SHELF_3 {
+     ID "5AA2B77BA61FD64E"
+    }
+    GenericEntity CS_BAR_BIN_2 {
+     ID "5AA2D277424F4BC9"
+    }
+    GenericEntity CS_BAR_CHAIR_2 {
+     ID "5AA2B77BA61E04EF"
+    }
+    GenericEntity CS_BAR_CHAIR_3 {
+     ID "5AA2B77BA61F03EB"
+    }
+    GenericEntity CS_BAR_CHAIR_4 {
+     ID "5AA2B77BA61F760D"
+    }
+   }
+  }
+ }
+}
+SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Military/Bunkers/AircraftShelter_E_01/AircraftShelter_E_01_camo_v2.et" {
+ coords 1072.333 0.055 2801.081
+ angleY 75
+ {
+  GenericEntity {
+   ID "570880A30752F475"
+   coords -7.406 0 0
+  }
+  GenericEntity {
+   ID "570880A30752F592"
+   coords 7.664 0 0
+  }
+ }
+}
+$grp Tree : "{C732468B6A1C885F}Prefabs/Vegetation/Tree/t_pinus_sylvestris_2f.et" {
+ {
+  coords 1321.69 -0 2797.552
+  angleX 2.029
+  angleY 61.811
+  angleZ -0.268
+  scale 0.664
+ }
+ {
+  coords 1318.515 -0 2791.066
+  angleX 2.029
+  angleY 61.811
+  angleZ -0.268
+  scale 2.172
+ }
+}

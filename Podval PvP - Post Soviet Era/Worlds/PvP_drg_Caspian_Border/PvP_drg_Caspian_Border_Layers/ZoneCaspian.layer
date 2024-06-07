@@ -3,13 +3,16 @@ $grp PolylineShapeEntity {
   components {
    PS_PolyZone "{6146D7182B70CDE1}" {
     m_mPolygonTexture "{685110049EC3CE32}UI/layouts/Textures/Grid2b.edds"
-    m_cPolygonColor 0 0.028 0.095 1
+    m_cPolygonColor 0.094 0 0.181 1
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0 0.028 0.095 1
+    m_cPolygonBorderColor 0.094 0 0.181 1
     m_fPolygonBorderWidth 5
     m_bReversed 1
     m_aVisibleForFactions {
-     "USSR" "US" "FIA" "" ""
+     "RHS_US_USMC" "RHS_RF_MSV" ""
+    }
+    m_aHideOnGameModeStates {
+     6
     }
    }
   }
@@ -77,20 +80,24 @@ $grp PolylineShapeEntity {
   {
    PS_PolyZoneTrigger {
     components {
-     Hierarchy "{614548BDF998E12B}" {
+     PS_PolyZoneMeshComponent "{604680A38E9862B7}" {
+      Enabled 0
+      m_fHeight 60
+      m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+     }
+     Hierarchy "{604680A07599CEC5}" {
      }
     }
-    coords -235.868 133.254 596.963
-    TriggerShapeType Polyline
-    "Polyline Height" 500
+    coords -5171.335 11.835 -746.998
+    TriggerShapeType Sphere
+    SphereRadius 1000000
     TriggerActivationType "All changes"
     PeriodicQueries 1
-    UpdatePeriod 1
     ClassesFilter {
      "SCR_ChimeraCharacter"
     }
-    m_polyZoneEffect PS_PolyZoneEffectRestricted "{614548BC046ADB65}" {
-     m_fKillTime 20
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "{604680A0AED1CC5E}" {
+     m_fKillTime 30
     }
     m_bReversed 1
    }
@@ -99,14 +106,14 @@ $grp PolylineShapeEntity {
  {
   components {
    PS_PolyZone "{6146D71ABACBC83C}" {
-    m_mPolygonTexture ""
-    m_cPolygonColor 1 1 1 0
+    m_mPolygonTexture "{685110049EC3CE32}UI/layouts/Textures/Grid2b.edds"
+    m_cPolygonColor 0.502 0 0 1
     m_mPolygonTextureBorder ""
     m_cPolygonBorderColor 0.502 0 0 1
     m_fPolygonBorderWidth 5
-    m_bLineMode 1
+    m_bReversed 1
     m_aVisibleForFactions {
-     "USSR" "US" "FIA" "" "" ""
+     "RHS_US_USMC" "RHS_RF_MSV" ""
     }
    }
   }
@@ -134,6 +141,33 @@ $grp PolylineShapeEntity {
     Position 820.979 -5.967 -981.555
    }
   }
+  IsClosed 1
   LineColor 0.251 0.502 0 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     PS_PolyZoneMeshComponent "{604680A38E9862B7}" {
+      Enabled 0
+      m_fHeight 60
+      m_Material "{788C42E96DB8587C}Assets/Editor/VirtualArea/VirtualArea_01_Danger.emat"
+     }
+     Hierarchy "{604680A07599CEC5}" {
+     }
+    }
+    coords -5711.595 -266.234 -963.907
+    TriggerShapeType Sphere
+    SphereRadius 1000000
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "{604680A0AED1CC5E}" {
+     m_fKillTime 30
+    }
+    m_bReversed 1
+    m_sFactionKey "RHS_US_USMC"
+   }
+  }
  }
 }

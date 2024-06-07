@@ -1,0 +1,42 @@
+$grp Vehicle : "{F1FBD0972FA5FE09}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport.et" {
+ M923A1_transport2 {
+  coords 3604.118 219.841 12583.182
+  angleX 0.494
+  angleY -33.518
+  angleZ 0.746
+ }
+ M923A1_transport3 {
+  coords 3609.448 219.781 12584.584
+  angleY -33.518
+ }
+ M923A1_transport4 {
+  coords 3604.387 219.837 12598.994
+  angleX 0.366
+  angleY -155.87
+  angleZ -0.817
+ }
+ M923A1_transport5 {
+  coords 3598.443 219.906 12596.82
+  angleY -155.87
+ }
+ M923A1_transport6 {
+  coords 3588.057 219.906 12589.851
+  angleY -101.454
+ }
+ M923A1_transport7 {
+  coords 3576.845 219.906 12587.3
+  angleY -100.634
+ }
+ M923A1_transport8 {
+  coords 3566.968 219.937 12584.886
+  angleY -102.213
+ }
+ M923A1_transport9 {
+  coords 3552.964 219.937 12582.003
+  angleY -102.213
+ }
+ M923A1_transport10 {
+  coords 3542.577 219.937 12579.998
+  angleY -102.737
+ }
+}

@@ -1,27 +1,27 @@
 $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
- attack {
-  coords 4922.19 41.631 11778.244
+ attack2 {
+  coords 5413.448 7.36 4649.374
   m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
   m_sImageSetGlow ""
-  m_sQuadName "Task_Attack"
-  m_fWorldSize 40
-  m_sDescription "Дисп. вышка"
+  m_sQuadName "Task_Evac"
+  m_fWorldSize 35
+  m_sDescription "Точка эвакуации"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "USSR" "US" "FIA"
+   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
   }
   m_bVisibleForEmptyFaction 1
  }
- attack2 {
-  coords 4644.346 27.844 11173.1
+ attack3 {
+  coords 1249.446 2.779 4975.272
   m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
   m_sImageSetGlow ""
-  m_sQuadName "Task_Attack"
-  m_fWorldSize 40
+  m_sQuadName "Task_Defend"
+  m_fWorldSize 35
   m_sDescription "Склад"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "USSR" "US" "FIA"
+   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
   }
   m_bVisibleForEmptyFaction 1
  }

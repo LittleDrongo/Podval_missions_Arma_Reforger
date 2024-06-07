@@ -1,0 +1,46 @@
+$grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
+ A_RF1 {
+  coords 1609.265 14.084 1574.584
+  m_sTitle "Сторож захвачен в плен"
+  m_iScore 10
+  m_sFactionKey "USSR"
+ }
+ A_RF6 {
+  coords 8535.182 239.787 2426.015
+  m_sTitle "Сторож не попал в плен"
+  m_iScore 10
+ }
+ A_RF2 {
+  coords 4968.129 28.56 11857.737
+  m_sTitle "Занять и удержать дисп.вышку"
+  m_iScore 25
+  m_sFactionKey "USSR"
+ }
+ A_RF3 {
+  coords 4968.129 28.56 11857.737
+  m_sTitle "Занять и удержать склад"
+  m_iScore 25
+  m_sFactionKey "USSR"
+ }
+ A_RF4 {
+  coords 4968.129 28.56 11857.737
+  m_sTitle "Отбить диспетчерскую вышку"
+  m_iScore 25
+ }
+ A_RF5 {
+  coords 4941.516 28.593 11810.69
+  m_sTitle "Разгромить повстанцев"
+  m_iScore 25
+  m_sFactionKey "USSR"
+ }
+ A_RF7 {
+  coords 4910.544 28.593 11727.364
+  m_sTitle "Разромить ВС СССР"
+  m_iScore 25
+ }
+ A_RF8 {
+  coords 4708.66 27.845 11135.073
+  m_sTitle "Отбить склад"
+  m_iScore 25
+ }
+}

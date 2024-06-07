@@ -123,7 +123,7 @@ $grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_
   coords 4906.501 28.594 11786.522
   angleY 92.646
   m_aUnitPrefabSlots {
-   "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman_P.et"
+   "{43E3EFFFFDA4FF58}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Watchman_P.et"
   }
   m_sCustomNameSet "Сторож Вазген"
  }
