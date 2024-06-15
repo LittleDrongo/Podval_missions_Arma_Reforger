@@ -1,6 +1,9 @@
 GenericEntity {
  coords 85.111 1 184.228
 }
+SCR_ChimeraCharacter : "{1CF97224F5932103}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC/Character_US_USMC_Rifleman.et" {
+ coords 133.933 1 148.042
+}
 GameEntity : "{465BDFBC7904A8FB}Prefabs/Characters/HeadGear/Helmet_LShZ/Helmet_LShZ_B_6m2_atacs_drg.et" {
  coords 142.918 1 158.468
 }
@@ -17,6 +20,12 @@ SCR_AIGroup : "{5EC52DC5123AA81D}Prefabs/Groups/OPFOR/RHS_RF_MSV/SSO/Group_SSO_T
 }
 GameEntity : "{6B6D2E582549A66D}Prefabs/Characters/HeadGear/Helmet_LShZ/Helmet_LShZ_B_6m2_atacs_nvg_drg.et" {
  coords 143.046 1 158.791
+}
+GenericEntity : "{832641A2AB3E89F6}Prefabs/Weapons/Rifles/M4A1/Rifle_M4A1_M203_RAS_Aimpoint.et" {
+ coords 135.558 1 149.888
+}
+GenericEntity : "{90D8238D1D8D2DC5}Prefabs/Weapons/Rifles/M4A1/Rifle_M4A1_RAS_Aimpoint.et" {
+ coords 136.766 1.162 149.888
 }
 GameEntity : "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et" {
  coords 143.169 1 158.273

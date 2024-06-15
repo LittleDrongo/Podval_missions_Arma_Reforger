@@ -1,0 +1,8 @@
+GameProject {
+ ID "ReplayMapsPlus"
+ GUID "61912E9C43DEBA56"
+ TITLE "ReplayMapsPlus"
+ Dependencies {
+  "58D0FB3206B6F859" "5EE13DDF41732F9C"
+ }
+}
