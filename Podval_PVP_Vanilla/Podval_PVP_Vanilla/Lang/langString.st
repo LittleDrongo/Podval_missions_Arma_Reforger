@@ -33,19 +33,67 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{61B66D551D4FF581}" {
+   Id "DRG-Role_EngineerSapper"
+   Target_en_us "Engineer Sapper"
+   Target_ru_ru "Инженер сапёр"
+   Modified 1639346789
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{61B543D7D6CFDE6C}" {
    Id "DRG-Role_Recon"
-   Target_en_us "Recon"
+   Target_en_us "Scout"
    Target_ru_ru "Разведчик"
-   Modified 1639320576
+   Modified 1639352849
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61B66D59F2619D28}" {
+   Id "DRG-Role_Recon_PL"
+   Target_en_us "Scout Platoon Leader"
+   Target_ru_ru "Командир развед.взвода"
+   Modified 1639352821
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61B66D5ADE31F74D}" {
+   Id "DRG-Role_ReconAR"
+   Target_en_us "Scout Automatic Rifleman"
+   Target_ru_ru "Разведчик-пулемётчик"
+   Modified 1639352433
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61B66D596818E85B}" {
+   Id "DRG-Role_ReconAT"
+   Target_en_us "Scount Aniti-Tank Specialist"
+   Target_ru_ru "Разведчик-гранатомётчик"
+   Modified 1639352577
    Author "hasta"
    LastChanged "hasta"
   }
   CustomStringTableItem "{61B543D44D597D0A}" {
    Id "DRG-Role_ReconRifleman"
-   Target_en_us "Recon Rifleman"
+   Target_en_us "Scount Rifleman"
    Target_ru_ru "Разведчик-стрелок"
-   Modified 1639320769
+   Modified 1639347238
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61B66D5A52FF55AA}" {
+   Id "DRG-Role_ReconRTO"
+   Target_en_us "Scout RTO"
+   Target_ru_ru "Разведчик-радиотелефонист"
+   Modified 1639352186
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61B66D54696A9850}" {
+   Id "DRG-Role_ReconSapper"
+   Target_en_us "Scount Sapper"
+   Target_ru_ru "Разведчик-сапёр"
+   Modified 1639347280
    Author "hasta"
    LastChanged "hasta"
   }
@@ -54,6 +102,22 @@ StringTable {
    Target_en_us "Senior Scount"
    Target_ru_ru "Старший разведчик"
    Modified 1639322535
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61B66D5B5682B098}" {
+   Id "DRG-Role_ReconSL"
+   Target_en_us "Scout Leader"
+   Target_ru_ru "Командир развед.группы"
+   Modified 1639351733
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61B66D54C3A5D447}" {
+   Id "DRG-Role_ReconSniper"
+   Target_en_us "Scount Sniper"
+   Target_ru_ru "Разведчик-снайпер"
+   Modified 1639347871
    Author "hasta"
    LastChanged "hasta"
   }
