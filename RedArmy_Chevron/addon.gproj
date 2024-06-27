@@ -1,0 +1,8 @@
+GameProject {
+ ID "RedArmyChevron"
+ GUID "61B6EB2E368E0A1D"
+ TITLE "RedArmy_Chevron"
+ Dependencies {
+  "61A27C54D96EB11A" "58D0FB3206B6F859"
+ }
+}

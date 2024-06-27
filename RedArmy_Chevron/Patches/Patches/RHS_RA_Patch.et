@@ -1,0 +1,31 @@
+GameEntity : "{FEDC7DA627D89A65}Prefabs/Items/Equipment/Patches/Patch_RU_Flag_Reflective.et" {
+ ID "5DB09136945FC6DB"
+ components {
+  InventoryItemComponent "{5DB09136B1C985CE}" {
+   Attributes SCR_ItemAttributeCollection "{5DB09136B1C985C1}" {
+    ItemDisplayName UIInfo "{5DB09136B1C985EB}" {
+     Name "Cheshire Cat patch"
+     Description "“We’re all mad here. I’m mad. You’re mad.”"
+    }
+   }
+  }
+  MeshObject "{5DB09136B1C985B5}" {
+   Object "{2FEBD3CBD6503094}ra/rhs_patch_ra_final.xob"
+   Materials {
+    MaterialAssignClass "{61B6EC890DC2B688}" {
+     SourceMaterial "MATERIAL_NONE"
+     AssignedMaterial "{DC5B5909BAA5F50D}Assets/Characters/Patches/data/patch_cat_blue.emat"
+    }
+   }
+  }
+  BaseLoadoutClothComponent "{5DB09136B1C9859A}" {
+   WornMaterialsOverride {
+    "{F03F7D5447EC9800}ra/Data/patch_RA_drongo_blyaaa.emat"
+   }
+   ItemMaterialsOverride {
+    "{F03F7D5447EC9800}ra/Data/patch_RA_drongo_blyaaa.emat"
+   }
+  }
+ }
+ coords 0.031 -0.028 0
+}
