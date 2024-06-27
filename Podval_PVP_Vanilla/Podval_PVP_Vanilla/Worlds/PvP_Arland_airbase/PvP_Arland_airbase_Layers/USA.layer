@@ -67,7 +67,7 @@ $grp SCR_AIGroup : "{E25C65A6D4926522}Prefabs/Groups/BLUFOR/Group_US_PlatoonSqua
   }
   coords 2266.534 11.079 3180.516
   m_aUnitPrefabSlots {
-   "{5124771ECBFB79A7}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Officer_P.et"
+   "{5124771ECBFB79A7}Prefabs/Characters/Factions/BLUFOR/US_Army/drg_Character_US_Officer_P.et"
   }
  }
  {
@@ -88,7 +88,7 @@ $grp SCR_AIGroup : "{E25C65A6D4926522}Prefabs/Groups/BLUFOR/Group_US_PlatoonSqua
   coords 320.419 1.384 2328.046
   angleY 40.561
   m_aUnitPrefabSlots {
-   "{D164278FD7D9C81A}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_PL_P.et" "{B452527EA042DFF0}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Sniper_P.et"
+   "{D164278FD7D9C81A}Prefabs/Characters/Factions/BLUFOR/US_Army/drg_Character_US_PL_P.et" "{B452527EA042DFF0}Prefabs/Characters/Factions/BLUFOR/US_Army/drg_Character_US_Sniper_P.et"
   }
  }
 }

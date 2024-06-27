@@ -1,0 +1,111 @@
+$grp GenericEntity : "{E521AEA6D14589B1}Prefabs/Props/Military/AmmoBoxes/AmmoBox_545x39_2160rnd.et" {
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{26602B855125635D}Assets/Props/Military/AmmoBox/EquipmentBoxWooden_01/EquipmentBoxWooden_Explosives_01.xob"
+    Materials {
+     MaterialAssignClass "{5F0EC8C9545899FD}" {
+      SourceMaterial "EquipmentBoxWooden_Explosives_01"
+      AssignedMaterial "{8024926C8E4B04DA}Assets/Props/Military/AmmoBox/EquipmentBoxWooden_01/Data/EquipmentBoxWooden_Explosives_01_USSR.emat"
+     }
+     MaterialAssignClass "{5F0EC8C9545899DF}" {
+      SourceMaterial "EquipmentBoxWooden_decal"
+      AssignedMaterial "{17332645A86C9BA6}Assets/Props/Military/AmmoBox/EquipmentBoxWooden_01/Data/EquipmentBoxWooden_decal_USSR.emat"
+     }
+    }
+   }
+   SCR_UniversalInventoryStorageComponent "{5476A2F100DF4EFF}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5EBE9BE3CEFB5AFA}" {
+      SlotTemplate InventoryStorageSlot Saline {
+       Prefab "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et"
+      }
+      NumSlots 20
+     }
+     MultiSlotConfiguration "{61B6F96CDF775A72}" {
+      SlotTemplate InventoryStorageSlot Saline {
+       Prefab "{CE0AF733722B3978}Prefabs/Items/Equipment/Detonators/BlastingMachine_M34/BlastingMachine_M34.et"
+      }
+      NumSlots 6
+     }
+    }
+   }
+  }
+  coords 313.344 1.28 2318.569
+  angleX 0.592
+  angleY 48.582
+  angleZ 0.671
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{26602B855125635D}Assets/Props/Military/AmmoBox/EquipmentBoxWooden_01/EquipmentBoxWooden_Explosives_01.xob"
+    Materials {
+     MaterialAssignClass "{5F0EC8C9545899FD}" {
+      SourceMaterial "EquipmentBoxWooden_Explosives_01"
+      AssignedMaterial "{8024926C8E4B04DA}Assets/Props/Military/AmmoBox/EquipmentBoxWooden_01/Data/EquipmentBoxWooden_Explosives_01_USSR.emat"
+     }
+     MaterialAssignClass "{5F0EC8C9545899DF}" {
+      SourceMaterial "EquipmentBoxWooden_decal"
+      AssignedMaterial "{17332645A86C9BA6}Assets/Props/Military/AmmoBox/EquipmentBoxWooden_01/Data/EquipmentBoxWooden_decal_USSR.emat"
+     }
+    }
+   }
+   SCR_UniversalInventoryStorageComponent "{5476A2F100DF4EFF}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5EBE9BE3CEFB5AFA}" {
+      SlotTemplate InventoryStorageSlot Saline {
+       Prefab "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et"
+      }
+      NumSlots 20
+     }
+     MultiSlotConfiguration "{61B6F96CDF775A72}" {
+      SlotTemplate InventoryStorageSlot Saline {
+       Prefab "{CE0AF733722B3978}Prefabs/Items/Equipment/Detonators/BlastingMachine_M34/BlastingMachine_M34.et"
+      }
+      NumSlots 6
+     }
+    }
+   }
+  }
+  coords 2260.837 8.689 3184.551
+  angleX -1.855
+  angleY 48.614
+  angleZ -0.751
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{26602B855125635D}Assets/Props/Military/AmmoBox/EquipmentBoxWooden_01/EquipmentBoxWooden_Explosives_01.xob"
+    Materials {
+     MaterialAssignClass "{5F0EC8C9545899FD}" {
+      SourceMaterial "EquipmentBoxWooden_Explosives_01"
+      AssignedMaterial "{8024926C8E4B04DA}Assets/Props/Military/AmmoBox/EquipmentBoxWooden_01/Data/EquipmentBoxWooden_Explosives_01_USSR.emat"
+     }
+     MaterialAssignClass "{5F0EC8C9545899DF}" {
+      SourceMaterial "EquipmentBoxWooden_decal"
+      AssignedMaterial "{17332645A86C9BA6}Assets/Props/Military/AmmoBox/EquipmentBoxWooden_01/Data/EquipmentBoxWooden_decal_USSR.emat"
+     }
+    }
+   }
+   SCR_UniversalInventoryStorageComponent "{5476A2F100DF4EFF}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5EBE9BE3CEFB5AFA}" {
+      SlotTemplate InventoryStorageSlot Saline {
+       Prefab "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et"
+      }
+      NumSlots 20
+     }
+     MultiSlotConfiguration "{61B6F96CDF775A72}" {
+      SlotTemplate InventoryStorageSlot Saline {
+       Prefab "{CE0AF733722B3978}Prefabs/Items/Equipment/Detonators/BlastingMachine_M34/BlastingMachine_M34.et"
+      }
+      NumSlots 6
+     }
+    }
+   }
+  }
+  coords 1669.713 0.593 1914.49
+  angleY 48.614
+ }
+}

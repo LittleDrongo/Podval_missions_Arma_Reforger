@@ -1,230 +1,238 @@
-$grp GenericEntity : "{14B2D417839BF8A3}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_USSR.et" {
- {
-  coords 1684.55 48.234 3018.396
- }
- {
-  coords 1368.476 50.56 2962.121
- }
- {
-  coords 1376.218 43.981 2358.201
- }
-}
-$grp Vehicle : "{DF5CCB7C0FF049F4}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT.et" {
- Mi8MT6 {
+$grp Vehicle : "{DF5CCB7C0FF049F4}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_unarmed_transport.et" {
+ Mi8MT_unarmed_transport1 {
   components {
    SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
     FuelNodes {
      SCR_FuelNode "{5622A70CD4036C5A}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C416}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C414}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
     }
    }
   }
-  coords 664.958 39 2653.77
-  angleY -35.747
+  coords 1288.748 39 2253.671
+  angleY 142.521
  }
- Mi8MT4 {
+ Mi8MT_unarmed_transport3 {
   components {
    SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
     FuelNodes {
      SCR_FuelNode "{5622A70CD4036C5A}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C416}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C414}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
     }
    }
   }
-  coords 775.84 39 2726.428
-  angleY -33.759
+  coords 1316.049 39 2272.728
+  angleY 144.424
  }
- Mi8MT2 {
+ Mi8MT_unarmed_transport4 {
   components {
    SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
     FuelNodes {
      SCR_FuelNode "{5622A70CD4036C5A}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C416}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C414}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
     }
    }
   }
-  coords 933.763 38.968 2786.407
-  angleY 57.472
+  coords 1415.255 37.138 2683.592
+  angleX 1.082
+  angleY 76.252
+  angleZ 0.657
  }
- Mi8MT3 {
+ Mi8MT_unarmed_transport2 {
   components {
    SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
     FuelNodes {
      SCR_FuelNode "{5622A70CD4036C5A}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C416}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C414}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
     }
    }
   }
-  coords 909.307 39.05 2822.819
-  angleX -0.481
-  angleY 57.478
-  angleZ -0.755
+  coords 1263.924 39.001 2236.263
+  angleY 142.521
  }
- Mi8MT5 {
+ Mi8MT_unarmed_transport5 {
   components {
    SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
     FuelNodes {
      SCR_FuelNode "{5622A70CD4036C5A}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C416}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C414}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
     }
    }
   }
-  coords 719.82 39 2687.28
-  angleY -35.747
+  coords 1374.649 36.776 2676.213
+  angleX 1.073
+  angleY 77.011
+  angleZ 0.671
  }
- Mi8MT8 {
+ Mi8MT_unarmed_transport6 {
   components {
    SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
     FuelNodes {
      SCR_FuelNode "{5622A70CD4036C5A}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C416}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C414}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
     }
    }
   }
-  coords 1445.158 38.02 2690.947
-  angleX -1.958
-  angleY -104.604
-  angleZ -0.415
+  coords 1444.295 38.026 2693.087
+  angleX 1.951
+  angleY 76.258
+  angleZ 0.444
  }
- Mi8MT7 {
+ Mi8MT_unarmed_transport7 {
   components {
    SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
     FuelNodes {
      SCR_FuelNode "{5622A70CD4036C5A}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C416}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C414}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
     }
    }
   }
-  coords 1412.364 36.861 2682.402
-  angleX -1.958
-  angleY -104.604
-  angleZ -0.415
+  coords 719.454 39 2688.532
+  angleY -34.757
  }
- Mi8MT9 {
+ Mi8MT_unarmed_transport8 {
   components {
    SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
     FuelNodes {
      SCR_FuelNode "{5622A70CD4036C5A}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C416}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C414}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
     }
    }
   }
-  coords 1369.556 35.349 2671.249
-  angleX -1.958
-  angleY -104.604
-  angleZ -0.415
+  coords 665.81 39 2652.464
+  angleY -34.757
  }
- Mi8MT10 {
+ Mi8MT_unarmed_transport9 {
   components {
    SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
     FuelNodes {
      SCR_FuelNode "{5622A70CD4036C5A}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C416}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C414}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
     }
    }
   }
-  coords 1287.74 39 2259.285
-  angleY 139.463
+  coords 776.128 39 2729.769
+  angleY -34.757
  }
- Mi8MT11 {
+ Mi8MT_unarmed_transport10 {
   components {
    SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
     FuelNodes {
      SCR_FuelNode "{5622A70CD4036C5A}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C416}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C414}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
     }
    }
   }
-  coords 1263.139 39 2234.953
-  angleY 139.463
+  coords 959.816 39.312 2754.177
+  angleY 53.672
  }
- Mi8MT12 {
+ Mi8MT_unarmed_transport11 {
   components {
    SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
     FuelNodes {
      SCR_FuelNode "{5622A70CD4036C5A}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C416}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
      SCR_FuelNode "{5A7CE769E7A9C414}" {
-      MaxFuel 0
+      m_fInitialFuelTankState 0
      }
     }
    }
   }
-  coords 1289.655 39 2223.565
-  angleY -31.36
+  coords 935.884 38.951 2789.291
+  angleX -1.241
+  angleY 56.332
+  angleZ -0.249
+ }
+ Mi8MT_unarmed_transport12 {
+  components {
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      m_fInitialFuelTankState 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C416}" {
+      m_fInitialFuelTankState 0
+     }
+     SCR_FuelNode "{5A7CE769E7A9C414}" {
+      m_fInitialFuelTankState 0
+     }
+    }
+   }
+  }
+  coords 913.251 39.031 2825.914
+  angleY 58.006
  }
 }

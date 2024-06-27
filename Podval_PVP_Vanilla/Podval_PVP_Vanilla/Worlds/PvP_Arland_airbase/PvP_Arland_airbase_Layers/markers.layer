@@ -1,6 +1,3 @@
-GenericEntity : "{5BA978B9D36641DD}Prefabs/Props/Military/Compositions/USSR/Antenna_01_USSR.et" {
- coords 1687.614 47.713 3023.072
-}
 $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
  attack2 {
   coords 1355.782 38.353 2970.863
@@ -93,8 +90,4 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   }
   m_bVisibleForEmptyFaction 1
  }
-}
-StaticModelEntity : "{EE6C590D25FF8AD3}Prefabs/Compositions/Misc/SubCompositions/Tent_HQ_Camo_Cluttered_USSR_01.et" {
- coords 1681.572 37.946 3000.776
- angleY -8.342
 }
