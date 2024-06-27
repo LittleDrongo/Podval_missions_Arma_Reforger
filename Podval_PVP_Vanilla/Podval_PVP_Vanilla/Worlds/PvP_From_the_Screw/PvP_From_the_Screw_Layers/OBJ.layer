@@ -1,0 +1,26 @@
+$grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
+ A_RF10 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Выбить противника с плацдарма"
+  m_iScore 50
+  m_sFactionKey "USSR"
+ }
+ A_RF2 {
+  coords 4753.312 24.436 11998.126
+  m_sTitle "Удержать плацдарм"
+  m_iScore 50
+  m_sFactionKey "US"
+ }
+ A_RF3 {
+  coords 4753.908 24.351 12001.588
+  m_sTitle "Обнаружить плацдарм"
+  m_iScore 25
+  m_sFactionKey "USSR"
+ }
+ A_RF4 {
+  coords 4765.071 25.003 11967.779
+  m_sTitle "Удержать плацдарм"
+  m_iScore 25
+  m_sFactionKey "US"
+ }
+}
