@@ -49,6 +49,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{61B66D47D30DA77D}" {
+   Id "DRG-Role_Recon_Medic"
+   Target_en_us "Scout Medic"
+   Target_ru_ru "Разведчик-санитар"
+   Modified 1639353787
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{61B66D59F2619D28}" {
    Id "DRG-Role_Recon_PL"
    Target_en_us "Scout Platoon Leader"
