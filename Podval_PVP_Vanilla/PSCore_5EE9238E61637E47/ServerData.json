@@ -1,0 +1,12 @@
+﻿{
+    "id": "5EE9238E61637E47",
+    "name": "PSCore",
+    "revision": {
+        "version": "1.0.7",
+        "gameVersion": "1.1.0.42",
+        "changelog": "",
+        "dependencies": [],
+        "scenarios": [],
+        "env": 7
+    }
+}

@@ -1,0 +1,77 @@
+GameProject {
+ ID "PSCore"
+ GUID "5EE9238E61637E47"
+ TITLE "PSCore"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+ Configurations {
+  GameProjectConfig PC {
+   WidgetManagerSettings WidgetManagerSettings "{AC4BE58770485E02}" {
+    StringTables {
+     StringTableDefinition "{5F1927BA6FA556AB}" {
+      StringTableSource "{6F26E8F09C19CDE6}Language/Localization_PSCore.st"
+      Languages {
+       LanguageDefinition "{5F1927BA6E4A9972}" {
+        Code "cs_cz"
+        StringTableRuntime "{90A64F59E8B0551D}Language/Localization_PSCore.cs_cz.conf"
+       }
+       LanguageDefinition "{5F1927BA6E4A98BB}" {
+        Code "de_de"
+        StringTableRuntime "{45D8556AFB13443D}Language/Localization_PSCore.de_de.conf"
+       }
+       LanguageDefinition "{5F1927BA6E4A98AC}" {
+        Code "en_us"
+        StringTableRuntime "{1B28DF2191E0413C}Language/Localization_PSCore.en_us.conf"
+       }
+       LanguageDefinition "{5F1927BA6E4A98C1}" {
+        Code "es_es"
+        StringTableRuntime "{DE6492A87FE22A23}Language/Localization_PSCore.es_es.conf"
+       }
+       LanguageDefinition "{5F1927BA6E4A98F5}" {
+        Code "fr_fr"
+        StringTableRuntime "{65CC679F9961C921}Language/Localization_PSCore.fr_fr.conf"
+       }
+       LanguageDefinition "{5F1927BA6E4A9812}" {
+        Code "it_it"
+        StringTableRuntime "{E5D0E8AB34434AD8}Language/Localization_PSCore.it_it.conf"
+       }
+       LanguageDefinition "{5F1927BA6E4A9806}" {
+        Code "ja_jp"
+        StringTableRuntime "{F5CB55390A327A73}Language/Localization_PSCore.ja_jp.conf"
+       }
+       LanguageDefinition "{5F1927BA6E4A983A}" {
+        Code "ko_kr"
+        StringTableRuntime "{55757D95991F794C}Language/Localization_PSCore.ko_kr.conf"
+       }
+       LanguageDefinition "{5F1927BA6E4A9842}" {
+        Code "pl_pl"
+        StringTableRuntime "{0904DB6F27F0E530}Language/Localization_PSCore.pl_pl.conf"
+       }
+       LanguageDefinition "{5F1927BA6E4A9876}" {
+        Code "pt_br"
+        StringTableRuntime "{DC7341A31C0E2F8A}Language/Localization_PSCore.pt_br.conf"
+       }
+       LanguageDefinition "{5F1927BA6E4A986D}" {
+        Code "ru_ru"
+        StringTableRuntime "{8932550B81774AFC}Language/Localization_PSCore.ru_ru.conf"
+       }
+       LanguageDefinition "{5F1927BA6E4A8722}" {
+        Code "zh_cn"
+        StringTableRuntime "{D9DA6EC0D4F924B4}Language/Localization_PSCore.zh_cn.conf"
+       }
+      }
+     }
+    }
+   }
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}
