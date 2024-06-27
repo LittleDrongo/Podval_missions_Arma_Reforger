@@ -49,6 +49,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{61B613230BF7A35A}" {
+   Id "DRG-Role_ReconSeniorScount"
+   Target_en_us "Senior Scount"
+   Target_ru_ru "Старший разведчик"
+   Modified 1639322535
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{6170D2157DE458A0}" {
    Id "DRG-Role_Watchman"
    Target_en_us "Old watchman"
