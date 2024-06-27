@@ -1,0 +1,23 @@
+GameEntity : "{FEDC7DA627D89A65}Prefabs/Items/Equipment/Patches/Patch_RU_Flag_Reflective.et" {
+ ID "5DB09136945FC6DB"
+ components {
+  InventoryItemComponent "{5DB09136B1C985CE}" {
+   Attributes SCR_ItemAttributeCollection "{5DB09136B1C985C1}" {
+    ItemDisplayName UIInfo "{5DB09136B1C985EB}" {
+     Name "Red Army"
+     Description "“Red Army Squad”"
+    }
+   }
+  }
+  MeshObject "{5DB09136B1C985B5}" {
+   Object "{DEF219331DB8F6C0}ra/drongo_zaebal.xob"
+  }
+  BaseLoadoutClothComponent "{5DB09136B1C9859A}" {
+   WornModel "{DEF219331DB8F6C0}ra/drongo_zaebal.xob"
+   ItemModel "{DEF219331DB8F6C0}ra/drongo_zaebal.xob"
+   ItemMaterialsOverride {
+    ""
+   }
+  }
+ }
+}
