@@ -153,39 +153,4 @@ $grp PolylineShapeEntity {
    }
   }
  }
- {
-  components {
-   PS_PolyZone "{6156BB9F5871CA7F}" {
-    m_mPolygonTexture "{59B8ECDD64F0F9EA}UI/layouts/Textures/Grid2.edds"
-    m_cPolygonColor 0.251 0 0.502 1
-    m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0 0.125 0.502 1
-    m_aVisibleForFactions {
-     "RHS_RF_MSV" "RHS_US_USMC" "Ses_CDF" ""
-    }
-   }
-  }
-  coords 3865.619 310.717 7091.409
-  Points {
-   ShapePoint "{6156BB9F4F84DFC7}" {
-    Position 34.667 -2.266 -24.549
-   }
-   ShapePoint "{6156BB9F4FAB8C47}" {
-    Position 5 -0.391 0
-   }
-   ShapePoint "{6156BB9F4AAD8D24}" {
-    Position -34.729 1.014 90.277
-   }
-   ShapePoint "{6156BB9F5466D0FB}" {
-    Position 61.46 -7.902 145.876
-   }
-   ShapePoint "{6156BB9F55779D08}" {
-    Position 134.959 -10.269 70.157
-   }
-   ShapePoint "{6156BB9F566BFD60}" {
-    Position 50.642 -3.43 -33.373
-   }
-  }
-  IsClosed 1
- }
 }

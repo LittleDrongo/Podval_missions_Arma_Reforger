@@ -381,43 +381,43 @@ $grp StaticModelEntity : "{5608B9078BF2AC5A}Prefabs/Structures/Military/Fortific
   angleZ 4.381
  }
  {
-  coords 8317.008 -0 2390.036
+  coords 8317.008 0 2390.036
   angleX -1.248
   angleY 117.193
   angleZ 4.381
  }
  {
-  coords 8318.849 -0 2390.981
+  coords 8318.849 0 2390.981
   angleX 1.152
   angleY 117.344
   angleZ 3.614
  }
  {
-  coords 8313.645 -0 2378.411
+  coords 8313.645 0 2378.411
   angleX -1.248
   angleY 117.193
   angleZ 4.381
  }
  {
-  coords 8311.888 -0 2379.69
+  coords 8311.888 0 2379.69
   angleX -1.248
   angleY 117.193
   angleZ 4.381
  }
  {
-  coords 8310.179 -0 2380.819
+  coords 8310.179 0 2380.819
   angleX -1.248
   angleY 117.193
   angleZ 4.381
  }
  {
-  coords 8311.797 -0 2377.557
+  coords 8311.797 0 2377.557
   angleX -1.248
   angleY 117.193
   angleZ 4.381
  }
  {
-  coords 8310.275 -0 2378.689
+  coords 8310.275 0 2378.689
   angleX -1.248
   angleY 117.193
   angleZ 4.381
@@ -433,27 +433,6 @@ $grp StaticModelEntity : "{5608B9078BF2AC5A}Prefabs/Structures/Military/Fortific
   angleX 0.771
   angleY 117.278
   angleZ 2.41
- }
-}
-$grp GenericEntity : "{607E00F1C367D129}Prefabs/Compositions/Misc/SubCompositions/Tents/Tent_Barracks_USSR_01.et" {
- {
-  coords 8227.049 223.125 2166.541
-  angleY 34.584
-  {
-   StaticModelEntity {
-    ID "5CB6B2865DEFD4F5"
-    {
-     SCR_DestructibleBuildingEntity {
-      ID "5A5344E1DC2830DD"
-      coords 0 0.1 0
-     }
-    }
-   }
-  }
- }
- {
-  coords 8211.257 223.125 2177.866
-  angleY 34.584
  }
 }
 StaticModelEntity : "{732A335C72D8ADE2}Prefabs/Props/Military/Sandbags/Sandbag_01_bunker_burlap_foundation.et" {

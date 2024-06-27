@@ -1,0 +1,22 @@
+SCR_ChimeraCharacter : "{43CED484D075F274}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_Rifleman.et" {
+ coords 138.984 1 153.045
+}
+SCR_AIGroup : "{728E2FD8168A5314}Prefabs/Groups/OPFOR/drg_Group_USSR_Squad.et" {
+ coords 148.206 1 148.302
+}
+SCR_ChimeraCharacter : "{DD3ADB8EF5045ACA}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_Unarmed.et" {
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Pants {
+    }
+    LoadoutSlotInfo Vest {
+     Name "Vest"
+     AreaType LoadoutVestArea "{5A68E3332ED8203F}" {
+     }
+    }
+   }
+  }
+ }
+ coords 140.917 1 151.47
+}

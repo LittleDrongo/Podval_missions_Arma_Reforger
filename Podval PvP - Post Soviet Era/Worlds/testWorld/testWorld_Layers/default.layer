@@ -1,6 +1,9 @@
 GenericEntity {
  coords 85.111 1 184.228
 }
+GenericEntity : "{125B4AD05FC87ED1}Prefabs/Weapons/Rifles/M27IAR/Rifle_M27IAR_2_Drongo.et" {
+ coords 134.5 1.469 149.905
+}
 SCR_ChimeraCharacter : "{1CF97224F5932103}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC/Character_US_USMC_Rifleman.et" {
  coords 133.933 1 148.042
 }
@@ -27,10 +30,73 @@ GenericEntity : "{832641A2AB3E89F6}Prefabs/Weapons/Rifles/M4A1/Rifle_M4A1_M203_R
 GenericEntity : "{90D8238D1D8D2DC5}Prefabs/Weapons/Rifles/M4A1/Rifle_M4A1_RAS_Aimpoint.et" {
  coords 136.766 1.162 149.888
 }
+GenericEntity : "{9C948630078D154D}Prefabs/Weapons/Rifles/VZ58/Rifle_VZ58P.et" {
+ components {
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    MuzzleComponent "{CA6BE4D6B867541F}" {
+     components {
+      AttachmentSlotComponent "{4E2B66CBA589F625}" {
+       AttachmentSlot InventoryStorageSlot Muzzle {
+        Offset 0.0047 0.0195 0.2635
+        Prefab "{1ABABE3551512B0A}Prefabs/Weapons/Attachments/Underbarrel/UGL_GP25.et"
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+ coords 126.962 1.405 149.06
+}
 GameEntity : "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et" {
  coords 143.169 1 158.273
+}
+$grp SCR_ChimeraCharacter : "{B8ECDAE964824FF4}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_AR.et" {
+ {
+  coords 139.305 1 148.18
+ }
+ {
+  components {
+   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+    Slots {
+     LoadoutSlotInfo Vest {
+      Prefab ""
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{60D4D47818A2522F}" {
+      TargetStorage ""
+     }
+    }
+   }
+  }
+  coords 137.227 1 148.18
+ }
+ {
+  coords 136.366 1 152.623
+ }
 }
 SCR_ChimeraCharacter : "{D5642BF65606EDE7}Prefabs/Characters/Factions/OPFOR/SSO/Character_RF_MSV_SSO_SL.et" {
  coords 134.579 1 142.926
  scale 0.17
+}
+GenericEntity : "{F3D417A73D06E54C}Prefabs/Characters/Vests/Vest_Taktika/Vest_Taktika_groinProtection.et" {
+ components {
+  BaseLoadoutClothComponent "{5312D798A71DFBB1}" {
+   DebugWornModel 1
+  }
+ }
+ coords 135.865 1 148.436
+ angleY 0
+}
+GenericEntity : "{F8A6FE06F4C70B2C}Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_belt_arsarma_1_pistol_body_PK.et" {
+ components {
+  BaseLoadoutClothComponent "{60633E894989E6AD}" {
+   DebugWornModel 1
+  }
+ }
+ coords 135.865 1 148.436
 }

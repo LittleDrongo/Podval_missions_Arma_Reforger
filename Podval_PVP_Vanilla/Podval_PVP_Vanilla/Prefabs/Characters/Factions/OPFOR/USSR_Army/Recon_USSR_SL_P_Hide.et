@@ -1,8 +1,0 @@
-SCR_ChimeraCharacter : "{F9409877E6FB4B31}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon_USSR_SL_P.et" {
- ID "200D264F0EEA1A28"
- components {
-  PS_PlayableComponent "{5EFCC1946F475F15}" {
-   m_bIsPlayable 0
-  }
- }
-}
