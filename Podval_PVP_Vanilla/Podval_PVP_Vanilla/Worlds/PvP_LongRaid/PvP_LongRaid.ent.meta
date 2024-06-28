@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{5D9746A7ED44D33B}Worlds/PvP_90_Arland_airbase/PvP_90_Arland_airbase.ent"
+ Name "{99A4EB7EE7535248}Worlds/PvP_LongRaid/PvP_LongRaid.ent"
  Configurations {
   ENTResourceClass PC {
   }
@@ -8,6 +8,8 @@ MetaFileClass {
   ENTResourceClass XBOX_SERIES : PC {
   }
   ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass PS5 : PC {
   }
   ENTResourceClass HEADLESS : PC {
   }

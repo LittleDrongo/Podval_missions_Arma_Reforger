@@ -57,6 +57,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{61B8A51EA1FA9D35}" {
+   Id "DRG-Role_Recon_Officer"
+   Target_en_us "Scount Officer"
+   Target_ru_ru "Офицер разведки"
+   Modified 1639495009
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{61B66D59F2619D28}" {
    Id "DRG-Role_Recon_PL"
    Target_en_us "Scout Platoon Leader"
@@ -83,9 +91,9 @@ StringTable {
   }
   CustomStringTableItem "{61B8A5135CBA7D37}" {
    Id "DRG-Role_ReconBearer"
-   Target_en_us "Scout Bearer"
+   Target_en_us "Scout Ammo Bearer"
    Target_ru_ru "Разведчик-подносчик"
-   Modified 1639493997
+   Modified 1639493995
    Author "hasta"
    LastChanged "hasta"
   }
