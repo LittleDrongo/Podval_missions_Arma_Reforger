@@ -1,0 +1,15 @@
+SCR_ChimeraCharacter : "{4438AEFF45A8CE9E}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_Rifleman.et" {
+ ID "520EC961A090BBD5"
+ components {
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{61B87867EA32507F}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Jacket_US_BDU_02.et"
+     PrefabsToSpawn {
+      "{46A09C94F0217E58}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Prv.et" "{9C05543A503DB80E}Prefabs/Weapons/Magazines/Magazine_9x19_M9_15rnd_Ball.et" "{9C05543A503DB80E}Prefabs/Weapons/Magazines/Magazine_9x19_M9_15rnd_Ball.et" "{9C05543A503DB80E}Prefabs/Weapons/Magazines/Magazine_9x19_M9_15rnd_Ball.et"
+     }
+    }
+   }
+  }
+ }
+}
