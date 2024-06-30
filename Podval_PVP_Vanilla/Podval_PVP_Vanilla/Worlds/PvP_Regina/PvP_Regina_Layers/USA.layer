@@ -1,0 +1,185 @@
+$grp Vehicle : "{3EA6F47D95867114}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB.et" {
+ M1025_armed_M2HB5 {
+  coords 7599.819 166.156 4227.49
+  angleY -74.35
+ }
+ M1025_armed_M2HB6 {
+  coords 7601.125 166.156 4232.151
+  angleY -74.35
+ }
+ M1025_armed_M2HB2 {
+  coords 7603.969 166.156 4242.307
+  angleY -74.35
+ }
+ M1025_armed_M2HB3 {
+  coords 7602.583 166.156 4237.358
+  angleY -74.35
+ }
+ M1025_armed_M2HB4 {
+  coords 7553.48 166.501 4227.858
+  angleY 17.057
+ }
+ M1025_armed_M2HB7 {
+  coords 7548.501 166.501 4229.51
+  angleY 17.057
+ }
+ M1025_armed_M2HB8 {
+  coords 9352.603 49.428 1943.392
+  angleX 1.256
+  angleY -52.242
+  angleZ -0.16
+ }
+ M1025_armed_M2HB10 {
+  coords 9332.908 50.088 1965.394
+  angleX 1.24
+  angleY -33.363
+  angleZ 0.255
+ }
+ M1025_armed_M2HB11 {
+  coords 9325.295 50.642 1975.015
+  angleX 3.221
+  angleY -36.382
+  angleZ -0.151
+ }
+ M1025_armed_M2HB12 {
+  coords 9315.736 51.509 1988.712
+  angleX 2.502
+  angleY -36.387
+  angleZ 0.379
+ }
+ M1025_armed_M2HB13 {
+  coords 9310.257 52.062 1997.91
+  angleX 2.446
+  angleY -30.122
+  angleZ 0.65
+ }
+}
+$grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_p.et" {
+ Plt_2_1 {
+  components {
+   PS_GroupCallsignAssigner "{5F0EC8D11D41FA11}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 1
+   }
+  }
+  coords 9325.136 50.53 1984.071
+  angleY -33.516
+  m_aUnitPrefabSlots {
+   "{069E238FD5C16DFC}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_SL.et" "{C2101FF9EC237FBA}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_TL.et" "{6B16D290E745CFEF}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_AR.et" "{AC046B05DDBE646B}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Grenadier.et" "{C42B6C8C59509617}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Rifleman_LAT.et" "{C2101FF9EC237FBA}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_TL.et" "{6B16D290E745CFEF}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_AR.et" "{AC046B05DDBE646B}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Grenadier.et" "{C42B6C8C59509617}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Rifleman_LAT.et"
+  }
+ }
+ Plt_2_2 {
+  components {
+   PS_GroupCallsignAssigner "{5F0EC8D1167628A0}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 2
+   }
+  }
+  coords 9304.594 51.004 1995.924
+  angleY -37.987
+  m_aUnitPrefabSlots {
+   "{069E238FD5C16DFC}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_SL.et" "{C2101FF9EC237FBA}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_TL.et" "{6B16D290E745CFEF}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_AR.et" "{AC046B05DDBE646B}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Grenadier.et" "{C42B6C8C59509617}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Rifleman_LAT.et" "{C2101FF9EC237FBA}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_TL.et" "{6B16D290E745CFEF}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_AR.et" "{AC046B05DDBE646B}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Grenadier.et" "{C42B6C8C59509617}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Rifleman_LAT.et"
+  }
+ }
+ Plt_1_1 {
+  components {
+   PS_GroupCallsignAssigner "{5F0EC8D10CFDCCE5}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 2
+   }
+  }
+  coords 7572.82 166.77 4257.078
+  angleX 1.278
+  angleY -71.558
+  angleZ 0.499
+  m_aUnitPrefabSlots {
+   "{069E238FD5C16DFC}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_SL.et" "{C2101FF9EC237FBA}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_TL.et" "{6B16D290E745CFEF}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_AR.et" "{AC046B05DDBE646B}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Grenadier.et" "{C42B6C8C59509617}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Rifleman_LAT.et" "{C2101FF9EC237FBA}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_TL.et" "{6B16D290E745CFEF}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_AR.et" "{AC046B05DDBE646B}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Grenadier.et" "{C42B6C8C59509617}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Rifleman_LAT.et"
+  }
+ }
+ Plt_1_2 {
+  components {
+   PS_GroupCallsignAssigner "{5F0EC8D10CFDCCE5}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 3
+   }
+  }
+  coords 7572.264 166.663 4254.027
+  angleX 1.278
+  angleY -71.558
+  angleZ 0.499
+  m_aUnitPrefabSlots {
+   "{069E238FD5C16DFC}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_SL.et" "{C2101FF9EC237FBA}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_TL.et" "{6B16D290E745CFEF}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_AR.et" "{AC046B05DDBE646B}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Grenadier.et" "{C42B6C8C59509617}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Rifleman_LAT.et" "{C2101FF9EC237FBA}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_TL.et" "{6B16D290E745CFEF}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_AR.et" "{AC046B05DDBE646B}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Grenadier.et" "{C42B6C8C59509617}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Rifleman_LAT.et"
+  }
+ }
+ Plt_1_3 {
+  components {
+   PS_GroupCallsignAssigner "{5F0EC8D10CFDCCE5}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 4
+   }
+  }
+  coords 7571.647 166.653 4250.568
+  angleX 1.278
+  angleY -71.558
+  angleZ 0.499
+  m_aUnitPrefabSlots {
+   "{069E238FD5C16DFC}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_SL.et" "{C2101FF9EC237FBA}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_TL.et" "{6B16D290E745CFEF}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_AR.et" "{AC046B05DDBE646B}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Grenadier.et" "{C42B6C8C59509617}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Rifleman_LAT.et" "{C2101FF9EC237FBA}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_TL.et" "{6B16D290E745CFEF}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_AR.et" "{AC046B05DDBE646B}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Grenadier.et" "{C42B6C8C59509617}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Rifleman_LAT.et"
+  }
+ }
+ Plt_2_3 {
+  components {
+   PS_GroupCallsignAssigner "{5F0EC8D1167628A0}" {
+    m_iCompanyCallsign 6
+   }
+  }
+  coords 7720.965 324.168 2895.691
+  angleY -37.987
+  m_aUnitPrefabSlots {
+   "{8A242D399692B223}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_SeniorRifleman.et" "{9E0647E647A7EFCD}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_Sniper.et" "{782D3558D8572AB1}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_RTO.et"
+  }
+  m_sCustomNameSet "Патруль"
+ }
+}
+$grp SCR_AIGroup : "{E25C65A6D4926522}Prefabs/Groups/BLUFOR/Group_US_PlatoonSquad_P.et" {
+ Plt_2_0 {
+  components {
+   PS_GroupCallsignAssigner "{5F0CF2F9BF13A3D4}" {
+    m_iCompanyCallsign 2
+   }
+  }
+  coords 9344.731 49.743 1958.847
+  angleX 0.903
+  angleY -40.089
+  angleZ 1.033
+  m_aUnitPrefabSlots {
+   "{9F809A16C8265C6C}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_PL.et" "{ED7C02DBC8B7FECA}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Medic.et"
+  }
+ }
+ Plt_1_0 {
+  components {
+   PS_GroupCallsignAssigner "{5F0CF2F9BF13A3D4}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 7573.801 166.122 4260.035
+  angleX -1.27
+  angleY -68.762
+  angleZ -0.36
+  m_aUnitPrefabSlots {
+   "{9F809A16C8265C6C}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_PL.et" "{ED7C02DBC8B7FECA}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Medic.et"
+  }
+ }
+ Plt_0 {
+  components {
+   PS_GroupCallsignAssigner "{5F0CF2F9BF13A3D4}" {
+   }
+  }
+  coords 7568.082 166.157 4251.59
+  angleX -0.761
+  angleY 122.461
+  angleZ 1.078
+  m_aUnitPrefabSlots {
+   "{3D56107B6DFC8B43}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Officer.et"
+  }
+ }
+}

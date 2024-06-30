@@ -1,0 +1,68 @@
+$grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescription/EditableMissionDescription.et" {
+ RULES {
+  coords 5534.73 61.71 10496.381
+  m_sTitle "#PS-Description_HeaderRules"
+  m_sDescriptionLayout "{B6DE04F7CF7A95DA}UI/MissionDescription/DescriptionEditableScrollable.layout"
+  m_sTextData "ОБЩИЕ ПРАВИЛА "\
+  "— Всем запрещено надевать форму, головные уборы, разгрузки, бронежилеты противника (рюкзаки можно) "\
+  "— Количество радиостанций ограничено до 2-3 шт. в отделении. "\
+  ""\
+  "ПРАВИЛА ДЛЯ ВС СССР"\
+  "— 1. На этой миссии нельзя блокировать вход в штаб любыми способами, техникой, постройками и так далее. Все входы должны иметь свободный доступ, то есть игрок должен иметь возможность войти в полный рост, без не пригибаясь или перепрыгивать препятствия."\
+  "— 2. На миссии есть в наличии инженерное отделение, которое при помощи грузовика могут строить укрепления и баррикады (нельзя строить здания штаба и т.д.)"\
+  "— 3. Строительный режим будет ЗАПРЕЩЕН после конца фризтайма, 10 минут предоставлены специально для укрепления позиций."\
+  ""\
+  "СПОСОБЫ ПОБЕДЫ ВС СССР "\
+  "— 1. Удержать контроль над городом Регина."\
+  "— 2. Нанести серьёзный урон Армия США. "\
+  ""\
+  "СПОСОБЫ ПОБЕДЫ ДЛЯ ВС США "\
+  "— 1. Захватить и удержать город Регина."\
+  "— 2. Нанести серьёзный урон ВС СССР."\
+  ""\
+  ""
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bEmptyFactionVisibility 1
+  m_bShowForAnyFaction 1
+ }
+ FIA {
+  coords 5159.505 56.132 10322.095
+  m_sTitle "#PS-Description_HeaderFIA"
+  m_sTextData "ВВОДНАЯ ИНФОРМАЦИЯ:"\
+  "Агентурная разведка сообщила что ВС СССР обнаружила наше местоположение и в близжайшее время они планируют провести войсковую операцию. "\
+  ""\
+  "НАША ЗАДАЧА:"\
+  "Наша задача осуществить тёплый приём не прошенным гостям."
+  m_aVisibleForFactions {
+   "FIA"
+  }
+ }
+ USSR {
+  coords 5534.418 43.503 10540.239
+  m_sTitle "#PS-Description_HeaderUSSR"
+  m_sTextData "Удержать контроль над городом Регина."
+  m_aVisibleForFactions {
+   "USSR"
+  }
+ }
+ USA {
+  coords 5626.204 38.464 10536.691
+  m_sTitle "#PS-Description_HeaderUS"
+  m_sTextData "Захватить город Регина."
+  m_aVisibleForFactions {
+   "US"
+  }
+ }
+ ABOUT {
+  coords 5568.057 56.802 10524.196
+  m_sTitle "#PS-Description_HeaderAboutMission"
+  m_sTextData "Бой за контроль города Регина."
+  m_aVisibleForFactions {
+   "US" "USSR" "FIA"
+  }
+  m_bEmptyFactionVisibility 1
+  m_bShowForAnyFaction 1
+ }
+}
