@@ -12,6 +12,9 @@ PolylineShapeEntity {
   }
  }
  coords 9928.532 304.078 2361.528
+ angleX 2.678
+ angleY 0.126
+ angleZ 2.687
  Points {
   ShapePoint "{61C8C43DB00E0821}" {
    Position 14.215 -0.499 -5.315
@@ -20,45 +23,47 @@ PolylineShapeEntity {
    Position 5 -0.188 0
   }
   ShapePoint "{61C8C43DADE11942}" {
-   Position -536.073 -68.271 236.939
+   Position -536.073 -103.264 236.939
   }
   ShapePoint "{61C8C43DAE7E517C}" {
-   Position -778.318 -61.963 812.222
+   Position -778.318 -137.368 812.222
   }
   ShapePoint "{61C8C43DA4DA2572}" {
-   Position -1043.611 -72.498 1318.539
+   Position -1043.611 -181.844 1318.539
   }
   ShapePoint "{61C8C43DA15A6002}" {
-   Position -482.756 1.184 1665.965
+   Position -482.756 -101.807 1665.965
   }
   ShapePoint "{61C8C43D9F595A29}" {
-   Position -160.68 -100.165 1418.196
+   Position -160.68 -174.705 1418.196
   }
   ShapePoint "{61C8C43D95EC91EB}" {
-   Position 61.69 -159.228 1161.062
+   Position 61.69 -211.57 1161.062
   }
   ShapePoint "{61C8C43D89676524}" {
-   Position 177.992 -87.892 639.702
+   Position 177.992 -111.363 639.702
   }
   ShapePoint "{61C8C43D887502ED}" {
-   Position 165.735 -80.428 538.3
+   Position 165.735 -97.677 538.3
   }
   ShapePoint "{61C8C43D8510DC9F}" {
-   Position 206.636 -13.655 170.31
+   Position 206.636 -11.815 170.31
   }
   ShapePoint "{61C8C43D846D56E2}" {
-   Position 19.775 -3.604 3.462
+   Position 19.775 -2.839 3.462
   }
  }
+ IsClosed 1
  {
   PS_PolyZoneTrigger {
    components {
     Hierarchy "{614548BDF998E12B}" {
     }
    }
-   coords 95.221 -21.206 -16.447
-   TriggerShapeType Polyline
+   TriggerShapeType Sphere
+   SphereRadius 5000000
    "Polyline Height" 500
+   ShapeColor 0.251 0 0.502 1
    TriggerActivationType "All changes"
    PeriodicQueries 1
    UpdatePeriod 1
@@ -69,7 +74,7 @@ PolylineShapeEntity {
     m_fKillTime 30
    }
    m_bReversed 1
-   m_sGroupKey "DRG"
+   m_sGroupKey "RES"
   }
  }
 }

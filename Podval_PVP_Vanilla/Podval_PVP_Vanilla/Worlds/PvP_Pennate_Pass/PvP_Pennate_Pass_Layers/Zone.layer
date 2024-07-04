@@ -195,7 +195,6 @@ $grp PolylineShapeEntity {
      Hierarchy "{614548BDF998E12B}" {
      }
     }
-    coords -126.951 -25.774 107.873
     TriggerShapeType Polyline
     "Polyline Height" 500
     TriggerActivationType "All changes"
