@@ -7,7 +7,7 @@ $grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_
   components {
    PS_GroupCallsignAssigner "{5F0EC8D10CFDCCE5}" {
     m_iCompanyCallsign 1
-    m_iSquadCallsign 2
+    m_iSquadCallsign 1
    }
   }
   coords 9460.237 322.799 3858.044
@@ -24,7 +24,7 @@ $grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_
   components {
    PS_GroupCallsignAssigner "{5F0EC8D10CFDCCE5}" {
     m_iCompanyCallsign 1
-    m_iSquadCallsign 3
+    m_iSquadCallsign 2
    }
   }
   coords 9460.354 321.833 3854.66
@@ -41,7 +41,7 @@ $grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_
   components {
    PS_GroupCallsignAssigner "{5F0EC8D10CFDCCE5}" {
     m_iCompanyCallsign 1
-    m_iSquadCallsign 4
+    m_iSquadCallsign 3
    }
   }
   coords 9460.667 320.918 3851.597
@@ -57,8 +57,7 @@ $grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_
  DRG_Plt_1_4_RES {
   components {
    PS_GroupCallsignAssigner "{5F0EC8D10CFDCCE5}" {
-    m_iCompanyCallsign 1
-    m_iSquadCallsign 5
+    m_iCompanyCallsign 3
    }
   }
   coords 9455.319 325.816 3870.749

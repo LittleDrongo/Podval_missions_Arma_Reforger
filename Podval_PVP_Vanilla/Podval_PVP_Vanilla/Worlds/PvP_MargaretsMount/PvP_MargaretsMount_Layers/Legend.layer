@@ -227,7 +227,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_MarkerColor 1 1 1 1
   m_sQuadName "undefined"
   m_fWorldSize 50
-  m_sDescription "Блэйзер Ред 5"
+  m_sDescription "Диско Ред 5"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
    "FIA" "US" "USSR"
