@@ -151,17 +151,3 @@ $grp Vehicle : "{F1FBD0972FA5FE09}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transpo
   angleY -138.918
  }
 }
-$grp Vehicle : "{F649585ABB3706C4}Prefabs/Vehicles/Wheeled/M151A2/M151A2.et" {
- M151A1 {
-  coords 1424.957 183.272 6365.688
-  angleX 0.715
-  angleY 0.68
-  angleZ 14.884
- }
- M151A2 {
-  coords 1424.677 182.677 6376.835
-  angleX -2.544
-  angleY -0.597
-  angleZ 13.204
- }
-}
