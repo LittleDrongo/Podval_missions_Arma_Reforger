@@ -126,6 +126,8 @@ GenericEntity : "{0DCE9A9A4F31BE1C}Prefabs/Weapons/Core/SmokeGrenade_Base.et" {
    }
    SoundInt 1000100
    UIInfo GrenadeUIInfo "{172367262E10E042}" {
+    Name "#DRG-Weapon_NSP_Name"
+    Description "#DRG-Weapon_NSP_Name"
     m_MagIndicator SCR_MagazineIndicatorConfiguration "{5874D63FFD3D5993}" : "{CB5EE05B7C8C1244}Configs/WeaponInfo/MagazineIndicators/smoke_rgd2.conf" {
     }
     m_sAmmoType "#AR-AmmoType_RDG2"
