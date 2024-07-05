@@ -18,6 +18,10 @@ SCR_ChimeraCharacter : "{43CED484D075F274}Prefabs/Characters/Factions/OPFOR/USSR
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{61B60D5867CCF399}" {
+     PrefabsToSpawn +{
+     }
+    }
     ItemsInitConfigurationItem "{61B60D5A725FEB6A}" {
      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok.et"
      PrefabsToSpawn {

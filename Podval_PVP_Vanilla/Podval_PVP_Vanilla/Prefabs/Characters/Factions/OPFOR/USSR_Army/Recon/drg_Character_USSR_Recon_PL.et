@@ -19,6 +19,11 @@ SCR_ChimeraCharacter : "{B6FE3479F0ED092C}Prefabs/Characters/Factions/OPFOR/USSR
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{61B60D5867CCF399}" {
+     PrefabsToSpawn {
+      "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et" "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et" "{E4D45E4C68E52CF0}Prefabs/Weapons/Grenades/Smoke_NSP_Orange.et" "{E4D45E4C68E52CF0}Prefabs/Weapons/Grenades/Smoke_NSP_Orange.et"
+     }
+    }
     ItemsInitConfigurationItem "{61B60D5A725FEB6A}" {
      TargetStorage "Prefabs/Characters/Uniforms/Suit_KLMK/Suit_KLMK.et"
      PrefabsToSpawn {

@@ -20,6 +20,11 @@ SCR_ChimeraCharacter : "{48C93CF154FFB9EF}Prefabs/Characters/Factions/OPFOR/USSR
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{61B543E55260DECA}" {
+     PrefabsToSpawn + {
+      "{E4D45E4C68E52CF0}Prefabs/Weapons/Grenades/Smoke_NSP_Orange.et" "{E4D45E4C68E52CF0}Prefabs/Weapons/Grenades/Smoke_NSP_Orange.et" "{E4D45E4C68E52CF0}Prefabs/Weapons/Grenades/Smoke_NSP_Orange.et"
+     }
+    }
     ItemsInitConfigurationItem "{61B543EAEB9BD049}" {
      PrefabsToSpawn {
       "{E1A5D4B878AA8980}Prefabs/Items/Equipment/Radios/Radio_R148.et"

@@ -153,5 +153,21 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{61CB0A080F880E4D}" {
+   Id "DRG-Weapon_NSP_Description"
+   Target_en_us "Ground signal cartridge NSP, orange smoke. Used by the Soviet Army to send signals. Most often to indicate their positions in the event of friendly fire."
+   Target_ru_ru "Наземный сигнальный патрон НСП, оранжевый дым. Используется Советсткой Армии для подачи сигналов. Чаще всего для обозначения своих позиций в случае дружественного огня."
+   Modified 1640696647
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61CB0A082F65E9E8}" {
+   Id "DRG-Weapon_NSP_Name"
+   Target_en_us "NSP"
+   Target_ru_ru "НСП"
+   Modified 1640696536
+   Author "hasta"
+   LastChanged "hasta"
+  }
  }
 }
