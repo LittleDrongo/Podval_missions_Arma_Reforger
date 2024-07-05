@@ -1,0 +1,258 @@
+$grp SCR_DestructibleEntity : "{01B6D07E741A89D9}PrefabLibrary/Walls/Pipe/PipeRailing_03_V2_6m_B.et" {
+ {
+  coords 1253.832 20.41 6256.371
+  angleX -0.895
+  angleY 71.07
+  angleZ -0.007
+  placement none
+ }
+ {
+  coords 1251.888 20.271 6262.035
+  angleX -0.895
+  angleY 71.07
+  angleZ -0.007
+  placement none
+ }
+ {
+  coords 1249.946 19.745 6267.7
+  angleX -0.895
+  angleY 71.07
+  angleZ -0.007
+  placement none
+ }
+ {
+  coords 1248 18.217 6273.374
+  angleX -0.895
+  angleY 71.07
+  angleZ -0.007
+  placement none
+ }
+ {
+  coords 1246.052 15.27 6279.054
+  angleX -0.895
+  angleY 71.07
+  angleZ -0.007
+  placement none
+ }
+ {
+  coords 1255.779 21.546 6250.708
+  angleX 0.009
+  angleY -19.936
+  angleZ 0.895
+  placement none
+ }
+ {
+  coords 1261.393 20.202 6252.744
+  angleX 0.009
+  angleY -19.936
+  angleZ 0.895
+  placement none
+ }
+ {
+  coords 1272.636 16.534 6256.722
+  angleX -0.005
+  angleY -19.032
+  angleZ 0.895
+  placement none
+ }
+ {
+  coords 1266.991 19.739 6254.775
+  angleX -0.005
+  angleY -19.032
+  angleZ 0.895
+  placement none
+ }
+ {
+  coords 1283.943 9.735 6260.676
+  angleX 0.002
+  angleY -19.521
+  angleZ 0.895
+  placement none
+ }
+ {
+  coords 1278.315 12.446 6258.681
+  angleX 0.002
+  angleY -19.521
+  angleZ 0.895
+  placement none
+ }
+ {
+  coords 1295.215 4.987 6264.672
+  angleX 0.002
+  angleY -19.521
+  angleZ 0.895
+  placement none
+ }
+ {
+  coords 1289.586 7.38 6262.677
+  angleX 0.002
+  angleY -19.521
+  angleZ 0.895
+  placement none
+ }
+ {
+  coords 1297.38 4.234 6265.438
+  angleX 0.002
+  angleY -19.521
+  angleZ 0.895
+  placement none
+ }
+ {
+  coords 1303.03 1.207 6267.451
+  angleX 0.895
+  angleY -109.533
+  angleZ -0.002
+  placement none
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{0BDA77618F7586C5}PrefabLibrary/Infrastructure/Naval/PierConcrete_01_flat.et" {
+ {
+  coords 1301.577 -5.198 6272.079
+  angleY -19.359
+  scale 1.27
+ }
+ {
+  coords 1289.69 -1.257 6267.903
+  angleY -19.359
+  scale 1.27
+ }
+ {
+  coords 1277.714 3.763 6263.695
+  angleY -19.359
+  scale 1.27
+ }
+ {
+  coords 1265.795 13.675 6259.507
+  angleY -19.359
+  scale 1.27
+ }
+ {
+  coords 1262.445 9.869 6269.043
+  angleY -19.359
+  scale 1.27
+ }
+ {
+  coords 1259.089 5.688 6278.594
+  angleY -19.359
+  scale 1.27
+ }
+ {
+  coords 1270.972 -4.573 6282.768
+  angleY -19.359
+  scale 1.27
+ }
+ {
+  coords 1265.805 4.334 6259.479
+  angleX -1.153
+  angleY 160.641
+  angleZ 180
+  scale 1.27
+ }
+ {
+  coords 1265.01 0.554 6265.397
+  angleX -1.153
+  angleY 160.641
+  angleZ 180
+  scale 1.27
+ }
+ {
+  coords 1277.732 -5.561 6263.67
+  angleX -1.153
+  angleY 160.641
+  angleZ 180
+  scale 1.27
+ }
+}
+GenericEntity : "{0C7319383777A107}Prefabs/Props/Furniture/CabinetMetal_01_grey_V3.et" {
+ coords 1281.821 155.039 6282.367
+ angleX -89.402
+ angleY -165.296
+ angleZ -121.273
+ scale 0.84
+}
+GameEntity : "{5DA5DF7405DF4B7D}Prefabs/Structures/BuildingParts/Ladders/Ladder_ChurchSmall_E_435_B.et" {
+ coords 1282.389 5.902 6282.064
+ angleX 16.538
+ angleY 157.434
+ angleZ 1.423
+}
+SCR_DestructibleBuildingEntity : "{9B4EE2EF2E6F986D}PrefabLibrary/Structures/Industrial/FactoryHall_E_01.et" {
+ coords 1273.381 148.84 6266.55
+ angleY -18.58
+ {
+  Building {
+   ID "57132DCB367C8588"
+   {
+    GenericEntity {
+     ID "559EA7E95E5D9CF9"
+     coords 0 0 0
+    }
+   }
+  }
+  Building {
+   ID "57132DCB367C899F"
+   coords 0 0 0
+  }
+  GenericEntity {
+   ID "57132DCB367C866A"
+   {
+    GenericEntity {
+     ID "568C838F54E32476"
+     coords -0.589 0 0
+    }
+    GenericEntity {
+     ID "568C838F54E3245F"
+     coords -0.874 0 0
+    }
+   }
+  }
+ }
+}
+$grp GenericEntity : "{D2299274C13B1169}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_wall_solid_burlap.et" {
+ {
+  coords 1269.187 155.03 6258.693
+  angleY 161.718
+ }
+ {
+  coords 1269.187 156.98 6258.693
+  angleY 161.718
+ }
+ {
+  coords 1267.966 155.03 6258.315
+  angleY 161.718
+ }
+ {
+  coords 1267.966 156.98 6258.314
+  angleY 161.718
+ }
+}
+$grp GenericEntity : "{E3972F6F29774671}PrefabLibrary/Rocks/Granite/GraniteSurfaceStone_04.et" {
+ {
+  coords 1285.923 138.709 6259.548
+  angleX 75.147
+  angleY -16.674
+  angleZ 173.748
+  scale 1.72
+ }
+ {
+  coords 1247.346 137.427 6268.425
+  angleX 80.245
+  angleY -4.444
+  angleZ 119.524
+  scale 2.219
+ }
+ {
+  coords 1270.224 130.245 6254.632
+  angleX 86.14
+  angleY -35.082
+  angleZ 155.498
+  scale 1.72
+ }
+ {
+  coords 1306.333 141.548 6269.708
+  angleX 75.517
+  angleY -33.764
+  angleZ 176.567
+  scale 1.72
+ }
+}

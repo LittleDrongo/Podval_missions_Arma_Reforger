@@ -1,0 +1,66 @@
+SCR_DestructibleBuildingEntity : "{11BFDE0724119A52}PrefabLibrary/Structures/Industrial/Garage_E_02.et" {
+ coords 1103.753 0.47 6628.417
+ angleY -88.39
+}
+GenericEntity : "{1ABA1239EEA6FAC6}Prefabs/Structures/Military/CamoNets/Soviet/CamoNet_Bunker_Soviet.et" {
+ coords 1413.555 175.079 6462.572
+ angleY -71.845
+}
+SCR_DestructibleBuildingEntity : "{22BF82936E1BBC4D}PrefabLibrary/Structures/Services/FireStation_E_01.et" {
+ coords 1016.658 0.905 6695.687
+ angleY -155.62
+}
+SCR_DestructibleBuildingEntity : "{38B030BEDB46E64D}PrefabLibrary/Structures/Houses/Shed_02_big_V1.et" {
+ coords 1246.501 -0.025 6557.048
+ angleX 0.858
+ angleY -90.475
+ angleZ -4.474
+}
+SCR_DestructibleBuildingEntity : "{38D34A365D9AC751}PrefabLibrary/Structures/Naval/CottagePier_01.et" {
+ coords 1237.416 0.404 6577.122
+ angleY -118.155
+}
+SCR_DestructibleBuildingEntity : "{53ED57F93F1DCE1F}PrefabLibrary/Structures/Industrial/Warehouse_01.et" {
+ coords 1045.191 0 6687.927
+ angleY -83.012
+}
+SCR_DestructibleBuildingEntity : "{57D34957129A2C92}PrefabLibrary/Structures/Houses/House_Wooden_E_1I02.et" {
+ coords 1242.924 1.072 6533.33
+ angleY 161.555
+ AdjustHeightMapPrio 1
+ FalloffWidth 500
+}
+SCR_DestructibleBuildingEntity : "{A67AB8173DD14448}PrefabLibrary/Structures/Ruins/House_Village_E_1I01_ruin.et" {
+ coords 1222.924 0.442 6629.214
+ angleY -13.975
+}
+SCR_DestructibleBuildingEntity : "{AFB66B5D636927AD}PrefabLibrary/Structures/Industrial/Workshop_02.et" {
+ coords 1254.844 2.806 6363.174
+ angleY -177.178
+}
+SCR_DestructibleBuildingEntity : "{AFD0F05F3FD48D6C}PrefabLibrary/Structures/Houses/Cottage_E_01.et" {
+ coords 1242.134 0 6546.989
+ angleX -0.361
+ angleY 83.232
+ angleZ 4.541
+}
+SCR_DestructibleBuildingEntity : "{BB32FDB0A276A95D}PrefabLibrary/Structures/Houses/House_Village_E_1I01.et" {
+ coords 1217.524 0.797 6654.328
+ angleY -16.078
+}
+SCR_DestructibleBuildingEntity : "{CCB19FE7B8422989}PrefabLibrary/Structures/Ruins/HouseRuin_01_BrickPile_Big.et" {
+ coords 1221.203 0 6640.405
+ angleX -1.536
+ angleY -37.669
+ angleZ -13.303
+ scale 1.081
+}
+SCR_DestructibleBuildingEntity : "{CDEC6290D9424C36}PrefabLibrary/Structures/Industrial/RampVehicle_01_metal.et" {
+ coords 1047.902 0 6693.365
+}
+SCR_DestructibleBuildingEntity : "{D288E1E16D11D57B}PrefabLibrary/Structures/Houses/House_Town_E_2I03.et" {
+ coords 1252.636 0.939 6509.408
+ angleX -0.85
+ angleY 71.637
+ angleZ 0.282
+}
