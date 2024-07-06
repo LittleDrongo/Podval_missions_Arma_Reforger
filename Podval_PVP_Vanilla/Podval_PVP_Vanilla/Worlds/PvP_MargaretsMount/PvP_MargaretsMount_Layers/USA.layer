@@ -1,3 +1,14 @@
+$grp GenericEntity : "{90B7CEB4C665B1E2}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V1.et" {
+ {
+  coords 9458.923 320.292 3840.084
+ }
+ {
+  coords 9379.378 306.325 3829.731
+ }
+ {
+  coords 9523.296 311.062 3829.006
+ }
+}
 $grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_p.et" {
  DRG_Plt_1_1_RES {
   components {
@@ -66,39 +77,6 @@ $grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_
   m_bDeleteWhenEmpty 0
   m_bDeleteIfNoPlayer 0
  }
- SPN_Plt_1_5 {
-  components {
-   PS_GroupCallsignAssigner "{5F0EC8D10CFDCCE5}" {
-    m_iCompanyCallsign 4
-   }
-  }
-  coords 5030.248 2.187 3842.183
-  angleY -137.807
-  m_aUnitPrefabSlots {
-   "{CBED715857D6D899}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_Leader.et" "{8A242D399692B223}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_SeniorRifleman.et" "{1757CD5AA2D8A4F8}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_AR.et" "{4438AEFF45A8CE9E}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_Rifleman.et" "{4438AEFF45A8CE9E}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_Rifleman.et" "{9E0647E647A7EFCE}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_Medic.et" "{9E0647E647A7EFCD}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_Sniper.et"
-  }
-  m_bDeleteWhenEmpty 0
-  m_bDeleteIfNoPlayer 0
- }
- SPN_Plt_1_6 {
-  components {
-   PS_GroupCallsignAssigner "{5F0EC8D10CFDCCE5}" {
-    m_iCompanyCallsign 4
-    m_iSquadCallsign 1
-   }
-  }
-  coords 4958.435 2.187 3866.576
-  angleY 125.657
-  m_aUnitPrefabSlots {
-   "{27BEF07908F77017}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Pilot_Radio.et" "{ABF09C1FF1D412D8}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Pilot.et" "{71B242C4EBBAF81C}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_HeliCrew.et" "{71B242C4EBBAF81C}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_HeliCrew.et"
-  }
-  m_bDeleteWhenEmpty 0
-  m_bDeleteIfNoPlayer 0
- }
-}
-Vehicle UH1H_armed1 : "{DDDD9B51F1234DF3}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed.et" {
- coords 4959.495 2.187 3871.603
- angleY 123.991
 }
 $grp SCR_AIGroup : "{E25C65A6D4926522}Prefabs/Groups/BLUFOR/Group_US_PlatoonSquad_P.et" {
  DRG_Plt_1_0_RES {

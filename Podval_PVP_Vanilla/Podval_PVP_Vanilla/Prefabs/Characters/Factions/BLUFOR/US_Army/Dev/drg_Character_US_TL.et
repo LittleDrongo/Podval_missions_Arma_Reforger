@@ -7,6 +7,9 @@ SCR_ChimeraCharacter : "{903097F658A99BE3}Prefabs/Characters/Factions/BLUFOR/US_
     Icon "{44B846FB4F46E36A}UI/Icons/team_leader.edds"
    }
   }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{E57DBDA5C50F07FF}Prefabs/Weapons/Rifles/M16/Rifle_M16A2_carbine_4x20.et"
+  }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{61B87867EA32507F}" {

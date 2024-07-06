@@ -1,3 +1,13 @@
+$grp GenericEntity : "{0B0C600941B2A6A8}Prefabs/Props/Military/Sandbags/Sandbag_01_short_high_plastic.et" {
+ {
+  coords 9324.761 298.771 3909.386
+  angleY 152.202
+ }
+ {
+  coords 9323.275 298.771 3912.205
+  angleY 152.202
+ }
+}
 $grp Tree : "{23C0BE9D80929DBD}Prefabs/Vegetation/Bush/b_salix_cinerea_1w.et" {
  {
   coords 9460.147 -1.215 3838.573
@@ -283,7 +293,7 @@ $grp StaticModelEntity : "{2CF6244D6C76F560}Prefabs/Terrain/Erosion/ErodedEmbank
   angleZ -15.097
  }
  {
-  coords 9534.893 301.151 3763.87
+  coords 9534.823 300.936 3763.987
   angleX -31.285
   angleY 165.917
   angleZ -8.541
@@ -329,6 +339,24 @@ $grp StaticModelEntity : "{2CF6244D6C76F560}Prefabs/Terrain/Erosion/ErodedEmbank
   angleX -29.231
   angleY 172.32
   angleZ 17.246
+ }
+ {
+  coords 9320.654 297.854 3916.622
+  angleX -28.583
+  angleY -106.278
+  angleZ -8.682
+ }
+ {
+  coords 9323.471 296.629 3909.363
+  angleX -29.221
+  angleY -111.959
+  angleZ -5.934
+ }
+ {
+  coords 9326.964 296.265 3905.807
+  angleX -29.478
+  angleY -151.996
+  angleZ 5.511
  }
 }
 $grp GenericEntity : "{3F68EE5DCB004B10}Prefabs/Rocks/Granite/GraniteCliff_01.et" {
@@ -939,9 +967,48 @@ $grp GenericEntity : "{8777F96EBE817623}Prefabs/Props/Military/Sandbags/Sandbag_
   angleY 144.697
   angleZ -4.566
  }
-}
-GenericEntity : "{BB6A8F2AACE9D7F0}Prefabs/MP/Campaign/Bases/Campaign_HQ_US.et" {
- coords 9476.736 318.039 3914.623
+ {
+  coords 9320.809 296.695 3913.531
+  angleX 2.249
+  angleY 72.09
+  angleZ 10.56
+ }
+ {
+  coords 9320.052 297.092 3915.822
+  angleX 2.249
+  angleY 72.09
+  angleZ 10.56
+ }
+ {
+  coords 9319.305 297.202 3918.118
+  angleX 2.249
+  angleY 72.09
+  angleZ 1.244
+ }
+ {
+  coords 9318.58 297.002 3920.386
+  angleX 2.249
+  angleY 72.09
+  angleZ -6.316
+ }
+ {
+  coords 9324.861 295.859 3907.081
+  angleX 2.844
+  angleY 42.81
+  angleZ 0.475
+ }
+ {
+  coords 9326.754 295.911 3905.37
+  angleX 2.883
+  angleY 34.218
+  angleZ -3.361
+ }
+ {
+  coords 9328.542 295.719 3904.167
+  angleX 2.883
+  angleY 34.218
+  angleZ 11.884
+ }
 }
 $grp StaticModelEntity : "{C2ACB740ED1CEB46}Prefabs/Props/Military/Sandbags/Sandbag_01_bunker_burlap_foundation_camonet.et" {
  {
@@ -955,6 +1022,10 @@ $grp StaticModelEntity : "{C2ACB740ED1CEB46}Prefabs/Props/Military/Sandbags/Sand
  {
   coords 9543.374 291.207 3876.21
   angleY 144.856
+ }
+ {
+  coords 9324.622 297.941 3911.115
+  angleY -116.746
  }
 }
 $grp GenericEntity : "{CFFEB23FBEA00322}Prefabs/Props/Military/Sandbags/Sandbag_01_short_burlap.et" {
@@ -1347,5 +1418,13 @@ $grp GenericEntity : "{E840D82CE1F92BBD}Prefabs/Props/Military/Sandbags/Sandbag_
  {
   coords 9461.852 318.662 3841.767
   angleY -94.627
+ }
+ {
+  coords 9322.64 298.802 3911.187
+  angleY 65.465
+ }
+ {
+  coords 9323.684 298.905 3909.317
+  angleY -120.763
  }
 }

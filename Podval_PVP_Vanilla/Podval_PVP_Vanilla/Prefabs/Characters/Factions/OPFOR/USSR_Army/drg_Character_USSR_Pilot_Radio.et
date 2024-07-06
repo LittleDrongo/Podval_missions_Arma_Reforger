@@ -1,0 +1,15 @@
+SCR_ChimeraCharacter : "{8E1DE06D8C1B0EDC}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot.et" {
+ ID "520EC961A090BE1E"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{E49D9EE7E2B3016C}Prefabs/Characters/HeadGear/Helmet_ZSh5_01/Helmet_ZSh5_01.et"
+    }
+    LoadoutSlotInfo Back {
+     Prefab "{54C68E438DD34265}Prefabs/Items/Equipment/Radios/Radio_R107M.et"
+    }
+   }
+  }
+ }
+}

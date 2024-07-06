@@ -4,6 +4,9 @@ SCR_ChimeraCharacter : "{1757CD5AA2D8A4F8}Prefabs/Characters/Factions/BLUFOR/US_
 SCR_ChimeraCharacter : "{48C93CF154FFB9EF}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_SR.et" {
  coords 129.119 1 155.673
 }
+SCR_ChimeraCharacter : "{C2101FF9EC237FBA}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_TL.et" {
+ coords 121.458 1 162.884
+}
 $grp GenericEntity : "{E4D45E4C68E52CF0}Prefabs/Weapons/Grenades/Smoke_NSP_Orange.et" {
  {
   coords 126.838 1 155
