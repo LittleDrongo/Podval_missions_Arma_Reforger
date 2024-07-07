@@ -6,7 +6,6 @@ SCR_ChimeraCharacter : "{B1788B7ADBB77B3D}Prefabs/Characters/Factions/OPFOR/RHS_
     SCR_EquipmentStorageComponent "{56B49DA9722B635D}" {
      InitialStorageSlots {
       SCR_EquipmentStorageSlot BinocularSlot {
-       Prefab "{243948B23D90BECB}Prefabs/Items/Equipment/Binoculars/Binoculars_B8/Binoculars_B8.et"
       }
      }
     }
@@ -14,12 +13,15 @@ SCR_ChimeraCharacter : "{B1788B7ADBB77B3D}Prefabs/Characters/Factions/OPFOR/RHS_
   }
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
-    Name "#AR-Role_AssistantMachineGunner"
+    Name "#AR-Role_AmmoBearer"
     Icon "{FB48FAD32DA8BC91}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_AmmoBearer.edds"
    }
   }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{BE8EBCB744BE266A}Prefabs/Characters/HeadGear/Helmet_LShZ/Helmet_LShZ_emr.et"
+    }
     LoadoutSlotInfo Back {
      Prefab "{41A9C55B61F375F0}Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok.et"
     }

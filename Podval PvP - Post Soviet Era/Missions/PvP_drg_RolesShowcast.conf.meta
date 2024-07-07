@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{9CEED1F19F664C50}Missions/PvP_drg_Island_of_bad_luck_Goglad.conf"
+ Name "{7FCB39B327BBB028}Missions/PvP_drg_RolesShowcast.conf"
  Configurations {
   CONFResourceClass PC {
   }
@@ -9,7 +9,11 @@ MetaFileClass {
   }
   CONFResourceClass PS4 : PC {
   }
+  CONFResourceClass PS5 : PC {
+  }
   CONFResourceClass HEADLESS : PC {
+  }
+  CONFResourceClass Xbox : PC {
   }
  }
 }
