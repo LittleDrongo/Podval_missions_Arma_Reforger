@@ -25,15 +25,15 @@ SCR_ChimeraCharacter : "{B1788B7ADBB77B3D}Prefabs/Characters/Factions/OPFOR/RHS_
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{61CEB755EDF28F78}" {
+     PrefabsToSpawn + {
+      "{3F8391F77D4E7AE8}Prefabs/Weapons/Attachments/Optics/1pn93/Optic_1PN93-2RPG.et"
+     }
+    }
     ItemsInitConfigurationItem "{61CEB752A397D2AA}" {
      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_RPG_Assistant.et"
      PrefabsToSpawn {
       "{FBBF84E3B447D822}Prefabs/Weapons/Ammo/RPG/RHS_AmmoRocket_PG7VL.et" "{FBBF84E3B447D822}Prefabs/Weapons/Ammo/RPG/RHS_AmmoRocket_PG7VL.et" "{4A3B196E4EA820E9}Prefabs/Weapons/Ammo/RPG/RHS_AmmoRocket_OG7V.et"
-     }
-    }
-    ItemsInitConfigurationItem "{61CEB755EDF28F78}" {
-     PrefabsToSpawn {
-      "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et" "{4572378B75A039EC}Prefabs/Weapons/Attachments/Optics/1pn93/Optic_1PN93.et"
      }
     }
     ItemsInitConfigurationItem "{61CEB754931A98C9}" {
