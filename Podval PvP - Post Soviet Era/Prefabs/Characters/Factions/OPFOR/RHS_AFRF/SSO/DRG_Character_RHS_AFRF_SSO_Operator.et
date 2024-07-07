@@ -44,20 +44,27 @@ SCR_ChimeraCharacter : "{5E0F3654C533243E}Prefabs/Characters/Factions/OPFOR/RHS_
      TargetStorage "Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_ATACS.et"
     }
     ItemsInitConfigurationItem "{61CEB755EDF28F78}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_ATACS.et"
+     TargetStorage "Prefabs/Characters/Vests/Vest_Taktika_Pouches/Pouch_Taktika_medpouch.et"
      PrefabsToSpawn {
+      "{8E97135D2E37CAA6}Prefabs/Weapons/Grenades/Grenade_Stun_OPFOR.et"
      }
     }
-    ItemsInitConfigurationItem "{61CEEE24F7D027CE}" {
+    ItemsInitConfigurationItem "{61CF0736B0111754}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_TV110_Pouches/Pouch_UP102_Admin_small_FG.et"
      PrefabsToSpawn {
-      "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et" "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et"
+      "{8E97135D2E37CAA6}Prefabs/Weapons/Grenades/Grenade_Stun_OPFOR.et"
+     }
+    }
+    ItemsInitConfigurationItem "{61CF0736AAD5BE16}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_preset_taktika_GM942.et"
+     PrefabsToSpawn {
+      "{8E97135D2E37CAA6}Prefabs/Weapons/Grenades/Grenade_Stun_OPFOR.et"
      }
     }
     ItemsInitConfigurationItem "{61CEFE90F8B0FE39}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_TV110_Pouches/Minimap_ArsArma_GMR_FG.et"
      PrefabsToSpawn {
-      "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{59015F7C36DE86C2}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_Tracer_camo.et" "{59015F7C36DE86C2}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_Tracer_camo.et" "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et" "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et" "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et" "{CE0AF733722B3978}Prefabs/Items/Equipment/Detonators/BlastingMachine_M34/BlastingMachine_M34.et"
+      "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et" "{59015F7C36DE86C2}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_Tracer_camo.et" "{CE0AF733722B3978}Prefabs/Items/Equipment/Detonators/BlastingMachine_M34/BlastingMachine_M34.et" "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et" "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et" "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et" "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et"
      }
     }
     ItemsInitConfigurationItem "{61CEFE936C453FF3}" {

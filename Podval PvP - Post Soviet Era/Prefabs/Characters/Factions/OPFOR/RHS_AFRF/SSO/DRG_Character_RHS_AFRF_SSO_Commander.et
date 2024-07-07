@@ -1,0 +1,71 @@
+SCR_ChimeraCharacter : "{8DA3D31B19FE9606}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_TeamLeader.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_CharacterInventoryStorageComponent "{520EA1D2DB118DAC}" {
+   components {
+    SCR_EquipmentStorageComponent "{56B49DA9722B635D}" {
+     InitialStorageSlots {
+      SCR_EquipmentStorageSlot BinocularSlot {
+       Prefab "{BCEA0EB0D764D8DD}Prefabs/Items/Equipment/Binoculars/Rangefinder_PDU4.et"
+      }
+     }
+    }
+   }
+  }
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "#DRG-Commander_SSO"
+   }
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{666364AAB7F6FFEC}Prefabs/Weapons/Rifles/AK74M/drg_Rifle_AK74M_npz_b10m_b19n_tgpa_var1.et"
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Back {
+     Prefab "{B31D9C2465D00D93}Prefabs/Items/Equipment/Radios/Radio_R107M_pl.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{61CEB755EDF28F78}" {
+     PrefabsToSpawn {
+     }
+    }
+    ItemsInitConfigurationItem "{61CF0736B0111754}" {
+     PrefabsToSpawn {
+     }
+    }
+    ItemsInitConfigurationItem "{61CF0736AAD5BE16}" {
+     PrefabsToSpawn {
+      "{681E772288F937F0}Prefabs/Weapons/Magazines/6l23_plastic/Magazine_545x39_plastic_AK_30rnd_7n22ap_camo.et"
+     }
+    }
+    ItemsInitConfigurationItem "{61CEFE90F8B0FE39}" {
+    }
+    ItemsInitConfigurationItem "{61CEFE936C453FF3}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Taktika_Pouches/Pouch_ArsArma_magouch_morphed_ATACS.et"
+    }
+    ItemsInitConfigurationItem "{61CEFE936C12DE5A}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Taktika_Pouches/Pouch_ArsArma_magouch_morphed_ATACS.et"
+    }
+    ItemsInitConfigurationItem "{61CEFE936FD50E1C}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Taktika_Pouches/Pouch_ArsArma_magouch_morphed_ATACS.et"
+    }
+    ItemsInitConfigurationItem "{61CEFE936F95D512}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Taktika_Pouches/Pouch_ArsArma_magouch_morphed_ATACS.et"
+    }
+    ItemsInitConfigurationItem "{61CEFE936F55D21A}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Taktika_Pouches/Pouch_Taktika_universalpouch_od.et"
+    }
+    ItemsInitConfigurationItem "{61CEFE936F6A6005}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_preset_taktika_GM942.et"
+    }
+    ItemsInitConfigurationItem "{61CEFE91AE42CE58}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_preset_taktika_GM942.et"
+    }
+   }
+  }
+ }
+}

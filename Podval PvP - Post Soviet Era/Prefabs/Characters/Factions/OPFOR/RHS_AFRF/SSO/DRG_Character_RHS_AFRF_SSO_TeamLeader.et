@@ -1,3 +1,28 @@
 SCR_ChimeraCharacter : "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator.et" {
  ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "#DRG-Squadleader_SSO"
+   }
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{EFAB1CB307D7E7A9}Prefabs/Weapons/Rifles/AK74M/drg_Rifle_AK74M_npz_b10m_b19n_tgpa_var3.et"
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{61CEFE9184A580C5}" {
+     PrefabsToSpawn {
+      "{48B06B12F3BD7E9B}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD_SL.et"
+     }
+    }
+    ItemsInitConfigurationItem "{61CF07345CAED2CA}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_ATACS.et"
+     PrefabsToSpawn {
+      "{1DAEA9434BBB003E}Prefabs/Weapons/Attachments/Optics/aimpoint_t1/Optic_t1_low.et"
+     }
+    }
+   }
+  }
+ }
 }

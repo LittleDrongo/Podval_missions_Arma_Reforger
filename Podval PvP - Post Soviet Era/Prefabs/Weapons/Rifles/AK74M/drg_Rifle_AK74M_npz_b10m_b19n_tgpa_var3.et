@@ -1,0 +1,14 @@
+GenericEntity : "{666364AAB7F6FFEC}Prefabs/Weapons/Rifles/AK74M/drg_Rifle_AK74M_npz_b10m_b19n_tgpa_var1.et" {
+ ID "CFBAA4B725411E45"
+ components {
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    AttachmentSlotComponent "{5D5100CE8CA5075D}" {
+     AttachmentSlot InventoryStorageSlot RIS_Slot {
+      Prefab "{1A8E5E21EC65EE58}Prefabs/Weapons/Attachments/Optics/reap_ir/reap_ir.et"
+     }
+    }
+   }
+  }
+ }
+}
