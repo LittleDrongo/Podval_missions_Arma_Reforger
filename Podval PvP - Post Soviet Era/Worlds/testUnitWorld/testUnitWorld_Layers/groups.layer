@@ -14,7 +14,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
  {
   coords 108.404 1 128.656
   m_aUnitPrefabSlots {
-   "{7808C4A55CAD5972}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Recon/DRG_Character_RHS_AFRF_Scout_Leader.et" "{1AE099EFD1C2597A}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Recon/DRG_Character_RHS_AFRF_ScoutRifleman.et" "{C1574B9E15551B4F}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Recon/DRG_Character_RHS_AFRF_Scout_Sapper.et" "{2315C24A02A915A5}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Recon/DRG_Character_RHS_AFRF_ScoutRTO.et"
+   "{7808C4A55CAD5972}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Recon/DRG_Character_RHS_AFRF_Scout_Leader.et" "{1AE099EFD1C2597A}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Recon/DRG_Character_RHS_AFRF_ScoutRifleman.et" "{C1574B9E15551B4F}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Recon/DRG_Character_RHS_AFRF_Scout_Sapper.et" "{2315C24A02A915A5}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Recon/DRG_Character_RHS_AFRF_ScoutRTO.et" "{5E0F3654C533243E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Armored.et" "" "" "" ""
   }
  }
 }

@@ -1,0 +1,26 @@
+GenericEntity : "{0A37504A0B3270C2}Prefabs/Weapons/Rifles/AK74M/drg_Rifle_AK74M_npz_b10m_b19n_tgpa_var2.et" {
+ coords 100.07 1 144.262
+}
+SCR_ChimeraCharacter : "{5E0F3654C533243E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Armored.et" {
+ coords 97.561 1 138.972
+}
+GenericEntity : "{666364AAB7F6FFEC}Prefabs/Weapons/Rifles/AK74M/drg_Rifle_AK74M_npz_b10m_b19n_tgpa_var1.et" {
+ coords 99.599 1 143.991
+}
+SCR_ChimeraCharacter : "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator.et" {
+ coords 95.599 1 139.622
+}
+GenericEntity : "{6E7C8E41DEAD9172}Prefabs/Characters/Vests/Vest_Taktika/Vest_Taktika_neck_arms_protection.et" {
+ coords 99.661 1 137.981
+ angleY 0
+}
+SCR_ChimeraCharacter : "{829F487B78C6F6F2}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Unarmed_.et" {
+ coords 98.419 1 137.585
+}
+GenericEntity : "{8B12A60F8E0D3F01}Prefabs/Characters/Vests/Vest_Taktika/Vest_Taktika_base.et" {
+ coords 98.877 1 137.479
+ angleY 0
+}
+SCR_ChimeraCharacter : "{FFF764BBA021A8C0}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/VV/RG/Atacs/Character_RHS_RF_SOF_AAT.et" {
+ coords 101.638 1 136.345
+}

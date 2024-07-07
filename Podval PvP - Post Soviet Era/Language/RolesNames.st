@@ -107,9 +107,9 @@ StringTable {
   }
   CustomStringTableItem "{60D4A950E1A5DEA1}" {
    Id "DRG-Rifleman_SSO"
-   Target_en_us "Scout saboteur"
-   Target_ru_ru "Разведчик"
-   Modified 1624569787
+   Target_en_us "Spec-Ops Operator"
+   Target_ru_ru "Оперативник ССО"
+   Modified 1640954027
    Author "hasta"
    LastChanged "hasta"
   }
@@ -214,6 +214,22 @@ StringTable {
    Target_en_us "Anti-tank specialist"
    Target_ru_ru "Гранатомётчик"
    Modified 1640941314
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61CEEE215262DF68}" {
+   Id "DRG_Roles_RHS_Scout_Leader"
+   Target_en_us "Scout Leader"
+   Target_ru_ru "Старший разведчик"
+   Modified 1640952603
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61CEEE211B035DE5}" {
+   Id "DRG_Roles_RHS_Scout_Sapper"
+   Target_en_us "Scout Sapper"
+   Target_ru_ru "Разведчик-сапёр"
+   Modified 1640952698
    Author "hasta"
    LastChanged "hasta"
   }

@@ -1,0 +1,15 @@
+SCR_ChimeraCharacter : "{829F487B78C6F6F2}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Unarmed_.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{8213DBE349CA6588}Prefabs/Characters/HeadGear/Helmet_LShZ/variants/Helmet_LShZ_HC_3M_atacs2.et"
+    }
+    LoadoutSlotInfo ArmoredVest {
+     Prefab "{A20DC15BF24DBE17}Prefabs/Characters/Vests/Vest_Taktika/Vest_Taktika.et"
+    }
+   }
+  }
+ }
+}
