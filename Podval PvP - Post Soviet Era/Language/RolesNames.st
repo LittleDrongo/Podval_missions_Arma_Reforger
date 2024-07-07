@@ -153,5 +153,21 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{61CEB759F6CAB9E4}" {
+   Id "DRG_Roles_RHS_AAT"
+   Target_en_us "Assistant anti-tank specialist"
+   Target_ru_ru "Помощник гранатомётчика"
+   Modified 1640942422
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61CEB75B55D06B5E}" {
+   Id "DRG_Roles_RHS_AT"
+   Target_en_us "Anti-tank specialist"
+   Target_ru_ru "Гранатомётчик"
+   Modified 1640941314
+   Author "hasta"
+   LastChanged "hasta"
+  }
  }
 }

@@ -29,6 +29,12 @@ SCR_ChimeraCharacter : "{AEC717EC136D4F82}Prefabs/Characters/Factions/OPFOR/RHS_
       "{575EA58E67448C2A}Prefabs/Items/Equipment/Flashlights/Flashlight_Soviet_01/Flashlight_Soviet_01.et"
      }
     }
+    ItemsInitConfigurationItem "{61CEB755EDF28F78}" {
+     TargetStorage "Prefabs/Characters/Uniforms/VKPO/Triada_Combat_Shirt_EMR.et"
+     PrefabsToSpawn {
+      "{B0534A120633D08D}Prefabs/Items/Equipment/Nightvision/1PN138/NVG_1PN138.et"
+     }
+    }
    }
   }
  }

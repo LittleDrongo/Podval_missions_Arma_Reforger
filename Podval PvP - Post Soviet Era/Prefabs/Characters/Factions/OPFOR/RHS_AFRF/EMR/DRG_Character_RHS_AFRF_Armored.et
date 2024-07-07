@@ -1,0 +1,24 @@
+SCR_ChimeraCharacter : "{189CB82D0B862B8E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Unarmed.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{BE8EBCB744BE266A}Prefabs/Characters/HeadGear/Helmet_LShZ/Helmet_LShZ_emr.et"
+    }
+    LoadoutSlotInfo ArmoredVest {
+     Prefab "{B9821AF2F5D104E4}Prefabs/Characters/Vests/Vest_Ratnik_6B45/Vest_Ratnik_6B45.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{61CEACAFAD493900}" {
+     PrefabsToSpawn {
+      "{8388B77DCA5B071D}Prefabs/Characters/HeadGear/Helmet_LShZ/Balaclava_frog.et"
+     }
+    }
+   }
+  }
+ }
+}

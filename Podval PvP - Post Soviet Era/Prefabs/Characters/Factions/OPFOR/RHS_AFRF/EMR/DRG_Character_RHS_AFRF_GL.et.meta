@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{A8F7D8CCB4D70889}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Character_RHS_AFRF_UnarmedArmored.et"
+ Name "{88C7C712A74C6DAD}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_GL.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
