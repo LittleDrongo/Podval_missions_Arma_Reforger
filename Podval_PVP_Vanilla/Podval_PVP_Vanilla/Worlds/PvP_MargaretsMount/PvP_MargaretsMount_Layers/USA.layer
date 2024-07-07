@@ -100,7 +100,7 @@ $grp SCR_AIGroup : "{E25C65A6D4926522}Prefabs/Groups/BLUFOR/Group_US_PlatoonSqua
    PS_GroupCallsignAssigner "{5F0CF2F9BF13A3D4}" {
    }
   }
-  coords 9460.729 327.448 3874.453
+  coords 9488.479 313.751 3867.625
   angleX -3.626
   angleY -167.29
   angleZ 11.834
