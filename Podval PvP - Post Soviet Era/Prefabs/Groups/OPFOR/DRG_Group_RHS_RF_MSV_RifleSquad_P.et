@@ -6,4 +6,7 @@ SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad_P.et
   }
  }
  m_faction "RHS_RF_MSV"
+ m_aUnitPrefabSlots {
+  "{537A04B0623D6221}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Sniper.et" "{F8C064DE20AF53A6}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_CrewCommander.et" "{B4793DD53928CD4F}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_CrewGunner.et" "{53529A3511DFC4E2}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_CrewDriver.et" "{88C7C712A74C6DAD}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_GL.et" "{7184F1B57F989704}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_PL.et" "{1DBB22961E5E56A8}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Officer.et" "{287F024245F0C9B5}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_RTO.et"
+ }
 }

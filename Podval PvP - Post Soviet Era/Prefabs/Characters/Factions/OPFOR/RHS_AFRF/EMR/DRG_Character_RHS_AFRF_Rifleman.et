@@ -25,6 +25,11 @@ SCR_ChimeraCharacter : "{CF055ECD986F8CBC}Prefabs/Characters/Factions/OPFOR/RHS_
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{61CEACA9EE4A71B4}" {
+     PrefabsToSpawn + {
+      "{65506D3712FA2D29}Prefabs/Weapons/Attachments/Bayonets/Bayonet_6X9-1.et"
+     }
+    }
     ItemsInitConfigurationItem "{61CEACA9EAEEB01E}" {
      TargetStorage "Prefabs/Characters/Uniforms/VKPO/Triada_Combat_Shirt_EMR.et"
     }

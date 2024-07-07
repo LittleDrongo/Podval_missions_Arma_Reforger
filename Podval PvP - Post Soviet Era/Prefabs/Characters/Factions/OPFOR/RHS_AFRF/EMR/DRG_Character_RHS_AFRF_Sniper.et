@@ -1,0 +1,47 @@
+SCR_ChimeraCharacter : "{B1788B7ADBB77B3D}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Rifleman.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "#AR-Role_Sharpshooter"
+    Icon "{0A78405E73C36477}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_Sharpshooter.edds"
+   }
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{C828F6D563E1A9BE}Prefabs/Weapons/Rifles/SVD/Rifle_SVD_PSO_7N14.et"
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{61CEB755EDF28F78}" {
+     PrefabsToSpawn +{
+     }
+    }
+    ItemsInitConfigurationItem "{61CEACAFAD493900}" {
+     PrefabsToSpawn {
+      "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et" "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et"
+     }
+    }
+    ItemsInitConfigurationItem "{61CEB752E97A8801}" {
+     PrefabsToSpawn {
+      "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et" "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et"
+     }
+    }
+    ItemsInitConfigurationItem "{61CEB752EB188C4A}" {
+     PrefabsToSpawn {
+      "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et" "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et"
+     }
+    }
+    ItemsInitConfigurationItem "{61CEB752A03E94C5}" {
+     PrefabsToSpawn {
+      "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et" "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et"
+     }
+    }
+    ItemsInitConfigurationItem "{61CEB752A397D2AA}" {
+     PrefabsToSpawn {
+      "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et" "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et" "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et" "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et" "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et" "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et" "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et" "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et" "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et" "{1F9F751F318EBEB0}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_7N14.et" "{10DEE0CBAB258B0D}Prefabs/Weapons/Attachments/Optics/1pn93/Optic_1PN93-3SVD.et"
+     }
+    }
+   }
+  }
+ }
+}

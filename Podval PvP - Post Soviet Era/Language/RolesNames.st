@@ -59,17 +59,17 @@ StringTable {
   }
   CustomStringTableItem "{60477B7A1CFA3768}" {
    Id "DRG-DRIVER"
-   Target_en_us "Mechanic-driver"
+   Target_en_us "Crew-driver"
    Target_ru_ru "Механик-водитель"
-   Modified 1615297570
+   Modified 1640948359
    Author "hasta"
    LastChanged "hasta"
   }
   CustomStringTableItem "{60477B7AA35CC11C}" {
    Id "DRG-GUNNER"
-   Target_en_us "Gunner-operator"
+   Target_en_us "Crew-Gunner"
    Target_ru_ru "Наводчик-оператор"
-   Modified 1615297659
+   Modified 1640948325
    Author "hasta"
    LastChanged "hasta"
   }
@@ -113,6 +113,30 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{61CED9378F6B6B92}" {
+   Id "DRG-Roles_RHS_CrewCommander"
+   Target_en_us "Crew-commander"
+   Target_ru_ru "Командир экипажа"
+   Modified 1640948511
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61CED93B29CEB228}" {
+   Id "DRG-Roles_RHS_Sapper"
+   Target_en_us "Sapper Engineer"
+   Target_ru_ru "Инженер-сапёр"
+   Modified 1640950059
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61CED93A5CDD5EC9}" {
+   Id "DRG-Roles_RHS_SapperLeader"
+   Target_en_us "Engineering Group Commander"
+   Target_ru_ru "Командир инженерной группы"
+   Modified 1640950459
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{60D69CE45493CFAD}" {
    Id "DRG-Scout-saboteur_SSO"
    Target_en_us "Scout sapper"
@@ -153,11 +177,35 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{61CED174B131E8EA}" {
+   Id "DRG-Vest_Ratnik_6B45_MG_Description"
+   Target_en_us "Developed in Podval NII"
+   Target_ru_ru "Разработано в НИИ Подвала \"Тактиковедении\""
+   Modified 1640946292
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61CED174D502C64A}" {
+   Id "DRG-Vest_Ratnik_6B45_MG_Name"
+   Target_en_us "Machinegunner vest variant (EMR)"
+   Target_ru_ru "Разгрузка пулемётчика в ЕМР"
+   Modified 1640946299
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{61CEB759F6CAB9E4}" {
    Id "DRG_Roles_RHS_AAT"
    Target_en_us "Assistant anti-tank specialist"
    Target_ru_ru "Помощник гранатомётчика"
    Modified 1640942422
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61CED9311FD65658}" {
+   Id "DRG_Roles_RHS_AR_RPK"
+   Target_en_us "Automatic rifleman"
+   Target_ru_ru "Пулемётчик РПК"
+   Modified 1640947086
    Author "hasta"
    LastChanged "hasta"
   }

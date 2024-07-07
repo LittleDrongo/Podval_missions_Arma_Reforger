@@ -13,10 +13,42 @@ SCR_ChimeraCharacter : "{B1788B7ADBB77B3D}Prefabs/Characters/Factions/OPFOR/RHS_
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Hat {
-     Prefab "{F56E8CD1046210A1}Prefabs/Characters/HeadGear/Helmet_LShZ/variants/Helmet_LShZ_HC_3M_emr_Pokemon.et"
+     Prefab "{6160CFB9CB2A3B01}Prefabs/Characters/HeadGear/Helmet_LShZ/variants/Helmet_LShZ_HC_emr_Pokemon.et"
     }
     LoadoutSlotInfo Back {
      Prefab "{41A9C55B61F375F0}Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok.et"
+    }
+    LoadoutSlotInfo Vest {
+     Prefab "{A8764A0FBA5E56D4}Prefabs/Characters/Vests/Vest_Ratnik_6B45/Variants/Vest_Ratnik_6B45_MG.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{61CEACAFAD493900}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Taktika_Pouches/Pouch_Taktika_holster.et"
+     PrefabsToSpawn {
+      "{A8B4089ACB473848}Prefabs/Weapons/Handguns/MP443/Handgun_MP443.et"
+     }
+    }
+    ItemsInitConfigurationItem "{61CEB752E97A8801}" {
+     TargetStorage "Prefabs/Items/Equipment/Accessories/Pouch_Soviet_100rnd_PKM/Pouch_Soviet_100rnd_PKM.et"
+     PrefabsToSpawn {
+      "{0110F6D92703114A}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_7N13_4Ball_1Tracer.et"
+     }
+    }
+    ItemsInitConfigurationItem "{61CEB752EB188C4A}" {
+     PrefabsToSpawn {
+     }
+    }
+    ItemsInitConfigurationItem "{61CEB752A03E94C5}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_Ratnik_Pouches/Pouch_Ratnik_appi_pouch.et"
+    }
+    ItemsInitConfigurationItem "{61CEB752A397D2AA}" {
+     TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok.et"
+     PrefabsToSpawn {
+      "{0110F6D92703114A}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_7N13_4Ball_1Tracer.et" "{0110F6D92703114A}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_7N13_4Ball_1Tracer.et" "{0110F6D92703114A}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_7N13_4Ball_1Tracer.et" "{0110F6D92703114A}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_7N13_4Ball_1Tracer.et" "{0110F6D92703114A}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_7N13_4Ball_1Tracer.et"
+     }
     }
    }
   }

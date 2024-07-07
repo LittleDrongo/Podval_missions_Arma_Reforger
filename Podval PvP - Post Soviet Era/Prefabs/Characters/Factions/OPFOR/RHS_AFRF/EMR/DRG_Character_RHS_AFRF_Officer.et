@@ -1,0 +1,14 @@
+SCR_ChimeraCharacter : "{7184F1B57F989704}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_PL.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "#AR-Role_Officer"
+    Icon "{B0B3E06A17B8AC6D}UI/Icons/officer.edds"
+   }
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{B759939178464EE4}Prefabs/Weapons/Rifles/AK74M/variants/Rifle_AK74M_npz_b10m_eot.et"
+  }
+ }
+}
