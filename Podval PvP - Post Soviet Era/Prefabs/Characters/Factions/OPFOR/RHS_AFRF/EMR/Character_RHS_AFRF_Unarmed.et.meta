@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{46A09C94F0217E58}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Prv.et"
+ Name "{189CB82D0B862B8E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Character_RHS_AFRF_Unarmed.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
@@ -8,6 +8,8 @@ MetaFileClass {
   EntityTemplateResourceClass XBOX_SERIES : PC {
   }
   EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
   }
   EntityTemplateResourceClass HEADLESS : PC {
   }

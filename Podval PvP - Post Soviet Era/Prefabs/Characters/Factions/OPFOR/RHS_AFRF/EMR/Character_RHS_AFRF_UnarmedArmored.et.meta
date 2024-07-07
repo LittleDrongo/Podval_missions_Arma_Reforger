@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{97803BFD13AFA67F}Prefabs/Items/Equipment/Radios/Radio_R148_prv.et"
+ Name "{A8F7D8CCB4D70889}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Character_RHS_AFRF_UnarmedArmored.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
