@@ -217,5 +217,21 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{61CEEE233B6075EA}" {
+   Id "DRG_Roles_RHS_ScoutRifleman"
+   Target_en_us "Scout"
+   Target_ru_ru "Разведчик-стрелок"
+   Modified 1640951470
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61CEEE228F0ABBB2}" {
+   Id "DRG_Roles_RHS_ScoutRTO"
+   Target_en_us "Scout radio operator"
+   Target_ru_ru "Разведчик-радиотелефонист"
+   Modified 1640952533
+   Author "hasta"
+   LastChanged "hasta"
+  }
  }
 }
