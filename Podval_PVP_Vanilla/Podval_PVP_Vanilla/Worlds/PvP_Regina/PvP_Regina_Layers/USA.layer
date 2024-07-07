@@ -115,7 +115,7 @@ $grp SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_
   components {
    PS_GroupCallsignAssigner "{5F0EC8D10CFDCCE5}" {
     m_iCompanyCallsign 1
-    m_iSquadCallsign 4
+    m_iSquadCallsign 1
    }
   }
   coords 7571.647 166.653 4250.568
