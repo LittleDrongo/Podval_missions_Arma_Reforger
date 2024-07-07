@@ -26,6 +26,7 @@ SCR_ChimeraCharacter : "{50B6AD4DF9F13531}Prefabs/Characters/Factions/OPFOR/RHS_
     LoadoutSlotInfo Hat {
     }
     LoadoutSlotInfo ArmoredVest {
+     Prefab ""
     }
    }
   }

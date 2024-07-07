@@ -1,6 +1,14 @@
 StringTable {
  ItemClassName "CustomStringTableItem"
  Items {
+  CustomStringTableItem "{61CF39320BCCAA57}" {
+   Id "#DRG_PC_Gen_III_Base_AR_Desc"
+   Target_en_us "Developed by Podval"
+   Target_ru_ru "Разработано Институтом НИИ Подвала отдела тактикульноведения"
+   Modified 1640981216
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{60D69CEAC1E9BFB9}" {
    Id "DRG-AT_SSO"
    Target_en_us "Scout anti-tank"
@@ -182,6 +190,14 @@ StringTable {
    Target_en_us "Machinegunner vest variant (EMR)"
    Target_ru_ru "Разгрузка пулемётчика в ЕМР"
    Modified 1640946299
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61CF39323B5493D8}" {
+   Id "DRG_PC_Gen_III_Base_AR_Name"
+   Target_en_us "Vest for AR M249"
+   Target_ru_ru "Разгрузка пулемётчика M249"
+   Modified 1640981106
    Author "hasta"
    LastChanged "hasta"
   }

@@ -1,30 +1,7 @@
-GenericEntity : "{0A37504A0B3270C2}Prefabs/Weapons/Rifles/AK74M/drg_Rifle_AK74M_npz_b10m_b19n_tgpa_var2.et" {
- coords 103.606 1.303 134.632
-}
-GameEntity : "{3F8391F77D4E7AE8}Prefabs/Weapons/Attachments/Optics/1pn93/Optic_1PN93-2RPG.et" {
- coords 108.741 1 137.556
-}
-SCR_ChimeraCharacter : "{5DBAD0F229721ADB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AT.et" {
- coords 108.745 1 134.867
-}
-SCR_ChimeraCharacter : "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator.et" {
- coords 104.173 1 132.543
-}
-SCR_ChimeraCharacter : "{6F65A9E2795AB2D3}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Medic.et" {
- coords 105.148 1 133.674
-}
-SCR_ChimeraCharacter : "{8DA3D31B19FE9606}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_TeamLeader.et" {
- coords 102.96 1 130.772
-}
-GenericEntity : "{D29F398B72BB6E9E}Prefabs/Weapons/Rifles/AK74M/drg_Rifle_AK74M_npz_b10m_b19n_tgpa_var4.et" {
- coords 103.965 1.285 135.075
-}
-SCR_ChimeraCharacter : "{D51475636CE569E4}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Sapper.et" {
- coords 104.953 1 134.802
-}
-GenericEntity : "{EFAB1CB307D7E7A9}Prefabs/Weapons/Rifles/AK74M/drg_Rifle_AK74M_npz_b10m_b19n_tgpa_var3.et" {
- coords 101.913 1.463 130.614
-}
-SCR_ChimeraCharacter : "{F01A848FC8BDA273}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_MG.et" {
- coords 105.04 1 131.238
+SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_RifleSquad_P.et" {
+ coords 128.256 1 117.724
+ m_faction "RHS_US_USMC"
+ m_aUnitPrefabSlots {
+  "{36B0CA48D7FD33BA}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_Sniper.et" "{B0318B23F981C868}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_Spotter.et" "{89A366F97406EBC5}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_RTO.et"
+ }
 }
