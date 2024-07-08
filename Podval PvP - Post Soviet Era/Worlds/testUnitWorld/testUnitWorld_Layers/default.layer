@@ -1,69 +1,32 @@
-SCR_ChimeraCharacter : "{5E0F3654C533243E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Armored.et" {
- components {
-  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
-   InitialInventoryItems {
-    ItemsInitConfigurationItem "{61CEB755EDF28F78}" {
-    }
-   }
-  }
- }
- coords 131.819 1 134.937
+SCR_ChimeraCharacter : "{0714A1857E1FA15A}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_Rifleman.et" {
+ coords 125.965 1 142.793
 }
-SCR_ChimeraCharacter : "{605823C66FDBC721}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_AR.et" {
- coords 126.6 1 134.72
+SCR_ChimeraCharacter : "{15CD521098748195}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliCrew.et" {
+ coords 127.266 1 143.026
 }
-SCR_ChimeraCharacter : "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator.et" {
- coords 130.933 1 128.864
+SCR_ChimeraCharacter : "{4B89A91679782F50}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_CrewCommander.et" {
+ coords 109.977 1 144.926
 }
-SCR_ChimeraCharacter : "{6F65A9E2795AB2D3}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Medic.et" {
- components {
-  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
-   InitialInventoryItems {
-    ItemsInitConfigurationItem "{61CEB755EDF28F78}" {
-     PrefabsToSpawn {
-     }
-    }
-    ItemsInitConfigurationItem "{61CF0736B0111754}" {
-    }
-    ItemsInitConfigurationItem "{61CF0736AAD5BE16}" {
-     PrefabsToSpawn {
-     }
-    }
-   }
-  }
- }
- coords 133.535 1 132.312
+SCR_ChimeraCharacter : "{4B89A91679782F51}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_CrewDriver.et" {
+ coords 108.878 1 145.086
 }
-SCR_ChimeraCharacter : "{8DA3D31B19FE9606}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_TeamLeader.et" {
- coords 132.188 1 128.995
-}
-SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_RifleSquad_P.et" {
- coords 128.256 1 117.724
- m_faction "RHS_US_USMC"
- m_aUnitPrefabSlots {
-  "{36B0CA48D7FD33BA}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_Sniper.et" "{B0318B23F981C868}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_Spotter.et" "{89A366F97406EBC5}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_RTO.et"
- }
-}
-SCR_ChimeraCharacter : "{B0318B23F981C868}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_Spotter.et" {
- coords 123.567 1 130.143
-}
-SCR_ChimeraCharacter : "{BB99ED025BCA260E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Sniper.et" {
- coords 130.463 1 130.38
-}
-$grp GenericEntity : "{CF5C0208677C9655}Prefabs/Characters/Vests/Vest_PCGen_III/Variants/Vest_PCGen_III_AR.et" {
+$grp SCR_ChimeraCharacter : "{582AE95F1F73CC8D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_HeliPilot.et" {
  {
-  coords 124.828 1 131.573
+  coords 119.367 1 140.946
  }
  {
-  coords 124.672 1 131.275
+  coords 118.237 1 144.45
  }
 }
-SCR_ChimeraCharacter : "{D4AF147779DA1CFC}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Commander.et" {
- coords 131.904 1 132.833
+SCR_ChimeraCharacter : "{76238FC709238572}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_HeliPilot_Radio.et" {
+ coords 120.684 1 141.4
 }
-SCR_ChimeraCharacter : "{D51475636CE569E4}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Sapper.et" {
- coords 130.749 1 127.815
+SCR_ChimeraCharacter : "{ACA20EF6518F26FD}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_CrewGunner.et" {
+ coords 107.745 1 145.293
 }
-SCR_ChimeraCharacter : "{F01A848FC8BDA273}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_MG.et" {
- coords 124.115 1 132.99
+SCR_ChimeraCharacter : "{E69674B7CD0CC2A5}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_HeliCrew.et" {
+ coords 122.654 1 142.679
+}
+SCR_ChimeraCharacter : "{E9601333852C637F}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot_P.et" {
+ coords 118.083 1 140.66
 }
