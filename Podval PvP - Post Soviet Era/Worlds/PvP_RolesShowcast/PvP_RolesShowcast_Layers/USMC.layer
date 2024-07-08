@@ -69,8 +69,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
  UNIT_15 {
   components {
    PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
-    m_iCompanyCallsign 1
-    m_iSquadCallsign 3
+    m_iCompanyCallsign 2
    }
   }
   coords 1433.691 39 2781.693
@@ -83,8 +82,8 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
  UNIT_16 {
   components {
    PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
-    m_iCompanyCallsign 1
-    m_iSquadCallsign 3
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 1
    }
   }
   coords 1431.927 39 2788.187

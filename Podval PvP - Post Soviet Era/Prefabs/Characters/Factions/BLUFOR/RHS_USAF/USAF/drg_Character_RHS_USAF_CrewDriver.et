@@ -1,0 +1,31 @@
+SCR_ChimeraCharacter : "{4B89A91679782F51}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_CrewDriver.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{CD978F0EA8D3900F}Prefabs/Characters/HeadGear/Helmet_CVC_01/Helmet_CVC_Shroud_Tan.et"
+    }
+    LoadoutSlotInfo Jacket {
+     Prefab "{7BA7FF3E9F68960E}Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_MC.et"
+    }
+    LoadoutSlotInfo Pants {
+     Prefab "{512DE5A159E82012}Prefabs/Characters/Uniforms/BDU_Pants/BDU_PANTS_MC.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{61CF392CD2DBB3E8}" {
+     TargetStorage "Prefabs/Characters/Uniforms/BDU_Pants/BDU_PANTS_MC.et"
+    }
+    ItemsInitConfigurationItem "{61CF392CD2FA5E56}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_MC.et"
+    }
+    ItemsInitConfigurationItem "{61CF392A6AF0E138}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_MC.et"
+    }
+   }
+  }
+ }
+}

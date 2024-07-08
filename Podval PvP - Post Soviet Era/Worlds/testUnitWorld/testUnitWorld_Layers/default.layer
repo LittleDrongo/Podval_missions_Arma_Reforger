@@ -1,32 +1,65 @@
-SCR_ChimeraCharacter : "{0714A1857E1FA15A}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_Rifleman.et" {
- coords 125.965 1 142.793
+SCR_ChimeraCharacter : "{02D9F2C55EC4BC36}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MGA.et" {
+ coords 99.251 1 151.528
 }
-SCR_ChimeraCharacter : "{15CD521098748195}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliCrew.et" {
- coords 127.266 1 143.026
+SCR_ChimeraCharacter : "{1E296DA3020CCC8C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Sapper.et" {
+ coords 92.284 1 152.34
 }
-SCR_ChimeraCharacter : "{4B89A91679782F50}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_CrewCommander.et" {
- coords 109.977 1 144.926
+SCR_ChimeraCharacter : "{212A2591B49F240F}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Medic.et" {
+ coords 101.417 1 151.348
 }
-SCR_ChimeraCharacter : "{4B89A91679782F51}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_CrewDriver.et" {
- coords 108.878 1 145.086
+SCR_ChimeraCharacter : "{2453510FCAD6B696}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_RTO.et" {
+ coords 93.484 1 152.072
 }
-$grp SCR_ChimeraCharacter : "{582AE95F1F73CC8D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_HeliPilot.et" {
+SCR_ChimeraCharacter : "{2A9B5EE7502556CA}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_CrewDriver.et" {
+ coords 107.257 1 150.947
+}
+SCR_ChimeraCharacter : "{310B1B6A98B670EE}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_AR.et" {
+ coords 109.714 1 150.534
+}
+SCR_ChimeraCharacter : "{3CDE654B6F0119C4}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_GL.et" {
+ coords 102.547 1 151.317
+}
+SCR_ChimeraCharacter : "{400615548C89F436}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_SapperLeader.et" {
+ coords 91.035 1 152.348
+}
+SCR_ChimeraCharacter : "{5B441024CCB4683E}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_TL.et" {
+ coords 85.848 1 152.862
+}
+SCR_ChimeraCharacter : "{5C83EA75AA32D2FD}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_SL.et" {
+ coords 89.555 1 152.488
+}
+SCR_ChimeraCharacter : "{631CC570F6F9640D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MG.et" {
+ coords 100.343 1 151.461
+}
+$grp SCR_ChimeraCharacter : "{6AD8073B67B71A7C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Rifleman.et" {
  {
-  coords 119.367 1 140.946
+  coords 110.796 1 150.162
  }
  {
-  coords 118.237 1 144.45
+  coords 103.541 1 151.221
  }
 }
-SCR_ChimeraCharacter : "{76238FC709238572}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_HeliPilot_Radio.et" {
- coords 120.684 1 141.4
+SCR_ChimeraCharacter : "{70A4F5C235238366}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Sniper.et" {
+ coords 88.222 1 152.589
 }
-SCR_ChimeraCharacter : "{ACA20EF6518F26FD}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_CrewGunner.et" {
- coords 107.745 1 145.293
+SCR_ChimeraCharacter : "{B2D9A64690CBB4BE}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Spotter.et" {
+ coords 86.896 1 152.702
 }
-SCR_ChimeraCharacter : "{E69674B7CD0CC2A5}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_HeliCrew.et" {
- coords 122.654 1 142.679
+SCR_ChimeraCharacter : "{C59D53ECB7D5E36D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_PL.et" {
+ coords 95.845 1 151.957
 }
-SCR_ChimeraCharacter : "{E9601333852C637F}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliPilot_P.et" {
- coords 118.083 1 140.66
+SCR_ChimeraCharacter : "{C8218302DB4241C3}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Officer.et" {
+ coords 97.084 1 151.961
+}
+SCR_ChimeraCharacter : "{CDB0F90778D25F67}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_CrewGunner.et" {
+ coords 105.725 1 151.073
+}
+SCR_ChimeraCharacter : "{CEEC481A6EE08439}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Rifleman_LAT.et" {
+ coords 94.617 1 151.936
+}
+SCR_ChimeraCharacter : "{E33BC1ABD270DE52}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_CrewCommander.et" {
+ coords 108.575 1 150.906
+}
+SCR_ChimeraCharacter : "{FF35618CBD9D147A}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MGAB.et" {
+ coords 98.249 1 151.847
 }
