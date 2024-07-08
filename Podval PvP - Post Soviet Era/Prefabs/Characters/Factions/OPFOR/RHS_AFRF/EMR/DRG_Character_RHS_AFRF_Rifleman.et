@@ -66,7 +66,7 @@ SCR_ChimeraCharacter : "{CF055ECD986F8CBC}Prefabs/Characters/Factions/OPFOR/RHS_
     ItemsInitConfigurationItem "{61CEB7510C69C7D5}" {
      TargetStorage "Prefabs/Characters/Uniforms/VKPO/Triada_Combat_Shirt_EMR.et"
      PrefabsToSpawn {
-      "{8388B77DCA5B071D}Prefabs/Characters/HeadGear/Helmet_LShZ/Balaclava_frog.et"
+      "{244A6A1121439AAC}Prefabs/Characters/HeadGear/Helmet_LShZ/Balaclava_LShZ_base.et"
      }
     }
    }

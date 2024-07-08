@@ -15,7 +15,7 @@ SCR_ChimeraCharacter : "{189CB82D0B862B8E}Prefabs/Characters/Factions/OPFOR/RHS_
    InitialInventoryItems {
     ItemsInitConfigurationItem "{61CEACAFAD493900}" {
      PrefabsToSpawn {
-      "{8388B77DCA5B071D}Prefabs/Characters/HeadGear/Helmet_LShZ/Balaclava_frog.et"
+      "{244A6A1121439AAC}Prefabs/Characters/HeadGear/Helmet_LShZ/Balaclava_LShZ_base.et"
      }
     }
    }
