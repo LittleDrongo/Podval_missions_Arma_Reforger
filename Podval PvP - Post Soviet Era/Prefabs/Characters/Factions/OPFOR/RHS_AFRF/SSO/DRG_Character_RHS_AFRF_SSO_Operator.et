@@ -52,13 +52,11 @@ SCR_ChimeraCharacter : "{5E0F3654C533243E}Prefabs/Characters/Factions/OPFOR/RHS_
     ItemsInitConfigurationItem "{61CF0736B0111754}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_TV110_Pouches/Pouch_UP102_Admin_small_FG.et"
      PrefabsToSpawn {
-      "{8E97135D2E37CAA6}Prefabs/Weapons/Grenades/Grenade_Stun_OPFOR.et"
      }
     }
     ItemsInitConfigurationItem "{61CF0736AAD5BE16}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_preset_taktika_GM942.et"
      PrefabsToSpawn {
-      "{8E97135D2E37CAA6}Prefabs/Weapons/Grenades/Grenade_Stun_OPFOR.et"
      }
     }
     ItemsInitConfigurationItem "{61CEFE90F8B0FE39}" {

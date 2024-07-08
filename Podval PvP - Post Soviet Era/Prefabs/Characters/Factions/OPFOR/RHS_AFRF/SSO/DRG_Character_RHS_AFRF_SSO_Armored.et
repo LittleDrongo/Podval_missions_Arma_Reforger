@@ -11,5 +11,15 @@ SCR_ChimeraCharacter : "{829F487B78C6F6F2}Prefabs/Characters/Factions/OPFOR/RHS_
     }
    }
   }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{61CEACA9EE4A71B4}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Crye_Pants/crye_pants_atacs.et"
+    }
+    ItemsInitConfigurationItem "{61CEACA9EAEEB01E}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_ATACS.et"
+    }
+   }
+  }
  }
 }

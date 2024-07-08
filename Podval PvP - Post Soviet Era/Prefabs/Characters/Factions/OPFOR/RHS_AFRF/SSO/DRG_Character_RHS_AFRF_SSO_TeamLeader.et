@@ -11,6 +11,8 @@ SCR_ChimeraCharacter : "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{61CEB755EDF28F78}" {
+    }
     ItemsInitConfigurationItem "{61CEFE9184A580C5}" {
      PrefabsToSpawn {
       "{48B06B12F3BD7E9B}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD_SL.et"

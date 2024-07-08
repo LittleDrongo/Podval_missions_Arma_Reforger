@@ -8,7 +8,7 @@ GenericEntity : "{158F912CFD723FC1}Prefabs/Characters/Vests/Vest_PCGen_III/Vest_
    Attributes SCR_ItemAttributeCollection "{5DEB2A8AB559C568}" {
     ItemDisplayName UIInfo "{5DEB2A8AB559C56B}" {
      Name "#DRG_PC_Gen_III_Base_AR_Name"
-     Description "##DRG_PC_Gen_III_Base_AR_Desc"
+     Description "#DRG_PC_Gen_III_Base_AR_Desc"
     }
     ItemPhysAttributes ItemPhysicalAttributes "{5DEB2A8AB559C560}" {
      SizeSetupStrategy Manual
