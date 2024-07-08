@@ -156,8 +156,8 @@ StringTable {
   CustomStringTableItem "{60D4D46322504D8F}" {
    Id "DRG-Sniper_SSO"
    Target_en_us "Spec-Ops Sniper"
-   Target_ru_ru "Разведчик-снайпер"
-   Modified 1640962086
+   Target_ru_ru "Снайпер ССО"
+   Modified 1641068534
    Author "hasta"
    LastChanged "hasta"
   }

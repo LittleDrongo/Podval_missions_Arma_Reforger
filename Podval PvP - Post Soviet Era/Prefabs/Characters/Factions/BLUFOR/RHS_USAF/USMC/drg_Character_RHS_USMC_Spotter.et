@@ -19,7 +19,7 @@ SCR_ChimeraCharacter : "{6D8D5DE7986CAE0B}Prefabs/Characters/Factions/BLUFOR/RHS
    }
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
-   WeaponTemplate "{E799D6F15367FC6A}Prefabs/Weapons/Rifles/M4A1/Rifle_M4A1_RAS_ACOG.et"
+   WeaponTemplate "{1F52F4D146EE2D7E}Prefabs/Weapons/Rifles/M4A1/Rifle_M4A1_RAS_ACOG_M203.et"
   }
  }
 }

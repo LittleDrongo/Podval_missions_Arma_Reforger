@@ -5,3 +5,6 @@ SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_Rifle
   "{36B0CA48D7FD33BA}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_Sniper.et" "{B0318B23F981C868}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_Spotter.et" "{89A366F97406EBC5}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_RTO.et"
  }
 }
+SCR_ChimeraCharacter : "{B0318B23F981C868}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_Spotter.et" {
+ coords 123.567 1 130.143
+}
