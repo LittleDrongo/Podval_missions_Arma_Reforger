@@ -1,0 +1,31 @@
+SCR_ChimeraCharacter : "{EC0FA9C8693899D5}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman_Random.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "#DRG_TKR_Roles_AT"
+    Icon "{00B30C29FAF85E1C}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_AntiTank.edds"
+   }
+   m_VariantData SCR_EditableEntityVariantData "{61D2C05410E875A1}" {
+    m_aVariants {
+     SCR_EditableEntityVariant "{61D2C0544460D64E}" {
+      m_sVariantPrefab "{5A988A6419A39A3C}Prefabs/Characters/Factions/INDFOR/TKR/AT_variants/Character_TKR_AT3.et"
+     }
+     SCR_EditableEntityVariant "{61D2C0544460D650}" {
+      m_sVariantPrefab "{F845ECF411147062}Prefabs/Characters/Factions/INDFOR/TKR/AT_variants/Character_TKR_AT_1.et"
+     }
+     SCR_EditableEntityVariant "{61D2C0544460D655}" {
+      m_sVariantPrefab "{9411D814ADD0FF4C}Prefabs/Characters/Factions/INDFOR/TKR/AT_variants/Character_TKR_AT_2.et"
+     }
+     SCR_EditableEntityVariant "{61D2C0544460D65B}" {
+      m_sVariantPrefab "{FDBE95DECDA33F5F}Prefabs/Characters/Factions/INDFOR/TKR/SR_variants/Character_TKR_SR_var3.et"
+      m_bEnabled 0
+     }
+     SCR_EditableEntityVariant "{61D2C0539884028C}" {
+      m_bEnabled 0
+     }
+    }
+   }
+  }
+ }
+}

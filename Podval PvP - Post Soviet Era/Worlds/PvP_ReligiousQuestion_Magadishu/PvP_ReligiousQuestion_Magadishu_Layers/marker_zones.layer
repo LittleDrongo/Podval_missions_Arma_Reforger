@@ -1,0 +1,89 @@
+PolylineShapeEntity {
+ components {
+  PS_PolyZone "{61D2EE93493FF74B}" {
+   m_mPolygonTexture ""
+   m_cPolygonColor 1 1 1 0
+   m_mPolygonTextureBorder ""
+   m_cPolygonBorderColor 0.502 0 0 1
+   m_fPolygonBorderWidth 6
+   m_aVisibleForFactions {
+    "" "RHS_US_USMC" "Ses_TKR"
+   }
+  }
+ }
+ coords 2530.454 1.319 2132.429
+ Points {
+  ShapePoint "{61D2EE9373BB026F}" {
+   Position 0 0 0
+  }
+  ShapePoint "{61D2EE9373B8F69E}" {
+   Position -12.347 0.538 32.538
+  }
+  ShapePoint "{61D2EE936D78288D}" {
+   Position -30.943 3.426 71.877
+  }
+  ShapePoint "{61D2EE936C80C7D9}" {
+   Position -44.422 4.081 110.397
+  }
+  ShapePoint "{61D2EE936463966D}" {
+   Position -53.339 2.95 130.367
+  }
+  ShapePoint "{61D2EE936706A5FC}" {
+   Position -41.412 2.971 143.104
+  }
+  ShapePoint "{61D2EE93669D562D}" {
+   Position -0.074 3.937 172.737
+  }
+  ShapePoint "{61D2EE935DF27D47}" {
+   Position 45.739 5.068 205.163
+  }
+  ShapePoint "{61D2EE935D7FDBE1}" {
+   Position 88.584 7.719 221.795
+  }
+  ShapePoint "{61D2EE935EF4EDEE}" {
+   Position 101.866 8.181 222.667
+  }
+  ShapePoint "{61D2EE935E33ED36}" {
+   Position 114.583 8.492 191.098
+  }
+  ShapePoint "{61D2EE9359EA9106}" {
+   Position 136.177 4.947 151.052
+  }
+  ShapePoint "{61D2EE935A3C76E5}" {
+   Position 153.412 0.545 104.225
+  }
+  ShapePoint "{61D2EE935717455F}" {
+   Position 155.401 0.181 78.367
+  }
+  ShapePoint "{61D2EE9352E60502}" {
+   Position 100.798 -0.038 47.283
+  }
+  ShapePoint "{61D2EE93523C289A}" {
+   Position 43.926 -0.068 17.016
+  }
+  ShapePoint "{61D2EE934D3D30A8}" {
+   Position 5.446 -0.006 -0.083
+  }
+ }
+ {
+  PS_PolyZoneTrigger {
+   components {
+    Hierarchy "{614548BDF998E12B}" {
+    }
+   }
+   TriggerShapeType Polyline
+   "Polyline Height" 500
+   TriggerActivationType "All changes"
+   PeriodicQueries 1
+   UpdatePeriod 1
+   ClassesFilter {
+    "SCR_ChimeraCharacter"
+   }
+   m_polyZoneEffect PS_PolyZoneEffectRestricted "{614548BC046ADB65}" {
+    m_fKillTime 40
+   }
+   m_bReversed 1
+   m_sFactionKey "Ses_TKR"
+  }
+ }
+}

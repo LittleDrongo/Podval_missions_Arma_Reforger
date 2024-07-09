@@ -1,0 +1,26 @@
+$grp PS_Objective {
+ {
+  coords 5031.407 179.318 12590.334
+  m_sTitle "Отбить рейд ВС США"
+  m_iScore 75
+  m_sFactionKey "Ses_TKR"
+ }
+ {
+  coords 6036.917 286.45 13805.464
+  m_sTitle "Зачистить район"
+  m_iScore 75
+  m_sFactionKey "RHS_US_USMC"
+ }
+ {
+  coords 2269.619 6.707 2310.166
+  m_sTitle "Главарь жив"
+  m_iScore 25
+  m_sFactionKey "Ses_TKR"
+ }
+ {
+  coords 3275.128 113.839 3525.296
+  m_sTitle "Главарь убит"
+  m_iScore 25
+  m_sFactionKey "RHS_US_USMC"
+ }
+}

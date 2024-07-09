@@ -265,5 +265,69 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{61D2C04C20454E0C}" {
+   Id "DRG_TKR_Roles_AT"
+   Target_en_us "Rebel AT"
+   Target_ru_ru "Боевик гранатомётчик"
+   Modified 1641211158
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61D2C04B3C2294F6}" {
+   Id "DRG_TKR_Roles_CL"
+   Target_en_us "Rebel Leader"
+   Target_ru_ru "Главарь боевиков"
+   Modified 1641211566
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61D2C04D0433B923}" {
+   Id "DRG_TKR_Roles_MachineGunner"
+   Target_en_us "Rebel Machinegunner"
+   Target_ru_ru "Боевик пулемётчик"
+   Modified 1641210761
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61D2C04C88E60C22}" {
+   Id "DRG_TKR_Roles_PL"
+   Target_en_us "Rebel Platoon Leader"
+   Target_ru_ru "Командир боевой ячейки"
+   Modified 1641211440
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61D2C0510CDBBC88}" {
+   Id "DRG_TKR_Roles_Rifleman"
+   Target_en_us "Rebel"
+   Target_ru_ru "Боевик"
+   Modified 1641208761
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61D2EE9512C4CDEE}" {
+   Id "DRG_TKR_Roles_Sapper"
+   Target_en_us "Rebel sapper"
+   Target_ru_ru "Боевик подрывник"
+   Modified 1641215887
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61D2C0506FA5D411}" {
+   Id "DRG_TKR_Roles_SL"
+   Target_en_us "Rebel Squad Leader"
+   Target_ru_ru "Командир отряда боевиков"
+   Modified 1641208982
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{61D2C051A78E14B7}" {
+   Id "DRG_TKR_Roles_TL"
+   Target_en_us "Rebel Team Leader"
+   Target_ru_ru "Опытный боевик"
+   Modified 1641208874
+   Author "hasta"
+   LastChanged "hasta"
+  }
  }
 }
