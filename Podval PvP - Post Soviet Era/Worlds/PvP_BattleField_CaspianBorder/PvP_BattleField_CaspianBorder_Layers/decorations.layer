@@ -1,0 +1,63 @@
+$grp StaticModelEntity : "{07F043DD6AACCD0B}Prefabs/Structures/Infrastructure/Barriers/BarGate_01/BarGate_01.et" {
+ {
+  coords 2004.547 0 1856.143
+  angleY 26.028
+ }
+ {
+  coords 1908.932 0 1907.446
+  angleY -150.811
+ }
+}
+SCR_DestructibleBuildingEntity : "{2EBA3486062A5A53}Prefabs/Structures/Military/Bunkers/AirfieldBunker_E_01/AirfieldBunker_E_01_big.et" {
+ coords 1546.76 2.056 668.8
+}
+GenericEntity : "{65E047A8D0FF0CB3}Prefabs/Props/Naval/Buoy_01_grounded.et" {
+ coords 1402.241 117.347 1190.676
+ scale 3.242
+}
+$grp ParticleEffectEntity : "{899360C930DA3EE3}Prefabs/Particles/Campfire_burning.et" {
+ {
+  coords 1847.784 2.593 1294.789
+  scale 400
+  PlayOnHeadlessClient 1
+ }
+ {
+  coords 1849.509 2.071 1290.625
+  scale 400
+  PlayOnHeadlessClient 1
+ }
+ {
+  coords 1850.429 1.21 1290.608
+  scale 400
+  PlayOnHeadlessClient 1
+ }
+ {
+  coords 1850.471 2.07 1291.694
+  scale 400
+  PlayOnHeadlessClient 1
+ }
+ {
+  coords 1846.37 2.253 1299.33
+  scale 400
+  PlayOnHeadlessClient 1
+ }
+}
+SCR_DestructibleBuildingEntity : "{8A8A7A558772D718}Prefabs/Structures/Military/Bunkers/AirfieldBunker_E_01/AirfieldBunker_E_01_small.et" {
+ coords 1364.765 16.296 1236.085
+ angleX -4.609
+ angleY 121.257
+ angleZ -0.03
+}
+GenericEntity : "{E55FC02F8C1518A2}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V1_US.et" {
+ coords 1717.493 9.639 811.76
+}
+$grp GenericEntity : "{EB610025D1631E00}Prefabs/Vehicles/Airplanes/IL76/Plane_IL76.et" {
+ {
+  coords 2205.959 17.45 1942.918
+  angleY -55.629
+ }
+ {
+  coords 2124.365 17.45 1990.514
+  angleY -56.336
+ }
+}

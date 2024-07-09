@@ -1,0 +1,8832 @@
+$grp StaticModelEntity : "{A46D45922F8CAD6C}Prefabs/Props/Military/Fortification/CzechHedgehog_01_painted.et" {
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1459.251 0.001 1391.658
+  angleX -3.395
+  angleY -92.869
+  angleZ -13.869
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1456.198 0 1392.608
+  angleX -9.161
+  angleY -90.924
+  angleZ -17.014
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1453.289 0.001 1393.786
+  angleX -6.912
+  angleY -91.819
+  angleZ -20.236
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1450.498 -0 1395.048
+  angleX -6.129
+  angleY -92.284
+  angleZ -18.665
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1447.553 0 1396.098
+  angleX -9.493
+  angleY -92.548
+  angleZ -13.468
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1444.999 -0.001 1396.917
+  angleX -8.786
+  angleY -92.874
+  angleZ -15.143
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1441.918 0 1398.375
+  angleX -6.867
+  angleY -92.732
+  angleZ -12.803
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1439.119 0 1399.462
+  angleX -7.701
+  angleY -92.101
+  angleZ -15.322
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1436.736 0 1400.072
+  angleX -6.873
+  angleY -92.43
+  angleZ -14.514
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1434.112 0 1401.581
+  angleX -3.544
+  angleY -93.473
+  angleZ -13.833
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1431.608 0 1402.56
+  angleX -4.058
+  angleY -93.943
+  angleZ -6.849
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1428.82 0 1403.535
+  angleX -6.71
+  angleY -93.092
+  angleZ -8.48
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1426.041 0 1404.786
+  angleX -4.754
+  angleY -93.826
+  angleZ -4.146
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1423.441 0 1405.826
+  angleX -1.015
+  angleY -93.897
+  angleZ -1.725
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1419.548 0 1407.162
+  angleX -1.624
+  angleY -68.716
+  angleZ 4.162
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1416.498 0 1408.117
+  angleX 0.263
+  angleY -92.407
+  angleZ 6.236
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1413.589 -0 1409.298
+  angleX 0.323
+  angleY -93.443
+  angleZ 5.346
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1410.798 0 1410.559
+  angleX 0.23
+  angleY -92.459
+  angleZ 5.351
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1407.854 -0 1411.61
+  angleX 0.349
+  angleY -93.73
+  angleZ 5.344
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1405.3 0.001 1412.428
+  angleX 0.26
+  angleY -93.328
+  angleZ 4.46
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1402.218 0 1413.886
+  angleX 0.306
+  angleY -93.919
+  angleZ 4.457
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1399.42 0 1414.974
+  angleX -1.546
+  angleY -93.837
+  angleZ 3.686
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1397.037 -0.001 1415.584
+  angleX -1.559
+  angleY -93.636
+  angleZ 3.681
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1394.412 0 1417.094
+  angleX -1.538
+  angleY -93.968
+  angleZ 3.69
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1391.908 -0 1418.071
+  angleX -0.831
+  angleY -93.944
+  angleZ 0.955
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1389.12 0 1419.046
+  angleX 0.954
+  angleY -93.915
+  angleZ 0.832
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1386.34 -0 1420.296
+  angleY -94.035
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1383.74 -0 1421.334
+  angleX -1.012
+  angleY -93.799
+  angleZ -1.726
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1380.776 0 1422.427
+  angleX 0.708
+  angleY -93.958
+  angleZ -2.739
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1377.721 0 1423.376
+  angleX 4.304
+  angleY -93.337
+  angleZ -2.931
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1374.813 0 1424.555
+  angleX 5.096
+  angleY -93.981
+  angleZ -3.924
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1372.02 -0 1425.814
+  angleX 6.978
+  angleY -92.975
+  angleZ -3.028
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1369.076 0 1426.865
+  angleX 6.17
+  angleY -93.802
+  angleZ -1.301
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1366.521 0 1427.681
+  angleX 6.177
+  angleY -93.49
+  angleZ -1.268
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1363.439 -0 1429.137
+  angleX 7.11
+  angleY -93.77
+  angleZ -0.467
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1360.64 0 1430.223
+  angleX 6.23
+  angleY -93.585
+  angleZ -0.389
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1358.256 0 1430.831
+  angleX 6.228
+  angleY -93.783
+  angleZ -0.411
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1355.631 -0 1432.339
+  angleX 5.28
+  angleY -94.018
+  angleZ -1.264
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1353.124 0 1433.315
+  angleX 5.277
+  angleY -94.166
+  angleZ -1.278
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1350.339 -0.001 1434.288
+  angleX 6.08
+  angleY -94.597
+  angleZ -2.273
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1347.557 0 1435.536
+  angleX 6.084
+  angleY -94.508
+  angleZ -2.263
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1344.955 0 1436.573
+  angleX 6.024
+  angleY -94.33
+  angleZ -3.131
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1229.123 -0.001 1482.369
+  angleX -0.821
+  angleY -94.551
+  angleZ 0.963
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1343.419 -0 1437.453
+  angleX 6.023
+  angleY -94.345
+  angleZ -3.132
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1340.365 0 1438.403
+  angleX 6.028
+  angleY -94.256
+  angleZ -3.123
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1337.456 -0 1439.582
+  angleX 5.061
+  angleY -94.501
+  angleZ -3.97
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1334.665 -0 1440.844
+  angleX 4.203
+  angleY -94.071
+  angleZ -3.873
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1331.72 -0 1441.893
+  angleX 4.169
+  angleY -94.573
+  angleZ -3.91
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1329.166 -0 1442.712
+  angleX 3.3
+  angleY -94.275
+  angleZ -3.826
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1326.086 0 1444.17
+  angleX 3.227
+  angleY -94.362
+  angleZ -4.718
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1323.288 0 1445.257
+  angleX 2.348
+  angleY -94.222
+  angleZ -4.648
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1320.905 0.001 1445.867
+  angleX 1.466
+  angleY -94.092
+  angleZ -4.581
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1318.281 0.001 1447.376
+  angleX 1.462
+  angleY -94.149
+  angleZ -4.583
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1315.776 -0.001 1448.355
+  angleX 0.56
+  angleY -94.267
+  angleZ -4.521
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1312.989 0 1449.33
+  angleX 0.582
+  angleY -93.984
+  angleZ -4.518
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1310.208 0.001 1450.581
+  angleX -0.315
+  angleY -94.031
+  angleZ -4.456
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1307.609 0 1451.621
+  angleX -2.081
+  angleY -93.786
+  angleZ -4.337
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1303.715 -0.001 1452.957
+  angleX -1.219
+  angleY -64.08
+  angleZ -1.587
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1300.665 -0 1453.912
+  angleX -2.721
+  angleY -92.547
+  angleZ -0.774
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1297.755 0 1455.094
+  angleX -3.513
+  angleY -93.611
+  angleZ 1.117
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1294.966 -0 1456.354
+  angleX -4.378
+  angleY -92.717
+  angleZ 1.994
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1292.02 -0 1457.405
+  angleX -3.446
+  angleY -93.929
+  angleZ 2.027
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1289.469 -0 1458.224
+  angleX -3.345
+  angleY -93.607
+  angleZ 3.787
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1286.386 0 1459.681
+  angleX -3.304
+  angleY -94.216
+  angleZ 3.822
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1283.589 -0 1460.769
+  angleX -2.495
+  angleY -93.913
+  angleZ 2.858
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1281.204 -0 1461.379
+  angleX -2.505
+  angleY -93.712
+  angleZ 2.849
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1278.58 -0 1462.889
+  angleX -2.489
+  angleY -94.034
+  angleZ 2.863
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1276.075 0 1463.866
+  angleX -0.645
+  angleY -93.977
+  angleZ 3.629
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1273.289 -0 1464.841
+  angleX -0.642
+  angleY -94.025
+  angleZ 3.63
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1270.509 -0.001 1466.091
+  angleX -0.7
+  angleY -94.111
+  angleZ 2.741
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1267.908 -0.001 1467.13
+  angleX 0.185
+  angleY -93.954
+  angleZ 2.677
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1264.944 0.001 1468.222
+  angleX -0.76
+  angleY -94.265
+  angleZ 1.851
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1261.89 -0 1469.171
+  angleX 0.109
+  angleY -93.504
+  angleZ 1.787
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1258.98 -0.001 1470.35
+  angleX 0.957
+  angleY -94.117
+  angleZ 0.828
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1256.188 0 1471.609
+  angleX 0.943
+  angleY -93.173
+  angleZ 0.844
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1253.245 -0 1472.659
+  angleX 0.955
+  angleY -93.946
+  angleZ 0.831
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1250.689 -0 1473.476
+  angleX 0.949
+  angleY -93.568
+  angleZ 0.838
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1247.608 -0 1474.932
+  angleX 0.953
+  angleY -93.859
+  angleZ 0.833
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1244.808 -0 1476.019
+  angleX 0.893
+  angleY -93.663
+  angleZ -0.057
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1242.424 0.001 1476.626
+  angleX 0.893
+  angleY -93.861
+  angleZ -0.06
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1239.799 -0 1478.135
+  angleX 0.957
+  angleY -94.116
+  angleZ 0.828
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1237.293 -0.001 1479.11
+  angleX 0.067
+  angleY -94.284
+  angleZ 0.893
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1234.505 0.001 1480.083
+  angleX 0.076
+  angleY -94.851
+  angleZ 0.892
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1231.724 -0.001 1481.331
+  angleX -0.817
+  angleY -94.795
+  angleZ 0.967
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1348.263 0 1429.145
+  angleX 3.23
+  angleY -94.319
+  angleZ -4.715
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1345.483 0.001 1430.392
+  angleX 5.067
+  angleY -94.411
+  angleZ -3.962
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1342.881 -0.001 1431.429
+  angleX 5.957
+  angleY -94.325
+  angleZ -4.015
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1227.049 -0 1477.224
+  angleX -0.892
+  angleY -94.55
+  angleZ 0.071
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1341.345 0 1432.309
+  angleX 5.141
+  angleY -94.297
+  angleZ -3.065
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1338.291 0.001 1433.259
+  angleX 5.082
+  angleY -94.192
+  angleZ -3.942
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1335.382 -0 1434.438
+  angleX 5.13
+  angleY -94.505
+  angleZ -3.084
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1332.591 0 1435.699
+  angleX 4.266
+  angleY -94.073
+  angleZ -2.986
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1329.645 -0.001 1436.75
+  angleX 3.284
+  angleY -94.513
+  angleZ -3.839
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1327.091 0 1437.568
+  angleX 3.3
+  angleY -94.275
+  angleZ -3.826
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1324.012 0 1439.026
+  angleX 2.409
+  angleY -94.294
+  angleZ -3.763
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1321.213 -0 1440.114
+  angleX 1.526
+  angleY -94.154
+  angleZ -3.695
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1318.83 -0.001 1440.724
+  angleX 1.53
+  angleY -94.096
+  angleZ -3.693
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1316.206 -0.001 1442.233
+  angleX 0.575
+  angleY -94.078
+  angleZ -4.519
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1313.701 -0 1443.211
+  angleX 0.626
+  angleY -94.271
+  angleZ -3.633
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1310.914 -0 1444.186
+  angleX -1.193
+  angleY -93.848
+  angleZ -4.397
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1308.134 -0.001 1445.438
+  angleX -1.202
+  angleY -93.961
+  angleZ -4.394
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1305.535 0 1446.477
+  angleX -2.138
+  angleY -93.762
+  angleZ -5.224
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1301.64 -0.001 1447.813
+  angleX 0.289
+  angleY -64.369
+  angleZ -6.78
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1298.591 -0 1448.768
+  angleX -2.923
+  angleY -92.589
+  angleZ -5.223
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1295.681 -0 1449.95
+  angleX -3.902
+  angleY -93.57
+  angleZ -5.113
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1292.892 0 1451.21
+  angleX -4.588
+  angleY -92.705
+  angleZ -2.462
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1289.945 -0 1452.261
+  angleX -4.517
+  angleY -93.912
+  angleZ -0.586
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1287.393 0 1453.08
+  angleX -3.626
+  angleY -93.677
+  angleZ -0.662
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1284.312 -0 1454.538
+  angleX -4.455
+  angleY -94.168
+  angleZ 0.324
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1281.514 0 1455.625
+  angleX -3.568
+  angleY -93.915
+  angleZ 0.244
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1279.13 0 1456.235
+  angleX -2.62
+  angleY -93.712
+  angleZ 1.066
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1276.506 -0.001 1457.745
+  angleX -1.724
+  angleY -93.959
+  angleZ 1.016
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1274.001 0.001 1458.723
+  angleX -2.615
+  angleY -94.014
+  angleZ 1.08
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1271.214 -0.001 1459.698
+  angleX -1.722
+  angleY -94.045
+  angleZ 1.019
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1268.434 0 1460.948
+  angleX -2.613
+  angleY -94.122
+  angleZ 1.085
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1265.833 0.001 1461.986
+  angleX -1.786
+  angleY -93.958
+  angleZ 0.123
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1262.87 -0.001 1463.078
+  angleX -1.785
+  angleY -94.239
+  angleZ 0.132
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1259.815 -0 1464.028
+  angleX -0.947
+  angleY -93.448
+  angleZ -0.84
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1256.906 -0 1465.206
+  angleX -0.064
+  angleY -94.099
+  angleZ -0.893
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1254.114 -0 1466.465
+  angleX -0.943
+  angleY -93.145
+  angleZ -0.845
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1251.17 0 1467.516
+  angleX -0.061
+  angleY -93.931
+  angleZ -0.893
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1248.615 0 1468.333
+  angleX -1.003
+  angleY -93.512
+  angleZ -1.732
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1245.533 0 1469.788
+  angleX -0.06
+  angleY -93.845
+  angleZ -0.893
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1242.733 -0 1470.875
+  angleX -0.057
+  angleY -93.648
+  angleZ -0.893
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1240.35 0 1471.482
+  angleX -0.06
+  angleY -93.845
+  angleZ -0.893
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1237.724 -0 1472.991
+  angleX -0.064
+  angleY -94.127
+  angleZ -0.893
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1235.218 0 1473.966
+  angleX -0.067
+  angleY -94.282
+  angleZ -0.893
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1232.431 -0.001 1474.939
+  angleX -0.967
+  angleY -94.836
+  angleZ -0.816
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1229.649 -0 1476.188
+  angleX -0.892
+  angleY -94.794
+  angleZ 0.075
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1226.292 0 1483.433
+  angleX -0.828
+  angleY -94.156
+  angleZ 0.958
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1223.238 -0 1484.382
+  angleX -1.663
+  angleY -93.946
+  angleZ 1.908
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1220.329 -0 1485.562
+  angleX -2.615
+  angleY -94.017
+  angleZ 1.08
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1217.538 0 1486.823
+  angleX -2.506
+  angleY -93.676
+  angleZ 2.847
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1214.594 0 1487.872
+  angleX -3.446
+  angleY -93.912
+  angleZ 2.026
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1212.039 0 1488.692
+  angleX -3.466
+  angleY -93.343
+  angleZ 1.992
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1208.959 0.001 1490.15
+  angleX -4.256
+  angleY -94.263
+  angleZ 3
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1206.16 0 1491.237
+  angleX -4.195
+  angleY -94.185
+  angleZ 3.882
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1203.776 -0 1491.847
+  angleX -5.148
+  angleY -94.163
+  angleZ 3.053
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1201.153 -0 1493.356
+  angleX -5.082
+  angleY -94.191
+  angleZ 3.942
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1198.648 0.001 1494.334
+  angleX -5.022
+  angleY -94.138
+  angleZ 4.822
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1195.861 0 1495.309
+  angleX -5.087
+  angleY -94.119
+  angleZ 3.936
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1193.082 0 1496.561
+  angleX -3.252
+  angleY -94.053
+  angleZ 4.7
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1190.482 0 1497.601
+  angleX -2.368
+  angleY -93.969
+  angleZ 4.637
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1186.589 -0 1498.937
+  angleX -3.892
+  angleY -66.314
+  angleZ 2.194
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1183.538 0 1499.891
+  angleX -1.593
+  angleY -92.499
+  angleZ 4.539
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1180.629 -0 1501.073
+  angleX -1.566
+  angleY -93.536
+  angleZ 3.678
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1177.839 0 1502.333
+  angleX -0.698
+  angleY -92.518
+  angleZ 4.502
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1174.894 0 1503.384
+  angleX 0.289
+  angleY -93.706
+  angleZ 4.458
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1172.34 -0 1504.203
+  angleX 0.208
+  angleY -93.33
+  angleZ 3.57
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1169.259 -0 1505.661
+  angleX 2.024
+  angleY -93.814
+  angleZ 3.448
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1166.461 -0 1506.749
+  angleX 1.958
+  angleY -93.678
+  angleZ 2.562
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1164.078 -0 1507.359
+  angleX 1.896
+  angleY -93.5
+  angleZ 1.676
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1161.453 0 1508.87
+  angleX 3.741
+  angleY -93.684
+  angleZ 2.443
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1158.948 0 1509.846
+  angleX 3.688
+  angleY -93.832
+  angleZ 1.544
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1156.161 0 1510.821
+  angleX 3.746
+  angleY -93.796
+  angleZ 2.436
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1153.381 0 1512.071
+  angleX 4.579
+  angleY -93.942
+  angleZ 1.474
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1150.78 -0 1513.109
+  angleX 4.517
+  angleY -93.853
+  angleZ 0.591
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1147.817 0 1514.202
+  angleX 5.405
+  angleY -94.067
+  angleZ 0.51
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1144.761 0 1515.151
+  angleX 5.398
+  angleY -93.329
+  angleZ 0.579
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1141.854 0 1516.329
+  angleX 6.288
+  angleY -93.981
+  angleZ 0.455
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1139.061 -0 1517.589
+  angleX 5.349
+  angleY -92.975
+  angleZ -0.278
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1136.117 -0 1518.639
+  angleX 6.228
+  angleY -93.804
+  angleZ -0.413
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1133.562 -0 1519.456
+  angleX 6.23
+  angleY -93.492
+  angleZ -0.379
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1130.48 0 1520.912
+  angleX 6.229
+  angleY -93.764
+  angleZ -0.409
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1127.681 -0.001 1521.998
+  angleX 6.23
+  angleY -93.585
+  angleZ -0.389
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1125.297 0 1522.606
+  angleX 5.344
+  angleY -93.777
+  angleZ -0.352
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1122.672 -0.001 1524.114
+  angleX 6.227
+  angleY -94.039
+  angleZ -0.439
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1120.165 -0 1525.089
+  angleX 5.342
+  angleY -94.182
+  angleZ -0.39
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1117.378 0.001 1526.063
+  angleX 5.268
+  angleY -94.594
+  angleZ -1.317
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1114.598 0 1527.311
+  angleX 5.339
+  angleY -94.531
+  angleZ -0.423
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1111.996 0 1528.349
+  angleX 5.341
+  angleY -94.325
+  angleZ -0.403
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 996.164 0.001 1574.143
+  angleX 0.071
+  angleY -94.537
+  angleZ 0.892
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1110.46 -0 1529.228
+  angleX 4.388
+  angleY -94.307
+  angleZ -1.225
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1107.406 0 1530.177
+  angleX 4.455
+  angleY -94.244
+  angleZ -0.33
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1104.497 0 1531.357
+  angleX 4.453
+  angleY -94.498
+  angleZ -0.35
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1101.706 0 1532.618
+  angleX 3.567
+  angleY -94.064
+  angleZ -0.253
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1098.76 0 1533.668
+  angleX 2.605
+  angleY -94.496
+  angleZ -1.102
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1096.207 -0.001 1534.487
+  angleX 2.743
+  angleY -94.277
+  angleZ 0.692
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1093.127 -0 1535.945
+  angleX 0.893
+  angleY -94.288
+  angleZ -0.067
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1090.328 0 1537.032
+  angleX 0.893
+  angleY -94.149
+  angleZ -0.065
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1087.945 0 1537.642
+  angleX 0.957
+  angleY -94.1
+  angleZ 0.829
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1085.321 0 1539.151
+  angleX 0.064
+  angleY -94.086
+  angleZ 0.893
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1082.816 -0 1540.13
+  angleX 0.134
+  angleY -94.281
+  angleZ 1.785
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1080.029 0 1541.104
+  angleX -0.83
+  angleY -94.019
+  angleZ 0.956
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1077.249 -0 1542.356
+  angleX -0.713
+  angleY -93.842
+  angleZ 2.737
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1074.65 -0 1543.396
+  angleX -1.602
+  angleY -93.919
+  angleZ 2.799
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1070.755 0 1544.732
+  angleX -6.252
+  angleY -64.508
+  angleZ 6.851
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1067.706 0 1545.687
+  angleX -7.325
+  angleY -93.339
+  angleZ 11.819
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1064.796 -0 1546.87
+  angleX -6.933
+  angleY -95.001
+  angleZ 21.792
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1062.007 0 1548.129
+  angleX -9.253
+  angleY -94.993
+  angleZ 24.843
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1059.061 -0 1549.179
+  angleX -7.792
+  angleY -96.075
+  angleZ 25.71
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1056.508 -0 1549.999
+  angleX -8.163
+  angleY -95.471
+  angleZ 24.9
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1053.427 0.001 1551.456
+  angleX -5.843
+  angleY -95.528
+  angleZ 21.815
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1050.629 0 1552.544
+  angleX -6.561
+  angleY -95.11
+  angleZ 16.211
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1048.245 0 1553.154
+  angleX -5.062
+  angleY -94.421
+  angleZ 15.227
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1045.621 -0 1554.664
+  angleX -2.681
+  angleY -94.373
+  angleZ 11.699
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1043.116 -0 1555.641
+  angleX -2.748
+  angleY -94.379
+  angleZ 10.841
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1040.329 0 1556.616
+  angleX -2.151
+  angleY -94.219
+  angleZ 7.295
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1037.549 0.001 1557.866
+  angleX -1.322
+  angleY -94.237
+  angleZ 6.354
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1034.948 0 1558.905
+  angleX -1.532
+  angleY -94.065
+  angleZ 3.693
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1031.985 0 1559.997
+  angleX -0.625
+  angleY -94.286
+  angleZ 3.633
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1028.93 -0 1560.946
+  angleX -0.783
+  angleY -93.534
+  angleZ 1.842
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1026.021 0 1562.125
+  angleX 0.064
+  angleY -94.131
+  angleZ 0.893
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1023.229 0 1563.383
+  angleX 0.05
+  angleY -93.187
+  angleZ 0.894
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1020.285 0 1564.434
+  angleX 0.062
+  angleY -93.96
+  angleZ 0.893
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1017.73 0 1565.251
+  angleX 0.056
+  angleY -93.582
+  angleZ 0.893
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1014.648 -0 1566.707
+  angleY -93.86
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1011.848 -0 1567.793
+  angleY -93.663
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1009.465 -0 1568.401
+  angleY -93.861
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1006.839 -0 1569.91
+  angleY -94.129
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1004.333 -0 1570.884
+  angleY -94.284
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1001.546 -0 1571.859
+  angleY -94.851
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 998.765 -0 1573.106
+  angleY -94.794
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 996.671 -0 1571.082
+  angleY -94.794
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1224.893 -0 1478.253
+  angleX -1.785
+  angleY -94.123
+  angleZ 0.129
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1221.839 -0 1479.203
+  angleX -2.737
+  angleY -93.832
+  angleZ -0.713
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1218.93 0 1480.382
+  angleX -2.677
+  angleY -93.993
+  angleZ 0.187
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1216.139 0 1481.643
+  angleX -3.569
+  angleY -93.66
+  angleZ 0.228
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1213.195 -0 1482.693
+  angleX -3.507
+  angleY -93.919
+  angleZ 1.136
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1210.64 0 1483.512
+  angleX -3.517
+  angleY -93.394
+  angleZ 1.103
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1207.56 0 1484.97
+  angleX -4.324
+  angleY -94.213
+  angleZ 2.108
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1204.761 0 1486.057
+  angleX -5.28
+  angleY -94.058
+  angleZ 1.268
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1202.378 -0 1486.667
+  angleX -4.33
+  angleY -94.064
+  angleZ 2.096
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1199.754 0 1488.176
+  angleX -4.265
+  angleY -94.09
+  angleZ 2.987
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1197.249 -0 1489.155
+  angleX -5.152
+  angleY -94.098
+  angleZ 3.047
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1194.462 0.001 1490.13
+  angleX -4.204
+  angleY -94.055
+  angleZ 3.872
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1191.682 -0 1491.381
+  angleX -3.316
+  angleY -94.045
+  angleZ 3.813
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1189.083 0 1492.421
+  angleX -2.431
+  angleY -93.957
+  angleZ 3.749
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1185.19 0.001 1493.757
+  angleX -3.055
+  angleY -66.779
+  angleZ 2.579
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1182.139 -0 1494.712
+  angleX -2.568
+  angleY -92.434
+  angleZ 2.792
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1179.23 0 1495.893
+  angleX -1.623
+  angleY -93.494
+  angleZ 2.786
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1176.439 0.001 1497.154
+  angleX -0.739
+  angleY -92.491
+  angleZ 3.611
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1173.495 0.001 1498.205
+  angleX -0.72
+  angleY -93.697
+  angleZ 2.736
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1170.941 -0 1499.023
+  angleX 0.156
+  angleY -93.331
+  angleZ 2.679
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1167.86 0 1500.481
+  angleX 1.075
+  angleY -93.882
+  angleZ 2.617
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1165.062 -0.001 1501.569
+  angleX 1.067
+  angleY -93.715
+  angleZ 2.62
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1162.679 0 1502.179
+  angleX 2.787
+  angleY -93.477
+  angleZ 1.622
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1160.054 0 1503.689
+  angleX 1.845
+  angleY -93.786
+  angleZ 0.775
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1157.549 0 1504.666
+  angleX 3.688
+  angleY -93.832
+  angleZ 1.544
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1154.762 -0 1505.641
+  angleX 3.629
+  angleY -93.885
+  angleZ 0.649
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1151.982 0 1506.891
+  angleX 4.518
+  angleY -93.999
+  angleZ 0.579
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1149.381 -0 1507.929
+  angleX 3.568
+  angleY -93.89
+  angleZ -0.242
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1146.418 0 1509.022
+  angleX 4.456
+  angleY -94.091
+  angleZ -0.318
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1143.363 0.001 1509.971
+  angleX 5.398
+  angleY -93.329
+  angleZ 0.579
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1140.454 0 1511.15
+  angleX 5.343
+  angleY -93.99
+  angleZ -0.372
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1137.662 0 1512.409
+  angleX 5.349
+  angleY -92.975
+  angleZ -0.278
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1134.718 0 1513.459
+  angleX 6.228
+  angleY -93.804
+  angleZ -0.413
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1132.163 0 1514.276
+  angleX 5.346
+  angleY -93.487
+  angleZ -0.325
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1129.081 -0 1515.732
+  angleX 5.287
+  angleY -93.73
+  angleZ -1.237
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1126.281 -0.001 1516.818
+  angleX 5.29
+  angleY -93.564
+  angleZ -1.222
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1123.898 0 1517.426
+  angleX 4.343
+  angleY -93.713
+  angleZ -2.07
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1121.272 0 1518.934
+  angleX 5.28
+  angleY -94.018
+  angleZ -1.264
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1118.766 0 1519.91
+  angleX 5.277
+  angleY -94.166
+  angleZ -1.278
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1115.979 0 1520.883
+  angleX 5.268
+  angleY -94.594
+  angleZ -1.317
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1113.199 -0.001 1522.131
+  angleX 4.384
+  angleY -94.487
+  angleZ -1.239
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1110.597 -0 1523.168
+  angleX 4.388
+  angleY -94.295
+  angleZ -1.224
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 994.765 -0 1568.963
+  angleY -94.55
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1109.061 -0.001 1524.048
+  angleX 4.388
+  angleY -94.307
+  angleZ -1.225
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1106.007 -0 1524.998
+  angleX 4.39
+  angleY -94.219
+  angleZ -1.218
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1103.098 0 1526.177
+  angleX 3.496
+  angleY -94.469
+  angleZ -1.169
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1100.307 -0 1527.438
+  angleX 3.504
+  angleY -94.054
+  angleZ -1.144
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1097.362 0.001 1528.488
+  angleX 2.675
+  angleY -94.506
+  angleZ -0.211
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1094.808 0.001 1529.307
+  angleX 2.676
+  angleY -94.269
+  angleZ -0.2
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1091.728 -0 1530.765
+  angleX 0.893
+  angleY -94.288
+  angleZ -0.067
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1088.929 0 1531.852
+  angleX 0.893
+  angleY -94.149
+  angleZ -0.065
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1086.546 -0 1532.462
+  angleY -94.092
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1083.922 0 1533.971
+  angleX -0.893
+  angleY -94.079
+  angleZ 0.064
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1081.417 0 1534.95
+  angleX -0.893
+  angleY -94.269
+  angleZ 0.067
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1078.63 -0 1535.925
+  angleX -0.83
+  angleY -94.019
+  angleZ 0.956
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1075.85 0 1537.176
+  angleX -1.786
+  angleY -93.902
+  angleZ 0.122
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1073.251 -0 1538.216
+  angleX -1.786
+  angleY -93.883
+  angleZ 0.121
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1069.357 -0 1539.552
+  angleX -1.61
+  angleY -64.058
+  angleZ -0.783
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1066.307 0 1540.507
+  angleX -1.674
+  angleY -92.449
+  angleZ 2.757
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1063.397 0 1541.689
+  angleX -4.231
+  angleY -93.662
+  angleZ 3.843
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1060.608 0 1542.949
+  angleX -5.394
+  angleY -93.018
+  angleZ 15.926
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1057.662 0 1544
+  angleX -8.731
+  angleY -95.769
+  angleZ 18.845
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1055.109 -0 1544.819
+  angleX -7.612
+  angleY -95.107
+  angleZ 23.348
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1052.028 -0.001 1546.276
+  angleX -8.479
+  angleY -96.901
+  angleZ 24.405
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1049.23 -0 1547.364
+  angleX -6.495
+  angleY -95.665
+  angleZ 23.386
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1046.846 0 1547.974
+  angleX -5.915
+  angleY -95.148
+  angleZ 22.539
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1044.222 -0 1549.484
+  angleX -6.093
+  angleY -95.801
+  angleZ 18.713
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1041.717 0 1550.461
+  angleX -4.045
+  angleY -94.901
+  angleZ 15.215
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1038.93 -0 1551.436
+  angleX -2.449
+  angleY -94.484
+  angleZ 14.246
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1036.15 -0.001 1552.686
+  angleX -2.779
+  angleY -94.591
+  angleZ 9.988
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1033.549 0 1553.725
+  angleX -2.006
+  angleY -94.303
+  angleZ 9.047
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1030.586 0 1554.817
+  angleX -1.304
+  angleY -94.402
+  angleZ 6.358
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1027.531 -0.001 1555.766
+  angleX -1.5
+  angleY -93.676
+  angleZ 4.57
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1024.622 0.001 1556.945
+  angleX -0.696
+  angleY -94.198
+  angleZ 2.742
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1021.83 -0 1558.204
+  angleX -0.793
+  angleY -93.229
+  angleZ 1.837
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1018.886 -0 1559.254
+  angleX 0.124
+  angleY -93.972
+  angleZ 1.786
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1016.331 0 1560.071
+  angleX 0.112
+  angleY -93.593
+  angleZ 1.786
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1013.249 0 1561.527
+  angleX 0.06
+  angleY -93.873
+  angleZ 0.893
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1010.449 0 1562.614
+  angleX 0.057
+  angleY -93.677
+  angleZ 0.893
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1008.066 0 1563.221
+  angleX 0.06
+  angleY -93.875
+  angleZ 0.893
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1005.44 -0 1564.73
+  angleY -94.129
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1002.935 -0 1565.705
+  angleY -94.284
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1000.147 -0 1566.678
+  angleY -94.851
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 997.366 -0 1567.926
+  angleY -94.794
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1910.532 0 1322.981
+  angleX -1.598
+  angleY 63.403
+  angleZ 4.792
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1913.586 0 1322.908
+  angleX 5.511
+  angleY 64.793
+  angleZ 3.316
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1916.693 -0 1323.093
+  angleX 1.977
+  angleY 63.784
+  angleZ 4.007
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1919.351 0 1323.339
+  angleX 1.934
+  angleY 64.07
+  angleZ 6.002
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1922.739 0 1323.202
+  angleX 2.786
+  angleY 63.667
+  angleZ 3.606
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1925.729 0 1323.295
+  angleX 3.176
+  angleY 63.995
+  angleZ 2.428
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1928.15 0 1323.666
+  angleX 3.175
+  angleY 64.009
+  angleZ 2.429
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1931.143 -0 1323.301
+  angleX 3.974
+  angleY 63.766
+  angleZ 4.01
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1933.814 0 1323.383
+  angleX 4.361
+  angleY 63.841
+  angleZ 4.81
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1936.743 0 1323.578
+  angleX 1.163
+  angleY 63.922
+  angleZ 4.405
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1939.766 0 1323.52
+  angleX 0.744
+  angleY 63.862
+  angleZ 7.568
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1942.545 0.001 1323.585
+  angleX 9.582
+  angleY 65.788
+  angleZ 8.237
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1946.658 0 1323.86
+  angleX 4.944
+  angleY 77.841
+  angleZ 14.152
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1949.788 0.001 1324.197
+  angleX 6.531
+  angleY 70.063
+  angleZ 22.028
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1952.913 -0 1324.248
+  angleX 15.516
+  angleY 70.762
+  angleZ 21.85
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1955.957 0 1324.181
+  angleX 10.276
+  angleY 69.379
+  angleZ 11.977
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1959.062 -0 1324.365
+  angleX 7.361
+  angleY 65.042
+  angleZ 7.316
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1961.721 -0 1324.609
+  angleX 6.987
+  angleY 65.059
+  angleZ 6.53
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1965.108 0 1324.473
+  angleX 6.652
+  angleY 64.361
+  angleZ 7.619
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1968.089 0 1324.569
+  angleX 8.585
+  angleY 65.016
+  angleZ 5.761
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1970.507 0 1324.941
+  angleX 9.003
+  angleY 65.089
+  angleZ 4.601
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1973.494 -0 1324.58
+  angleX 9.843
+  angleY 64.386
+  angleZ 4.101
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1976.171 0 1324.657
+  angleX 10.613
+  angleY 64.573
+  angleZ 3.747
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1979.109 0 1324.846
+  angleX 10.626
+  angleY 64.377
+  angleZ 3.71
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1982.147 0.001 1324.777
+  angleX 4.434
+  angleY 63.104
+  angleZ 6.729
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1984.941 0 1324.834
+  angleX 5.112
+  angleY 64.142
+  angleZ 6.417
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1988.096 -0 1324.977
+  angleX 5.909
+  angleY 64.152
+  angleZ 6.026
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1991.289 0 1325.282
+  angleX 5.09
+  angleY 64.739
+  angleZ 4.494
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1994.439 -0 1325.318
+  angleX 9.074
+  angleY 64.745
+  angleZ 2.578
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1997.514 0.001 1325.233
+  angleX 10.62
+  angleY 65.543
+  angleZ 1.963
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2000.646 0 1325.399
+  angleX 8.743
+  angleY 63.952
+  angleZ -0.317
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2003.329 -0.001 1325.629
+  angleX 9.905
+  angleY 65.022
+  angleZ 0.273
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2006.748 0 1325.473
+  angleX 9.531
+  angleY 63.671
+  angleZ -2.723
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2009.759 0 1325.551
+  angleX 9.179
+  angleY 64.251
+  angleZ -3.423
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2012.2 -0 1325.908
+  angleX 7.99
+  angleY 63.931
+  angleZ -3.89
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2015.212 0 1325.531
+  angleX 5.198
+  angleY 63.695
+  angleZ -1.571
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2017.912 0 1325.597
+  angleX 4.799
+  angleY 64.462
+  angleZ -0.313
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2020.875 0 1325.77
+  angleX 4.802
+  angleY 64.965
+  angleZ -0.271
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2023.938 0.001 1325.688
+  angleX 4.057
+  angleY 65.2
+  angleZ -1.872
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2026.754 -0 1325.732
+  angleX 5.763
+  angleY 64.594
+  angleZ -8.584
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2150.943 -0 1328.714
+  angleY 62.412
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2028.519 -0 1325.511
+  angleX 5.227
+  angleY 63.657
+  angleZ -9.462
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2031.719 0 1325.809
+  angleX 5.666
+  angleY 63.954
+  angleZ -8.648
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2034.873 0.001 1325.841
+  angleX 6.778
+  angleY 63.48
+  angleZ -4.359
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2037.947 -0.001 1325.752
+  angleX 2.399
+  angleY 63.343
+  angleZ -1.204
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2041.082 -0.001 1325.92
+  angleX -23.726
+  angleY 64.343
+  angleZ -2.563
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2043.765 -0.001 1326.152
+  angleX 5.451
+  angleY 70.168
+  angleZ 14.755
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2047.182 0 1325.997
+  angleX 7.065
+  angleY 65.8
+  angleZ 2.675
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2050.188 -0 1326.078
+  angleX 7.925
+  angleY 73.294
+  angleZ 7.765
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2052.622 -0 1326.438
+  angleX -6.903
+  angleY 66.806
+  angleZ 15.157
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2055.629 -0.001 1326.063
+  angleX 12.173
+  angleY 70.113
+  angleZ 17.408
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2058.317 -0 1326.134
+  angleX 19.451
+  angleY 73.308
+  angleZ 13.416
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2061.263 0 1326.317
+  angleX 13.059
+  angleY 70.121
+  angleZ 10.052
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2064.301 -0 1326.247
+  angleX 1.521
+  angleY 61.953
+  angleZ 12.185
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2067.09 0.001 1326.305
+  angleX 2.339
+  angleY 65.708
+  angleZ 11.544
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2071.177 -0 1326.6
+  angleX -1.868
+  angleY 90.385
+  angleZ 11.464
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2074.339 -0 1326.918
+  angleX 1.306
+  angleY 67.391
+  angleZ 10.017
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2077.454 0 1326.975
+  angleX -0.871
+  angleY 65.842
+  angleZ 11.043
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2080.488 0.001 1326.914
+  angleX -3.519
+  angleY 68.34
+  angleZ 12.721
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2083.585 -0.001 1327.108
+  angleX -0.182
+  angleY 69.8
+  angleZ 12.277
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2086.235 0 1327.359
+  angleX 1.982
+  angleY 70.05
+  angleZ 10.581
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2089.611 -0 1327.232
+  angleX -0.059
+  angleY 68.548
+  angleZ 9.552
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2092.59 0.001 1327.332
+  angleX -1.165
+  angleY 68.21
+  angleZ 9.065
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2095.009 -0 1327.706
+  angleX -2.135
+  angleY 66.933
+  angleZ 8.622
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2097.99 0 1327.349
+  angleX -1.943
+  angleY 67.889
+  angleZ 9.396
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2100.667 -0 1327.431
+  angleX 2.535
+  angleY 70.313
+  angleZ 12.204
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2103.6 0 1327.625
+  angleX 7.214
+  angleY 70.774
+  angleZ 12.346
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2106.633 -0 1327.562
+  angleX 10.482
+  angleY 67.407
+  angleZ 8.938
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2109.421 0.001 1327.621
+  angleX 10.301
+  angleY 66.321
+  angleZ 7.959
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2112.562 0.001 1327.774
+  angleX 10.963
+  angleY 64.838
+  angleZ 4.582
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2115.734 0.001 1328.091
+  angleX 15.331
+  angleY 65.551
+  angleZ 8.23
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2118.863 0 1328.139
+  angleX 12.256
+  angleY 62.705
+  angleZ 2.582
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2121.913 0 1328.069
+  angleX 7.956
+  angleY 63.278
+  angleZ -0.022
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2125.025 0 1328.248
+  angleX 4.79
+  angleY 62.982
+  angleZ -0.437
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2127.692 0.001 1328.491
+  angleX 4.793
+  angleY 63.469
+  angleZ -0.396
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2131.089 -0 1328.35
+  angleX 3.997
+  angleY 63.216
+  angleZ -0.015
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2134.083 -0.001 1328.439
+  angleX 3.997
+  angleY 63.415
+  angleZ -0.001
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2136.51 -0 1328.808
+  angleX 3.201
+  angleY 63.253
+  angleZ 0.39
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2139.506 0 1328.443
+  angleX 2.408
+  angleY 62.883
+  angleZ 0.777
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2142.186 -0 1328.523
+  angleX 1.206
+  angleY 62.716
+  angleZ 0.385
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2145.121 0.001 1328.714
+  angleX 2.418
+  angleY 62.152
+  angleZ 0.746
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2148.158 -0 1328.652
+  angleX 1.209
+  angleY 62.188
+  angleZ 0.374
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1902.675 -0 1319.701
+  angleX 1.222
+  angleY 64.176
+  angleZ -1.585
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1905.856 -0 1320.014
+  angleX 6.322
+  angleY 62.8
+  angleZ -5.229
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1908.993 0 1320.059
+  angleX -2.396
+  angleY 63.764
+  angleZ -0.814
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1912.047 0.001 1319.986
+  angleX 4.756
+  angleY 64.744
+  angleZ 1.704
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1915.154 0 1320.171
+  angleX 2.122
+  angleY 64.597
+  angleZ -5.938
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1917.811 0.001 1320.417
+  angleX -0.77
+  angleY 64.517
+  angleZ -1.616
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1921.199 0 1320.28
+  angleX 3.212
+  angleY 63.638
+  angleZ -3.582
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1924.19 0 1320.373
+  angleX -7.564
+  angleY 63.468
+  angleZ 2.772
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1926.611 -0 1320.744
+  angleX 3.934
+  angleY 63.89
+  angleZ 7.968
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1929.604 0.001 1320.379
+  angleX 8.621
+  angleY 64.339
+  angleZ 7.612
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1932.275 0.001 1320.461
+  angleX 1.64
+  angleY 63.191
+  angleZ 9.12
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1935.203 0 1320.656
+  angleX 9.271
+  angleY 65.007
+  angleZ 9.263
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1938.227 0 1320.597
+  angleX 3.965
+  angleY 64.357
+  angleZ 2.06
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1941.006 0 1320.662
+  angleX 0.573
+  angleY 65.339
+  angleZ -5.174
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1945.119 0 1320.938
+  angleX -2.732
+  angleY 78.02
+  angleZ -8.499
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1948.249 -0 1321.275
+  angleX 0.499
+  angleY 69.28
+  angleZ -8.734
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1951.374 0.001 1321.326
+  angleX -8.168
+  angleY 67.662
+  angleZ -8.098
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1954.418 -0 1321.259
+  angleX 6.356
+  angleY 69.838
+  angleZ -13.45
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1957.523 0.001 1321.442
+  angleX 14.907
+  angleY 65.054
+  angleZ -1.131
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1960.182 -0.001 1321.686
+  angleX 6.784
+  angleY 65.318
+  angleZ -0.175
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1963.569 0 1321.551
+  angleX 1.681
+  angleY 65.085
+  angleZ -2.752
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1966.55 -0 1321.647
+  angleX 3.565
+  angleY 64.979
+  angleZ 1.295
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1968.968 -0.001 1322.019
+  angleX 6.783
+  angleY 65.078
+  angleZ -0.204
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1971.955 0 1321.658
+  angleX 9.468
+  angleY 64.379
+  angleZ 3.311
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1974.632 0 1321.735
+  angleX 9.436
+  angleY 64.371
+  angleZ 5.274
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1977.57 0.001 1321.923
+  angleX 12.114
+  angleY 64.374
+  angleZ 6.82
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1980.607 0 1321.855
+  angleX 6.375
+  angleY 63.485
+  angleZ 4.769
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1983.401 0 1321.912
+  angleX 1.614
+  angleY 64.378
+  angleZ -0.774
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1986.556 -0 1322.055
+  angleX 2.807
+  angleY 64.464
+  angleZ -0.35
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1989.75 0 1322.361
+  angleX 2.81
+  angleY 65.031
+  angleZ -0.322
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1992.9 -0.001 1322.395
+  angleX 4.858
+  angleY 65.025
+  angleZ -2.259
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1995.974 -0.001 1322.311
+  angleX 6.162
+  angleY 66.109
+  angleZ -3.693
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1999.107 -0 1322.477
+  angleX 8.057
+  angleY 64.432
+  angleZ -5.788
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2001.79 0 1322.706
+  angleX 8.189
+  angleY 65.764
+  angleZ -5.599
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2005.209 0 1322.551
+  angleX 8.031
+  angleY 63.983
+  angleZ -7.804
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2008.219 -0 1322.628
+  angleX 8.129
+  angleY 64.714
+  angleZ -7.701
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2010.661 0 1322.986
+  angleX 8.843
+  angleY 64.159
+  angleZ -8.142
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2013.673 -0 1322.608
+  angleX 5.741
+  angleY 64.45
+  angleZ -8.599
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2016.373 -0 1322.675
+  angleX 1.949
+  angleY 65.708
+  angleZ -8.666
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2019.336 0 1322.849
+  angleX -0.963
+  angleY 66.686
+  angleZ -11.139
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2022.399 0 1322.766
+  angleX 2.681
+  angleY 66.232
+  angleZ -13.621
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2025.214 0.001 1322.81
+  angleX 3.767
+  angleY 65.534
+  angleZ -15.094
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2149.403 0 1325.792
+  angleX 0.793
+  angleY 62.41
+  angleZ -0.415
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2026.98 0 1322.589
+  angleX 2.699
+  angleY 64.561
+  angleZ -14.808
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2030.18 -0 1322.886
+  angleX 1.074
+  angleY 64.943
+  angleZ -10.272
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2033.334 -0.001 1322.918
+  angleX 3.296
+  angleY 64.166
+  angleZ -7.51
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2036.408 0 1322.83
+  angleX 0.416
+  angleY 63.719
+  angleZ -3.197
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2039.543 0 1322.998
+  angleX -7.132
+  angleY 63.92
+  angleZ -4.422
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2042.225 -0.001 1323.229
+  angleX -10.528
+  angleY 67.112
+  angleZ -8.884
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2045.643 0.001 1323.075
+  angleX -4.264
+  angleY 69.108
+  angleZ -13.413
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2048.649 -0 1323.156
+  angleX 8.146
+  angleY 79.771
+  angleZ -23.471
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2051.083 0 1323.516
+  angleX 3.713
+  angleY 79.315
+  angleZ -18.24
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2054.089 0 1323.141
+  angleX -2.834
+  angleY 72.883
+  angleZ -23.058
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2056.778 -0 1323.211
+  angleX 0.612
+  angleY 76.385
+  angleZ -22.809
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2059.723 0 1323.395
+  angleX 5.199
+  angleY 75.313
+  angleZ -18.231
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2062.762 0 1323.325
+  angleX -2.07
+  angleY 67.019
+  angleZ -11.594
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2065.551 -0 1323.382
+  angleX -7.531
+  angleY 67.727
+  angleZ -11.167
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2069.638 -0 1323.677
+  angleX -1.899
+  angleY 89.587
+  angleZ -14.856
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2072.799 0.001 1323.996
+  angleX -7.363
+  angleY 70.36
+  angleZ -14.943
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2075.915 -0 1324.052
+  angleX -5.354
+  angleY 67.858
+  angleZ -8.35
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2078.949 -0 1323.992
+  angleX -11.995
+  angleY 73.309
+  angleZ -17.777
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2082.046 -0.001 1324.185
+  angleX -8.616
+  angleY 72.01
+  angleZ -11.928
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2084.697 0.001 1324.437
+  angleX -7.225
+  angleY 71.972
+  angleZ -13.289
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2088.071 0 1324.31
+  angleX -6.63
+  angleY 70.793
+  angleZ -10.751
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2091.051 -0 1324.41
+  angleX -7.474
+  angleY 70.728
+  angleZ -10.441
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2093.47 0 1324.784
+  angleX -8.61
+  angleY 68.974
+  angleZ -9.88
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2096.451 -0.001 1324.427
+  angleX -9.724
+  angleY 70.331
+  angleZ -8.656
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2099.127 -0 1324.509
+  angleX -10.354
+  angleY 71.605
+  angleZ -8.576
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2102.061 -0.001 1324.702
+  angleX -2.746
+  angleY 71.987
+  angleZ -11.187
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2105.094 -0 1324.64
+  angleX 0.782
+  angleY 68.723
+  angleZ -12.587
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2107.882 -0.001 1324.699
+  angleX 2.474
+  angleY 68.1
+  angleZ -10.514
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2111.022 0 1324.851
+  angleX 3.261
+  angleY 65.996
+  angleZ -10.15
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2114.195 0 1325.168
+  angleX 6.383
+  angleY 65.778
+  angleZ -9.604
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2117.323 0.001 1325.217
+  angleX 10.191
+  angleY 62.571
+  angleZ -7.208
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2120.374 -0.001 1325.146
+  angleX 6.373
+  angleY 63.324
+  angleZ -3.192
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2123.486 -0 1325.326
+  angleX 6.369
+  angleY 62.965
+  angleZ -1.246
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2126.152 -0.001 1325.569
+  angleX 3.997
+  angleY 63.478
+  angleZ 0.003
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2129.549 -0 1325.427
+  angleX 3.997
+  angleY 63.216
+  angleZ -0.015
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2132.544 -0 1325.517
+  angleX 3.598
+  angleY 63.42
+  angleZ -0.8
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2134.971 0 1325.885
+  angleX 3.997
+  angleY 63.258
+  angleZ -0.012
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2137.967 -0.001 1325.52
+  angleX 2.796
+  angleY 62.888
+  angleZ -0.427
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2140.647 -0 1325.601
+  angleX 2.001
+  angleY 62.73
+  angleZ -0.025
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2143.582 -0 1325.792
+  angleX 2
+  angleY 62.152
+  angleZ -0.045
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2146.618 -0 1325.729
+  angleX 0.792
+  angleY 62.191
+  angleZ -0.418
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 1905.434 -0.001 1317.168
+  angleX 2.444
+  angleY 64.215
+  angleZ -3.164
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2151.996 -0 1326.005
+  angleX 0.392
+  angleY 64.003
+  angleZ 0.805
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2155.177 0 1326.318
+  angleX -0.8
+  angleY 63.411
+  angleZ 0.401
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2158.314 -0 1326.363
+  angleX -1.604
+  angleY 63.652
+  angleZ 0.794
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2161.368 0 1326.29
+  angleX -1.618
+  angleY 64.656
+  angleZ 0.766
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2164.474 -0 1326.475
+  angleX -1.609
+  angleY 64.003
+  angleZ 0.785
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2167.132 0 1326.721
+  angleX -2.806
+  angleY 64.315
+  angleZ 0.357
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2170.521 0 1326.584
+  angleX -3.601
+  angleY 63.578
+  angleZ 0.79
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2173.511 -0 1326.676
+  angleX -3.606
+  angleY 63.949
+  angleZ 0.767
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2175.932 -0 1327.048
+  angleX -2.001
+  angleY 64.11
+  angleZ -0.024
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2178.925 0 1326.682
+  angleX -2.001
+  angleY 63.822
+  angleZ -0.014
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2181.596 0 1326.765
+  angleX -2.804
+  angleY 64.009
+  angleZ 0.372
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2184.524 0 1326.96
+  angleX -1.196
+  angleY 64.172
+  angleZ -0.416
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2187.548 -0 1326.901
+  angleX -2.386
+  angleY 64.484
+  angleZ -0.844
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2190.327 0 1326.966
+  angleX -0.752
+  angleY 65.15
+  angleZ -1.624
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2194.439 0 1327.242
+  angleX -1.459
+  angleY 77.403
+  angleZ -2.424
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2197.57 -0 1327.579
+  angleX -2.632
+  angleY 69.022
+  angleZ -1.864
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2200.695 0 1327.63
+  angleX -1.902
+  angleY 66.203
+  angleZ -2.094
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2203.739 0.001 1327.563
+  angleX -2.078
+  angleY 69.752
+  angleZ -3.045
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2206.844 -0 1327.746
+  angleX -2.287
+  angleY 65.728
+  angleZ -2.892
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2209.503 0 1327.99
+  angleX -3.096
+  angleY 65.855
+  angleZ -2.53
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2212.89 0.001 1327.855
+  angleX -3.122
+  angleY 65.26
+  angleZ -2.498
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2215.871 0 1327.951
+  angleX -3.555
+  angleY 65.421
+  angleZ -1.322
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2218.289 0 1328.323
+  angleX -5.903
+  angleY 65.64
+  angleZ -2.218
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2221.276 -0 1327.962
+  angleX -5.983
+  angleY 64.495
+  angleZ -0.111
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2223.953 0 1328.039
+  angleX -7.155
+  angleY 65.012
+  angleZ -0.594
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2226.891 0 1328.227
+  angleX -6.356
+  angleY 64.939
+  angleZ -0.963
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2229.928 0 1328.159
+  angleX -6.37
+  angleY 64.104
+  angleZ -0.87
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2232.723 0.001 1328.216
+  angleX -7.572
+  angleY 64.137
+  angleZ 0.701
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2235.878 0.001 1328.359
+  angleX -7.971
+  angleY 63.878
+  angleZ 1.92
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2239.071 -0.001 1328.664
+  angleX -7.99
+  angleY 64.476
+  angleZ 1.837
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2242.221 -0 1328.699
+  angleX -6.4
+  angleY 64.489
+  angleZ 1.076
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2245.295 0 1328.615
+  angleX -7.586
+  angleY 65.444
+  angleZ 0.529
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2248.428 0.001 1328.78
+  angleX -4.796
+  angleY 63.814
+  angleZ 0.367
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2251.111 -0 1329.01
+  angleX -4.366
+  angleY 65.378
+  angleZ -0.947
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2254.53 0 1328.855
+  angleX -3.167
+  angleY 64.21
+  angleZ -2.44
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2257.541 0 1328.932
+  angleX -1.962
+  angleY 64.55
+  angleZ -2.038
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2259.982 0 1329.29
+  angleX -1.977
+  angleY 64.133
+  angleZ -2.024
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2262.994 -0.001 1328.912
+  angleX 0.441
+  angleY 64.155
+  angleZ -3.194
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2265.694 0 1328.979
+  angleX 2.918
+  angleY 64.989
+  angleZ -4.313
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2268.657 0 1329.152
+  angleX 4.923
+  angleY 65.166
+  angleZ -4.234
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2271.72 -0.001 1329.07
+  angleX 4.565
+  angleY 65.339
+  angleZ -5.027
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2274.535 0 1329.114
+  angleX 6.083
+  angleY 64.399
+  angleZ -5.85
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2398.724 -0.001 1332.096
+  angleX 6.719
+  angleY 62.133
+  angleZ -2.537
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2276.301 0 1328.893
+  angleX 7.543
+  angleY 63.266
+  angleZ -6.738
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2279.501 -0 1329.19
+  angleX 9.507
+  angleY 63.319
+  angleZ -6.701
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2282.654 0.001 1329.222
+  angleX 10.272
+  angleY 63.23
+  angleZ -7.091
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2285.729 -0 1329.134
+  angleX 12.545
+  angleY 62.886
+  angleZ -6.346
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2288.864 0 1329.302
+  angleX 13.181
+  angleY 61.845
+  angleZ -6.958
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2291.547 -0 1329.533
+  angleX 12.722
+  angleY 64.558
+  angleZ -5.981
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2294.964 0 1329.378
+  angleX 13.172
+  angleY 65.544
+  angleZ -4.968
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2297.969 -0 1329.46
+  angleX 12.982
+  angleY 75.134
+  angleZ -2.513
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2300.404 -0 1329.82
+  angleX 14.794
+  angleY 74.191
+  angleZ -2.342
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2303.41 -0 1329.445
+  angleX 15.558
+  angleY 68.074
+  angleZ -3.393
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2306.099 0 1329.515
+  angleX 15.2
+  angleY 71.424
+  angleZ -1.403
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2309.044 0 1329.699
+  angleX 14.4
+  angleY 71.07
+  angleZ -1.22
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2312.083 0 1329.629
+  angleX 13.764
+  angleY 64.106
+  angleZ -1.784
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2314.872 0 1329.686
+  angleX 13.385
+  angleY 65.7
+  angleZ -0.255
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2318.958 -0 1329.981
+  angleX 12.195
+  angleY 91.556
+  angleZ 5.563
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2322.121 -0 1330.3
+  angleX 11.153
+  angleY 67.544
+  angleZ -0.779
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2325.237 0 1330.356
+  angleX 11.137
+  angleY 66.481
+  angleZ -0.984
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2328.27 0 1330.295
+  angleX 10.363
+  angleY 69.263
+  angleZ -0.136
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2331.367 0.001 1330.489
+  angleX 8.727
+  angleY 70.107
+  angleZ 0.618
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2334.017 0 1330.741
+  angleX 8.728
+  angleY 70.019
+  angleZ 0.605
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2337.392 -0 1330.614
+  angleX 7.918
+  angleY 69.09
+  angleZ 0.781
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2340.372 0.001 1330.714
+  angleX 8.738
+  angleY 68.888
+  angleZ 0.433
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2342.791 -0 1331.088
+  angleX 8.746
+  angleY 67.39
+  angleZ 0.206
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2345.772 0 1330.731
+  angleX 8.74
+  angleY 68.595
+  angleZ 0.389
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2348.448 -0 1330.813
+  angleX 7.904
+  angleY 70.049
+  angleZ 0.913
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2351.382 -0 1331.006
+  angleX 8.723
+  angleY 70.413
+  angleZ 0.665
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2354.415 -0 1330.943
+  angleX 9.551
+  angleY 67.044
+  angleZ -0.192
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2357.202 0 1331.003
+  angleX 8.399
+  angleY 66.489
+  angleZ -0.743
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2360.344 0.001 1331.155
+  angleX 9.165
+  angleY 64.785
+  angleZ -1.366
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2363.517 -0 1331.472
+  angleX 9.17
+  angleY 64.993
+  angleZ -1.333
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2366.645 0 1331.521
+  angleX 8.331
+  angleY 62.638
+  angleZ -1.304
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2369.695 0 1331.45
+  angleX 7.561
+  angleY 63.273
+  angleZ -0.815
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2372.808 -0 1331.63
+  angleX 6.771
+  angleY 62.967
+  angleZ -0.453
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2375.473 -0 1331.872
+  angleX 6.775
+  angleY 63.456
+  angleZ -0.395
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2378.87 -0 1331.731
+  angleX 9.12
+  angleY 63.058
+  angleZ -1.641
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2381.865 0.001 1331.821
+  angleX 9.901
+  angleY 63.207
+  angleZ -2.01
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2384.292 -0 1332.189
+  angleX 10.268
+  angleY 62.903
+  angleZ -3.243
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2387.288 -0 1331.824
+  angleX 11.003
+  angleY 62.353
+  angleZ -3.739
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2389.967 -0 1331.905
+  angleX 10.994
+  angleY 62.218
+  angleZ -3.765
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2392.903 0 1332.096
+  angleX 8.256
+  angleY 61.805
+  angleZ -3.401
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2395.939 0 1332.033
+  angleX 8.253
+  angleY 61.769
+  angleZ -3.406
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2156.486 -0 1323.769
+  angleX -1.609
+  angleY 63.978
+  angleZ 0.785
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2159.667 -0.001 1324.082
+  angleX -1.6
+  angleY 63.397
+  angleZ 0.801
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2162.803 -0.001 1324.127
+  angleX -1.604
+  angleY 63.652
+  angleZ 0.794
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2165.858 0 1324.054
+  angleX -2.808
+  angleY 64.695
+  angleZ 0.338
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2168.964 0 1324.239
+  angleX -2.411
+  angleY 63.929
+  angleZ 1.179
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2171.622 0.001 1324.485
+  angleX -3.219
+  angleY 64.146
+  angleZ 1.559
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2175.01 0 1324.348
+  angleX -1.603
+  angleY 63.605
+  angleZ 0.796
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2178 0 1324.441
+  angleX -0.805
+  angleY 64.022
+  angleZ 0.392
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2180.422 -0 1324.812
+  angleX -2.001
+  angleY 64.11
+  angleZ -0.024
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2183.414 0 1324.447
+  angleX -2.394
+  angleY 63.923
+  angleZ -0.82
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2186.085 0.001 1324.529
+  angleX -1.584
+  angleY 64.259
+  angleZ -1.223
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2189.014 -0 1324.724
+  angleX -0.777
+  angleY 64.267
+  angleZ -1.612
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2192.037 -0.001 1324.666
+  angleX -0.77
+  angleY 64.534
+  angleZ -1.616
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2194.817 -0.001 1324.731
+  angleX -1.565
+  angleY 65.135
+  angleZ -1.247
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2198.929 -0 1325.006
+  angleX -0.393
+  angleY 77.323
+  angleZ -1.746
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2202.06 0 1325.343
+  angleX -0.643
+  angleY 68.943
+  angleZ -1.67
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2205.184 0 1325.394
+  angleX -1.902
+  angleY 66.203
+  angleZ -2.094
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2208.229 -0 1325.327
+  angleX -2.615
+  angleY 69.54
+  angleZ -1.888
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2211.333 0 1325.51
+  angleX -2.74
+  angleY 65.517
+  angleZ -1.7
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2213.992 0.001 1325.755
+  angleX -2.736
+  angleY 65.667
+  angleZ -1.707
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2217.38 0 1325.619
+  angleX -4.373
+  angleY 64.935
+  angleZ -0.913
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2220.361 0 1325.715
+  angleX -5.606
+  angleY 64.944
+  angleZ 0.65
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2222.779 0 1326.087
+  angleX -6.783
+  angleY 65.014
+  angleZ 0.211
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2225.765 0.001 1325.726
+  angleX -5.983
+  angleY 64.495
+  angleZ -0.111
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2228.443 -0.001 1325.803
+  angleX -5.602
+  angleY 64.557
+  angleZ 0.687
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2231.381 -0 1325.991
+  angleX -7.185
+  angleY 64.035
+  angleZ 1.514
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2234.418 0 1325.923
+  angleX -7.539
+  angleY 62.944
+  angleZ 2.841
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2237.212 -0.001 1325.98
+  angleX -8.75
+  angleY 63.688
+  angleZ 2.335
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2240.367 0 1326.123
+  angleX -7.185
+  angleY 64.015
+  angleZ 1.516
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2243.56 0 1326.429
+  angleX -6.405
+  angleY 64.729
+  angleZ 1.049
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2246.711 -0 1326.464
+  angleX -5.602
+  angleY 64.614
+  angleZ 0.682
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2249.785 -0 1326.379
+  angleX -5.169
+  angleY 65.838
+  angleZ -0.616
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2252.917 0 1326.545
+  angleX -3.58
+  angleY 64.293
+  angleZ -1.252
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2255.601 -0 1326.775
+  angleX -2.373
+  angleY 65.324
+  angleZ -0.879
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2259.019 -0 1326.619
+  angleX -1.592
+  angleY 63.878
+  angleZ -1.213
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2262.03 -0 1326.697
+  angleX 1.656
+  angleY 64.573
+  angleZ -2.767
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2264.471 0.001 1327.054
+  angleX 2.065
+  angleY 64.353
+  angleZ -3.962
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2267.484 -0 1326.677
+  angleX 3.238
+  angleY 64.054
+  angleZ -3.558
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2270.184 -0 1326.743
+  angleX 4.898
+  angleY 64.834
+  angleZ -4.262
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2273.146 -0 1326.917
+  angleX 4.923
+  angleY 65.166
+  angleZ -4.234
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2276.21 0 1326.834
+  angleX 8.484
+  angleY 64.994
+  angleZ -4.908
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2279.025 0.001 1326.878
+  angleX 9.191
+  angleY 64.077
+  angleZ -5.415
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2403.214 0 1329.86
+  angleX 6.354
+  angleY 62.275
+  angleZ -1.322
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2280.791 0.001 1326.657
+  angleX 9.099
+  angleY 63.112
+  angleZ -5.568
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2283.99 0 1326.955
+  angleX 11.043
+  angleY 63.142
+  angleZ -5.54
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2287.144 -0 1326.987
+  angleX 12.188
+  angleY 63.04
+  angleZ -5.157
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2290.219 -0 1326.898
+  angleX 13.321
+  angleY 62.894
+  angleZ -4.789
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2293.353 -0 1327.066
+  angleX 13.267
+  angleY 62.246
+  angleZ -4.938
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2296.036 -0.001 1327.298
+  angleX 11.969
+  angleY 65.488
+  angleZ -3.489
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2299.454 0 1327.143
+  angleX 13.11
+  angleY 65.688
+  angleZ -2.998
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2302.459 0 1327.224
+  angleX 15.255
+  angleY 74.894
+  angleZ -0.491
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2304.894 -0 1327.584
+  angleX 15.476
+  angleY 73.999
+  angleZ 0.104
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2307.9 -0 1327.209
+  angleX 15.722
+  angleY 68.484
+  angleZ -0.563
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2310.588 -0 1327.28
+  angleX 14.144
+  angleY 71.535
+  angleZ 0.816
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2313.534 0 1327.463
+  angleX 14.427
+  angleY 70.905
+  angleZ 1.48
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2316.573 0 1327.393
+  angleX 13.742
+  angleY 64.18
+  angleZ 0.177
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2319.361 0.001 1327.451
+  angleX 14.072
+  angleY 66.03
+  angleZ 1.409
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2323.448 0.001 1327.746
+  angleX 10.394
+  angleY 91.821
+  angleZ 7.336
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2326.61 0 1328.064
+  angleX 12.126
+  angleY 67.938
+  angleZ 1.733
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2329.726 0 1328.121
+  angleX 11.03
+  angleY 66.761
+  angleZ 1.031
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2332.759 -0.001 1328.06
+  angleX 9.34
+  angleY 69.617
+  angleZ 2.198
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2335.857 -0.001 1328.254
+  angleX 9.311
+  angleY 70.364
+  angleZ 2.319
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2338.507 -0 1328.505
+  angleX 9.315
+  angleY 70.259
+  angleZ 2.302
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2341.882 -0.001 1328.379
+  angleX 9.353
+  angleY 69.267
+  angleZ 2.141
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2344.861 0.001 1328.478
+  angleX 9.36
+  angleY 69.085
+  angleZ 2.112
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2347.28 0 1328.853
+  angleX 8.271
+  angleY 67.544
+  angleZ 1.386
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2350.262 -0 1328.495
+  angleX 9.057
+  angleY 68.7
+  angleZ 1.228
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2352.938 -0.001 1328.577
+  angleX 9.023
+  angleY 70.144
+  angleZ 1.455
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2355.871 0 1328.771
+  angleX 9.836
+  angleY 70.469
+  angleZ 1.207
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2358.905 0 1328.708
+  angleX 9.89
+  angleY 67.067
+  angleZ 0.625
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2361.692 0.001 1328.767
+  angleX 9.548
+  angleY 66.461
+  angleZ -0.288
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2364.833 -0.001 1328.92
+  angleX 8.746
+  angleY 64.768
+  angleZ -0.193
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2368.006 0 1329.237
+  angleX 8.747
+  angleY 64.952
+  angleZ -0.165
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2371.134 -0 1329.285
+  angleX 7.551
+  angleY 62.638
+  angleZ -0.899
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2374.185 0 1329.215
+  angleX 7.561
+  angleY 63.273
+  angleZ -0.815
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2377.297 0 1329.394
+  angleX 8.337
+  angleY 62.921
+  angleZ -1.263
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2379.963 0 1329.637
+  angleX 8.347
+  angleY 63.378
+  angleZ -1.196
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2383.36 -0 1329.496
+  angleX 11.058
+  angleY 63.001
+  angleZ -1.655
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2386.355 -0 1329.585
+  angleX 11.437
+  angleY 63.048
+  angleZ -2.821
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2388.782 0.001 1329.954
+  angleX 11.429
+  angleY 62.888
+  angleZ -2.853
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2391.778 -0 1329.589
+  angleX 10.647
+  angleY 62.543
+  angleZ -2.524
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2394.457 0 1329.669
+  angleX 7.925
+  angleY 62.557
+  angleZ -2.103
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2397.392 -0 1329.86
+  angleX 7.902
+  angleY 61.943
+  angleZ -2.188
+ }
+ {
+  components {
+   DynamicPhysicsObstacleComponent "{5ECD159E5B77037A}" {
+    Enabled 0
+   }
+   NwkPhysicsMovementComponent "{5EC5329324A1E7A7}" {
+    Enabled 0
+   }
+  }
+  coords 2400.428 0 1329.798
+  angleX 7.127
+  angleY 62.006
+  angleZ -1.766
+ }
+}
