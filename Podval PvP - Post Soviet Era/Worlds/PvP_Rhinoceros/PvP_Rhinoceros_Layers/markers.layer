@@ -1,0 +1,58 @@
+$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ attack2 {
+  coords 1647.941 2 1765.352
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "Task_Attack"
+  m_fWorldSize 35
+  m_sDescription "Казармы (25)"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+ attack3 {
+  coords 1448.19 2 1538.039
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "Task_Attack"
+  m_fWorldSize 35
+  m_sDescription "Окопы (25)"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+ attack4 {
+  coords 1824.414 11.028 1883.583
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "Task_Attack"
+  m_fWorldSize 35
+  m_sDescription "Вышка северная (25)"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+ attack5 {
+  coords 1848.532 2 1758.755
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "Task_Attack"
+  m_fWorldSize 35
+  m_sDescription "Вышка южная (25)"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+}
