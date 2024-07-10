@@ -15,6 +15,9 @@ SCR_ChimeraCharacter : "{9A132AE865F1DB2D}Prefabs/Characters/Factions/INDFOR/TKR
     LoadoutSlotInfo Jacket {
      Prefab "{D78C66D7C5387881}Prefabs/Characters/Uniforms/Velocity_shirt/velocity_shirt_BLK.et"
     }
+    LoadoutSlotInfo Back {
+     Prefab "{E328B3306A15E882}Prefabs/Items/Equipment/Radios/INDFOR_Radio_RF10.et"
+    }
    }
   }
  }

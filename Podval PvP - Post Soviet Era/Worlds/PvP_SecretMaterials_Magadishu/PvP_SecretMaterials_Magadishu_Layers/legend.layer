@@ -15,6 +15,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  Ses_TKG_G_100_M {
   coords 2834.78 9.406 2938.526
@@ -32,6 +33,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  Ses_TKG_G_101_M {
   coords 2852.321 9.003 2929.193
@@ -49,6 +51,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  Ses_TKG_G_200_M {
   coords 2690.669 6.879 2685.663
@@ -66,6 +69,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  Ses_TKG_G_201_M {
   coords 2718.192 7.187 2679.181
@@ -83,6 +87,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  Ses_TKG_G_300_M {
   coords 2610.164 10.781 2835.898
@@ -100,6 +105,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  Ses_TKG_G_301_M {
   coords 2612.34 10.812 2839.829
@@ -117,6 +123,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  Ses_TKG_G_401_M {
   coords 2912.71 6.676 2741.259
@@ -134,6 +141,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  Ses_TKG_G_400_M {
   coords 2897.335 6.5 2736.01
@@ -151,6 +159,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 1713.301 2 1816.617
@@ -377,6 +386,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_US_USMC_G_301_M {
   coords 1678.222 2 1788.267
@@ -394,6 +404,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_US_USMC_G_302_M {
   coords 1679.677 2 1791.042
@@ -411,6 +422,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_US_USMC_G_303_M {
   coords 1681.898 2 1792.982
@@ -428,6 +440,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_US_USMC_G_500_M {
   coords 1704.733 2 1813.727
@@ -445,6 +458,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_US_USMC_G_700_M {
   coords 2740.396 6.825 2804.935
@@ -462,6 +476,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_US_USMC_G_400_M {
   coords 1751.093 2 1849.11
@@ -479,6 +494,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_US_USMC_G_401_M {
   coords 1749.638 2 1846.335
@@ -496,5 +512,6 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
 }
