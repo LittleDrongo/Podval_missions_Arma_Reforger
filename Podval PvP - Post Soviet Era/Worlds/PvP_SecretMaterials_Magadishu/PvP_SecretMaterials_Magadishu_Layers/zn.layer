@@ -1,0 +1,96 @@
+PolylineShapeEntity {
+ components {
+  PS_PolyZone "{61D48459F60C21E9}" {
+   m_mPolygonTexture ""
+   m_cPolygonColor 1 1 1 0
+   m_mPolygonTextureBorder ""
+   m_cPolygonBorderColor 0.502 0 0 1
+   m_fPolygonBorderWidth 6
+   m_aVisibleForFactions {
+    "Ses_TKG" "RHS_US_USMC" ""
+   }
+  }
+ }
+ coords 2713.382 7.375 2665.528
+ Points {
+  ShapePoint "{61D484592AA33909}" {
+   Position 0.175 -0.187 9.462
+  }
+  ShapePoint "{61D484592AA3A12E}" {
+   Position -10.339 -0.156 9.642
+  }
+  ShapePoint "{61D4845924301E1A}" {
+   Position -27.375 -0.491 19.898
+  }
+  ShapePoint "{61D48459275698EF}" {
+   Position -64.979 -1.002 54.357
+  }
+  ShapePoint "{61D484592692F802}" {
+   Position -94.377 0.997 96.074
+  }
+  ShapePoint "{61D484592189D258}" {
+   Position -105.592 2.396 124.011
+  }
+  ShapePoint "{61D4845921361D1A}" {
+   Position -108.63 3.292 154.342
+  }
+  ShapePoint "{61D4845920814532}" {
+   Position -102.851 3.437 177.424
+  }
+  ShapePoint "{61D4845922C9F123}" {
+   Position -89.873 3.5 197.449
+  }
+  ShapePoint "{61D484591DDB1D0C}" {
+   Position -77.752 3.667 205.329
+  }
+  ShapePoint "{61D484591DAB6FF6}" {
+   Position -62.724 3.698 210.985
+  }
+  ShapePoint "{61D484591C39E8FB}" {
+   Position -41.816 3.743 216.961
+  }
+  ShapePoint "{61D484591FA857A9}" {
+   Position -22.448 3.57 224.299
+  }
+  ShapePoint "{61D484591E431B29}" {
+   Position -15.605 3.383 226.284
+  }
+  ShapePoint "{61D48459089F3C82}" {
+   Position 137.194 1.897 281.227
+  }
+  ShapePoint "{61D484590B3CA306}" {
+   Position 190.065 -3.062 102.955
+  }
+  ShapePoint "{61D48459065ACC33}" {
+   Position 206.221 -1.919 105.576
+  }
+  ShapePoint "{61D4845901EF5D32}" {
+   Position 215.103 -0.75 78.387
+  }
+  ShapePoint "{61D48459FCADD43C}" {
+   Position 3.185 -0.188 9.77
+  }
+ }
+ LineColor 0.251 0 0.502 1
+ {
+  PS_PolyZoneTrigger {
+   components {
+    Hierarchy "{614548BDF998E12B}" {
+    }
+   }
+   TriggerShapeType Polyline
+   "Polyline Height" 500
+   TriggerActivationType "All changes"
+   PeriodicQueries 1
+   UpdatePeriod 1
+   ClassesFilter {
+    "SCR_ChimeraCharacter"
+   }
+   m_polyZoneEffect PS_PolyZoneEffectRestricted "{614548BC046ADB65}" {
+    m_fKillTime 40
+   }
+   m_bReversed 1
+   m_sFactionKey "Ses_TKG"
+  }
+ }
+}

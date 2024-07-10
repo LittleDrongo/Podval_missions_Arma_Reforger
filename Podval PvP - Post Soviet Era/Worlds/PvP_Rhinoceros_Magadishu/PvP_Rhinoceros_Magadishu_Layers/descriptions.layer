@@ -26,12 +26,12 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
    "RHS_US_USMC"
   }
  }
- Ses_TKR {
+ Ses_TKG {
   coords 5534.418 43.503 10540.239
   m_sTitle "Задачи боевиков"
   m_sTextData "Нам необходимо захватить контрольные точки"
   m_aVisibleForFactions {
-   "Ses_TKR"
+   "Ses_TKG"
   }
  }
  CDF {

@@ -3,25 +3,25 @@ $grp PS_Objective {
   coords 5031.407 179.318 12590.334
   m_sTitle "Захватить окопы"
   m_iScore 25
-  m_sFactionKey "Ses_TKR"
+  m_sFactionKey "Ses_TKG"
  }
  {
   coords 1628.914 0 1550.645
   m_sTitle "Захватить казармы"
   m_iScore 25
-  m_sFactionKey "Ses_TKR"
+  m_sFactionKey "Ses_TKG"
  }
  {
-  coords 1618.888 -0 1530.584
+  coords 1618.888 0 1530.584
   m_sTitle "Захватить северную вышку"
   m_iScore 25
-  m_sFactionKey "Ses_TKR"
+  m_sFactionKey "Ses_TKG"
  }
  {
   coords 1760.496 2 1750.026
   m_sTitle "Захватить южную вышку"
   m_iScore 25
-  m_sFactionKey "Ses_TKR"
+  m_sFactionKey "Ses_TKG"
  }
  {
   coords 1493.092 1.913 1520.475

@@ -7,7 +7,7 @@ PolylineShapeEntity {
    m_cPolygonBorderColor 0.502 0 0 1
    m_fPolygonBorderWidth 6
    m_aVisibleForFactions {
-    "" "RHS_US_USMC" "Ses_TKR"
+    "" "RHS_US_USMC" "Ses_TKG"
    }
   }
  }
@@ -83,7 +83,7 @@ PolylineShapeEntity {
     m_fKillTime 40
    }
    m_bReversed 1
-   m_sFactionKey "Ses_TKR"
+   m_sFactionKey "Ses_TKG"
   }
  }
 }

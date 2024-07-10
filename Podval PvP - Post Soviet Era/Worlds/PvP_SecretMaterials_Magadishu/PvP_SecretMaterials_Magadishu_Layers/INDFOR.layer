@@ -1,0 +1,140 @@
+$grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_RifleSquad_P.et" {
+ IND_0_0 {
+  components {
+   PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
+   }
+  }
+  coords 2845.554 9.351 2941.152
+  angleY 127.833
+  m_faction "Ses_TKG"
+  m_aUnitPrefabSlots {
+   "{77D575C76E41A8AD}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Officer.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ IND_1_0 {
+  components {
+   PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 2834.78 9.406 2938.526
+  angleY -106.559
+  m_faction "Ses_TKG"
+  m_aUnitPrefabSlots {
+   "{60F5526F423F51B2}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_SL_random.et" "{EC0FA9C8693899D5}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman_Random.et" "{EC0FA9C8693899D5}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman_Random.et" "{EC0FA9C8693899D5}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman_Random.et" "{EC0FA9C8693899D5}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman_Random.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ IND_1_1 {
+  components {
+   PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 1
+   }
+  }
+  coords 2852.321 9.003 2929.193
+  angleY 165.25
+  m_faction "Ses_TKG"
+  m_aUnitPrefabSlots {
+   "{60F5526F423F51B2}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_SL_random.et" "{276CC1DCB17A9A07}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_SR_random.et" "{86E82C6AFE916FB1}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_AT_random.et" "{89D534001A82E981}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_MG_Random.et" "{018C90DE9F341FD7}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Sapper.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ IND_2_0 {
+  components {
+   PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
+    m_iCompanyCallsign 2
+   }
+  }
+  coords 2690.669 6.879 2685.663
+  angleY -58.723
+  m_faction "Ses_TKG"
+  m_aUnitPrefabSlots {
+   "{60F5526F423F51B2}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_SL_random.et" "{EC0FA9C8693899D5}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman_Random.et" "{EC0FA9C8693899D5}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman_Random.et" "{EC0FA9C8693899D5}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman_Random.et" "{EC0FA9C8693899D5}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman_Random.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ IND_2_1 {
+  components {
+   PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 1
+   }
+  }
+  coords 2718.192 7.187 2679.181
+  angleY 81.353
+  m_faction "Ses_TKG"
+  m_aUnitPrefabSlots {
+   "{60F5526F423F51B2}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_SL_random.et" "{276CC1DCB17A9A07}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_SR_random.et" "{86E82C6AFE916FB1}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_AT_random.et" "{89D534001A82E981}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_MG_Random.et" "{018C90DE9F341FD7}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Sapper.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ IND_3_0 {
+  components {
+   PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
+    m_iCompanyCallsign 3
+   }
+  }
+  coords 2610.164 10.781 2835.898
+  angleY 9.172
+  m_faction "Ses_TKG"
+  m_aUnitPrefabSlots {
+   "{60F5526F423F51B2}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_SL_random.et" "{EC0FA9C8693899D5}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman_Random.et" "{EC0FA9C8693899D5}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman_Random.et" "{EC0FA9C8693899D5}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman_Random.et" "{EC0FA9C8693899D5}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman_Random.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ IND_3_1 {
+  components {
+   PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
+    m_iCompanyCallsign 3
+    m_iSquadCallsign 1
+   }
+  }
+  coords 2612.34 10.812 2839.829
+  angleY -157.263
+  m_faction "Ses_TKG"
+  m_aUnitPrefabSlots {
+   "{60F5526F423F51B2}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_SL_random.et" "{276CC1DCB17A9A07}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_SR_random.et" "{86E82C6AFE916FB1}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_AT_random.et" "{89D534001A82E981}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_MG_Random.et" "{018C90DE9F341FD7}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Sapper.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ IND_4_0 {
+  components {
+   PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
+    m_iCompanyCallsign 4
+    m_iSquadCallsign 1
+   }
+  }
+  coords 2912.71 6.676 2741.259
+  angleY -106.233
+  m_faction "Ses_TKG"
+  m_aUnitPrefabSlots {
+   "{60F5526F423F51B2}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_SL_random.et" "{276CC1DCB17A9A07}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_SR_random.et" "{86E82C6AFE916FB1}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_AT_random.et" "{89D534001A82E981}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_MG_Random.et" "{018C90DE9F341FD7}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Sapper.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ IND_4_1 {
+  components {
+   PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
+    m_iCompanyCallsign 4
+   }
+  }
+  coords 2897.335 6.5 2736.01
+  angleY -106.233
+  m_faction "Ses_TKG"
+  m_aUnitPrefabSlots {
+   "{60F5526F423F51B2}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_SL_random.et" "{EC0FA9C8693899D5}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman_Random.et" "{EC0FA9C8693899D5}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman_Random.et" "{EC0FA9C8693899D5}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman_Random.et" "{EC0FA9C8693899D5}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman_Random.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+}

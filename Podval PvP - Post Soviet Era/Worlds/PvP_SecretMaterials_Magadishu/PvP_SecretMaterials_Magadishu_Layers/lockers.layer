@@ -1,0 +1,131 @@
+$grp GenericEntity : "{795552B887CD50E7}Prefabs/Props/Industrial/ConcretePanel_01_stack.et" {
+ {
+  coords 2832.91 7.212 2886.813
+  angleX -0.007
+  angleY 73.66
+  angleZ -0.406
+ }
+ {
+  coords 2757.567 4.925 2784.541
+  angleX 0.503
+  angleY 73.676
+  angleZ 1.718
+ }
+}
+$grp GenericEntity : "{9C9C4BED9E19C374}Prefabs/Props/Military/Sandbags/Sandbag_01_wall_solid_burlap.et" {
+ {
+  coords 2785.72 7.164 2718.195
+  angleY 161.325
+ }
+ {
+  coords 2788.855 7.164 2719.255
+  angleY 161.325
+ }
+ {
+  coords 2794.825 7.442 2721.273
+  angleY 161.325
+ }
+ {
+  coords 2797.402 7.442 2722.144
+  angleY 161.325
+ }
+ {
+  coords 2782.575 7.442 2717.133
+  angleY 161.325
+ }
+ {
+  coords 2779.998 7.442 2716.261
+  angleY 161.325
+ }
+ {
+  coords 2773.571 7.442 2714.09
+  angleY 161.325
+ }
+ {
+  coords 2770.994 7.442 2713.218
+  angleY 161.325
+ }
+ {
+  coords 2767.814 7.845 2712.041
+  angleY 161.325
+  angleZ -0.751
+ }
+ {
+  coords 2765.236 7.881 2711.169
+  angleY 161.325
+  angleZ -0.751
+ }
+ {
+  coords 2758.842 7.907 2708.924
+  angleY 161.325
+  angleZ 0.897
+ }
+ {
+  coords 2756.264 7.865 2708.052
+  angleY 161.325
+  angleZ 0.897
+ }
+ {
+  coords 2756.623 7.881 2703.73
+  angleX 0.75
+  angleY -110.541
+  angleZ -0.024
+ }
+ {
+  coords 2757.579 7.88 2701.182
+  angleX 0.75
+  angleY -110.541
+  angleZ -0.024
+ }
+ {
+  coords 2762.445 7.805 2698.956
+  angleY 161.325
+  angleZ -0.751
+ }
+ {
+  coords 2765.022 7.77 2699.828
+  angleY 161.325
+  angleZ -0.751
+ }
+ {
+  coords 2771.286 7.683 2701.896
+  angleY 161.325
+  angleZ -0.751
+ }
+ {
+  coords 2768.709 7.718 2701.024
+  angleY 161.325
+  angleZ -0.751
+ }
+ {
+  coords 2780.086 7.561 2704.87
+  angleY 161.325
+  angleZ -0.751
+ }
+ {
+  coords 2777.509 7.596 2703.998
+  angleY 161.325
+  angleZ -0.751
+ }
+ {
+  coords 2783.42 7.514 2705.996
+  angleY 161.325
+  angleZ -0.751
+ }
+ {
+  coords 2792.299 7.391 2709.093
+  angleY 161.325
+  angleZ -0.751
+ }
+ {
+  coords 2798.193 7.309 2711.153
+  angleY 161.325
+  angleZ -0.751
+ }
+ {
+  coords 2799.672 9.658 2718.78
+  angleX 0.751
+  angleY -109.204
+  angleZ -0.007
+ }
+}
