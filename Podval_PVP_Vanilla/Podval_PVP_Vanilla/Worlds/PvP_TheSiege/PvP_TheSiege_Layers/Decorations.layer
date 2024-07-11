@@ -1,0 +1,464 @@
+GenericEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Granite/Granite_Boulder_02.et" {
+ coords 8514.799 0 2281.68
+ angleX -11.88
+ angleY 58.74
+ angleZ 14.046
+ scale 0.888
+}
+$grp GenericEntity : "{21D83950DF36F250}Prefabs/Props/Military/Sandbags/Sandbag_01_long_burlap.et" {
+ {
+  coords 8489.356 307.663 2264.914
+  angleX 12.42
+  angleY 64.612
+  angleZ 5.3
+ }
+ {
+  coords 8489.528 307.056 2265.06
+  angleX 12.42
+  angleY 64.612
+  angleZ 5.3
+ }
+ {
+  coords 8491.584 307.083 2262.192
+  angleX 16.484
+  angleY 64.689
+  angleZ 3.741
+  scale 1.25
+ }
+ {
+  coords 8497.342 308.704 2258.873
+  angleX 12.148
+  angleY 15.115
+  angleZ -1.52
+  scale 0.74
+ }
+ {
+  coords 8499.019 308.743 2258.381
+  angleX 11.859
+  angleY 7.734
+  angleZ -3.057
+  scale 0.74
+ }
+ {
+  coords 8501.149 308.805 2257.816
+  angleX 12.214
+  angleY 18.387
+  angleZ -0.829
+  scale 0.74
+ }
+ {
+  coords 8503.249 308.712 2257.405
+  angleX 10.158
+  angleY -9.443
+  angleZ 0.336
+  scale 0.74
+ }
+ {
+  coords 8524.844 299.304 2225.563
+  angleX 5.003
+  angleY -74.199
+  angleZ -19.966
+  scale 0.74
+ }
+ {
+  coords 8129.088 288.325 2454.806
+  angleX 16.691
+  angleY 24.712
+  angleZ -12.968
+  scale 0.74
+ }
+ {
+  coords 8132.906 289.16 2452.623
+  angleX 13.685
+  angleY 7.766
+  angleZ -15.332
+  scale 0.74
+ }
+ {
+  coords 8130.992 288.751 2453.635
+  angleX 19.561
+  angleY 35.273
+  angleZ -8.076
+  scale 0.74
+ }
+ {
+  coords 8127.604 287.981 2455.772
+  angleX 18.135
+  angleY 31.888
+  angleZ -10.818
+  scale 0.74
+ }
+ {
+  coords 8123.053 287.027 2460.536
+  angleX 21.278
+  angleY 82.938
+  angleZ 4.977
+  scale 1.25
+ }
+ {
+  coords 8121.607 286.958 2463.894
+  angleX 21.968
+  angleY 82.679
+  angleZ 3.937
+ }
+ {
+  coords 8121.819 287.052 2463.981
+  angleX 21.96
+  angleY 82.791
+  angleZ 3.979
+ }
+}
+$grp StaticModelEntity : "{2CF6244D6C76F560}Prefabs/Terrain/Erosion/ErodedEmbankment_01/ErodedEmbankment_01_dirt_straight.et" {
+ {
+  coords 8522.043 302.992 2238.954
+  angleX -19.71
+  angleY -116.72
+  angleZ -8.905
+ }
+ {
+  coords 8522.902 297.92 2224.871
+  angleX -38.937
+  angleY -148.421
+  angleZ -10.564
+ }
+ {
+  coords 8519.632 298.685 2228.037
+  angleX -29.749
+  angleY -91.89
+  angleZ -23.704
+ }
+ {
+  coords 8524.11 297.606 2224.85
+  angleX -10.407
+  angleY 99.777
+  angleZ 27.674
+ }
+}
+$grp StaticModelEntity : "{53CF78A46139AA55}Prefabs/Terrain/Erosion/ErodedEmbankment_01/ErodedEmbankment_01_dirt_wave.et" {
+ {
+  coords 8502.689 307.933 2258.278
+  angleX -25.622
+  angleY 173.161
+  angleZ 2.855
+ }
+ {
+  coords 8512.468 306.3 2253.165
+  angleX -13.372
+  angleY -131.681
+  angleZ -13.69
+ }
+ {
+  coords 8518.26 303.969 2246.6
+  angleX -8.745
+  angleY -119.367
+  angleZ -12.479
+ }
+ {
+  coords 8141.297 290.636 2448.703
+  angleX -40.695
+  angleY -167.143
+  angleZ 10.301
+ }
+ {
+  coords 8132.624 289.276 2453.612
+  angleX -37.726
+  angleY -172.75
+  angleZ 17.426
+ }
+ {
+  coords 8122.113 287.455 2466.293
+  angleX -43.392
+  angleY -93.596
+  angleZ -4.633
+ }
+}
+$grp GenericEntity : "{735E970ACBB1B473}Prefabs/Rocks/Granite/Granite_Boulder_01.et" {
+ {
+  coords 8511.904 -0.234 2288.669
+  angleX -9.252
+  angleY -110.018
+  angleZ -162.243
+  scale 1.126
+ }
+ {
+  coords 8510.712 0 2292.001
+  angleX 7.36
+  angleY -157.519
+  angleZ -161.402
+  scale 1.126
+ }
+ {
+  coords 8509.424 0.202 2293.611
+  angleX -11.509
+  angleY 83.902
+  angleZ -155.881
+  scale 1.032
+ }
+}
+$grp StaticModelEntity : "{9C7477A3F066F74F}Prefabs/Terrain/Erosion/ErodedEmbankment_01/ErodedEmbankment_01_forest_straight.et" {
+ {
+  coords 8487.981 308.248 2271.304
+  angleX -31.849
+  angleY -98.753
+  angleZ -12.496
+ }
+ {
+  coords 8486.363 308.695 2278.52
+  angleX -25.231
+  angleY -61.31
+  angleZ -14.375
+ }
+ {
+  coords 8498.96 308.021 2259.407
+  angleX -27.003
+  angleY -169.748
+  angleZ 6.489
+ }
+ {
+  coords 8129.333 288.58 2455.79
+  angleX -36.3
+  angleY -153.601
+  angleZ 13.192
+ }
+ {
+  coords 8122.138 287.876 2470.372
+  angleX -40.572
+  angleY -78.328
+  angleZ -9.286
+ }
+ {
+  coords 8122.665 288.755 2477.718
+  angleX -30.03
+  angleY -37.604
+  angleZ -29.572
+ }
+ {
+  coords 8122.627 286.743 2460.091
+  angleX -43.002
+  angleY -105.282
+  angleZ -2.102
+ }
+ {
+  coords 8517.578 307.445 2279.227
+  angleX -29.84
+  angleY 63.841
+  angleZ 10.42
+ }
+ {
+  coords 8518.923 306.306 2270.782
+  angleX -39.437
+  angleY 90.068
+  angleZ 10.094
+ }
+ {
+  coords 8518.313 305.719 2263.327
+  angleX -37.029
+  angleY 90.25
+  angleZ -3.318
+ }
+ {
+  coords 8488.836 310.174 2284.934
+  angleX -31.463
+  angleY -35.286
+  angleZ -6.814
+ }
+ {
+  coords 8502.12 309.765 2294.62
+  angleX -25.653
+  angleY -18.458
+  angleZ 9.56
+ }
+ {
+  coords 8506.578 309.068 2295.755
+  angleX -27.196
+  angleY -1.538
+  angleZ 1.985
+ }
+}
+$grp GenericEntity : "{9C9C4BED9E19C374}Prefabs/Props/Military/Sandbags/Sandbag_01_wall_solid_burlap.et" {
+ {
+  coords 8495.624 307.698 2260.59
+  angleX 15.033
+  angleY 51.923
+  angleZ -0.659
+ }
+ {
+  coords 8126.439 287.923 2457.91
+  angleX 21.63
+  angleY 69.934
+  angleZ 2.03
+ }
+ {
+  coords 8515.278 306.272 2262.704
+  angleX 3.255
+  angleY 74.499
+  angleZ 14.408
+ }
+ {
+  coords 8515.068 306.621 2264.803
+  angleX -1.47
+  angleY 92.551
+  angleZ 4.931
+ }
+ {
+  coords 8515.335 306.83 2267.262
+  angleX -1.911
+  angleY 97.747
+  angleZ 4.778
+ }
+ {
+  coords 8515.29 307.04 2269.664
+  angleX -0.556
+  angleY 82.187
+  angleZ 5.115
+ }
+ {
+  coords 8514.771 307.26 2272.059
+  angleX 0.389
+  angleY 71.674
+  angleZ 5.13
+ }
+ {
+  coords 8514.019 307.567 2274.364
+  angleX 0.389
+  angleY 71.674
+  angleZ 9.638
+ }
+ {
+  coords 8513.886 307.819 2276.521
+  angleX -4.576
+  angleY 102.058
+  angleZ 2.32
+ }
+ {
+  coords 8514.079 307.89 2279.011
+  angleX -3.969
+  angleY 89.585
+  angleZ 3.253
+ }
+ {
+  coords 8494.536 308.445 2268.914
+  angleX -10.319
+  angleY -128.884
+  angleZ -0.598
+ }
+ {
+  coords 8492.913 308.421 2270.792
+  angleX -11.588
+  angleY -134.686
+  angleZ 1.541
+ }
+ {
+  coords 8498.445 308.607 2266.067
+  angleX -4.451
+  angleY -155.279
+  angleZ 0.045
+ }
+ {
+  coords 8500.654 308.603 2265.032
+  angleX -1.996
+  angleY -155.001
+  angleZ -2.614
+ }
+ {
+  coords 8491.326 308.394 2272.741
+  angleX -12.385
+  angleY -123.928
+  angleZ -0.213
+ }
+ {
+  coords 8502.33 308.485 2263.628
+  angleX -1.572
+  angleY -124.313
+  angleZ -3.573
+ }
+ {
+  coords 8504.007 308.296 2261.774
+  angleX -1.94
+  angleY -136.69
+  angleZ -4.858
+ }
+ {
+  coords 8496.33 308.516 2267.313
+  angleX -7.86
+  angleY -144.865
+  angleZ 0.822
+ }
+ {
+  coords 8087.956 374.826 2744.969
+  angleX -2.316
+  angleY -144.268
+  angleZ -2.822
+ }
+ {
+  coords 8086.153 374.782 2746.518
+  angleX -0.736
+  angleY -116.54
+  angleZ -3.575
+ }
+}
+$grp GenericEntity : "{B547CF929FCC6BB7}Prefabs/Props/Military/Sandbags/Sandbag_01_end_high_burlap.et" {
+ {
+  coords 8491.449 307.713 2260.443
+  angleX -14.78
+  angleY -117.351
+  angleZ -1.807
+  scale 0.817
+ }
+ {
+  coords 8490.465 307.706 2262.698
+  angleX 10.156
+  angleY 60.457
+  angleZ 6.31
+  scale 0.88
+ }
+ {
+  coords 8492.546 307.992 2260.699
+  angleX 1.894
+  angleY -27.258
+  angleZ -14.769
+  scale 0.8
+ }
+ {
+  coords 8491.313 308.064 2263.688
+  angleX 4.186
+  angleY -27.863
+  angleZ -14.801
+  scale 0.86
+ }
+ {
+  coords 8123.101 287.338 2462.404
+  angleX 3.517
+  angleY -9.489
+  angleZ -21.293
+  scale 0.86
+ }
+ {
+  coords 8122.284 287.717 2459.036
+  angleX -21.429
+  angleY -99.076
+  angleZ -4.243
+  scale 0.817
+ }
+ {
+  coords 8123.139 287.895 2458.814
+  angleX 4.215
+  angleY -9.953
+  angleZ -21.435
+  scale 0.8
+ }
+ {
+  coords 8122.011 287.675 2461.417
+  angleX 21.58
+  angleY 78.493
+  angleZ 3.352
+  scale 0.88
+ }
+ {
+  coords 8122.875 288.184 2462.218
+  angleX 9.504
+  angleY -12.057
+  angleZ -21.687
+  scale 0.8
+ }
+}

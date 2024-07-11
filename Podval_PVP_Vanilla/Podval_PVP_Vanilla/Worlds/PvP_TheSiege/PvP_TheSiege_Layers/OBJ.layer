@@ -1,0 +1,11 @@
+$grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
+ A_RF1 {
+  coords 1609.265 14.084 1574.584
+  m_sTitle "Захватить крепость"
+ }
+ A_RF9 {
+  coords 8438.322 284.222 2294.415
+  m_sTitle "Удержать крепость"
+  m_sFactionKey "USSR"
+ }
+}
