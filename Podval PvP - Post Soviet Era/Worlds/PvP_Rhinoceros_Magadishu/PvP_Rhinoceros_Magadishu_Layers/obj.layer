@@ -1,47 +1,103 @@
 $grp PS_Objective {
  {
+  components {
+   RplComponent "{61D77079C1AEACD6}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D770785E838219}" {
+   }
+  }
   coords 5031.407 179.318 12590.334
   m_sTitle "Захватить окопы"
   m_iScore 25
   m_sFactionKey "Ses_TKG"
  }
  {
+  components {
+   RplComponent "{61D77079CA4D002D}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D77078531E691E}" {
+   }
+  }
   coords 1628.914 0 1550.645
   m_sTitle "Захватить казармы"
   m_iScore 25
   m_sFactionKey "Ses_TKG"
  }
  {
+  components {
+   RplComponent "{61D77079CF006D1C}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D770784D61A079}" {
+   }
+  }
   coords 1618.888 0 1530.584
   m_sTitle "Захватить северную вышку"
   m_iScore 25
   m_sFactionKey "Ses_TKG"
  }
  {
+  components {
+   RplComponent "{61D77079D1BBBFAE}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D770784F1F2865}" {
+   }
+  }
   coords 1760.496 2 1750.026
   m_sTitle "Захватить южную вышку"
   m_iScore 25
   m_sFactionKey "Ses_TKG"
  }
  {
+  components {
+   RplComponent "{61D77079DBED80BE}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D77078499AAA30}" {
+   }
+  }
   coords 1493.092 1.913 1520.475
   m_sTitle "Удержать южную вышку"
   m_iScore 25
   m_sFactionKey "RHS_US_USMC"
  }
  {
+  components {
+   RplComponent "{61D77079E3F6BEAF}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D770784818ED98}" {
+   }
+  }
   coords 4764.004 179.231 12360.784
   m_sTitle "Удержать окопы"
   m_iScore 25
   m_sFactionKey "RHS_US_USMC"
  }
  {
+  components {
+   RplComponent "{61D77079EBE336BC}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D770784AA4576A}" {
+   }
+  }
   coords 1361.511 -0.087 1321.095
   m_sTitle "Удержать казармы"
   m_iScore 25
   m_sFactionKey "RHS_US_USMC"
  }
  {
+  components {
+   RplComponent "{61D77079F2AA268B}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D7707844128A7C}" {
+   }
+  }
   coords 1351.485 -0.087 1301.034
   m_sTitle "Удержать северную вышку"
   m_iScore 25

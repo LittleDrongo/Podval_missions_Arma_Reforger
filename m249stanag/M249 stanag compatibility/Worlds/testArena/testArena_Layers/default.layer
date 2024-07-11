@@ -1,0 +1,43 @@
+GenericEntity : "{06D722FC2666EB83}Prefabs/Weapons/Magazines/Box_556x45_M249_200rnd_4Ball_1Tracer.et" {
+ coords 162.205 1 79.218
+}
+GenericEntity : "{3E413771E1834D2F}Prefabs/Weapons/Rifles/M16/Rifle_M16A2.et" {
+ coords 162.379 1.209 78.932
+}
+GenericEntity : "{3F5D9FA1D3B5D3D3}Prefabs/Weapons/Magazines/Box_556x45_M249_200rnd_4Ball_1Tracer_stanag_blya.et" {
+ coords 161.438 1.202 79.882
+}
+GenericEntity : "{4FCBBDF274FD2157}Prefabs/Weapons/Magazines/Box_556x45_M249_200rnd_Ball.et" {
+ coords 163.472 1 79.531
+}
+$grp GenericEntity : "{A9A385FE1F7BF4BD}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_30rnd_Tracer.et" {
+ {
+  coords 161.977 1 80.003
+ }
+ {
+  coords 162.046 1 80.129
+ }
+ {
+  coords 162.113 1 80.354
+ }
+}
+GenericEntity : "{D2B48DEBEF38D7D7}Prefabs/Weapons/MachineGuns/M249/MG_M249.et" {
+ components {
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    MuzzleComponent "{50F64C4591CD7AA6}" {
+     components {
+      MuzzleComponent "{61D75B30C693064E}" {
+       MagazineTemplate "{A9A385FE1F7BF4BD}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_30rnd_Tracer.et"
+      }
+     }
+     MagazinePosition InventoryStorageSlot "{B80A64F4C834E9CB}" {
+      Offset -0.0481 0.0049 0.0352
+      Angles 0 0 51.9913
+     }
+    }
+   }
+  }
+ }
+ coords 162.362 1.208 80.053
+}

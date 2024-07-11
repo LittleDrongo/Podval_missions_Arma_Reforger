@@ -1,11 +1,25 @@
 $grp PS_Objective {
  {
+  components {
+   RplComponent "{61D770799749B614}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D770786800E45B}" {
+   }
+  }
   coords 1760.496 2 1750.026
   m_sTitle "Ящик в руках боевиков"
   m_iScore 25
   m_sFactionKey "Ses_TKG"
  }
  {
+  components {
+   RplComponent "{61D7707992CA6F3D}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D77078658F1D8F}" {
+   }
+  }
   coords 1493.092 1.913 1520.475
   m_sTitle "Ящик эвакуирован"
   m_iScore 25
