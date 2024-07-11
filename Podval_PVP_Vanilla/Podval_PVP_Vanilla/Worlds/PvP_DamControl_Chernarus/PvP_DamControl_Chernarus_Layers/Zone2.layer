@@ -70,9 +70,6 @@ $grp PolylineShapeEntity {
      Hierarchy "{614548BDF998E12B}" {
      }
     }
-    angleX 2.678
-    angleY 0.126
-    angleZ 2.687
     TriggerShapeType Sphere
     SphereRadius 5000000
     "Polyline Height" 500
@@ -375,9 +372,6 @@ $grp PolylineShapeEntity {
      Hierarchy "{614548BDF998E12B}" {
      }
     }
-    angleX 2.678
-    angleY 0.126
-    angleZ 2.687
     TriggerShapeType Sphere
     SphereRadius 5000000
     "Polyline Height" 500
