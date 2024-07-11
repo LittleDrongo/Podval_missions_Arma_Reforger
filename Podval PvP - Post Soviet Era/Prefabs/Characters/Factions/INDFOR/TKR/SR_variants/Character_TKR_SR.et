@@ -13,7 +13,8 @@ SCR_ChimeraCharacter : "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/TKR
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{61D2C058EFEC64A8}" {
-     PrefabsToSpawn +{
+     PrefabsToSpawn + {
+      "{119D0AA19EF023A7}Prefabs/Items/Equipment/Radios/INDFOR_Radio_R187P1_OLD_SL.et"
      }
     }
     ItemsInitConfigurationItem "{61D2C058E2831D3F}" {
