@@ -1,0 +1,77 @@
+$grp Vehicle : "{F1FBD0972FA5FE09}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport.et" {
+ M923A1_transport1 {
+  components {
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      m_fInitialFuelTankState 0
+     }
+    }
+   }
+  }
+  coords 1996.238 1.785 2958.111
+  angleX 0.092
+  angleY -87.049
+  angleZ -1.788
+ }
+ M923A1_transport2 {
+  components {
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      m_fInitialFuelTankState 0
+     }
+    }
+   }
+  }
+  coords 1988.027 1.905 2962.057
+  angleX 0.191
+  angleY -102.35
+  angleZ 0.874
+ }
+ M923A1_transport3 {
+  components {
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      m_fInitialFuelTankState 0
+     }
+    }
+   }
+  }
+  coords 1957.554 0.165 2989.433
+  angleX 3.2
+  angleY -153.399
+  angleZ -0.398
+ }
+ M923A1_transport4 {
+  components {
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      m_fInitialFuelTankState 0
+     }
+    }
+   }
+  }
+  coords 1923.123 4.865 2947.737
+  angleX 3.579
+  angleY -100.23
+  angleZ 14.473
+ }
+ M923A1_transport5 {
+  components {
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      m_fInitialFuelTankState 0
+     }
+    }
+   }
+  }
+  coords 2001.326 1.692 2971.9
+  angleX 1.031
+  angleY -112.58
+  angleZ 2.478
+ }
+}

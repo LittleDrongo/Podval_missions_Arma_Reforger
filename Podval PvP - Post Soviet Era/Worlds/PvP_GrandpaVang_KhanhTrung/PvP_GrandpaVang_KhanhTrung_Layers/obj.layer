@@ -1,0 +1,158 @@
+$grp PS_Objective {
+ {
+  components {
+   RplComponent "{61D770792CB54432}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D7707839C3C349}" {
+   }
+  }
+  coords 2834.407 12.151 2650.952
+  m_sTitle "Главарь жив"
+  m_iScore 50
+  m_sFactionKey "Ses_TKG"
+ }
+ {
+  components {
+   RplComponent "{61D7707933FEA9D5}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D77078382F21B6}" {
+   }
+  }
+  coords 2825.303 14.726 2644.573
+  m_sTitle "Убит главарь"
+  m_iScore 50
+  m_sFactionKey "RHS_RF_MSV"
+ }
+ {
+  components {
+   RplComponent "{61D770792CB54432}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D7707839C3C349}" {
+   }
+  }
+  coords 1901.351 16.733 2982.288
+  m_sTitle "Грузовик #1 цел"
+  m_iScore 10
+  m_sFactionKey "Ses_TKG"
+ }
+ {
+  components {
+   RplComponent "{61D770792CB54432}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D7707839C3C349}" {
+   }
+  }
+  coords 1901.351 16.733 2982.288
+  m_sTitle "Грузовик #2 цел"
+  m_iScore 10
+  m_sFactionKey "Ses_TKG"
+ }
+ {
+  components {
+   RplComponent "{61D770792CB54432}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D7707839C3C349}" {
+   }
+  }
+  coords 1901.351 16.733 2982.288
+  m_sTitle "Грузовик #3 цел"
+  m_iScore 10
+  m_sFactionKey "Ses_TKG"
+ }
+ {
+  components {
+   RplComponent "{61D770792CB54432}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D7707839C3C349}" {
+   }
+  }
+  coords 1901.351 16.733 2982.288
+  m_sTitle "Грузовик #4 цел"
+  m_iScore 10
+  m_sFactionKey "Ses_TKG"
+ }
+ {
+  components {
+   RplComponent "{61D770792CB54432}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D7707839C3C349}" {
+   }
+  }
+  coords 1901.351 16.733 2982.288
+  m_sTitle "Грузовик #5 цел"
+  m_iScore 10
+  m_sFactionKey "Ses_TKG"
+ }
+ {
+  components {
+   RplComponent "{61D770792CB54432}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D7707839C3C349}" {
+   }
+  }
+  coords 1901.351 16.733 2982.288
+  m_sTitle "Грузовик #1 уничтожен"
+  m_iScore 10
+  m_sFactionKey "RHS_RF_MSV"
+ }
+ {
+  components {
+   RplComponent "{61D770792CB54432}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D7707839C3C349}" {
+   }
+  }
+  coords 2012.798 10.388 2938.295
+  m_sTitle "Грузовик #2 уничтожен"
+  m_iScore 10
+  m_sFactionKey "RHS_RF_MSV"
+ }
+ {
+  components {
+   RplComponent "{61D770792CB54432}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D7707839C3C349}" {
+   }
+  }
+  coords 2012.798 10.388 2938.295
+  m_sTitle "Грузовик #3 уничтожен"
+  m_iScore 10
+  m_sFactionKey "RHS_RF_MSV"
+ }
+ {
+  components {
+   RplComponent "{61D770792CB54432}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D7707839C3C349}" {
+   }
+  }
+  coords 2012.798 10.388 2938.295
+  m_sTitle "Грузовик #4 уничтожен"
+  m_iScore 10
+  m_sFactionKey "RHS_RF_MSV"
+ }
+ {
+  components {
+   RplComponent "{61D770792CB54432}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D7707839C3C349}" {
+   }
+  }
+  coords 2012.798 10.388 2938.295
+  m_sTitle "Грузовик #5 уничтожен"
+  m_iScore 10
+  m_sFactionKey "RHS_RF_MSV"
+ }
+}

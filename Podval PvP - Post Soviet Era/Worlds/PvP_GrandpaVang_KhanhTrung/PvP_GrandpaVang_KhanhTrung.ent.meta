@@ -1,0 +1,19 @@
+MetaFileClass {
+ Name "{7E2A992B5AC5F549}Worlds/PvP_GrandpaVang_KhanhTrung/PvP_GrandpaVang_KhanhTrung.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass PS5 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+  ENTResourceClass Xbox : PC {
+  }
+ }
+}

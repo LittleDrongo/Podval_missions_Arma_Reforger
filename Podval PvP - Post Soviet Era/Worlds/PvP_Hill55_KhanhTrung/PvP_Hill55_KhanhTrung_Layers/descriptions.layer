@@ -1,0 +1,48 @@
+$grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescription/EditableMissionDescription.et" {
+ RULES {
+  coords 5534.73 61.71 10496.381
+  m_sTitle "#PS-Description_HeaderRules"
+  m_sTextData "ОБЩИЕ ПРАВИЛА"\
+  "— Всем запрещено надевать форму, головные уборы, разгрузки, бронежилеты противника (рюкзаки можно) "\
+  "— Запрещено пересекать фиолетовую линию."\
+  "— Возможна прямая видимость противника на фризтайме, будьте острожны!"\
+  "  "\
+  "ПРАВИЛА ДЛЯ ВС США"\
+  "— Запрещено пересекать синюю линию."\
+  "  "\
+  "ЗАДАЧИ ДЛЯ ПОБЕДЫ ВС США"\
+  "— 1. Удержать высоту 55"\
+  "  "\
+  "ЗАДАЧИ ПОБЕДЫ ДЛЯ БОЕВИКОВ"\
+  "— 1. Занять высоту 55 убив всех солдат США"
+  m_bEmptyFactionVisibility 1
+  m_bShowForAnyFaction 1
+ }
+ RHS_US_USMC {
+  coords 5159.505 56.132 10322.095
+  m_sTitle "#PS-Description_HeaderUS"
+  m_sTextData "НАШИ ЗАДАЧИ:"\
+  "— Удержать высоту 55"\
+  ""\
+  "p.s. возможно вас спасут подземные коммуникации."
+  m_aVisibleForFactions {
+   "RHS_US_USMC"
+  }
+ }
+ Ses_TKG {
+  coords 5534.418 43.503 10540.239
+  m_sTitle "Задачи боевиков"
+  m_sTextData "НАШИ ЗАДАЧИ:"\
+  "— Занять высоту 55 и убить всех американцев."
+  m_aVisibleForFactions {
+   "Ses_TKG"
+  }
+ }
+ ABOUT {
+  coords 5568.057 56.802 10524.196
+  m_sTitle "#PS-Description_HeaderAboutMission"
+  m_sTextData "Битва за высоту 55."
+  m_bEmptyFactionVisibility 1
+  m_bShowForAnyFaction 1
+ }
+}

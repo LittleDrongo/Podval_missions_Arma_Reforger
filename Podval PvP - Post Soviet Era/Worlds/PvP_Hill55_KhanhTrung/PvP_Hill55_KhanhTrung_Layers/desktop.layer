@@ -1,0 +1,12 @@
+$grp SCR_DestructibleBuildingEntity : "{3076BD4F789C39B7}PrefabLibrary/Structures/Landmarks/Castle_01_Bridge.et" {
+ {
+  coords 1656.615 2.336 1762.787
+  angleY -25.334
+  scale 1.5
+ }
+ {
+  coords 1671.621 2.415 1717.313
+  angleY -16.653
+  scale 1.5
+ }
+}
