@@ -205,7 +205,7 @@ $grp PolylineShapeEntity {
     }
    }
   }
-  coords 1356.875 12.517 2272.983
+  coords 1306.037 56.118 1693.112
   Points {
    ShapePoint "{61DF0D282DDEAC6B}" {
     Position 0 0 0
@@ -268,7 +268,4 @@ $grp PolylineShapeEntity {
    }
   }
  }
-}
-GenericEntity : "{0DBE058F13F0C7E8}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_US.et" {
- coords 1177.865 98.211 1841.893
 }
