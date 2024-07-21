@@ -1,0 +1,35 @@
+GenericEntity : "{351A67F98D41FB51}Prefabs/Items/Equipment/Maps/Rangecard_01.et" {
+ coords 978.155 33.713 1399.438
+}
+GenericEntity : "{757FCCE8E756175C}Prefabs/Props/Furniture/MeetingTable_01.et" {
+ coords 979.164 32.807 1399.676
+ {
+  GameEntity {
+   coords -1.025 0.906 -0.231
+  }
+  GenericEntity : "{56CE827F9AD5880E}Prefabs/Weapons/Rifles/M40/Rifle_M40A5_Optic_PEQ.et" {
+   coords -0.615 0.906 -0.088
+  }
+  $grp GenericEntity : "{B31929F65F0D0279}Prefabs/Weapons/Rifles/M14/Rifle_M21.et" {
+   {
+    coords 0.96 0.905 -0.219
+    angleZ 90
+   }
+   {
+    coords 0.598 0.905 -0.218
+    angleZ 90
+   }
+   {
+    coords 0.204 0.905 -0.218
+    angleZ 90
+   }
+   {
+    coords -0.186 0.905 -0.218
+    angleZ 90
+   }
+  }
+ }
+}
+GenericEntity : "{97CB57E67481F871}Prefabs/Props/Civilian/Notebook_01_Single_Orange.et" {
+ coords 978.556 32.748 1396.061
+}

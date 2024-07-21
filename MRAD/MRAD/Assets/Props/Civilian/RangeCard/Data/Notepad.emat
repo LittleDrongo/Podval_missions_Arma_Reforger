@@ -1,0 +1,5 @@
+MatPBRBasic {
+ BCRMap "{E1B309EB163A9DE6}Assets/Props/Civilian/RangeCard/Data/Notepad_Color.edds"
+ OpacityMap "{AF222C289E1A7050}Assets/Props/Civilian/RangeCard/Data/Notepad_AO.edds"
+ NMOMap "{536E558B802214DE}Assets/Props/Civilian/RangeCard/Data/Notepad_Normal.edds"
+}

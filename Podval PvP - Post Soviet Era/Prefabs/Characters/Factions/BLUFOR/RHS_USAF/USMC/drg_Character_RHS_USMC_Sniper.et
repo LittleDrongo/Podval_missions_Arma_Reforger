@@ -53,6 +53,12 @@ SCR_ChimeraCharacter : "{0714A1857E1FA15A}Prefabs/Characters/Factions/BLUFOR/RHS
       "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et" "{8FF49793853DB2F9}Prefabs/Weapons/Magazines/m17_magazines/Magazine_9x19_m17_17rnd.et"
      }
     }
+    ItemsInitConfigurationItem "{61EAE98D34982B48}" {
+     TargetStorage "Prefabs/Items/Equipment/Backpacks/FILBE_hydration_pack.et"
+     PrefabsToSpawn {
+      "{30E0C107531B4D7E}Prefabs/Items/Equipment/RangeCard/RangeCard_M40A5_M61.et"
+     }
+    }
    }
   }
  }

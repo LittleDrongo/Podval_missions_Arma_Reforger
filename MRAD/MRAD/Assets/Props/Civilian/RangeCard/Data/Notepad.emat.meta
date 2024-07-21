@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{EFACB86C87CE3F7D}Assets/Props/Civilian/RangeCard/Data/Notepad.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,647 @@
+$grp GenericEntity {
+ pos_1 {
+  components {
+   MeshObject "{61E97428BC0710F2}" {
+    Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+   }
+  }
+  coords 1 0.001 5
+  {
+   CommentEntity {
+    coords 0.5 1.099 0
+    angleY 90
+    scale 2.395
+    m_Comment "100"
+    m_Size 0.05
+    m_VisibleOverall 1
+    m_VisibleIngame 1
+    m_TextBackground 1
+    m_BackgroundTransparency 0
+   }
+   StaticModelEntity targ_1 : "{FF3B646DFC1CF5EB}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_RightWall.et" {
+    components {
+     MeshObject "{56DE7C8DCD0F4E0A}" {
+      PixelSizeScale 10
+     }
+    }
+    coords 100.55 1 0
+    scale 0.418
+    {
+     CommentEntity {
+      coords 0 4.722 0
+      angleY 90
+      scale 2.395
+      m_Comment "100"
+      m_Size 0.5
+      m_VisibleOverall 1
+      m_VisibleIngame 1
+      m_TextBackground 1
+      m_BackgroundTransparency 0
+     }
+    }
+   }
+  }
+ }
+ pos_2 {
+  components {
+   MeshObject "{61E97428BC0710F2}" {
+    Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+   }
+  }
+  coords 1 0.001 10
+  {
+   CommentEntity {
+    coords 0.5 1.099 0
+    angleY 90
+    scale 2.395
+    m_Comment "200"
+    m_Size 0.05
+    m_VisibleOverall 1
+    m_VisibleIngame 1
+    m_TextBackground 1
+    m_BackgroundTransparency 0
+   }
+   StaticModelEntity targ_2 : "{FF3B646DFC1CF5EB}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_RightWall.et" {
+    components {
+     MeshObject "{56DE7C8DCD0F4E0A}" {
+      PixelSizeScale 10
+     }
+    }
+    coords 200.55 1 0
+    scale 0.418
+    {
+     CommentEntity {
+      coords 0 4.722 0
+      angleY 90
+      scale 2.395
+      m_Comment "200"
+      m_Size 0.5
+      m_VisibleOverall 1
+      m_VisibleIngame 1
+      m_TextBackground 1
+      m_BackgroundTransparency 0
+     }
+    }
+   }
+  }
+ }
+ pos_3 {
+  components {
+   MeshObject "{61E97428BC0710F2}" {
+    Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+   }
+  }
+  coords 1 0.001 15
+  {
+   CommentEntity {
+    coords 0.5 1.099 0
+    angleY 90
+    scale 2.395
+    m_Comment "300"
+    m_Size 0.05
+    m_VisibleOverall 1
+    m_VisibleIngame 1
+    m_TextBackground 1
+    m_BackgroundTransparency 0
+   }
+   StaticModelEntity targ_3 : "{FF3B646DFC1CF5EB}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_RightWall.et" {
+    components {
+     MeshObject "{56DE7C8DCD0F4E0A}" {
+      PixelSizeScale 10
+     }
+    }
+    coords 300.55 1 0
+    scale 0.418
+    {
+     CommentEntity {
+      coords 0 4.722 0
+      angleY 90
+      scale 2.395
+      m_Comment "300"
+      m_Size 0.5
+      m_VisibleOverall 1
+      m_VisibleIngame 1
+      m_TextBackground 1
+      m_BackgroundTransparency 0
+     }
+    }
+   }
+  }
+ }
+ pos_4 {
+  components {
+   MeshObject "{61E97428BC0710F2}" {
+    Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+   }
+  }
+  coords 1 0.001 20
+  {
+   CommentEntity {
+    coords 0.5 1.099 0
+    angleY 90
+    scale 2.395
+    m_Comment "400"
+    m_Size 0.05
+    m_VisibleOverall 1
+    m_VisibleIngame 1
+    m_TextBackground 1
+    m_BackgroundTransparency 0
+   }
+   StaticModelEntity targ_4 : "{FF3B646DFC1CF5EB}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_RightWall.et" {
+    components {
+     MeshObject "{56DE7C8DCD0F4E0A}" {
+      PixelSizeScale 10
+     }
+    }
+    coords 400.55 1 0
+    scale 0.418
+    {
+     CommentEntity {
+      coords 0 4.722 0
+      angleY 90
+      scale 2.395
+      m_Comment "400"
+      m_Size 0.5
+      m_VisibleOverall 1
+      m_VisibleIngame 1
+      m_TextBackground 1
+      m_BackgroundTransparency 0
+     }
+    }
+   }
+  }
+ }
+ pos_5 {
+  components {
+   MeshObject "{61E97428BC0710F2}" {
+    Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+   }
+  }
+  coords 1 0.001 25
+  {
+   CommentEntity {
+    coords 0.5 1.099 0
+    angleY 90
+    scale 2.395
+    m_Comment "500"
+    m_Size 0.05
+    m_VisibleOverall 1
+    m_VisibleIngame 1
+    m_TextBackground 1
+    m_BackgroundTransparency 0
+   }
+   StaticModelEntity targ_5 : "{FF3B646DFC1CF5EB}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_RightWall.et" {
+    components {
+     MeshObject "{56DE7C8DCD0F4E0A}" {
+      PixelSizeScale 10
+     }
+    }
+    coords 500.55 1 0
+    scale 0.418
+    {
+     CommentEntity {
+      coords 0 4.722 0
+      angleY 90
+      scale 2.395
+      m_Comment "500"
+      m_Size 0.5
+      m_VisibleOverall 1
+      m_VisibleIngame 1
+      m_TextBackground 1
+      m_BackgroundTransparency 0
+     }
+    }
+   }
+  }
+ }
+ pos_6 {
+  components {
+   MeshObject "{61E97428BC0710F2}" {
+    Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+   }
+  }
+  coords 1 0.001 30
+  {
+   CommentEntity {
+    coords 0.5 1.099 0
+    angleY 90
+    scale 2.395
+    m_Comment "600"
+    m_Size 0.05
+    m_VisibleOverall 1
+    m_VisibleIngame 1
+    m_TextBackground 1
+    m_BackgroundTransparency 0
+   }
+   StaticModelEntity targ_6 : "{FF3B646DFC1CF5EB}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_RightWall.et" {
+    components {
+     MeshObject "{56DE7C8DCD0F4E0A}" {
+      PixelSizeScale 10
+     }
+    }
+    coords 600.55 1 0
+    scale 0.418
+    {
+     CommentEntity {
+      coords 0 4.722 0
+      angleY 90
+      scale 2.395
+      m_Comment "600"
+      m_Size 0.5
+      m_VisibleOverall 1
+      m_VisibleIngame 1
+      m_TextBackground 1
+      m_BackgroundTransparency 0
+     }
+    }
+   }
+  }
+ }
+ pos_7 {
+  components {
+   MeshObject "{61E97428BC0710F2}" {
+    Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+   }
+  }
+  coords 1 0.001 35
+  {
+   CommentEntity {
+    coords 0.5 1.099 0
+    angleY 90
+    scale 2.395
+    m_Comment "700"
+    m_Size 0.05
+    m_VisibleOverall 1
+    m_VisibleIngame 1
+    m_TextBackground 1
+    m_BackgroundTransparency 0
+   }
+   StaticModelEntity targ_7 : "{FF3B646DFC1CF5EB}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_RightWall.et" {
+    components {
+     MeshObject "{56DE7C8DCD0F4E0A}" {
+      PixelSizeScale 10
+     }
+    }
+    coords 700.55 1 0
+    scale 0.418
+    {
+     CommentEntity {
+      coords 0 4.722 0
+      angleY 90
+      scale 2.395
+      m_Comment "700"
+      m_Size 0.5
+      m_VisibleOverall 1
+      m_VisibleIngame 1
+      m_TextBackground 1
+      m_BackgroundTransparency 0
+     }
+    }
+   }
+  }
+ }
+ pos_8 {
+  components {
+   MeshObject "{61E97428BC0710F2}" {
+    Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+   }
+  }
+  coords 1 0.001 40
+  {
+   CommentEntity {
+    coords 0.5 1.099 0
+    angleY 90
+    scale 2.395
+    m_Comment "800"
+    m_Size 0.05
+    m_VisibleOverall 1
+    m_VisibleIngame 1
+    m_TextBackground 1
+    m_BackgroundTransparency 0
+   }
+   StaticModelEntity targ_8 : "{FF3B646DFC1CF5EB}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_RightWall.et" {
+    components {
+     MeshObject "{56DE7C8DCD0F4E0A}" {
+      PixelSizeScale 10
+     }
+    }
+    coords 800.55 1 0
+    scale 0.418
+    {
+     CommentEntity {
+      coords 0 4.722 0
+      angleY 90
+      scale 2.395
+      m_Comment "800"
+      m_Size 0.5
+      m_VisibleOverall 1
+      m_VisibleIngame 1
+      m_TextBackground 1
+      m_BackgroundTransparency 0
+     }
+    }
+   }
+  }
+ }
+ pos_9 {
+  components {
+   MeshObject "{61E97428BC0710F2}" {
+    Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+   }
+  }
+  coords 1 0.001 45
+  {
+   CommentEntity {
+    coords 0.5 1.099 0
+    angleY 90
+    scale 2.395
+    m_Comment "900"
+    m_Size 0.05
+    m_VisibleOverall 1
+    m_VisibleIngame 1
+    m_TextBackground 1
+    m_BackgroundTransparency 0
+   }
+   StaticModelEntity targ_9 : "{FF3B646DFC1CF5EB}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_RightWall.et" {
+    components {
+     MeshObject "{56DE7C8DCD0F4E0A}" {
+      PixelSizeScale 10
+     }
+    }
+    coords 900.55 1 0
+    scale 0.418
+    {
+     CommentEntity {
+      coords 0 4.722 0
+      angleY 90
+      scale 2.395
+      m_Comment "900"
+      m_Size 0.5
+      m_VisibleOverall 1
+      m_VisibleIngame 1
+      m_TextBackground 1
+      m_BackgroundTransparency 0
+     }
+    }
+   }
+  }
+ }
+ pos_10 {
+  components {
+   MeshObject "{61E97428BC0710F2}" {
+    Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+   }
+  }
+  coords 1 0.001 50
+  {
+   CommentEntity {
+    coords 0.5 1.099 0
+    angleY 90
+    scale 2.395
+    m_Comment "1000"
+    m_Size 0.05
+    m_VisibleOverall 1
+    m_VisibleIngame 1
+    m_TextBackground 1
+    m_BackgroundTransparency 0
+   }
+   StaticModelEntity targ_10 : "{FF3B646DFC1CF5EB}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_RightWall.et" {
+    components {
+     MeshObject "{56DE7C8DCD0F4E0A}" {
+      PixelSizeScale 10
+     }
+    }
+    coords 1000.55 1 0
+    scale 0.418
+    {
+     CommentEntity {
+      coords 0 4.722 0
+      angleY 90
+      scale 2.395
+      m_Comment "1000"
+      m_Size 0.5
+      m_VisibleOverall 1
+      m_VisibleIngame 1
+      m_TextBackground 1
+      m_BackgroundTransparency 0
+     }
+    }
+   }
+  }
+ }
+ pos_11 {
+  components {
+   MeshObject "{61E97428BC0710F2}" {
+    Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+   }
+  }
+  coords 1 0.001 55
+  {
+   CommentEntity {
+    coords 0.5 1.099 0
+    angleY 90
+    scale 2.395
+    m_Comment "1100"
+    m_Size 0.05
+    m_VisibleOverall 1
+    m_VisibleIngame 1
+    m_TextBackground 1
+    m_BackgroundTransparency 0
+   }
+   StaticModelEntity targ_11 : "{FF3B646DFC1CF5EB}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_RightWall.et" {
+    components {
+     MeshObject "{56DE7C8DCD0F4E0A}" {
+      PixelSizeScale 10
+     }
+    }
+    coords 1100.55 1 0
+    scale 0.418
+    {
+     CommentEntity {
+      coords 0 4.722 0
+      angleY 90
+      scale 2.395
+      m_Comment "1100"
+      m_Size 0.5
+      m_VisibleOverall 1
+      m_VisibleIngame 1
+      m_TextBackground 1
+      m_BackgroundTransparency 0
+     }
+    }
+   }
+  }
+ }
+ pos_12 {
+  components {
+   MeshObject "{61E97428BC0710F2}" {
+    Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+   }
+  }
+  coords 1 0.001 60
+  {
+   CommentEntity {
+    coords 0.5 1.099 0
+    angleY 90
+    scale 2.395
+    m_Comment "1200"
+    m_Size 0.05
+    m_VisibleOverall 1
+    m_VisibleIngame 1
+    m_TextBackground 1
+    m_BackgroundTransparency 0
+   }
+   StaticModelEntity targ_12 : "{FF3B646DFC1CF5EB}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_RightWall.et" {
+    components {
+     MeshObject "{56DE7C8DCD0F4E0A}" {
+      PixelSizeScale 10
+     }
+    }
+    coords 1200.55 1 0
+    scale 0.418
+    {
+     CommentEntity {
+      coords 0 4.722 0
+      angleY 90
+      scale 2.395
+      m_Comment "1200"
+      m_Size 0.5
+      m_VisibleOverall 1
+      m_VisibleIngame 1
+      m_TextBackground 1
+      m_BackgroundTransparency 0
+     }
+    }
+   }
+  }
+ }
+ pos_13 {
+  components {
+   MeshObject "{61E97428BC0710F2}" {
+    Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+   }
+  }
+  coords 1 0.001 65
+  {
+   CommentEntity {
+    coords 0.5 1.099 0
+    angleY 90
+    scale 2.395
+    m_Comment "1300"
+    m_Size 0.05
+    m_VisibleOverall 1
+    m_VisibleIngame 1
+    m_TextBackground 1
+    m_BackgroundTransparency 0
+   }
+   StaticModelEntity targ_13 : "{FF3B646DFC1CF5EB}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_RightWall.et" {
+    components {
+     MeshObject "{56DE7C8DCD0F4E0A}" {
+      PixelSizeScale 10
+     }
+    }
+    coords 1300.55 1 0
+    scale 0.418
+    {
+     CommentEntity {
+      coords 0 4.722 0
+      angleY 90
+      scale 2.395
+      m_Comment "1300"
+      m_Size 0.5
+      m_VisibleOverall 1
+      m_VisibleIngame 1
+      m_TextBackground 1
+      m_BackgroundTransparency 0
+     }
+    }
+   }
+  }
+ }
+ pos_14 {
+  components {
+   MeshObject "{61E97428BC0710F2}" {
+    Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+   }
+  }
+  coords 1 0.001 70
+  {
+   CommentEntity {
+    coords 0.5 1.099 0
+    angleY 90
+    scale 2.395
+    m_Comment "1400"
+    m_Size 0.05
+    m_VisibleOverall 1
+    m_VisibleIngame 1
+    m_TextBackground 1
+    m_BackgroundTransparency 0
+   }
+   StaticModelEntity targ_14 : "{FF3B646DFC1CF5EB}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_RightWall.et" {
+    components {
+     MeshObject "{56DE7C8DCD0F4E0A}" {
+      PixelSizeScale 10
+     }
+    }
+    coords 1400.55 1 0
+    scale 0.418
+    {
+     CommentEntity {
+      coords 0 4.722 0
+      angleY 90
+      scale 2.395
+      m_Comment "1400"
+      m_Size 0.5
+      m_VisibleOverall 1
+      m_VisibleIngame 1
+      m_TextBackground 1
+      m_BackgroundTransparency 0
+     }
+    }
+   }
+  }
+ }
+ pos_15 {
+  components {
+   MeshObject "{61E97428BC0710F2}" {
+    Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+   }
+  }
+  coords 1 0.001 75
+  {
+   CommentEntity {
+    coords 0.5 1.099 0
+    angleY 90
+    scale 2.395
+    m_Comment "1500"
+    m_Size 0.05
+    m_VisibleOverall 1
+    m_VisibleIngame 1
+    m_TextBackground 1
+    m_BackgroundTransparency 0
+   }
+   StaticModelEntity targ_15 : "{FF3B646DFC1CF5EB}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_RightWall.et" {
+    components {
+     MeshObject "{56DE7C8DCD0F4E0A}" {
+      PixelSizeScale 10
+     }
+    }
+    coords 1500.55 1 0
+    scale 0.418
+    {
+     CommentEntity {
+      coords 0 4.722 0
+      angleY 90
+      scale 2.395
+      m_Comment "1500"
+      m_Size 0.5
+      m_VisibleOverall 1
+      m_VisibleIngame 1
+      m_TextBackground 1
+      m_BackgroundTransparency 0
+     }
+    }
+   }
+  }
+ }
+}

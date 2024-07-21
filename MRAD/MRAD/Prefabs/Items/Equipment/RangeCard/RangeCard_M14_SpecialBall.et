@@ -1,0 +1,21 @@
+GenericEntity : "{D30D4FA5A82D6F0D}Prefabs/Items/Equipment/RangeCard/RangeCard_Notepad_Base.et" {
+ ID "508AB2013EEE1E00"
+ components {
+  InventoryItemComponent "{5222EB4D0C73006B}" {
+   Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
+    ItemDisplayName UIInfo "{5222EB4D07D865FA}" {
+     Name "M14 RangeCard SpecialBall"
+     Description "M14 RangeCard SpecialBall"
+    }
+   }
+  }
+  MeshObject "{61EA9D1BBDB999D3}" {
+   Materials {
+    MaterialAssignClass "{61EA9D04657D3EB1}" {
+     SourceMaterial "Notepad"
+     AssignedMaterial "{1C004FA8BB098EDD}Assets/Props/Civilian/RangeCard/Balls/m14_special_ball.emat"
+    }
+   }
+  }
+ }
+}

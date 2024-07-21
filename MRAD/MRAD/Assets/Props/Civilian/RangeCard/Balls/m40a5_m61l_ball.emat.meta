@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{E67784A8C6613DE5}Assets/Props/Civilian/RangeCard/Balls/m40a5_m61l_ball.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

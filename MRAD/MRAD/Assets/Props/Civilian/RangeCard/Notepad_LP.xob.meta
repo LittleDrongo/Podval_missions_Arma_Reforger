@@ -1,0 +1,40 @@
+MetaFileClass {
+ Name "{C278EEA42E75C9E2}Assets/Props/Civilian/RangeCard/Notepad_LP.xob"
+ Configurations {
+  FBXResourceClass PC {
+   Scale 0.15 0.15 0.15
+   MaterialAssigns {
+    MaterialAssignClass "{61EA9D117E356308}" {
+     SourceMaterial "Notepad"
+     AssignedMaterial "{EFACB86C87CE3F7D}Assets/Props/Civilian/RangeCard/Data/Notepad.emat"
+    }
+   }
+   MeshParams {
+    MeshParam Notepad_LP {
+    }
+   }
+   Common TXOCommonClass "{61EA9D117E0E0C73}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{61EA9D117E0FFC84}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{61EA9D117E0FFC16}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{61EA9D117E0FFDA3}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{61EA9D117E0FFD6C}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{61EA9D117E0FFD23}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

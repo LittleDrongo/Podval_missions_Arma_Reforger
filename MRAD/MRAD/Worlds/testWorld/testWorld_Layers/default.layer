@@ -1,0 +1,199 @@
+$grp GenericEntity : "{261AF2DFA11F2801}Prefabs/Items/Equipment/RangeCard/RangeCard_M14_SpecialBall.et" {
+ {
+  coords 1.557 1.906 2.203
+ }
+ {
+  coords 2.037 1.906 2.214
+ }
+}
+GenericEntity : "{30E0C107531B4D7E}Prefabs/Items/Equipment/RangeCard/RangeCard_M40A5_M61.et" {
+ coords 1 1.906 2.212
+}
+GameEntity : "{333A794F0B55C019}Prefabs/Weapons/Attachments/Optics/m8541/Optic_M8541.et" {
+ coords 0.44 1.906 2.356
+}
+GenericEntity : "{5FFD91CF507BFFFB}Prefabs/Props/Military/Arsenal/AmmoBoxes/US/AmmoBoxArsenal_Ammunition_US.et" {
+ coords 2.824 1 1.896
+}
+$grp GenericEntity : "{627255315038152A}Prefabs/Weapons/Magazines/Magazine_762x51_M14_20rnd_SpecialBall.et" {
+ {
+  coords 2.472 1.906 2.346
+ }
+ {
+  coords 2.412 1.906 2.413
+ }
+ {
+  coords 2.348 1.906 2.413
+ }
+ {
+  coords 2.478 1.906 2.446
+ }
+ {
+  coords 2.351 1.906 2.732
+ }
+ {
+  coords 2.395 1.906 2.743
+ }
+ {
+  coords 2.353 1.906 2.517
+ }
+ {
+  coords 2.469 1.906 2.687
+ }
+ {
+  coords 2.363 1.906 2.64
+ }
+ {
+  coords 2.422 1.906 2.65
+ }
+ {
+  coords 2.488 1.906 2.569
+ }
+ {
+  coords 2.416 1.906 2.529
+ }
+ {
+  coords 2.451 1.906 2.77
+ }
+ {
+  coords 2.33 1.906 2.819
+ }
+ {
+  coords 2.375 1.906 2.821
+ }
+ {
+  coords 2.444 1.906 2.832
+ }
+ {
+  coords 2.405 1.906 2.314
+ }
+ {
+  coords 2.341 1.906 2.308
+ }
+ {
+  coords 2.472 1.929 2.225
+ }
+ {
+  coords 2.351 1.906 2.222
+ }
+ {
+  coords 2.409 1.906 2.228
+ }
+}
+GenericEntity : "{6CDC3AA07A9A639E}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M62_T.et" {
+ coords 0.54 1.906 3.071
+}
+GenericEntity : "{73950FBA2D7DB5C5}Prefabs/Items/Equipment/Radios/Radio_ANPRC68.et" {
+ coords 1.15 1.906 2.179
+}
+GenericEntity : "{757FCCE8E756175C}Prefabs/Props/Furniture/MeetingTable_01.et" {
+ coords 1.362 1 2.624
+ {
+  GenericEntity : "{56CE827F9AD5880E}Prefabs/Weapons/Rifles/M40/Rifle_M40A5_Optic_PEQ.et" {
+   coords -0.615 0.906 -0.088
+  }
+ }
+}
+GenericEntity : "{81EB948E6414BD6F}Prefabs/Weapons/Rifles/M14/Rifle_M21_ARTII.et" {
+ coords 1.873 1.906 2.251
+}
+$grp GenericEntity : "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et" {
+ {
+  coords 0.529 1.906 2.945
+ }
+ {
+  coords 0.519 1.906 2.84
+ }
+ {
+  coords 0.536 1.906 2.727
+ }
+ {
+  coords 0.603 1.906 2.797
+ }
+ {
+  coords 0.689 1.906 2.889
+ }
+ {
+  coords 0.651 1.906 3.053
+ }
+ {
+  coords 0.958 1.906 3.059
+ }
+ {
+  coords 1.378 1.906 3.007
+ }
+ {
+  coords 1.449 1.906 2.995
+ }
+ {
+  coords 1.352 1.906 2.891
+ }
+ {
+  coords 1.219 1.906 2.783
+ }
+ {
+  coords 1.167 1.906 2.916
+ }
+ {
+  coords 1.202 1.906 2.975
+ }
+ {
+  coords 1.567 1.906 2.842
+ }
+ {
+  coords 1.808 1.906 2.857
+ }
+ {
+  coords 2.066 1.906 2.979
+ }
+ {
+  coords 1.51 1.906 2.88
+ }
+ {
+  coords 1.484 1.906 2.634
+ }
+ {
+  coords 1.943 1.906 2.694
+ }
+ {
+  coords 2.038 1.906 2.92
+ }
+ {
+  coords 1.718 1.906 2.99
+ }
+ {
+  coords 1.632 1.906 2.992
+ }
+ {
+  coords 1.639 1.906 2.737
+ }
+ {
+  coords 1.761 1.906 2.595
+ }
+ {
+  coords 1.692 1.906 2.547
+ }
+ {
+  coords 1.547 1.906 2.882
+ }
+}
+GenericEntity : "{97CB57E67481F871}Prefabs/Props/Civilian/Notebook_01_Single_Orange.et" {
+ coords 0.298 1.906 2.281
+}
+$grp GameEntity : "{ACC9B43941CE5EA6}Prefabs/Weapons/Attachments/Optics/Optic_leupoldMK4/Optic_leupoldMK4.et" {
+ {
+  coords 0.607 1.906 2.333
+ }
+ {
+  coords 0.365 1.906 2.893
+ }
+}
+GenericEntity : "{BCEA0EB0D764D8DD}Prefabs/Items/Equipment/Binoculars/Rangefinder_PDU4.et" {
+ coords 2.398 1.906 2.937
+}
+GameEntity : "{D2018EDB1BBF4C88}Prefabs/Weapons/Attachments/Optics/Optic_ARTII/Optic_ARTII.et" {
+ coords 2.288 1.906 2.436
+}
+GenericEntity : "{D30D4FA5A82D6F0D}Prefabs/Items/Equipment/RangeCard/RangeCard_Notepad_Base.et" {
+ coords 1.095 1.906 2.404
+}
