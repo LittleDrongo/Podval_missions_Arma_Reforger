@@ -1,0 +1,6 @@
+MatPBRBasic {
+ Color 0.558 0.548 0.493 1
+ RoughnessScale 1.5
+ MetalnessScale 0
+ BCRMap "{8658534D3B4428C0}Assets/Props/Civilian/Notebook_01/Data/m40a5_RangeCard.edds"
+}

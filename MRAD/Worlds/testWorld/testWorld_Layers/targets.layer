@@ -1,0 +1,699 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{61E97428BC0710F2}" {
+    Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+   }
+  }
+  coords 1 0.001 10
+  {
+   $grp GenericEntity {
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 5
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 10
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 20
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 25
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 30
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 15
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 35
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 40
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 45
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 50
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 55
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 60
+    }
+   }
+  }
+ }
+ {
+  components {
+   MeshObject "{61E97428BC0710F2}" {
+    Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+   }
+  }
+  coords 1 0.001 75
+  {
+   $grp GenericEntity {
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 5
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 10
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 20
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 25
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 30
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 15
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 35
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 40
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 45
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 50
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 55
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 60
+    }
+   }
+  }
+ }
+ {
+  components {
+   MeshObject "{61E97428BC0710F2}" {
+    Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+   }
+  }
+  coords 1 0.001 140
+  {
+   $grp GenericEntity {
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 5
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 10
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 20
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 25
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 30
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 15
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 35
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 40
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 45
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 50
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 55
+    }
+    {
+     components {
+      MeshObject "{61E97428BC0710F2}" {
+       Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+      }
+     }
+     coords -0 0 60
+    }
+   }
+  }
+ }
+}
+$grp SCR_FiringRangeTarget : "{379D34B0D41DA810}Prefabs/Props/Military/Training/TargetInfantry_01.et" {
+ m1 {
+  coords 100 1 10
+  angleY -90
+  {
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m2 {
+  coords 200 1 15
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m3 {
+  coords 300 1 20
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m4 {
+  coords 400 1 25
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m5 {
+  coords 500 1 30
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m6 {
+  coords 600 1 35
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m7 {
+  coords 700 1 40
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m8 {
+  coords 800 1 45
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m9 {
+  coords 900 1 50
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m10 {
+  coords 1000 1 55
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m11 {
+  coords 1100 1 60
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m12 {
+  coords 1200 1 65
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m13 {
+  coords 1300 1 70
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m14 {
+  coords 1400 1 75
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m15 {
+  coords 1500 1 80
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m16 {
+  coords 1600 1 85
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m17 {
+  coords 1700 1 75
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m18 {
+  coords 1800 1 80
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m19 {
+  coords 1900 1 85
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+ m20 {
+  coords 2000 1 90
+  angleY -90
+  {
+   GenericEntity {
+    components {
+     MeshObject "{61E97428BC0710F2}" {
+      Object "{F380EB22C413BE2E}Prefab/Data/box_1m.xob"
+     }
+    }
+    coords 0 -0.999 99
+    angleY 90
+   }
+   SCR_DestructibleEntity : "{315CA2DA8D245C7A}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_2m.et" {
+    coords 1.082 -0.748 0.137
+    angleY -180
+   }
+  }
+ }
+}

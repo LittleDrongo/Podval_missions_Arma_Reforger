@@ -4,8 +4,44 @@ SCR_ChimeraCharacter : "{1757CD5AA2D8A4F8}Prefabs/Characters/Factions/BLUFOR/US_
 SCR_ChimeraCharacter : "{48C93CF154FFB9EF}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_SR.et" {
  coords 129.119 1 155.673
 }
+GenericEntity : "{757FCCE8E756175C}Prefabs/Props/Furniture/MeetingTable_01.et" {
+ coords 116.207 1 163.006
+}
+GenericEntity : "{81EB948E6414BD6F}Prefabs/Weapons/Rifles/M14/Rifle_M21_ARTII.et" {
+ coords 118.442 1 162.665
+}
 SCR_ChimeraCharacter : "{C2101FF9EC237FBA}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_TL.et" {
  coords 121.458 1 162.884
+}
+GameEntity : "{D2018EDB1BBF4C88}Prefabs/Weapons/Attachments/Optics/Optic_ARTII/Optic_ARTII.et" {
+ components {
+  SCR_2DPIPSightsComponent "{5D0CC83435B55855}" {
+   SightsRanges {
+    SightRangeInfo "{5D0CCDD062A62502}" {
+     Range 0.05 0.5
+    }
+    SightRangeInfo "{5D0CCDD062A62503}" {
+     Range 0.1 1
+    }
+    SightRangeInfo "{5D0CCDD062A62500}" {
+     Range 0.15 1.5
+    }
+    SightRangeInfo "{5D0CCDD062A62501}" {
+     Range 0.2 2
+    }
+    SightRangeInfo "{5D0CCDD062A657C3}" {
+     Range 0.25 2.5
+    }
+    SightRangeInfo "{5D0CCDD062A657DC}" {
+     Range 0.3 3
+    }
+    SightRangeInfo "{5D0CCDD062A657DD}" {
+     Range 0.35 3.5
+    }
+   }
+  }
+ }
+ coords 115.759 1.928 162.897
 }
 $grp GenericEntity : "{E4D45E4C68E52CF0}Prefabs/Weapons/Grenades/Smoke_NSP_Orange.et" {
  {

@@ -1,0 +1,65 @@
+GenericEntity : "{7B6990100263E2B3}Prefabs/Items/Core/Map_Base.et" {
+ ID "508AB2013EEE1E00"
+ components {
+  InventoryItemComponent "{5222EB4D0C73006B}" {
+   Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
+    ItemDisplayName UIInfo "{5222EB4D07D865FA}" {
+     Name "RangeCard M40A5"
+     Description "Test RangeCard M40A5 Rifle"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes PhysicalAttributes {
+     Weight 0.1
+     SizeSetupStrategy Manual
+     ItemDimensions 5 5 5
+     ItemVolume 200
+    }
+    ItemAnimationAttributes ItemAnimationAttributes "{61E97429B5F643A3}" {
+     AnimationAttachments {
+      AnimationAttachmentInfo "{61E97429B5F643AA}" {
+       AnimGraph "{83675D0B0AB1B2C3}Assets/Items/Equipment/workspaces/paper_map.agr"
+       BindingName "Gadget"
+      }
+     }
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{61E97429B5F643B3}" {
+      CameraPreset Top
+      CameraOrbitAngles 0 0 0
+      CameraDistanceToItem 1.4
+      CameraOffset 0 0 0
+      FOV 10
+     }
+     CharacterModifierAttributes "{61E97429B5F643B1}" {
+      ADSSpeedLimit 1
+     }
+    }
+    m_SlotType SLOT_GADGETS_STORAGE
+   }
+  }
+  MeshObject "{61E97429B5F643B6}" {
+   Object "{789311902B5FF0FF}Assets/Props/Civilian/Notebook_01/Notebook_01_Single.xob"
+   Materials {
+    MaterialAssignClass "{61E974275445C30F}" {
+     SourceMaterial "Notebook_01"
+     AssignedMaterial "{88BD9690E241F3A6}Assets/Props/Civilian/Notebook_01/Data/RangeCard_01.emat"
+    }
+   }
+  }
+  RigidBody "{61E97429B5F643B8}" {
+   LinearDamping 0.5
+   AngularDamping 0.5
+   ModelGeometry 1
+  }
+  SCR_MapGadgetComponent "{61E97429B5F643BD}" {
+   m_eAnimVariable R148
+   m_eUseMask FROM_QUICKSLOT
+  }
+  ActionsManagerComponent "{508AB5952B584B2E}" {
+   additionalActions {
+    SCR_EquipGadgetAction "{553AE376A93A9D5B}" : "{068D8D646964D12A}Prefabs/Characters/Core/Actions/EquipGadgetAction.conf" {
+    }
+   }
+  }
+ }
+ coords 1251.57 51.001 1427.637
+}

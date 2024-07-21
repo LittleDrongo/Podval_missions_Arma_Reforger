@@ -1,0 +1,153 @@
+GenericEntity : "{04EEB10214E177B3}Prefabs/Props/Civilian/Notebook_01_Single_MarbleBlack.et" {
+ coords 2.748 1 1
+}
+GameEntity : "{333A794F0B55C019}Prefabs/Weapons/Attachments/Optics/m8541/Optic_M8541.et" {
+ coords 0.44 1.906 2.356
+}
+$grp GenericEntity : "{351A67F98D41FB51}Prefabs/Items/Equipment/Maps/Rangecard_01.et" {
+ {
+  coords 2.489 1 0.838
+ }
+ {
+  coords 1.628 1.906 2.304
+ }
+}
+GenericEntity : "{3800AA04761AE0EC}Prefabs/Props/Civilian/Notebook_01_Single_Blue.et" {
+ coords 2.108 1 1.314
+}
+GenericEntity : "{6CDC3AA07A9A639E}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M62_T.et" {
+ coords 0.54 1.906 3.071
+}
+GenericEntity : "{757FCCE8E756175C}Prefabs/Props/Furniture/MeetingTable_01.et" {
+ coords 1.362 1 2.624
+ {
+  GenericEntity : "{56CE827F9AD5880E}Prefabs/Weapons/Rifles/M40/Rifle_M40A5_Optic_PEQ.et" {
+   coords -0.615 0.906 -0.088
+  }
+ }
+}
+$grp GenericEntity : "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et" {
+ {
+  coords 0.529 1.906 2.945
+ }
+ {
+  coords 0.519 1.906 2.84
+ }
+ {
+  coords 0.536 1.906 2.727
+ }
+ {
+  coords 0.603 1.906 2.797
+ }
+ {
+  coords 0.689 1.906 2.889
+ }
+ {
+  coords 0.651 1.906 3.053
+ }
+ {
+  coords 0.958 1.906 3.059
+ }
+ {
+  coords 1.378 1.906 3.007
+ }
+ {
+  coords 1.449 1.906 2.995
+ }
+ {
+  coords 1.352 1.906 2.891
+ }
+ {
+  coords 1.219 1.906 2.783
+ }
+ {
+  coords 1.167 1.906 2.916
+ }
+ {
+  coords 1.202 1.906 2.975
+ }
+ {
+  coords 1.567 1.906 2.842
+ }
+ {
+  coords 1.808 1.906 2.857
+ }
+ {
+  coords 2.066 1.906 2.979
+ }
+ {
+  coords 1.51 1.906 2.88
+ }
+ {
+  coords 1.484 1.906 2.634
+ }
+ {
+  coords 1.943 1.906 2.694
+ }
+ {
+  coords 2.038 1.906 2.92
+ }
+ {
+  coords 1.718 1.906 2.99
+ }
+ {
+  coords 1.632 1.906 2.992
+ }
+ {
+  coords 1.639 1.906 2.737
+ }
+ {
+  coords 1.761 1.906 2.595
+ }
+ {
+  coords 2.066 1.906 2.603
+ }
+ {
+  coords 1.692 1.906 2.547
+ }
+ {
+  coords 2.13 1.906 2.564
+ }
+ {
+  coords 2.073 1.906 2.813
+ }
+ {
+  coords 1.547 1.906 2.882
+ }
+}
+GenericEntity : "{97CB57E67481F871}Prefabs/Props/Civilian/Notebook_01_Single_Orange.et" {
+ coords 0.298 1.906 2.281
+}
+GenericEntity : "{A0E6EF27E3142558}Prefabs/Items/Equipment/Radios/RangeCard_02.et" {
+ components {
+  InventoryItemComponent "{5222EB4D0C73006B}" {
+   Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
+    ItemDisplayName UIInfo "{5222EB4D07D865FA}" {
+     Name "RangeCard M40a5"
+     Description "Just test range card for m40a5 rifle from RHS"
+    }
+   }
+  }
+  MeshObject "{5A30BAE7673C63D1}" {
+   Object "{789311902B5FF0FF}Assets/Props/Civilian/Notebook_01/Notebook_01_Single.xob"
+   Materials {
+    MaterialAssignClass "{61E97424EC9A7769}" {
+     SourceMaterial "Notebook_01"
+     AssignedMaterial "{88BD9690E241F3A6}Assets/Props/Civilian/Notebook_01/Data/RangeCard_01.emat"
+    }
+   }
+  }
+ }
+ coords 1.9 1.906 2.304
+}
+$grp GameEntity : "{ACC9B43941CE5EA6}Prefabs/Weapons/Attachments/Optics/Optic_leupoldMK4/Optic_leupoldMK4.et" {
+ {
+  coords 0.607 1.906 2.333
+ }
+ {
+  coords 0.365 1.906 2.893
+ }
+}
+GenericEntity : "{BCEA0EB0D764D8DD}Prefabs/Items/Equipment/Binoculars/Rangefinder_PDU4.et" {
+ coords 2.398 1.906 2.937
+}

@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 1 1 1 0.263
+ BCRMap "{DC7004D1260775B7}Prefab/1meter.edds"
+ NMOMap "{DC7004D1260775B7}Prefab/1meter.edds"
+}

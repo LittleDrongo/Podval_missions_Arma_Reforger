@@ -1,0 +1,117 @@
+GenericEntity : "{757FCCE8E756175C}Prefabs/Props/Furniture/MeetingTable_01.et" {
+ coords 2505.334 147.824 2261.054
+ {
+  GenericEntity : "{56CE827F9AD5880E}Prefabs/Weapons/Rifles/M40/Rifle_M40A5_Optic_PEQ.et" {
+   coords -0.499 0.955 -0.133
+   angleX 3.354
+   angleY -22.211
+   angleZ 98.154
+  }
+ }
+}
+$grp GenericEntity : "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et" {
+ {
+  coords 2504.501 148.73 2261.375
+ }
+ {
+  coords 2504.491 148.73 2261.27
+ }
+ {
+  coords 2504.508 148.73 2261.157
+ }
+ {
+  coords 2504.575 148.73 2261.227
+ }
+ {
+  coords 2504.661 148.73 2261.319
+ }
+ {
+  coords 2504.623 148.73 2261.483
+ }
+ {
+  coords 2504.93 148.73 2261.489
+ }
+ {
+  coords 2505.35 148.73 2261.437
+ }
+ {
+  coords 2505.421 148.73 2261.425
+ }
+ {
+  coords 2505.324 148.73 2261.321
+ }
+ {
+  coords 2505.191 148.73 2261.213
+ }
+ {
+  coords 2505.139 148.73 2261.346
+ }
+ {
+  coords 2505.174 148.73 2261.405
+ }
+ {
+  coords 2505.539 148.73 2261.272
+ }
+ {
+  coords 2505.78 148.73 2261.287
+ }
+ {
+  coords 2506.038 148.73 2261.409
+ }
+ {
+  coords 2505.482 148.73 2261.31
+ }
+ {
+  coords 2505.456 148.73 2261.064
+ }
+ {
+  coords 2505.915 148.73 2261.124
+ }
+ {
+  coords 2506.01 148.73 2261.35
+ }
+ {
+  coords 2505.69 148.73 2261.42
+ }
+ {
+  coords 2505.604 148.73 2261.422
+ }
+ {
+  coords 2505.611 148.73 2261.167
+ }
+ {
+  coords 2505.733 148.73 2261.025
+ }
+ {
+  coords 2506.038 148.73 2261.033
+ }
+ {
+  coords 2505.664 148.73 2260.977
+ }
+ {
+  coords 2506.102 148.73 2260.994
+ }
+ {
+  coords 2506.045 148.73 2261.243
+ }
+ {
+  coords 2505.519 148.73 2261.312
+ }
+}
+GenericEntity : "{A0E6EF27E3142558}Prefabs/Items/Equipment/Radios/RangeCard_02.et" {
+ components {
+  InventoryItemComponent "{5222EB4D0C73006B}" {
+   Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
+    ItemAnimationAttributes ItemAnimationAttributes "{61E97424032F4EE1}" {
+    }
+   }
+  }
+ }
+ coords 2505.874 148.73 2260.752
+}
+GameEntity : "{ACC9B43941CE5EA6}Prefabs/Weapons/Attachments/Optics/Optic_leupoldMK4/Optic_leupoldMK4.et" {
+ coords 2504.579 148.73 2260.763
+}
+GenericEntity : "{BCEA0EB0D764D8DD}Prefabs/Items/Equipment/Binoculars/Rangefinder_PDU4.et" {
+ coords 2506.37 148.772 2261.367
+}
