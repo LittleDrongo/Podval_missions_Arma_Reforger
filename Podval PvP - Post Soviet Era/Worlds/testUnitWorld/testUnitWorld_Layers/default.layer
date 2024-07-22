@@ -31,6 +31,9 @@ SCR_ChimeraCharacter : "{5C83EA75AA32D2FD}Prefabs/Characters/Factions/BLUFOR/RHS
 SCR_ChimeraCharacter : "{631CC570F6F9640D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MG.et" {
  coords 100.343 1 151.461
 }
+GenericEntity : "{6343FDE2D086810C}Prefabs/Items/Equipment/RangeCard/RangeCard_M40A5.et" {
+ coords 88.683 1 163.818
+}
 $grp SCR_ChimeraCharacter : "{6AD8073B67B71A7C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Rifleman.et" {
  {
   coords 110.796 1 150.162

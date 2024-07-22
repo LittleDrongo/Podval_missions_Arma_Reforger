@@ -56,7 +56,7 @@ SCR_ChimeraCharacter : "{0714A1857E1FA15A}Prefabs/Characters/Factions/BLUFOR/RHS
     ItemsInitConfigurationItem "{61EAE98D34982B48}" {
      TargetStorage "Prefabs/Items/Equipment/Backpacks/FILBE_hydration_pack.et"
      PrefabsToSpawn {
-      "{30E0C107531B4D7E}Prefabs/Items/Equipment/RangeCard/RangeCard_M40A5_M61.et"
+      "{6343FDE2D086810C}Prefabs/Items/Equipment/RangeCard/RangeCard_M40A5.et"
      }
     }
    }

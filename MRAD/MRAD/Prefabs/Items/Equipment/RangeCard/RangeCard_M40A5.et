@@ -1,3 +1,36 @@
 GenericEntity : "{D30D4FA5A82D6F0D}Prefabs/Items/Equipment/RangeCard/RangeCard_Notepad_Base.et" {
  ID "508AB2013EEE1E00"
+ components {
+  Drg_NotepadRtComponent "{61ECFCAC76676880}" {
+   m_sText "	M40A5		"\
+   "	Ball: M61		"\
+   "			"\
+   "	Meters	|	up mrad"\
+   "	100	-	1,3"\
+   "	200	-	1,5"\
+   "	300	-	2,1"\
+   "	400	-	2,9"\
+   "	500	-	3,7"\
+   "	600	-	4,6"\
+   "	700	-	5,7"\
+   "	800	-	6,9"\
+   "	900	-	8,3"\
+   "	1000	-	10,1"\
+   "	1100	-	11,9"\
+   "	1200	-	14,1"
+  }
+  InventoryItemComponent "{5222EB4D0C73006B}" {
+   Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
+    ItemDisplayName UIInfo "{5222EB4D07D865FA}" {
+     Name "Rangecard for M40A5"
+     Description "Rangecard for M40A5"
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{61EA9D1BBDB999C8}" {
+      ItemRenderRotation 0 180 180
+     }
+    }
+   }
+  }
+ }
 }
