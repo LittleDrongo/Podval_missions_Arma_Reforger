@@ -1,0 +1,17 @@
+GenericEntity pos_16 {
+ components {
+  Drg_NotepadRtComponent "{61ECFCA0CF0E4C42}" {
+   m_sPathLayout "{BFDD1C34CD9D8C2D}UI/layouts/NotepadSheet/NotepadSheet.layout"
+  }
+  MeshObject "{61E97428BC0710F2}" {
+   Object "{C278EEA42E75C9E2}Assets/Props/Civilian/RangeCard/Notepad_LP.xob"
+   Materials {
+    MaterialAssignClass "{61ECFCAED46795EF}" {
+     SourceMaterial "Material"
+     AssignedMaterial "{7FE13489D6ABC30E}Assets/Props/CubeMeter/Data/notepad_rt.emat"
+    }
+   }
+  }
+ }
+ coords 5.357 1 1.375
+}

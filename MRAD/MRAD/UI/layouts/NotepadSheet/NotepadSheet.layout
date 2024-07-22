@@ -1,0 +1,84 @@
+FrameWidgetClass {
+ Name "rootFrame"
+ {
+  RTTextureWidgetClass "{61ECFCA7CF2C4B1D}" {
+   Name "drg_Main_RTTexture"
+   Slot FrameWidgetSlot "{61ECFCA7CF2C4CFE}" {
+    OffsetLeft 0
+    OffsetTop 0
+    SizeX 670
+    OffsetRight -670
+    SizeY 997
+    OffsetBottom -997
+   }
+   {
+    FrameWidgetClass "{61ECFCA645BA2F4B}" {
+     Name "artboard"
+     Slot FrameWidgetSlot "{61ECFCA645BA2F29}" {
+      OffsetLeft 0
+      OffsetTop 0
+      SizeX 670
+      OffsetRight -670
+      SizeY 997
+      OffsetBottom -997
+     }
+     {
+      ImageWidgetClass "{61ECFCA62E9A3E59}" {
+       Name "Image0"
+       Slot FrameWidgetSlot "{61ECFCA62E9A3E34}" {
+        Anchor 0 0 1 1
+        PositionX 0
+        OffsetLeft 0
+        PositionY 0
+        OffsetTop 0
+        SizeX 0
+        OffsetRight 0
+        SizeY 0
+        OffsetBottom 0
+       }
+       Texture "{96550C854B971698}UI/layouts/NotepadSheet/NotepadSheet.edds"
+       Size 709 971
+      }
+      RichTextWidgetClass "{61ECFCA524B94CE7}" {
+       Name "RichText0"
+       Slot FrameWidgetSlot "{61ECFCA524B94CC2}" {
+        Anchor 0 0 0 0
+        PositionX 133.292
+        OffsetLeft 133.292
+        PositionY 71
+        OffsetTop 71
+        SizeX 522.35
+        OffsetRight -655.642
+        SizeY 856
+        OffsetBottom -927
+       }
+       Color 0.003 0.003 0.202 1
+       Text "	M40A5		"\
+       "	Ball: M61		"\
+       "			"\
+       "	Meters	|	up mrad"\
+       "	100	-	1,3"\
+       "	200	-	1,5"\
+       "	300	-	2,1"\
+       "	400	-	2,9"\
+       "	500	-	3,7"\
+       "	600	-	4,6"\
+       "	700	-	5,7"\
+       "	800	-	6,9"\
+       "	900	-	8,3"\
+       "	1000	-	10,1"\
+       "	1100	-	11,9"\
+       "	1200	-	14,1"\
+       "	1300	-	16,5"
+       "Font Size" 48
+       FontProperties FontProperties "{61ECFCA5AC3BD206}" {
+        Font "{F2C89AF8C4C1FE43}UI/Fonts/Eskal_Font4You.fnt"
+        Bold 1
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}

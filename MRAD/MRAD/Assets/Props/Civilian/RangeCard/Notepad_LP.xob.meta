@@ -8,9 +8,15 @@ MetaFileClass {
      SourceMaterial "Notepad"
      AssignedMaterial "{EFACB86C87CE3F7D}Assets/Props/Civilian/RangeCard/Data/Notepad.emat"
     }
+    MaterialAssignClass "{61ECFCAE067DDF0A}" {
+     SourceMaterial "Material"
+     AssignedMaterial "{CAFB2B4C2362D7A9}Assets/Props/Civilian/RangeCard/Data/Material.emat"
+    }
    }
    MeshParams {
     MeshParam Notepad_LP {
+    }
+    MeshParam "Notepad_LP.001" {
     }
    }
    Common TXOCommonClass "{61EA9D117E0E0C73}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
