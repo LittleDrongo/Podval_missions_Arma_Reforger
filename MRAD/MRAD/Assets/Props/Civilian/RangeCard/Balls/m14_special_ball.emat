@@ -1,5 +1,0 @@
-MatPBRBasic {
- BCRMap "{44237E1D4A894BB1}Assets/Props/Civilian/RangeCard/Balls/m14_special_ball.edds"
- OpacityMap "{AF222C289E1A7050}Assets/Props/Civilian/RangeCard/Data/Notepad_AO.edds"
- NMOMap "{536E558B802214DE}Assets/Props/Civilian/RangeCard/Data/Notepad_Normal.edds"
-}

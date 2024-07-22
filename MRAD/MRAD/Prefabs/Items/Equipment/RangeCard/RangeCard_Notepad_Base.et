@@ -1,11 +1,31 @@
 GenericEntity : "{7CEEC3FF35A201A2}Prefabs/Items/Core/Compass_Base.et" {
  ID "508AB2013EEE1E00"
  components {
+  Drg_NotepadRtComponent "{61ECFCAC76676880}" {
+   m_sPathLayout "{BFDD1C34CD9D8C2D}UI/layouts/NotepadSheet/NotepadSheet.layout"
+   m_sText "	M40A5		"\
+   "	Ball: M61		"\
+   "			"\
+   "	Meters	|	up mrad"\
+   "	100	-	1,3"\
+   "	200	-	1,5"\
+   "	300	-	2,1"\
+   "	400	-	2,9"\
+   "	500	-	3,7"\
+   "	600	-	4,6"\
+   "	700	-	5,7"\
+   "	800	-	6,9"\
+   "	900	-	8,3"\
+   "	1000	-	10,1"\
+   "	1100	-	11,9"\
+   "	1200	-	14,1"\
+   "	1300	-	16,5"
+  }
   InventoryItemComponent "{5222EB4D0C73006B}" {
    Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
     ItemDisplayName UIInfo "{5222EB4D07D865FA}" {
-     Name "RangeCard Basic"
-     Description "Base Empty Class"
+     Name "RangeCard for M40A5"
+     Description "RangeCard for M40A5"
     }
     ItemPhysAttributes ItemPhysicalAttributes PhysicalAttributes {
      Weight 0.1
@@ -47,6 +67,12 @@ GenericEntity : "{7CEEC3FF35A201A2}Prefabs/Items/Core/Compass_Base.et" {
   }
   MeshObject "{61EA9D1BBDB999D3}" {
    Object "{C278EEA42E75C9E2}Assets/Props/Civilian/RangeCard/Notepad_LP.xob"
+   Materials {
+    MaterialAssignClass "{61ECFCAC7BAECE68}" {
+     SourceMaterial "Material"
+     AssignedMaterial "{7FE13489D6ABC30E}Assets/Props/Civilian/RangeCard/Data/notepad_rt.emat"
+    }
+   }
   }
   RigidBody "{61EA9D1BBDB999D7}" {
    Mass 1

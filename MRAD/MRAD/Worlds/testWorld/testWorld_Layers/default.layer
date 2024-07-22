@@ -1,14 +1,3 @@
-$grp GenericEntity : "{261AF2DFA11F2801}Prefabs/Items/Equipment/RangeCard/RangeCard_M14_SpecialBall.et" {
- {
-  coords 1.557 1.906 2.203
- }
- {
-  coords 2.037 1.906 2.214
- }
-}
-GenericEntity : "{30E0C107531B4D7E}Prefabs/Items/Equipment/RangeCard/RangeCard_M40A5_M61.et" {
- coords 1 1.906 2.212
-}
 GameEntity : "{333A794F0B55C019}Prefabs/Weapons/Attachments/Optics/m8541/Optic_M8541.et" {
  coords 0.44 1.906 2.356
 }
@@ -193,7 +182,4 @@ GenericEntity : "{BCEA0EB0D764D8DD}Prefabs/Items/Equipment/Binoculars/Rangefinde
 }
 GameEntity : "{D2018EDB1BBF4C88}Prefabs/Weapons/Attachments/Optics/Optic_ARTII/Optic_ARTII.et" {
  coords 2.288 1.906 2.436
-}
-GenericEntity : "{D30D4FA5A82D6F0D}Prefabs/Items/Equipment/RangeCard/RangeCard_Notepad_Base.et" {
- coords 1.095 1.906 2.404
 }

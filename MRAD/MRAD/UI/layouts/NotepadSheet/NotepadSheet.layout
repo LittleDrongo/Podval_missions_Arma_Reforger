@@ -40,7 +40,7 @@ FrameWidgetClass {
        Size 709 971
       }
       RichTextWidgetClass "{61ECFCA524B94CE7}" {
-       Name "RichText0"
+       Name "drg_Text"
        Slot FrameWidgetSlot "{61ECFCA524B94CC2}" {
         Anchor 0 0 0 0
         PositionX 133.292
