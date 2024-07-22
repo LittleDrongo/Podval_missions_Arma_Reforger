@@ -2,29 +2,57 @@ GenericEntity : "{D30D4FA5A82D6F0D}Prefabs/Items/Equipment/RangeCard/RangeCard_N
  ID "508AB2013EEE1E00"
  components {
   Drg_NotepadRtComponent "{61ECFCAC76676880}" {
-   m_sText "	M14		"\
-   "	Ball: SpecialBall		"\
-   "			"\
-   "	Meters	|	up mrad"\
-   "	100	-	1,5"\
-   "	200	-	1,8"\
-   "	300	-	2,8"\
-   "	400	-	3,7"\
-   "	500	-	4,8"\
-   "	600	-	5,9"\
-   "	700	-	7,3"\
-   "	800	-	8,8"\
-   "	900	-	10,4"\
-   "	1000	-	12,2"\
-   "	1100	-	14,3"\
-   "	1200	-	16,8"\
-   "	1300	-	19,2"
+   m_sText "M14		"\
+   "Ball: SpecialBall		"\
+   "	"\
+   "Meters	|	up mrad"\
+   "100	-	1,5"\
+   "200	-	1,8"\
+   "300	-	2,8"\
+   "400	-	3,7"\
+   "500	-	4,8"\
+   "600	-	5,9"\
+   "700	-	7,3"\
+   "800	-	8,8"\
+   "900	-	10,4"\
+   "1000	-	12,2"\
+   "1100	-	14,3"\
+   "1200	-	16,8"\
+   "1300	-	19,2"
   }
   InventoryItemComponent "{5222EB4D0C73006B}" {
    Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
     ItemDisplayName UIInfo "{5222EB4D07D865FA}" {
      Name "RangeCard for M14"
      Description "RangeCard for M14"
+    }
+   }
+  }
+  MeshObject "{61EA9D1BBDB999D3}" {
+   Object "{C278EEA42E75C9E2}Assets/Props/Civilian/RangeCard/Notepad_LP.xob"
+   Materials {
+    MaterialAssignClass "{61ECFCAC7BAECE68}" {
+     SourceMaterial "Material"
+     AssignedMaterial "{7FE13489D6ABC30E}Assets/Props/Civilian/RangeCard/Data/notepad_rt.emat"
+    }
+   }
+  }
+  RigidBody "{61EA9D1BBDB999D7}" {
+   Mass 1
+   LinearDamping 0.05
+   AngularDamping 0.05
+   ModelGeometry 1
+   CCDRadius 0.007
+  }
+  SCR_GadgetComponent "{61EA9D1BBDB999D8}" {
+   m_eAnimVariable ADRIANOV
+  }
+  ActionsManagerComponent "{508AB5952B584B2E}" {
+   ActionContexts {
+    UserActionContext "{508AC2ABEC97066C}" {
+     Position PointInfo "{508AC2ABEAC4A0F5}" {
+      Offset 0 0.1032 0
+     }
     }
    }
   }

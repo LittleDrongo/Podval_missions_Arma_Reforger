@@ -2,22 +2,22 @@ GenericEntity : "{D30D4FA5A82D6F0D}Prefabs/Items/Equipment/RangeCard/RangeCard_N
  ID "508AB2013EEE1E00"
  components {
   Drg_NotepadRtComponent "{61ECFCAC76676880}" {
-   m_sText "	M40A5		"\
-   "	Ball: M61		"\
+   m_sText "M40A5		"\
+   "Ball: M61		"\
    "			"\
-   "	Meters	|	up mrad"\
-   "	100	-	1,3"\
-   "	200	-	1,5"\
-   "	300	-	2,1"\
-   "	400	-	2,9"\
-   "	500	-	3,7"\
-   "	600	-	4,6"\
-   "	700	-	5,7"\
-   "	800	-	6,9"\
-   "	900	-	8,3"\
-   "	1000	-	10,1"\
-   "	1100	-	11,9"\
-   "	1200	-	14,1"
+   "Meters	|	up mrad"\
+   "100	-	1,3"\
+   "200	-	1,5"\
+   "300	-	2,1"\
+   "400	-	2,9"\
+   "500	-	3,7"\
+   "600	-	4,6"\
+   "700	-	5,7"\
+   "800	-	6,9"\
+   "900	-	8,3"\
+   "1000	-	10,1"\
+   "1100	-	11,9"\
+   "1200	-	14,1"
   }
   InventoryItemComponent "{5222EB4D0C73006B}" {
    Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
@@ -26,8 +26,29 @@ GenericEntity : "{D30D4FA5A82D6F0D}Prefabs/Items/Equipment/RangeCard/RangeCard_N
      Description "Rangecard for M40A5"
     }
     CustomAttributes {
+     CharacterModifierAttributes "{52A87A37FE262120}" {
+      TurnLimit 90
+     }
      PreviewRenderAttributes "{61EA9D1BBDB999C8}" {
       ItemRenderRotation 0 180 180
+     }
+     SCR_SelectionMenuPreviewAttributes "{61EA9D1BBDB999CE}" {
+      m_fCustomFov 12
+      m_fIconSizeXMultiplier 1
+     }
+    }
+   }
+  }
+  MeshObject "{61EA9D1BBDB999D3}" {
+   Materials {
+    MaterialAssignClass "{61ECFCAC7BAECE68}" {
+    }
+   }
+  }
+  ActionsManagerComponent "{508AB5952B584B2E}" {
+   ActionContexts {
+    UserActionContext "{508AC2ABEC97066C}" {
+     Position PointInfo "{508AC2ABEAC4A0F5}" {
      }
     }
    }

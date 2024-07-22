@@ -1,8 +1,9 @@
-$grp GenericEntity : "{6343FDE2D086810C}Prefabs/Items/Equipment/RangeCard/RangeCard_M40A5.et" {
- {
-  coords 2.069 1.906 2.337
- }
- {
-  coords 2.176 1.906 2.253
- }
+GenericEntity : "{261AF2DFA11F2801}Prefabs/Items/Equipment/RangeCard/RangeCard_M14_SpecialBall.et" {
+ coords 1.964 1.906 2.248
+}
+GenericEntity : "{6343FDE2D086810C}Prefabs/Items/Equipment/RangeCard/RangeCard_M40A5.et" {
+ coords 2.096 1.906 2.258
+}
+GenericEntity : "{D30D4FA5A82D6F0D}Prefabs/Items/Equipment/RangeCard/RangeCard_Notepad_Base.et" {
+ coords 2.207 1.906 2.258
 }

@@ -43,14 +43,14 @@ FrameWidgetClass {
        Name "drg_Text"
        Slot FrameWidgetSlot "{61ECFCA524B94CC2}" {
         Anchor 0 0 0 0
-        PositionX 133.292
-        OffsetLeft 133.292
-        PositionY 71
-        OffsetTop 71
-        SizeX 522.35
-        OffsetRight -655.642
-        SizeY 856
-        OffsetBottom -927
+        PositionX 121.292
+        OffsetLeft 121.292
+        PositionY 75
+        OffsetTop 75
+        SizeX 508.35
+        OffsetRight -629.642
+        SizeY 887
+        OffsetBottom -962
        }
        Color 0.003 0.003 0.202 1
        Text "	M40A5		"\

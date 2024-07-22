@@ -3,9 +3,16 @@ GenericEntity : "{7CEEC3FF35A201A2}Prefabs/Items/Core/Compass_Base.et" {
  components {
   Drg_NotepadRtComponent "{61ECFCAC76676880}" {
    m_sPathLayout "{BFDD1C34CD9D8C2D}UI/layouts/NotepadSheet/NotepadSheet.layout"
-   m_sText "	Наследую этот префаб через кнопку \"inherit\" и создайте свой вариант блокнота."\
-   "	Inherit this prefab via the “inherit” button and create your own variant of notepad."\
-   ""
+   m_sText "        Привет!"\
+   "Наследую этот префаб через кнопку \"inherit\" "\
+   "и создайте свой вариант блокнота."\
+   ""\
+   "       Hello!"\
+   "Inherit this prefab via the “inherit” button "\
+   "and create your own variant of notepad."\
+   ""\
+   "	"\
+   "                                  Drongo"
   }
   InventoryItemComponent "{5222EB4D0C73006B}" {
    Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
