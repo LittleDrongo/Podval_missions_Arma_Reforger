@@ -13,4 +13,11 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
    "{324FFDDC0194D3C2}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_MG.et" "{AF29C533E014E165}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_MGA.et" "{AC27C8298A1C3B9B}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_MGAB.et"
   }
  }
+ {
+  coords 91.08 1 163.325
+  m_faction "RHS_US_USMC"
+  m_aUnitPrefabSlots {
+   "{55AF5CD6F69F6C4D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_Marksman.et" "{55AF5CD6F69F6C4D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_Marksman.et" "{55AF5CD6F69F6C4D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_Marksman.et"
+  }
+ }
 }

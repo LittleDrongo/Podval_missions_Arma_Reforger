@@ -4,6 +4,12 @@ GenericEntity : "{261AF2DFA11F2801}Prefabs/Items/Equipment/RangeCard/RangeCard_M
 GenericEntity : "{6343FDE2D086810C}Prefabs/Items/Equipment/RangeCard/RangeCard_M40A5.et" {
  coords 2.096 1.906 2.258
 }
+GameEntity : "{6DC0EE135013FC47}Prefabs/Weapons/Attachments/Optics/ts30a2/optic_ts30a2_base.et" {
+ coords 2.049 1.906 2.538
+}
+GenericEntity : "{D0F213711B925CF5}Prefabs/Weapons/Rifles/M27IAR/Rifle_M38SDMR.et" {
+ coords 1.543 1.906 2.27
+}
 GenericEntity : "{D30D4FA5A82D6F0D}Prefabs/Items/Equipment/RangeCard/RangeCard_Notepad_Base.et" {
  coords 2.207 1.906 2.258
 }

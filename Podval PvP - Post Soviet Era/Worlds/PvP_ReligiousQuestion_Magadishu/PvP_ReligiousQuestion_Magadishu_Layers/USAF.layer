@@ -1,49 +1,157 @@
 $grp Vehicle : "{3EA6F47D95867114}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB.et" {
  M1025_armed_M2HB1 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5A7CC686F738D96E}" {
+      NumSlots 0
+     }
+    }
+   }
+  }
   coords 1565.64 3.286 1680.72
   angleY 140.161
  }
  M1025_armed_M2HB2 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5A7CC686F738D96E}" {
+      NumSlots 0
+     }
+    }
+   }
+  }
   coords 1562.12 3.286 1685.187
   angleY 140.161
  }
  M1025_armed_M2HB3 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5A7CC686F738D96E}" {
+      NumSlots 0
+     }
+    }
+   }
+  }
   coords 1562.154 3.286 1677.978
   angleY 140.161
  }
  M1025_armed_M2HB4 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5A7CC686F738D96E}" {
+      NumSlots 0
+     }
+    }
+   }
+  }
   coords 1558.634 3.286 1682.444
   angleY 140.161
  }
  M1025_armed_M2HB5 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5A7CC686F738D96E}" {
+      NumSlots 0
+     }
+    }
+   }
+  }
   coords 1558.203 3.286 1674.712
   angleY 140.161
  }
  M1025_armed_M2HB6 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5A7CC686F738D96E}" {
+      NumSlots 0
+     }
+    }
+   }
+  }
   coords 1554.683 3.286 1679.178
   angleY 140.161
  }
  M1025_armed_M2HB7 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5A7CC686F738D96E}" {
+      NumSlots 0
+     }
+    }
+   }
+  }
   coords 1554.268 3.286 1671.775
   angleY 140.161
  }
  M1025_armed_M2HB8 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5A7CC686F738D96E}" {
+      NumSlots 0
+     }
+    }
+   }
+  }
   coords 1550.748 3.286 1676.241
   angleY 140.161
  }
  M1025_armed_M2HB9 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5A7CC686F738D96E}" {
+      NumSlots 0
+     }
+    }
+   }
+  }
   coords 1550.86 3.286 1668.179
   angleY 140.161
  }
  M1025_armed_M2HB10 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5A7CC686F738D96E}" {
+      NumSlots 0
+     }
+    }
+   }
+  }
   coords 1547.34 3.286 1672.646
   angleY 140.161
  }
  M1025_armed_M2HB11 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5A7CC686F738D96E}" {
+      NumSlots 0
+     }
+    }
+   }
+  }
   coords 1547.555 3.286 1665.175
   angleY 140.161
  }
  M1025_armed_M2HB12 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+    MultiSlots {
+     MultiSlotConfiguration "{5A7CC686F738D96E}" {
+      NumSlots 0
+     }
+    }
+   }
+  }
   coords 1544.035 3.286 1669.642
   angleY 140.161
  }

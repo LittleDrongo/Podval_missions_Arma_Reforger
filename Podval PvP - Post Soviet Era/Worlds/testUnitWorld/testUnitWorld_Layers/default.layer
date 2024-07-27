@@ -1,95 +1,12 @@
-SCR_ChimeraCharacter : "{02D9F2C55EC4BC36}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MGA.et" {
- coords 99.251 1 151.528
-}
-SCR_ChimeraCharacter : "{1E296DA3020CCC8C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Sapper.et" {
- coords 92.284 1 152.34
-}
-SCR_ChimeraCharacter : "{212A2591B49F240F}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Medic.et" {
- coords 101.417 1 151.348
-}
-SCR_ChimeraCharacter : "{2453510FCAD6B696}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_RTO.et" {
- coords 93.484 1 152.072
-}
-SCR_ChimeraCharacter : "{2A9B5EE7502556CA}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_CrewDriver.et" {
- coords 107.257 1 150.947
-}
-SCR_ChimeraCharacter : "{310B1B6A98B670EE}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_AR.et" {
- coords 109.714 1 150.534
-}
-SCR_ChimeraCharacter : "{3CDE654B6F0119C4}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_GL.et" {
- coords 102.547 1 151.317
+SCR_ChimeraCharacter : "{3863FA68EF37D76B}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Marksman.et" {
+ coords 87.767 1 167.057
 }
 SCR_ChimeraCharacter : "{400615548C89F436}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_SapperLeader.et" {
- coords 91.035 1 152.348
+ coords 85.857 1 167.261
 }
-SCR_ChimeraCharacter : "{5B441024CCB4683E}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_TL.et" {
- coords 85.848 1 152.862
+SCR_ChimeraCharacter : "{55AF5CD6F69F6C4D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_Marksman.et" {
+ coords 87.53 1 164.23
 }
-SCR_ChimeraCharacter : "{5C83EA75AA32D2FD}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_SL.et" {
- coords 89.555 1 152.488
-}
-SCR_ChimeraCharacter : "{631CC570F6F9640D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MG.et" {
- coords 100.343 1 151.461
-}
-GenericEntity : "{6343FDE2D086810C}Prefabs/Items/Equipment/RangeCard/RangeCard_M40A5.et" {
- coords 88.683 1 163.818
-}
-$grp SCR_ChimeraCharacter : "{6AD8073B67B71A7C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Rifleman.et" {
- {
-  coords 110.796 1 150.162
- }
- {
-  coords 103.541 1 151.221
- }
-}
-SCR_ChimeraCharacter : "{70A4F5C235238366}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Sniper.et" {
- coords 88.222 1 152.589
-}
-SCR_ChimeraCharacter : "{77D575C76E41A8AD}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Officer.et" {
- coords 92.647 1 158.004
-}
-GenericEntity : "{789211997EBE37F4}Prefabs/Items/Equipment/Radios/Attachments/Attachment_ANPRC152A_Antenna.et" {
- coords 95.281 1 161.713
-}
-SCR_ChimeraCharacter : "{9A132AE865F1DB2D}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_PL.et" {
- coords 94.368 1 157.347
-}
-GenericEntity : "{A4726BDF136670A0}Prefabs/Items/Equipment/Radios/Attachments/Attachment_ANPRC152A_Battery.et" {
- coords 95.325 1 161.49
-}
-GenericEntity : "{B163A8898F269BDD}Prefabs/Items/Equipment/Radios/INDFOR_Radio_R107M_pl.et" {
- coords 91.179 1 159.736
-}
-SCR_ChimeraCharacter : "{B2D9A64690CBB4BE}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Spotter.et" {
- coords 86.896 1 152.702
-}
-GameEntity : "{C55821E8E86C074E}Prefabs/Items/Equipment/Radios/Radio_ANPRC152.et" {
- coords 95.581 1 161.86
-}
-SCR_ChimeraCharacter : "{C59D53ECB7D5E36D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_PL.et" {
- coords 95.845 1 151.957
-}
-SCR_ChimeraCharacter : "{C8218302DB4241C3}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Officer.et" {
- coords 97.084 1 151.961
-}
-SCR_ChimeraCharacter : "{CDB0F90778D25F67}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_CrewGunner.et" {
- coords 105.725 1 151.073
-}
-SCR_ChimeraCharacter : "{CEEC481A6EE08439}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Rifleman_LAT.et" {
- coords 94.617 1 151.936
-}
-GenericEntity : "{D3269BA0CE6F6390}Prefabs/Items/Equipment/Radios/Attachments/Attachment_ANPRC152_Battery.et" {
- coords 95.557 1 161.59
-}
-GenericEntity : "{DD193B9D8BAFD2D9}Prefabs/Items/Equipment/Radios/Attachments/Attachment_ANPRC152_Antenna.et" {
- coords 95.587 1 160.985
-}
-GenericEntity : "{E328B3306A15E882}Prefabs/Items/Equipment/Radios/INDFOR_Radio_RF10.et" {
- coords 94.661 1 156.074
-}
-SCR_ChimeraCharacter : "{E33BC1ABD270DE52}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_CrewCommander.et" {
- coords 108.575 1 150.906
-}
-SCR_ChimeraCharacter : "{FF35618CBD9D147A}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MGAB.et" {
- coords 98.249 1 151.847
+GenericEntity : "{D0F213711B925CF5}Prefabs/Weapons/Rifles/M27IAR/Rifle_M38SDMR.et" {
+ coords 88.8 1 165.217
 }
