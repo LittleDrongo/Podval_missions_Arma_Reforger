@@ -1,5 +1,22 @@
-SCR_ChimeraCharacter : "{3863FA68EF37D76B}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Marksman.et" {
- coords 87.767 1 167.057
+SCR_ChimeraCharacter : "{212A2591B49F240F}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Medic.et" {
+ coords 81.051 1 175.594
+}
+SCR_ChimeraCharacter : "{2A9B5EE7502556CA}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_CrewDriver.et" {
+ coords 85.606 1 170.282
+}
+SCR_ChimeraCharacter : "{310B1B6A98B670EE}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_AR.et" {
+ coords 91.321 1 170.318
+}
+$grp SCR_ChimeraCharacter : "{3863FA68EF37D76B}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Marksman.et" {
+ {
+  coords 87.767 1 167.057
+ }
+ {
+  coords 82.088 1 181.573
+ }
+}
+SCR_ChimeraCharacter : "{3CDE654B6F0119C4}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_GL.et" {
+ coords 83.777 1 179.475
 }
 SCR_ChimeraCharacter : "{400615548C89F436}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_SapperLeader.et" {
  coords 85.857 1 167.261
@@ -7,6 +24,18 @@ SCR_ChimeraCharacter : "{400615548C89F436}Prefabs/Characters/Factions/BLUFOR/RHS
 SCR_ChimeraCharacter : "{55AF5CD6F69F6C4D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_Marksman.et" {
  coords 87.53 1 164.23
 }
+SCR_ChimeraCharacter : "{5B441024CCB4683E}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_TL.et" {
+ coords 84.172 1 176.234
+}
+SCR_ChimeraCharacter : "{5C83EA75AA32D2FD}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_SL.et" {
+ coords 83.265 1 173.28
+}
+SCR_ChimeraCharacter : "{CDB0F90778D25F67}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_CrewGunner.et" {
+ coords 84.879 1 171.553
+}
 GenericEntity : "{D0F213711B925CF5}Prefabs/Weapons/Rifles/M27IAR/Rifle_M38SDMR.et" {
  coords 88.8 1 165.217
+}
+SCR_ChimeraCharacter : "{E33BC1ABD270DE52}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_CrewCommander.et" {
+ coords 89.417 1 170.945
 }
