@@ -61,7 +61,7 @@ $grp PolylineShapeEntity {
      Hierarchy "{614548BDF998E12B}" {
      }
     }
-    TriggerShapeType Sphere
+    TriggerShapeType Polyline
     SphereRadius 5000000
     "Polyline Height" 500
     ShapeColor 0.251 0 0.502 1
@@ -137,7 +137,7 @@ $grp PolylineShapeEntity {
      Hierarchy "{614548BDF998E12B}" {
      }
     }
-    TriggerShapeType Sphere
+    TriggerShapeType Polyline
     SphereRadius 50000000
     "Polyline Height" 500
     TriggerActivationType "All changes"

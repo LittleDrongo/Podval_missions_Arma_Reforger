@@ -20,7 +20,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
     m_iSquadCallsign 1
    }
   }
-  coords 1458.068 4.151 1939.621
+  coords 1553.268 4.092 2053.698
   angleY 109.834
   m_faction "Ses_TKG"
   m_aUnitPrefabSlots {
@@ -98,7 +98,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
     m_iSquadCallsign 2
    }
   }
-  coords 1440.524 5.117 1871.81
+  coords 1440.421 5.209 1873.535
   angleY 104.421
   m_faction "Ses_TKG"
   m_aUnitPrefabSlots {
@@ -114,7 +114,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
     m_iSquadCallsign 3
    }
   }
-  coords 1431.351 6.327 1805.554
+  coords 1427.879 5.887 1772.318
   angleY 104.421
   m_faction "Ses_TKG"
   m_aUnitPrefabSlots {
