@@ -1,26 +1,7 @@
-$grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_RifleSquad_P.et" {
- {
-  coords 113.039 1 128.056
-  m_aUnitPrefabSlots + {
-   "{3DF79CD155122DCB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Sapper.et" "{969BFECB412102EA}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_SapperLeader.et" "{674307D255D7A3D5}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Spotter.et"
-  }
- }
- {
-  coords 110.928 1 128.656
-  m_aUnitPrefabSlots {
-   "{189CB82D0B862B8E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Unarmed.et" "{CF055ECD986F8CBC}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Armored.et" "{B1788B7ADBB77B3D}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Rifleman.et" "{9582A4D407EC9A0D}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_SR.et" "{E89A482C627FA694}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_SL.et" "{8512B93350FB0487}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AR.et" "{5DBAD0F229721ADB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AT.et" "{F4E48C1D5E1D278C}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AAT.et" "{D70567293EB41064}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MG.et" "{0EF5A188D1E2C315}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MGA.et" "{2F574F09DE8929B6}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Medic.et"
-  }
- }
- {
-  coords 108.404 1 128.656
-  m_aUnitPrefabSlots {
-   "{7808C4A55CAD5972}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Recon/DRG_Character_RHS_AFRF_Scout_Leader.et" "{1AE099EFD1C2597A}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Recon/DRG_Character_RHS_AFRF_ScoutRifleman.et" "{C1574B9E15551B4F}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Recon/DRG_Character_RHS_AFRF_Scout_Sapper.et" "{2315C24A02A915A5}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Recon/DRG_Character_RHS_AFRF_ScoutRTO.et"
-  }
- }
- {
-  coords 105.822 1 128.656
-  m_aUnitPrefabSlots {
-   "{D4AF147779DA1CFC}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Commander.et" "{8DA3D31B19FE9606}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_TeamLeader.et" "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator.et" "{F01A848FC8BDA273}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_MG.et" "{6F65A9E2795AB2D3}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Medic.et" "{BB99ED025BCA260E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Sniper.et" "{D51475636CE569E4}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Sapper.et"
-  }
+SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_RifleSquad_P.et" {
+ coords 85.211 1 195.428
+ m_faction "Ses_TKG"
+ m_aUnitPrefabSlots {
+  "{5A988A6419A39A3C}Prefabs/Characters/Factions/INDFOR/TKR/AT_variants/Character_TKR_AT3.et" "{F845ECF411147062}Prefabs/Characters/Factions/INDFOR/TKR/AT_variants/Character_TKR_AT_1.et" "{9411D814ADD0FF4C}Prefabs/Characters/Factions/INDFOR/TKR/AT_variants/Character_TKR_AT_2.et" "{684303D826330DDB}Prefabs/Characters/Factions/INDFOR/TKR/mg_variants/Character_TKR_MG.et" "{17C8FFF519D7BA80}Prefabs/Characters/Factions/INDFOR/TKR/mg_variants/Character_TKR_MG2.et" "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman.et" "{BF3313429A87BF14}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman_2.et" "{5AAF5FBB9662287F}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman_3.et" "{679B7A83E30EA148}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman_4.et" "{8207367AEFEB3623}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman_5.et" "{1A5EC0FCCEEA79B9}Prefabs/Characters/Factions/INDFOR/TKR/SL_variants/Character_TKR_SL.et" "{DAF8962F21247734}Prefabs/Characters/Factions/INDFOR/TKR/SL_variants/Character_TKR_SL_var2.et" "{3F64DAD62DC1E05F}Prefabs/Characters/Factions/INDFOR/TKR/SL_variants/Character_TKR_SL_var3.et" "{0250FFEE58AD6968}Prefabs/Characters/Factions/INDFOR/TKR/SL_variants/Character_TKR_SL_var4.et" "{67462C04AB794520}Prefabs/Characters/Factions/INDFOR/TKR/SR_variants/Character_TKR_SR.et" "{FDBE95DECDA33F5F}Prefabs/Characters/Factions/INDFOR/TKR/SR_variants/Character_TKR_SR_var3.et" "{B6363CFEB5721650}Prefabs/Characters/Factions/INDFOR/TKR/SR_variants/Character_TKR_SR_var2.et" "{77D575C76E41A8AD}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Officer.et" "{9A132AE865F1DB2D}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_PL.et" "{018C90DE9F341FD7}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Sapper.et" "" "" "" "" "" "" "" "" ""
  }
 }

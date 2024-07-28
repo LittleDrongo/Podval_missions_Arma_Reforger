@@ -23,6 +23,7 @@ SCR_ChimeraCharacter : "{CAC9AE67B2083D15}Prefabs/Characters/Factions/BLUFOR/RHS
      TargetStorage "Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_MC.et"
     }
     ItemsInitConfigurationItem "{61CF392A6AF0E138}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_MC.et"
     }
     ItemsInitConfigurationItem "{61CF393919ED9CCD}" {
      TargetStorage "Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_MC.et"
