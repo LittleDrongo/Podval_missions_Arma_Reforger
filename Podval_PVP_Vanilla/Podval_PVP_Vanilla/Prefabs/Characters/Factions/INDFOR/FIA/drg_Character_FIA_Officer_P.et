@@ -1,4 +1,4 @@
-SCR_ChimeraCharacter : "{54B5A1C7426185A5}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_PL_P.et" {
+SCR_ChimeraCharacter : "{54B5A1C7426185A5}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_PL_P.et" {
  ID "520EC961A090B1EE"
  components {
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
@@ -9,7 +9,7 @@ SCR_ChimeraCharacter : "{54B5A1C7426185A5}Prefabs/Characters/Factions/INDFOR/FIA
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Back {
-     Prefab "{73EFD7591F4134D3}Prefabs/Items/Equipment/Radios/Radio_RF10/Radio_RF10.et"
+     Prefab "{E9B1323AF69F75DC}Prefabs/Items/Equipment/Radios/Radio_RF10/Radio_RF10_PL.et"
     }
    }
   }

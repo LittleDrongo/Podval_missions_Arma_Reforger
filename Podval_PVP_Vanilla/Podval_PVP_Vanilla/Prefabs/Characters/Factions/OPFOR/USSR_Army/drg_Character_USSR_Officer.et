@@ -29,6 +29,9 @@ SCR_ChimeraCharacter : "{1ADC4934980AA91A}Prefabs/Characters/Factions/OPFOR/USSR
     LoadoutSlotInfo ArmoredVest {
      Prefab "{4CBDC206FEF9897C}Prefabs/Characters/Vests/Vest_6B3/Vest_6B3.et"
     }
+    LoadoutSlotInfo Back {
+     Prefab "{B31D9C2465D00D93}Prefabs/Items/Equipment/Radios/Radio_R107M_PL.et"
+    }
     LoadoutSlotInfo Vest {
      Prefab ""
     }

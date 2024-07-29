@@ -30,7 +30,7 @@ SCR_ChimeraCharacter : "{43CED484D075F274}Prefabs/Characters/Factions/OPFOR/USSR
     ItemsInitConfigurationItem "{61B613234CC87EBF}" {
      TargetStorage "Prefabs/Characters/Uniforms/Suit_KLMK/Suit_KLMK.et"
      PrefabsToSpawn {
-      "{97803BFD13AFA680}Prefabs/Items/Equipment/Radios/Radio_R148_prv.et"
+      "{92B819C350698359}Prefabs/Items/Equipment/Radios/Radio_R148_rprv.et"
      }
     }
    }

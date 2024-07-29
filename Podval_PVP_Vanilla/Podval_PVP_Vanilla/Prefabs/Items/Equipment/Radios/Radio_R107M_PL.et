@@ -57,7 +57,7 @@ GenericEntity : "{5879D8E9C56E358E}Prefabs/Items/Equipment/Radios/Radio_Deployab
    m_FactionKey "USSR"
   }
   BaseLoadoutClothComponent "{5EA4A89F0D06E1DE}" {
-   AreaType LoadoutBackpackArea "{61CEACA8C3E8318D}" {
+   AreaType LoadoutBackpackArea "{61FAB44456A39F8B}" {
    }
    WornModel "{518A95342557BC80}Assets/Items/Equipment/Radios/Radio_R107M/Radio_R107M_01.xob"
    ItemModel "{77C9FCF3FB1246E9}Assets/Items/Equipment/Radios/Radio_R107M/Radio_R107M_01_item.xob"

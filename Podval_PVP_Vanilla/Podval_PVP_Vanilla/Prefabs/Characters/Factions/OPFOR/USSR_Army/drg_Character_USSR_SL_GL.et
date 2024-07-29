@@ -19,6 +19,11 @@ SCR_ChimeraCharacter : "{83C2F0AD85ED988A}Prefabs/Characters/Factions/OPFOR/USSR
     ItemsInitConfigurationItem "{61B543E550602935}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_Lifchik/Vest_Lifchik_GL.et"
     }
+    ItemsInitConfigurationItem "{61B543EAEB9BD049}" {
+     PrefabsToSpawn {
+      "{6492196F107687BC}Prefabs/Items/Equipment/Radios/Radio_R148_SL.et"
+     }
+    }
     ItemsInitConfigurationItem "{61B543EE750B93B9}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_Lifchik/Vest_Lifchik_GL.et"
      PrefabsToSpawn {

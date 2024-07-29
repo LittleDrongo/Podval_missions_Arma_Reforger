@@ -11,6 +11,10 @@ SCR_ChimeraCharacter : "{8A242D399692B223}Prefabs/Characters/Factions/BLUFOR/US_
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{61B87867EA32507F}" {
+     PrefabsToSpawn +{
+     }
+    }
     ItemsInitConfigurationItem "{61B87CCA62BE05FA}" {
      PrefabsToSpawn {
      }

@@ -24,7 +24,7 @@ SCR_ChimeraCharacter : "{903097F658A99BE3}Prefabs/Characters/Factions/BLUFOR/US_
      Prefab "{03C1F3DB6BB9796A}Prefabs/Characters/HeadGear/Helmet_PASGT_01/Helmet_PASGT_01_cover_w_scrim.et"
     }
     LoadoutSlotInfo Back {
-     Prefab "{9B6B61BB3FE3DFB0}Prefabs/Items/Equipment/Radios/Radio_ANPRC77.et"
+     Prefab "{0C6056970C640273}Prefabs/Items/Equipment/Radios/Radio_ANPRC77_PL.et"
     }
     LoadoutSlotInfo Vest {
      Prefab "{2E8829632CBA7A9B}Prefabs/Characters/Vests/Vest_ALICE/Variants/Vest_ALICE_commander.et"
@@ -35,7 +35,7 @@ SCR_ChimeraCharacter : "{903097F658A99BE3}Prefabs/Characters/Factions/BLUFOR/US_
    InitialInventoryItems {
     ItemsInitConfigurationItem "{61B87867EA32507F}" {
      PrefabsToSpawn {
-      "{46A09C94F0217E58}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Prv.et"
+      "{BA2D0EE170E44DC7}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_rprv.et"
      }
     }
     ItemsInitConfigurationItem "{61B87867FBB32E7F}" {

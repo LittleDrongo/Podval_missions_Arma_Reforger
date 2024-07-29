@@ -37,7 +37,7 @@ SCR_ChimeraCharacter : "{749CC8EDA102C70E}Prefabs/Characters/Factions/BLUFOR/US_
     ItemsInitConfigurationItem "{61B87867EA32507F}" {
      TargetStorage "Prefabs/Characters/Uniforms/Suit_Pilot_US_01/Suit_Pilot_US_01.et"
      PrefabsToSpawn + {
-      "{46A09C94F0217E58}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Prv.et"
+      "{BA2D0EE170E44DC7}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_rprv.et"
      }
     }
     ItemsInitConfigurationItem "{61B87CD188742328}" {

@@ -6,5 +6,14 @@ SCR_ChimeraCharacter : "{E3C185DC8DBB377B}Prefabs/Characters/Factions/BLUFOR/US_
     Name "#DRG-Role_Recon_Officer"
    }
   }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{61B87867EA32507F}" {
+     PrefabsToSpawn {
+      "{BA2D0EE170E44DC7}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_rprv.et"
+     }
+    }
+   }
+  }
  }
 }

@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{46A09C94F0217E58}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Prv.et"
+ Name "{0C6056970C640273}Prefabs/Items/Equipment/Radios/Radio_ANPRC77_PL.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
@@ -9,9 +9,9 @@ MetaFileClass {
   }
   EntityTemplateResourceClass PS4 : PC {
   }
-  EntityTemplateResourceClass HEADLESS : PC {
+  EntityTemplateResourceClass PS5 : PC {
   }
-  EntityTemplateResourceClass Xbox : PC {
+  EntityTemplateResourceClass HEADLESS : PC {
   }
  }
 }

@@ -10,7 +10,7 @@ SCR_ChimeraCharacter : "{903097F658A99BE3}Prefabs/Characters/Factions/BLUFOR/US_
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Back {
-     Prefab "{9B6B61BB3FE3DFB0}Prefabs/Items/Equipment/Radios/Radio_ANPRC77.et"
+     Prefab "{0C6056970C640273}Prefabs/Items/Equipment/Radios/Radio_ANPRC77_PL.et"
     }
    }
   }

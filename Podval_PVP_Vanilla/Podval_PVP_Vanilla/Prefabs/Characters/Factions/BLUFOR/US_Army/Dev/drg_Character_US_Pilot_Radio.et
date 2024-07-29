@@ -4,7 +4,16 @@ SCR_ChimeraCharacter : "{ABF09C1FF1D412D8}Prefabs/Characters/Factions/BLUFOR/US_
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Back {
-     Prefab "{9B6B61BB3FE3DFB0}Prefabs/Items/Equipment/Radios/Radio_ANPRC77.et"
+     Prefab "{0C6056970C640273}Prefabs/Items/Equipment/Radios/Radio_ANPRC77_PL.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{61B87867EA32507F}" {
+     PrefabsToSpawn {
+      "{EE7FBAD35CA9D0F2}Prefabs/Items/Equipment/Accessories/Scabbard_Bayonet_M9/Scabbard_Bayonet_M9.et" "{BA2D0EE170E44DC7}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_rprv.et"
+     }
     }
    }
   }

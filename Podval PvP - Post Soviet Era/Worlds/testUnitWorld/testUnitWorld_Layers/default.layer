@@ -1,0 +1,43 @@
+$grp GenericEntity : "{119D0AA19EF023A7}Prefabs/Items/Equipment/Radios/INDFOR_Radio_R187P1_OLD_SL.et" {
+ {
+  coords 63.128 1 229.491
+ }
+ {
+  coords 63.211 1 230.067
+ }
+ {
+  coords 63.011 1 229.82
+ }
+}
+GenericEntity : "{48B06B12F3BD7E9B}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD_SL.et" {
+ coords 63.142 1 229.867
+}
+GenericEntity : "{95FE0F50F9593031}Prefabs/Items/Equipment/Radios/INDFOR_Radio_R148_Prv.et" {
+ coords 64.342 1 228.987
+}
+GenericEntity : "{97803BFD13AFA67F}Prefabs/Items/Equipment/Radios/Radio_R148_Prv.et" {
+ coords 64.34 1 229.418
+}
+GenericEntity : "{A2DD1D2EEB52BFC0}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD_prv.et" {
+ coords 64.397 1 229.861
+}
+GenericEntity : "{B31D9C2465D00D93}Prefabs/Items/Equipment/Radios/Radio_R107M_pl.et" {
+ coords 61.99 1 228.528
+}
+GenericEntity : "{BAB50E5D149D64D9}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_prv.et" {
+ coords 64.271 1 228.528
+}
+GenericEntity : "{C3351EC6D64ED74A}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC77.et" {
+ coords 62.087 1 229.417
+}
+$grp GenericEntity : "{C742BD6CB3D77A5A}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_SL.et" {
+ {
+  coords 63.074 1 229.159
+ }
+ {
+  coords 63.011 1 228.297
+ }
+}
+GenericEntity : "{E328B3306A15E882}Prefabs/Items/Equipment/Radios/INDFOR_Radio_RF10.et" {
+ coords 62.084 1 229.997
+}
