@@ -1,3 +1,37 @@
+$grp Vehicle : "{6B7CD408BDFB94F5}Prefabs/Vehicles/Wheeled/TIGR/GAZ_TIGR_v2_PKM_Green.et" {
+ GAZ_TIGR_v2_PKM_Green3 {
+  coords 2045.247 17.45 1970.517
+  angleY -57.564
+ }
+ GAZ_TIGR_v2_PKM_Green4 {
+  coords 2063.395 17.45 1958.984
+  angleY -57.564
+ }
+ GAZ_TIGR_v2_PKM_Green7 {
+  coords 2085.195 17.45 1945.13
+  angleY -57.564
+ }
+ GAZ_TIGR_v2_PKM_Green2 {
+  coords 2027.412 17.45 1981.851
+  angleY -57.564
+ }
+ GAZ_TIGR_v2_PKM_Green5 {
+  coords 1993.952 17.45 2057.019
+  angleY -57.564
+ }
+ GAZ_TIGR_v2_PKM_Green6 {
+  coords 2051.735 17.45 2020.298
+  angleY -57.564
+ }
+ GAZ_TIGR_v2_PKM_Green8 {
+  coords 2029.935 17.45 2034.152
+  angleY -57.564
+ }
+ GAZ_TIGR_v2_PKM_Green9 {
+  coords 2011.787 17.45 2045.685
+  angleY -57.564
+ }
+}
 $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_RifleSquad_P.et" {
  RU_0_0 {
   components {
