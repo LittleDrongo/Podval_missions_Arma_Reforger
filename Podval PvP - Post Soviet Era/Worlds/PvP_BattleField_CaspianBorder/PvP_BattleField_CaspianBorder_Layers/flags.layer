@@ -1,19 +1,18 @@
-$grp GenericEntity : "{E55FC02F8C1518A2}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V1_US.et" {
+$grp GenericEntity : "{0DBE058F13F0C7E8}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_US.et" {
  {
-  coords 1406.399 14.663 1207.859
-  angleZ 0.895
-  scale 3
- }
- {
-  coords 1813.191 9.053 1266.747
+  coords 1562.102 11.635 1666.947
   scale 2
  }
  {
-  coords 1704.368 11.508 1449.651
+  coords 1705.649 11.089 1451.27
   scale 2
  }
  {
-  coords 1562.495 11.1 1667.389
+  coords 1813.734 9.742 1267.553
+  scale 2
+ }
+ {
+  coords 1397.005 14.778 1205.928
   scale 2
  }
 }
