@@ -67,7 +67,7 @@ PS_GameModeCoop PS_GameMode_Lobby1 : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_Game
    m_sInitialStartingWeatherId "Rainy"
   }
   SCR_TimeAndWeatherHandlerComponent "{5EE3229927D4D2F5}" {
-   m_iStartingHours 2
+   m_iStartingHours 10
    m_iStartingMinutes 28
   }
  }
@@ -90,6 +90,8 @@ PS_GameModeCoop PS_GameMode_Lobby1 : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_Game
     SCR_Faction "{56DEAC40D132400B}" {
      m_bIsPlayable 1
     }
+    SCR_Faction "{5E5106B25048F22B}" {
+    }
     SCR_Faction "{5978B9CE6585BBE8}" {
      m_bIsPlayable 1
     }
@@ -103,8 +105,6 @@ PS_GameModeCoop PS_GameMode_Lobby1 : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_Game
     }
     SCR_Faction "{60753DCAAD475575}" {
      m_bIsPlayable 1
-    }
-    SCR_Faction "{5E5106B25048F22B}" {
     }
    }
   }
