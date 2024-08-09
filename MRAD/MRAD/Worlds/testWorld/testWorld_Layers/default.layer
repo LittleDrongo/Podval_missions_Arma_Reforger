@@ -4,6 +4,9 @@ GameEntity : "{333A794F0B55C019}Prefabs/Weapons/Attachments/Optics/m8541/Optic_M
 GenericEntity : "{5FFD91CF507BFFFB}Prefabs/Props/Military/Arsenal/AmmoBoxes/US/AmmoBoxArsenal_Ammunition_US.et" {
  coords 2.824 1 1.896
 }
+GenericEntity : "{6343FDE2D086810C}Prefabs/Items/Equipment/RangeCard/RangeCard_M40A5.et" {
+ coords 1.649 1.906 2.205
+}
 GenericEntity : "{6CDC3AA07A9A639E}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M62_T.et" {
  coords 0.54 1.906 3.071
 }
@@ -111,4 +114,42 @@ GenericEntity : "{BCEA0EB0D764D8DD}Prefabs/Items/Equipment/Binoculars/Rangefinde
 }
 GameEntity : "{D2018EDB1BBF4C88}Prefabs/Weapons/Attachments/Optics/Optic_ARTII/Optic_ARTII.et" {
  coords 2.288 1.906 2.436
+}
+GenericEntity : "{D30D4FA5A82D6F0D}Prefabs/Items/Equipment/RangeCard/RangeCard_Notepad_Base.et" {
+ components {
+  Drg_NotepadRtComponent "{61ECFCAC76676880}" {
+   m_sText "Пароль на 2-ю миссию: 1042"
+  }
+ }
+ coords 1.411 1.906 3.045
+ angleY -155.475
+}
+$grp GenericEntity : "{EC9E0F22B90013F3}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M80.et" {
+ {
+  coords 0.971 1.906 2.24
+ }
+ {
+  coords 0.908 1.906 2.21
+ }
+ {
+  coords 0.877 1.906 2.366
+ }
+ {
+  coords 0.866 1.906 2.326
+ }
+ {
+  coords 0.848 1.906 2.266
+ }
+ {
+  coords 0.838 1.906 2.23
+ }
+ {
+  coords 0.831 1.906 2.19
+ }
+ {
+  coords 0.845 1.906 2.163
+ }
+ {
+  coords 0.92 1.906 2.157
+ }
 }

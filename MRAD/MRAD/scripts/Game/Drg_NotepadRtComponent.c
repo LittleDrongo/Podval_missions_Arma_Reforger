@@ -3,6 +3,7 @@ class Drg_NotepadRtComponentClass : ScriptComponentClass
 {
 }
 
+
 class Drg_NotepadRtComponent : ScriptComponent
 {
 	[Attribute("")]
@@ -12,16 +13,25 @@ class Drg_NotepadRtComponent : ScriptComponent
 	[Attribute("", UIWidgets.EditBoxMultiline)]
 	string m_sText;
 	
+	static ref map<ResourceName,RTTextureWidget> m_mStaticWidgets = new map<ResourceName,RTTextureWidget>();
+	
 		
 	//------------------------------------------------------------------------------------------------
 	override void EOnInit(IEntity owner)
 	{
-		m_wRTRoot = GetGame().GetWorkspace().CreateWidgets(m_sPathLayout);
-		RTTextureWidget rtTexture = RTTextureWidget.Cast(m_wRTRoot.FindAnyWidget("drg_Main_RTTexture"));
-		rtTexture.SetGUIWidget(owner, 1);
+		ResourceName prefabName = owner.GetPrefabData().GetPrefabName();		
+		RTTextureWidget rtTexture = m_mStaticWidgets.Get(prefabName);
 		
-		RichTextWidget richRextureWidget = RichTextWidget.Cast(m_wRTRoot.FindAnyWidget("drg_Text"));
-		richRextureWidget.SetText(m_sText);
+		if (!rtTexture)
+		{
+			m_wRTRoot = GetGame().GetWorkspace().CreateWidgets(m_sPathLayout);
+			rtTexture = RTTextureWidget.Cast(m_wRTRoot.FindAnyWidget("drg_Main_RTTexture"));
+			RichTextWidget richRextureWidget = RichTextWidget.Cast(m_wRTRoot.FindAnyWidget("drg_Text"));
+			richRextureWidget.SetText(m_sText);
+			m_mStaticWidgets.Insert(prefabName, rtTexture);
+		}
+		
+		rtTexture.SetGUIWidget(owner, 1);
 	}
 
 	//------------------------------------------------------------------------------------------------

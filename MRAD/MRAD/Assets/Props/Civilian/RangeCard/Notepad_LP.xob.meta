@@ -14,9 +14,9 @@ MetaFileClass {
     }
    }
    MeshParams {
-    MeshParam Notepad_LP {
+    MeshParam body {
     }
-    MeshParam "Notepad_LP.001" {
+    MeshParam sheet {
     }
    }
    Common TXOCommonClass "{61EA9D117E0E0C73}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {

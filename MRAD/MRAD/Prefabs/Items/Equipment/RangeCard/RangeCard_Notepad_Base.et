@@ -66,6 +66,9 @@ GenericEntity : "{7CEEC3FF35A201A2}Prefabs/Items/Core/Compass_Base.et" {
      AssignedMaterial "{7FE13489D6ABC30E}Assets/Props/Civilian/RangeCard/Data/notepad_rt.emat"
     }
    }
+   LODFactors {
+    15 0
+   }
   }
   RigidBody "{61EA9D1BBDB999D7}" {
    Mass 1
