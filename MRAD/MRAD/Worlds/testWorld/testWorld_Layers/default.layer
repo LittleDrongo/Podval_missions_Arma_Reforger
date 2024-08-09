@@ -1,3 +1,6 @@
+GenericEntity : "{0EC215F0EB3288A6}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_Base.et" {
+ coords 1.818 1.906 3.033
+}
 GameEntity : "{333A794F0B55C019}Prefabs/Weapons/Attachments/Optics/m8541/Optic_M8541.et" {
  coords 0.44 1.906 2.356
 }
@@ -99,7 +102,10 @@ GenericEntity : "{9C0CD692B40776A9}Prefabs/Items/Equipment/RangeCard/RangeCard_M
    "1000	---	16,5	---	18,0"
   }
  }
- coords 2.418 1.906 2.564
+ coords 2.418 1.989 2.575
+ angleX 88.845
+ angleY 42.061
+ angleZ 138.321
 }
 $grp GameEntity : "{ACC9B43941CE5EA6}Prefabs/Weapons/Attachments/Optics/Optic_leupoldMK4/Optic_leupoldMK4.et" {
  {
@@ -151,5 +157,50 @@ $grp GenericEntity : "{EC9E0F22B90013F3}Prefabs/Weapons/Magazines/Magazine_762x5
  }
  {
   coords 0.92 1.906 2.157
+ }
+ {
+  coords 1.039 1.906 2.995
+ }
+ {
+  coords 1.895 1.906 3.081
+ }
+ {
+  coords 1.992 1.906 3.047
+ }
+ {
+  coords 2 1.906 3.047
+ }
+ {
+  coords 2.075 1.906 3.048
+ }
+ {
+  coords 2.119 1.906 3.05
+ }
+ {
+  coords 2.178 1.906 3.049
+ }
+ {
+  coords 2.187 1.947 3.091
+ }
+ {
+  coords 2.265 1.906 3.053
+ }
+ {
+  coords 1.187 1.906 3.057
+ }
+ {
+  coords 1.2 1.917 3.066
+ }
+ {
+  coords 1.215 1.906 3.062
+ }
+ {
+  coords 1.3 1.906 3.035
+ }
+ {
+  coords 1.225 1.956 3.097
+ }
+ {
+  coords 1.023 1.906 3.065
  }
 }

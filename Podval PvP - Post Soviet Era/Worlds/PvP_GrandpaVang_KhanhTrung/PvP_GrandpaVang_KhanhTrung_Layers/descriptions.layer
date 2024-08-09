@@ -21,7 +21,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  }
  RHS_RF_MSV {
   coords 5159.505 56.132 10322.095
-  m_sTitle "#PS-Description_HeaderUS"
+  m_sTitle "Задачи для ВС РФ"
   m_sTextData "НАШИ ЗАДАЧИ:"\
   "— 1. Уничтожить 5 грузовиков снабжения (+10 за грузовик)"\
   "— 2. Ликвидировать главаря боевиков (+50)"

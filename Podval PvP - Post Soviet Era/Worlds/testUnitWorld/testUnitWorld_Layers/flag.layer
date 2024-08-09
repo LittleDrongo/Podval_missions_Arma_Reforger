@@ -13,9 +13,18 @@ GenericEntity : "{1A8791C2BC2B8B75}Prefabs/Structures/Military/Flags/FlagPole_01
 GenericEntity : "{1AAC905FBE6CF779}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V2_USSR.et" {
  coords 83.077 1 220.39
 }
+GenericEntity : "{2D34681FE9A85FD5}Prefabs/Weapons/Attachments/Optics/infratech1tws/Optic_Infratech1tws_t1.et" {
+ coords 84.676 1 216.935
+}
 GenericEntity : "{37FF769500E5C13C}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V2_FIA.et" {
  coords 78.493 1 219.765
 }
 GenericEntity : "{8528347E5F47F2A4}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_FIA.et" {
  coords 68.331 1 229.503
+}
+GenericEntity : "{96EDBFC3F87A6DBB}Prefabs/Weapons/MachineGuns/PKM/MG_PKM_B51_thermo.et" {
+ coords 85.247 1.536 216.907
+}
+SCR_ChimeraCharacter : "{F01A848FC8BDA273}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_MG.et" {
+ coords 84.361 1 216.08
 }
