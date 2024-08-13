@@ -1,0 +1,696 @@
+GameEntity : "{2E0E3D7D1DD0FF8F}Prefabs/Weapons/Core/Attachment_Base.et" {
+ ID "4BA426CBAED42A14"
+ components {
+  SCR_2DPIPSightsComponent "{5ADAD8652633660F}" {
+   SightsRanges {
+    SightRangeInfo "{5ADAD86526336604}" {
+     Range 0 0
+    }
+    SightRangeInfo "{5ADAD86526336605}" {
+     Range 0.00575 1
+    }
+    SightRangeInfo "{5ADAD86526336606}" {
+     Range 0.0115 2
+    }
+    SightRangeInfo "{5ADAD86526336607}" {
+     Range 0.01725 3
+    }
+    SightRangeInfo "{5ADAD86526336678}" {
+     Range 0.023 4
+    }
+    SightRangeInfo "{5ADAD865263325B0}" {
+     Range 0.02875 5
+    }
+    SightRangeInfo "{5ADAD865263325B2}" {
+     Range 0.0345 6
+    }
+    SightRangeInfo "{5AE2DAC69C7D3AD7}" {
+     Range 0.04025 7
+    }
+    SightRangeInfo "{5AE2DAC685A5222F}" {
+     Range 0.046 8
+    }
+    SightRangeInfo "{5AE2DAC684A861BC}" {
+     Range 0.05175 9
+    }
+    SightRangeInfo "{5AE2DAC6840951AC}" {
+     Range 0.0575 10
+    }
+    SightRangeInfo "{5AE2DAC68B2E24F3}" {
+     Range 0.06325 11
+    }
+    SightRangeInfo "{5AE2DAC68A9B037C}" {
+     Range 0.069 12
+    }
+    SightRangeInfo "{5AE2DAC689FA5581}" {
+     Range 0.07475 13
+    }
+    SightRangeInfo "{5AE2DAC55D448C4E}" {
+     Range 0.0805 14
+    }
+    SightRangeInfo "{5AE2DAC542FCFD3B}" {
+     Range 0.08625 15
+    }
+    SightRangeInfo "{61E954247A1477B9}" {
+     Range 0.092 16
+    }
+    SightRangeInfo "{61E954247A0DD8FD}" {
+     Range 0.09775 17
+    }
+    SightRangeInfo "{61E954247A243226}" {
+     Range 0.1035 18
+    }
+    SightRangeInfo "{61E9542475D2E45E}" {
+     Range 0.10925 19
+    }
+    SightRangeInfo "{61E9542475CF45CA}" {
+     Range 0.115 20
+    }
+    SightRangeInfo "{61E9542475FA4D51}" {
+     Range 0.12075 21
+    }
+    SightRangeInfo "{61E9542475967158}" {
+     Range 0.1265 22
+    }
+    SightRangeInfo "{61E9542475824AF4}" {
+     Range 0.13225 23
+    }
+    SightRangeInfo "{61E9542475BE4B59}" {
+     Range 0.138 24
+    }
+    SightRangeInfo "{61E9542475AA1707}" {
+     Range 0.14375 25
+    }
+    SightRangeInfo "{61E954247547FEA9}" {
+     Range 0.1495 26
+    }
+    SightRangeInfo "{61E954247573C1D9}" {
+     Range 0.15525 27
+    }
+    SightRangeInfo "{61E95424756FBBD3}" {
+     Range 0.161 28
+    }
+    SightRangeInfo "{61E9542475040798}" {
+     Range 0.16675 29
+    }
+    SightRangeInfo "{61E954247531D42B}" {
+     Range 0.1725 30
+    }
+    SightRangeInfo "{61E95424752E3CEE}" {
+     Range 0.17825 31
+    }
+    SightRangeInfo "{61E9542474C49972}" {
+     Range 0.184 32
+    }
+    SightRangeInfo "{61E9542474FCB280}" {
+     Range 0.18975 33
+    }
+    SightRangeInfo "{61E9542474E992E3}" {
+     Range 0.1955 34
+    }
+    SightRangeInfo "{61E954247487F3E9}" {
+     Range 0.20125 35
+    }
+    SightRangeInfo "{61E9542474B3D223}" {
+     Range 0.207 36
+    }
+    SightRangeInfo "{61E9542474AFC86F}" {
+     Range 0.21275 37
+    }
+    SightRangeInfo "{61E9542474441B8E}" {
+     Range 0.2185 38
+    }
+    SightRangeInfo "{61E9542474726B77}" {
+     Range 0.22425 39
+    }
+    SightRangeInfo "{61E954247468B449}" {
+     Range 0.23 40
+    }
+    SightRangeInfo "{61E9542474071022}" {
+     Range 0.23575 41
+    }
+    SightRangeInfo "{61E95424743D7FC0}" {
+     Range 0.2415 42
+    }
+    SightRangeInfo "{61E95424742A2C4E}" {
+     Range 0.24725 43
+    }
+    SightRangeInfo "{61E9542477C08795}" {
+     Range 0.253 44
+    }
+    SightRangeInfo "{61E9542477FC4E43}" {
+     Range 0.25875 45
+    }
+    SightRangeInfo "{61E9542477E83275}" {
+     Range 0.2645 46
+    }
+    SightRangeInfo "{61E954247780ED1F}" {
+     Range 0.27025 47
+    }
+    SightRangeInfo "{61E9542477BCC65E}" {
+     Range 0.276 48
+    }
+    SightRangeInfo "{61E9542477ABBA98}" {
+     Range 0.28175 49
+    }
+    SightRangeInfo "{61E9542477427A4E}" {
+     Range 0.2875 50
+    }
+    SightRangeInfo "{61E95424777958E4}" {
+     Range 0.29325 51
+    }
+    SightRangeInfo "{61E9542477101784}" {
+     Range 0.299 52
+    }
+    SightRangeInfo "{61E954247708FFBD}" {
+     Range 0.30475 53
+    }
+    SightRangeInfo "{61E954247722BA9D}" {
+     Range 0.3105 54
+    }
+    SightRangeInfo "{61E9542476DADAA4}" {
+     Range 0.31625 55
+    }
+    SightRangeInfo "{61E9542476F33541}" {
+     Range 0.322 56
+    }
+    SightRangeInfo "{61E9542476EA1218}" {
+     Range 0.32775 57
+    }
+    SightRangeInfo "{61E95424768245DC}" {
+     Range 0.3335 58
+    }
+    SightRangeInfo "{61E9542476B8E048}" {
+     Range 0.33925 59
+    }
+    SightRangeInfo "{61E954247657F2B1}" {
+     Range 0.345 60
+    }
+    SightRangeInfo "{61E9542476496805}" {
+     Range 0.35075 61
+    }
+    SightRangeInfo "{61E9542476609648}" {
+     Range 0.3565 62
+    }
+    SightRangeInfo "{61E95424761F6936}" {
+     Range 0.36225 63
+    }
+    SightRangeInfo "{61E954247635B922}" {
+     Range 0.368 64
+    }
+    SightRangeInfo "{61E9542476221B55}" {
+     Range 0.37375 65
+    }
+    SightRangeInfo "{61E9542471D85590}" {
+     Range 0.3795 66
+    }
+    SightRangeInfo "{61E9542471F0C075}" {
+     Range 0.38525 67
+    }
+    SightRangeInfo "{61E954247185F4F2}" {
+     Range 0.391 68
+    }
+    SightRangeInfo "{61E9542471B08AC3}" {
+     Range 0.39675 69
+    }
+    SightRangeInfo "{61E9542471A899DE}" {
+     Range 0.4025 70
+    }
+    SightRangeInfo "{61E9542471460351}" {
+     Range 0.40825 71
+    }
+    SightRangeInfo "{61E95424717C598D}" {
+     Range 0.414 72
+    }
+    SightRangeInfo "{61E95424716B2A99}" {
+     Range 0.41975 73
+    }
+    SightRangeInfo "{61E95424710C8BC0}" {
+     Range 0.4255 74
+    }
+    SightRangeInfo "{61E9542471385829}" {
+     Range 0.43125 75
+    }
+    SightRangeInfo "{61E9542470D727E5}" {
+     Range 0.437 76
+    }
+    SightRangeInfo "{61E9542470C20313}" {
+     Range 0.44275 77
+    }
+    SightRangeInfo "{61E9542470F85333}" {
+     Range 0.4485 78
+    }
+    SightRangeInfo "{61E954247097A1EA}" {
+     Range 0.45425 79
+    }
+    SightRangeInfo "{61E95424708C0D34}" {
+     Range 0.46 80
+    }
+    SightRangeInfo "{61E9542470A55BFA}" {
+     Range 0.46575 81
+    }
+    SightRangeInfo "{61E9542470550A51}" {
+     Range 0.4715 82
+    }
+    SightRangeInfo "{61E9542470143750}" {
+     Range 0.47725 83
+    }
+    SightRangeInfo "{61E95424700D50F9}" {
+     Range 0.483 84
+    }
+    SightRangeInfo "{61E954247024FC67}" {
+     Range 0.48875 85
+    }
+    SightRangeInfo "{61E9542473D14AB4}" {
+     Range 0.4945 86
+    }
+    SightRangeInfo "{61E9542473CA958F}" {
+     Range 0.50025 87
+    }
+    SightRangeInfo "{61E9542473E0E75D}" {
+     Range 0.506 88
+    }
+    SightRangeInfo "{61E95424739A2F71}" {
+     Range 0.51175 89
+    }
+    SightRangeInfo "{61E9542473B044A6}" {
+     Range 0.5175 90
+    }
+    SightRangeInfo "{61E9542473AFCF4B}" {
+     Range 0.52325 91
+    }
+    SightRangeInfo "{61E954247346A7B8}" {
+     Range 0.529 92
+    }
+    SightRangeInfo "{61E95424737D7DE4}" {
+     Range 0.53475 93
+    }
+    SightRangeInfo "{61E95424731447CF}" {
+     Range 0.5405 94
+    }
+    SightRangeInfo "{61E95424730CA5A8}" {
+     Range 0.54625 95
+    }
+    SightRangeInfo "{61E9542473393695}" {
+     Range 0.552 96
+    }
+    SightRangeInfo "{61E954246E1FE4D3}" {
+     Range 0.55775 97
+    }
+    SightRangeInfo "{61E954246E323EA3}" {
+     Range 0.5635 98
+    }
+    SightRangeInfo "{61E954246E2A48BF}" {
+     Range 0.56925 99
+    }
+    SightRangeInfo "{61E9542469C1B224}" {
+     Range 0.575 100
+    }
+    SightRangeInfo "{61E9542469FE15B9}" {
+     Range 0.58075 101
+    }
+    SightRangeInfo "{61E954246BD8B89B}" {
+     Range 0.5865 102
+    }
+    SightRangeInfo "{61E954246BFDBC86}" {
+     Range 0.59225 103
+    }
+    SightRangeInfo "{61E954246BEBD5CE}" {
+     Range 0.598 104
+    }
+    SightRangeInfo "{61E954246B807B80}" {
+     Range 0.60375 105
+    }
+    SightRangeInfo "{61E954246BBF4ADF}" {
+     Range 0.6095 106
+    }
+    SightRangeInfo "{61E954246B562AAA}" {
+     Range 0.61525 107
+    }
+    SightRangeInfo "{61E954246B4E4604}" {
+     Range 0.621 108
+    }
+    SightRangeInfo "{61E954246B65DB2E}" {
+     Range 0.62675 109
+    }
+    SightRangeInfo "{61E954246B1191AF}" {
+     Range 0.6325 110
+    }
+    SightRangeInfo "{61E954246B0C9153}" {
+     Range 0.63825 111
+    }
+    SightRangeInfo "{61E954246B39427D}" {
+     Range 0.644 112
+    }
+    SightRangeInfo "{61E954246AD79AF3}" {
+     Range 0.64975 113
+    }
+    SightRangeInfo "{61E954246ACDF1C5}" {
+     Range 0.6555 114
+    }
+    SightRangeInfo "{61E954246AFA5A49}" {
+     Range 0.66125 115
+    }
+    SightRangeInfo "{61E954246A9100C7}" {
+     Range 0.667 116
+    }
+    SightRangeInfo "{61E954246A89E162}" {
+     Range 0.67275 117
+    }
+    SightRangeInfo "{61E954246AA4F9AE}" {
+     Range 0.6785 118
+    }
+    SightRangeInfo "{61E954246A5C98D1}" {
+     Range 0.68425 119
+    }
+    SightRangeInfo "{61E954246A487C3C}" {
+     Range 0.69 120
+    }
+    SightRangeInfo "{61E954246A644E8D}" {
+     Range 0.69575 121
+    }
+    SightRangeInfo "{61E954246A1C7971}" {
+     Range 0.7015 122
+    }
+    SightRangeInfo "{61E954246A0E8EC0}" {
+     Range 0.70725 123
+    }
+    SightRangeInfo "{61E954246A3A59E1}" {
+     Range 0.713 124
+    }
+    SightRangeInfo "{61E9542465D0BF1F}" {
+     Range 0.71875 125
+    }
+    SightRangeInfo "{61E9542465C3D18F}" {
+     Range 0.7245 126
+    }
+    SightRangeInfo "{61E9542465FD0474}" {
+     Range 0.73025 127
+    }
+    SightRangeInfo "{61E9542465EE64BB}" {
+     Range 0.736 128
+    }
+    SightRangeInfo "{61E954246584BFCD}" {
+     Range 0.74175 129
+    }
+    SightRangeInfo "{61E9542465B594BC}" {
+     Range 0.7475 130
+    }
+    SightRangeInfo "{61E9542465A172DF}" {
+     Range 0.75325 131
+    }
+    SightRangeInfo "{61E95424655D517A}" {
+     Range 0.759 132
+    }
+    SightRangeInfo "{61E954246549319F}" {
+     Range 0.76475 133
+    }
+    SightRangeInfo "{61E9542465650CEA}" {
+     Range 0.7705 134
+    }
+    SightRangeInfo "{61E95424651DED70}" {
+     Range 0.77625 135
+    }
+    SightRangeInfo "{61E95424650C5971}" {
+     Range 0.782 136
+    }
+    SightRangeInfo "{61E9542465258B86}" {
+     Range 0.78775 137
+    }
+    SightRangeInfo "{61E9542464D1786D}" {
+     Range 0.7935 138
+    }
+    SightRangeInfo "{61E9542464CF8946}" {
+     Range 0.79925 139
+    }
+    SightRangeInfo "{61E9542464E71EA4}" {
+     Range 0.805 140
+    }
+    SightRangeInfo "{61E95424649F4D6F}" {
+     Range 0.81075 141
+    }
+    SightRangeInfo "{61E9542464B6BEC0}" {
+     Range 0.8165 142
+    }
+    SightRangeInfo "{61E9542464AD8F86}" {
+     Range 0.82225 143
+    }
+    SightRangeInfo "{61E954246446C5F3}" {
+     Range 0.828 144
+    }
+    SightRangeInfo "{61E9542464785BA0}" {
+     Range 0.83375 145
+    }
+    SightRangeInfo "{61E95424646BC34A}" {
+     Range 0.8395 146
+    }
+    SightRangeInfo "{61E954246402CB34}" {
+     Range 0.84525 147
+    }
+    SightRangeInfo "{61E9542464246A80}" {
+     Range 0.851 148
+    }
+    SightRangeInfo "{61E9542467D7699A}" {
+     Range 0.85675 149
+    }
+    SightRangeInfo "{61E9542467CE8997}" {
+     Range 0.8625 150
+    }
+    SightRangeInfo "{61E9542467E7D096}" {
+     Range 0.86825 151
+    }
+    SightRangeInfo "{61E954246793C030}" {
+     Range 0.874 152
+    }
+    SightRangeInfo "{61E95424678B125E}" {
+     Range 0.87975 153
+    }
+    SightRangeInfo "{61E9542467AC6953}" {
+     Range 0.8855 154
+    }
+    SightRangeInfo "{61E95424675B0109}" {
+     Range 0.89125 155
+    }
+    SightRangeInfo "{61E95424677C6262}" {
+     Range 0.897 156
+    }
+    SightRangeInfo "{61E954246715CC33}" {
+     Range 0.90275 157
+    }
+    SightRangeInfo "{61E9542467019E9C}" {
+     Range 0.9085 158
+    }
+    SightRangeInfo "{61E954246725C465}" {
+     Range 0.91425 159
+    }
+    SightRangeInfo "{61E9542466DD10A6}" {
+     Range 0.92 160
+    }
+    SightRangeInfo "{61E9542466F14AEF}" {
+     Range 0.92575 161
+    }
+    SightRangeInfo "{61E9542466EB049D}" {
+     Range 0.9315 162
+    }
+    SightRangeInfo "{61E95424668EA4F9}" {
+     Range 0.93725 163
+    }
+    SightRangeInfo "{61E9542466A619E8}" {
+     Range 0.943 164
+    }
+    SightRangeInfo "{61E95424665EFC4B}" {
+     Range 0.94875 165
+    }
+    SightRangeInfo "{61E954246675BB85}" {
+     Range 0.9545 166
+    }
+    SightRangeInfo "{61E954246668BC8F}" {
+     Range 0.96025 167
+    }
+    SightRangeInfo "{61E9542466013579}" {
+     Range 0.966 168
+    }
+    SightRangeInfo "{61E9542466256746}" {
+     Range 0.97175 169
+    }
+    SightRangeInfo "{61E9542461D9A420}" {
+     Range 0.9775 170
+    }
+    SightRangeInfo "{61E9542461FDD5DC}" {
+     Range 0.98325 171
+    }
+    SightRangeInfo "{61E9542461927142}" {
+     Range 0.989 172
+    }
+    SightRangeInfo "{61E95424618960CE}" {
+     Range 0.99475 173
+    }
+    SightRangeInfo "{61E9542461AD9F0E}" {
+     Range 1.0005 174
+    }
+    SightRangeInfo "{61E954246146F985}" {
+     Range 1.00625 175
+    }
+    SightRangeInfo "{61E95424617B9434}" {
+     Range 1.012 176
+    }
+    SightRangeInfo "{61E95424611FDBC1}" {
+     Range 1.01775 177
+    }
+    SightRangeInfo "{61E9542461322F95}" {
+     Range 1.0235 178
+    }
+    SightRangeInfo "{61E9542460D13F3A}" {
+     Range 1.02925 179
+    }
+    SightRangeInfo "{61E9542460F7D364}" {
+     Range 1.035 180
+    }
+    SightRangeInfo "{61E9542460EF30EE}" {
+     Range 1.04075 181
+    }
+    SightRangeInfo "{61E95424608372B7}" {
+     Range 1.0465 182
+    }
+    SightRangeInfo "{61E9542460BA3D2C}" {
+     Range 1.05225 183
+    }
+    SightRangeInfo "{61E95424604AB33A}" {
+     Range 1.058 184
+    }
+    SightRangeInfo "{61E95424601413F0}" {
+     Range 1.06375 185
+    }
+    SightRangeInfo "{61E95424600F0ACB}" {
+     Range 1.0695 186
+    }
+    SightRangeInfo "{61E95424602DC651}" {
+     Range 1.07525 187
+    }
+    SightRangeInfo "{61E9542463CD5A6F}" {
+     Range 1.081 188
+    }
+    SightRangeInfo "{61E9542463904317}" {
+     Range 1.08675 189
+    }
+    SightRangeInfo "{61E954246389A54A}" {
+     Range 1.0925 190
+    }
+    SightRangeInfo "{61E9542463A0668E}" {
+     Range 1.09825 191
+    }
+    SightRangeInfo "{61E95424635E69BE}" {
+     Range 1.104 192
+    }
+    SightRangeInfo "{61E9542463497B82}" {
+     Range 1.10975 193
+    }
+    SightRangeInfo "{61E954246367F55B}" {
+     Range 1.1155 194
+    }
+    SightRangeInfo "{61E95424631CCEDA}" {
+     Range 1.12125 195
+    }
+    SightRangeInfo "{61E95424633A417D}" {
+     Range 1.127 196
+    }
+    SightRangeInfo "{61E9542462D3A3E8}" {
+     Range 1.13275 197
+    }
+    SightRangeInfo "{61E9542462CA8B0E}" {
+     Range 1.1385 198
+    }
+    SightRangeInfo "{61E9542462E960B2}" {
+     Range 1.14425 199
+    }
+    SightRangeInfo "{61E954246282FB73}" {
+     Range 1.15 200
+    }
+    SightRangeInfo "{61E9542462A51B35}" {
+     Range 1.15575 201
+    }
+    SightRangeInfo "{61E9542462582DBE}" {
+     Range 1.1615 202
+    }
+    SightRangeInfo "{61E954246272A939}" {
+     Range 1.16725 203
+    }
+    SightRangeInfo "{61E9542462176CA9}" {
+     Range 1.173 204
+    }
+    SightRangeInfo "{61E95424620B96CA}" {
+     Range 1.17875 205
+    }
+    SightRangeInfo "{61E95424622FC7B1}" {
+     Range 1.1845 206
+    }
+    SightRangeInfo "{61E954245DCC8226}" {
+     Range 1.19025 207
+    }
+    SightRangeInfo "{61E954245DE0B5F9}" {
+     Range 1.196 208
+    }
+    SightRangeInfo "{61E954245D9A30E7}" {
+     Range 1.20175 209
+    }
+    SightRangeInfo "{61E954245DBECD2D}" {
+     Range 1.2075 210
+    }
+    SightRangeInfo "{61E954245D52EC1D}" {
+     Range 1.21325 211
+    }
+    SightRangeInfo "{61E954245D702511}" {
+     Range 1.219 212
+    }
+    SightRangeInfo "{61E954245D6DF15B}" {
+     Range 1.22475 213
+    }
+    SightRangeInfo "{61E954245D07BBF6}" {
+     Range 1.2305 214
+    }
+    SightRangeInfo "{61E954245D243698}" {
+     Range 1.23625 215
+    }
+    SightRangeInfo "{61E954245CC400AD}" {
+     Range 1.242 216
+    }
+    SightRangeInfo "{61E954245CE5DD8B}" {
+     Range 1.24775 217
+    }
+    SightRangeInfo "{61E954245C84EEE3}" {
+     Range 1.2535 218
+    }
+    SightRangeInfo "{61E954245CA676B5}" {
+     Range 1.25925 219
+    }
+    SightRangeInfo "{61E954245C46CF65}" {
+     Range 1.265 220
+    }
+    SightRangeInfo "{61E954245C665483}" {
+     Range 1.27075 221
+    }
+    SightRangeInfo "{61E954245C04F979}" {
+     Range 1.2765 222
+    }
+    SightRangeInfo "{61E954245C3F473B}" {
+     Range 1.28225 223
+    }
+    SightRangeInfo "{61E954245FD3955E}" {
+     Range 1.288 224
+    }
+    SightRangeInfo "{61E954245FF6AA89}" {
+     Range 1.29375 225
+    }
+    SightRangeInfo "{61E954245FEDF2DA}" {
+     Range 1.2995 226
+    }
+    SightRangeInfo "{61E954245F99F23E}" {
+     Range 1.30525 227
+    }
+    SightRangeInfo "{61E954245FB0C723}" {
+     Range 1.311 228
+    }
+   }
+  }
+ }
+}
