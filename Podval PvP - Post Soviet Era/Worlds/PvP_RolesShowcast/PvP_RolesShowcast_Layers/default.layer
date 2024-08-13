@@ -6,3 +6,12 @@ $grp GenericEntity : "{0DBE058F13F0C7E8}PrefabsEditable/Auto/Structures/Military
   coords 1685.146 47.713 3019.633
  }
 }
+Vehicle M923A1_command1 : "{36BDCC88B17B3BFA}Prefabs/Vehicles/Wheeled/M923A1/M923A1_command.et" {
+ components {
+  BaseRadioComponent "{51EAE034CD7B7A2C}" {
+   "Turned on" 0
+  }
+ }
+ coords 1521.776 39 2771.97
+ angleY -13.557
+}
