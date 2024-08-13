@@ -4,6 +4,9 @@ GenericEntity : "{071B55C2A5E0346F}PrefabsEditable/Auto/Structures/Military/Flag
 GenericEntity : "{0DBE058F13F0C7E8}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_US.et" {
  coords 72.303 1 224.108
 }
+GenericEntity : "{119D0AA19EF023A7}Prefabs/Items/Equipment/Radios/INDFOR_Radio_R187P1_OLD_SL.et" {
+ coords 82.666 1 213.665
+}
 GenericEntity : "{14B2D417839BF8A3}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_USSR.et" {
  coords 76.594 1 219.888
 }
@@ -13,17 +16,50 @@ GenericEntity : "{1A8791C2BC2B8B75}Prefabs/Structures/Military/Flags/FlagPole_01
 GenericEntity : "{1AAC905FBE6CF779}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V2_USSR.et" {
  coords 83.077 1 220.39
 }
+GenericEntity : "{24048C9FFE5AF733}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC68_prv.et" {
+ coords 84.352 1 213.642
+}
 GenericEntity : "{2D34681FE9A85FD5}Prefabs/Weapons/Attachments/Optics/infratech1tws/Optic_Infratech1tws_t1.et" {
  coords 84.676 1 216.935
 }
 GenericEntity : "{37FF769500E5C13C}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V2_FIA.et" {
  coords 78.493 1 219.765
 }
+GenericEntity : "{48B06B12F3BD7E9B}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD_SL.et" {
+ coords 81.71 1 213.041
+}
 GenericEntity : "{8528347E5F47F2A4}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_FIA.et" {
  coords 68.331 1 229.503
 }
+GenericEntity : "{95FE0F50F9593031}Prefabs/Items/Equipment/Radios/INDFOR_Radio_R148_Prv.et" {
+ coords 84.03 1 214.86
+}
 GenericEntity : "{96EDBFC3F87A6DBB}Prefabs/Weapons/MachineGuns/PKM/MG_PKM_B51_thermo.et" {
  coords 85.247 1.536 216.907
+}
+GenericEntity : "{97803BFD13AFA67F}Prefabs/Items/Equipment/Radios/Radio_R148_Prv.et" {
+ coords 81.855 1 212.508
+}
+GenericEntity : "{A2DD1D2EEB52BFC0}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD_prv.et" {
+ coords 83.188 1 212.296
+}
+GenericEntity : "{B163A8898F269BDD}Prefabs/Items/Equipment/Radios/INDFOR_Radio_R107M_pl.et" {
+ coords 83.125 1 214.653
+}
+GenericEntity : "{B31D9C2465D00D93}Prefabs/Items/Equipment/Radios/Radio_R107M_pl.et" {
+ coords 81.905 1 215.308
+}
+GenericEntity : "{BAB50E5D149D64D9}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_prv.et" {
+ coords 84.688 1 212.719
+}
+GenericEntity : "{C3351EC6D64ED74A}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC77.et" {
+ coords 83.957 1 214.067
+}
+GenericEntity : "{C742BD6CB3D77A5A}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_SL.et" {
+ coords 84.649 1 213.226
+}
+GenericEntity : "{E328B3306A15E882}Prefabs/Items/Equipment/Radios/INDFOR_Radio_RF10.et" {
+ coords 81.42 1 214.357
 }
 SCR_ChimeraCharacter : "{F01A848FC8BDA273}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_MG.et" {
  coords 84.361 1 216.08
