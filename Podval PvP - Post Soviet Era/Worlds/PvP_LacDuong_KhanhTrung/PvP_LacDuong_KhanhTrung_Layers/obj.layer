@@ -1,0 +1,28 @@
+$grp PS_Objective {
+ {
+  components {
+   RplComponent "{61D770792CB54432}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D7707839C3C349}" {
+   }
+  }
+  coords 2834.407 12.151 2650.952
+  m_sTitle "Деревня захвачена"
+  m_iScore 100
+  m_sFactionKey "RHS_RF_MSV"
+ }
+ {
+  components {
+   RplComponent "{61D770792CB54432}" {
+    Streamable Disabled
+   }
+   Hierarchy "{61D7707839C3C349}" {
+   }
+  }
+  coords 2012.798 10.388 2938.295
+  m_sTitle "Деревня удержена"
+  m_iScore 100
+  m_sFactionKey "RHS_US_USMC"
+ }
+}

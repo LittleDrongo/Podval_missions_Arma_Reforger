@@ -22,14 +22,39 @@ GenericEntity : "{24048C9FFE5AF733}Prefabs/Items/Equipment/Radios/drg_Radio_ANPR
 GenericEntity : "{2D34681FE9A85FD5}Prefabs/Weapons/Attachments/Optics/infratech1tws/Optic_Infratech1tws_t1.et" {
  coords 84.676 1 216.935
 }
+GenericEntity : "{34A562D30B1CFFEB}Prefabs/Characters/Vests/Vest_TV110_Pouches/Minimap_ArsArma_GMR_FG.et" {
+ coords 101.527 1.58 220.882
+}
 GenericEntity : "{37FF769500E5C13C}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V2_FIA.et" {
  coords 78.493 1 219.765
+}
+GenericEntity : "{387476A3EE584DEB}Prefabs/Characters/Vests/Vest_Taktika_Pouches/Pouch_Taktika_universalpouch_od.et" {
+ coords 97.158 1.4 217.628
 }
 GenericEntity : "{48B06B12F3BD7E9B}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD_SL.et" {
  coords 81.71 1 213.041
 }
+GenericEntity : "{54E8E1A933B59AA2}Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_preset_taktika_PKM.et" {
+ coords 99.372 1.936 220.588
+}
+$grp SCR_ChimeraCharacter : "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator.et" {
+ {
+  coords 94.106 1 215.433
+ }
+ {
+  coords 98.294 1 218.069
+ }
+}
 GenericEntity : "{8528347E5F47F2A4}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_FIA.et" {
  coords 68.331 1 229.503
+}
+$grp GenericEntity : "{88AFEE9B371088BA}Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_preset_taktika_GM942.et" {
+ {
+  coords 96.79 1.381 217.218
+ }
+ {
+  coords 101.82 1 218.328
+ }
 }
 GenericEntity : "{95FE0F50F9593031}Prefabs/Items/Equipment/Radios/INDFOR_Radio_R148_Prv.et" {
  coords 84.03 1 214.86
@@ -52,15 +77,34 @@ GenericEntity : "{B31D9C2465D00D93}Prefabs/Items/Equipment/Radios/Radio_R107M_pl
 GenericEntity : "{BAB50E5D149D64D9}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_prv.et" {
  coords 84.688 1 212.719
 }
+SCR_ChimeraCharacter : "{BB99ED025BCA260E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Sniper.et" {
+ coords 97.602 1 218.136
+}
 GenericEntity : "{C3351EC6D64ED74A}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC77.et" {
  coords 83.957 1 214.067
 }
 GenericEntity : "{C742BD6CB3D77A5A}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_SL.et" {
  coords 84.649 1 213.226
 }
+$grp SCR_ChimeraCharacter : "{D51475636CE569E4}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Sapper.et" {
+ {
+  coords 95.029 1 216.036
+ }
+ {
+  coords 96.959 1 218.903
+ }
+}
 GenericEntity : "{E328B3306A15E882}Prefabs/Items/Equipment/Radios/INDFOR_Radio_RF10.et" {
  coords 81.42 1 214.357
 }
-SCR_ChimeraCharacter : "{F01A848FC8BDA273}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_MG.et" {
- coords 84.361 1 216.08
+$grp SCR_ChimeraCharacter : "{F01A848FC8BDA273}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_MG.et" {
+ {
+  coords 84.361 1 216.08
+ }
+ {
+  coords 99.86 1 216.15
+ }
+}
+GenericEntity : "{F8A6FE06F4C70B2C}Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_belt_arsarma_1_pistol_body_PK.et" {
+ coords 100.414 1.478 218.092
 }

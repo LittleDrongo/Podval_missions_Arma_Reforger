@@ -15,7 +15,7 @@ SCR_ChimeraCharacter : "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_
      Prefab "{48602F57998AB597}Prefabs/Items/Equipment/Backpacks/FILBE_Backpack.et"
     }
     LoadoutSlotInfo Vest {
-     Prefab "{F8A6FE06F4C70B2C}Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_belt_arsarma_1_pistol_body_PK.et"
+     Prefab "{54E8E1A933B59AA2}Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_preset_taktika_PKM.et"
     }
    }
   }
