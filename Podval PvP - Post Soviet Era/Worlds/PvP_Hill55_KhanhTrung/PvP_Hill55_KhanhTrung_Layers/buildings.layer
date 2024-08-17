@@ -20,6 +20,38 @@ GenericEntity : "{869A4C4CA7F43C21}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_
  coords 2011.951 1.385 2976.281
  angleX 1.79
 }
+$grp GenericEntity : "{926C09375D2DAA4D}PrefabLibrary/Rocks/Granite/GraniteStone_01.et" {
+ {
+  coords 1212.055 0.364 1828.227
+  angleY 320.953
+  scale 2.352
+ }
+ {
+  coords 1290.397 0.12 1888.231
+  angleY 320.953
+  scale 2.352
+ }
+ {
+  coords 1201.75 0.221 1704.564
+  angleY 320.953
+  scale 2.352
+ }
+ {
+  coords 1214.497 0.382 1714.68
+  angleY 320.953
+  scale 2.352
+ }
+ {
+  coords 1186.001 0.234 1753.686
+  angleY 320.953
+  scale 2.352
+ }
+ {
+  coords 1154.24 -0 1755.508
+  angleY 320.953
+  scale 2.352
+ }
+}
 SCR_DestructibleBuildingEntity : "{CB01B5B68D9EF4C4}PrefabLibrary/Structures/Houses/Villa_E_2I01.et" {
  coords 1921.658 1.292 2975.353
  angleX 1.094
@@ -34,7 +66,7 @@ GenericEntity : "{F9A490888BED61DB}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_
  {
   GenericEntity {
    ID "5D453938FA2CE085"
-   coords -1.796 -0 -0.665
+   coords -1.796 0 -0.665
   }
   GenericEntity {
    ID "5E330D6C9FDD1551"

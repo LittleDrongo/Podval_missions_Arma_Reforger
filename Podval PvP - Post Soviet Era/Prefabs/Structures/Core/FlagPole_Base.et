@@ -8,6 +8,7 @@ GenericEntity {
      Position PointInfo "{6202D793E70D1EFB}" {
       Offset 0 1.1163 0
      }
+     Radius 10
     }
    }
    additionalActions {
@@ -16,7 +17,7 @@ GenericEntity {
       "default"
      }
      UIInfo UIInfo "{6202D793D0C82106}" {
-      Name "ChangeFlag"
+      Name "#DRG_ChangeFlagAction"
      }
      Duration 1
     }

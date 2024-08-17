@@ -185,6 +185,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{6222CD29E41B405D}" {
+   Id "DRG_ChangeFlagAction"
+   Target_en_us "Change flag"
+   Target_ru_ru "Поменять флаг"
+   Modified 1646448211
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{61CF39320BCCAA57}" {
    Id "DRG_PC_Gen_III_Base_AR_Desc"
    Target_en_us "Developed by Podval"

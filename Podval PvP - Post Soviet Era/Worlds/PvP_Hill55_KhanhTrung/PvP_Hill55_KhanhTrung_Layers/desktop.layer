@@ -1,5 +1,5 @@
 GenericEntity : "{0DBE058F13F0C7E8}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_US.et" {
- coords 1177.865 98.211 1841.893
+ coords 1177.865 98.599 1841.893
 }
 $grp SCR_DestructibleBuildingEntity : "{3076BD4F789C39B7}PrefabLibrary/Structures/Landmarks/Castle_01_Bridge.et" {
  {
