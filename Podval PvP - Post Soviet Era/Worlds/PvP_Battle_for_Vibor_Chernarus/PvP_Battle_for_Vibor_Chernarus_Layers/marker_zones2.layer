@@ -116,6 +116,7 @@ $grp PolylineShapeEntity {
      }
     }
     TriggerShapeType Polyline
+    SphereRadius 9223372036854775808
     "Polyline Height" 500
     TriggerActivationType "All changes"
     PeriodicQueries 1
@@ -124,7 +125,7 @@ $grp PolylineShapeEntity {
      "SCR_ChimeraCharacter"
     }
     m_polyZoneEffect PS_PolyZoneEffectRestricted "{614548BC046ADB65}" {
-     m_fKillTime 30
+     m_fKillTime 35
     }
     m_bReversed 1
    }
