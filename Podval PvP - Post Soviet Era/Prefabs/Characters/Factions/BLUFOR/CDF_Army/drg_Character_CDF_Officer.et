@@ -1,0 +1,21 @@
+SCR_ChimeraCharacter : "{8DA9CAFC7CEFC056}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_PL.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "#AR-Role_Officer"
+    Icon "{B0B3E06A17B8AC6D}UI/Icons/officer.edds"
+   }
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{DD183AFCCD4C357A}Prefabs/Weapons/Rifles/AK74N/Rifle_AK74N_Rai_P87_Ses_CDF.et"
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{B96830B1D2EC36AF}Prefabs/Characters/HeadGear/Helmet_PASGT_01/Helmet_PASGT_Googles_Balaclava_Tan_CDF.et"
+    }
+   }
+  }
+ }
+}
