@@ -44,7 +44,8 @@ SCR_ChimeraCharacter : "{DC6EA865F186B3D1}Prefabs/Characters/Factions/BLUFOR/CDF
     }
     ItemsInitConfigurationItem "{623876773A154FCC}" {
      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok.et"
-     PrefabsToSpawn +{
+     PrefabsToSpawn {
+      "{E5E9C5897CF47F44}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_4Ball_1Tracer.et" "{E5E9C5897CF47F44}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_4Ball_1Tracer.et" "{E5E9C5897CF47F44}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_4Ball_1Tracer.et" "{E5E9C5897CF47F44}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_4Ball_1Tracer.et"
      }
     }
    }

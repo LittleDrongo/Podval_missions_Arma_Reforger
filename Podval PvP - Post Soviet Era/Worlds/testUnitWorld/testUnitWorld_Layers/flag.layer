@@ -39,8 +39,13 @@ GenericEntity : "{24048C9FFE5AF733}Prefabs/Items/Equipment/Radios/drg_Radio_ANPR
 SCR_ChimeraCharacter : "{29F50BE3FC6A4882}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_Unarmed.et" {
  coords 88.634 1 225.818
 }
-SCR_ChimeraCharacter : "{2B285C603DC34736}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_MG.et" {
- coords 92.557 1 246.607
+$grp SCR_ChimeraCharacter : "{2B285C603DC34736}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_MG.et" {
+ {
+  coords 92.557 1 246.607
+ }
+ {
+  coords 86.887 1 252.327
+ }
 }
 GenericEntity : "{2D34681FE9A85FD5}Prefabs/Weapons/Attachments/Optics/infratech1tws/Optic_Infratech1tws_t1.et" {
  coords 84.676 1 216.935
@@ -107,8 +112,13 @@ $grp SCR_ChimeraCharacter : "{793F827A538C53D5}Prefabs/Characters/Factions/BLUFO
 SCR_ChimeraCharacter : "{7C646869CFA3B721}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_RTO.et" {
  coords 93.024 1 249.187
 }
-SCR_ChimeraCharacter : "{7E232C91920E7FA7}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_MGA.et" {
- coords 92.262 1 247.744
+$grp SCR_ChimeraCharacter : "{7E232C91920E7FA7}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_MGA.et" {
+ {
+  coords 92.262 1 247.744
+ }
+ {
+  coords 82.743 1 253.545
+ }
 }
 SCR_ChimeraCharacter : "{843201041DF19B3E}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AAT.et" {
  coords 83.744 1 247.158
@@ -156,8 +166,13 @@ SCR_ChimeraCharacter : "{A197EBBB2A054D89}Prefabs/Characters/Factions/BLUFOR/CDF
 GenericEntity : "{A2DD1D2EEB52BFC0}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD_prv.et" {
  coords 83.188 1 212.296
 }
-SCR_ChimeraCharacter : "{AEFC149A3ED71F05}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_MGAB.et" {
- coords 91.142 1 248.201
+$grp SCR_ChimeraCharacter : "{AEFC149A3ED71F05}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_MGAB.et" {
+ {
+  coords 91.142 1 248.201
+ }
+ {
+  coords 80.799 1 254.077
+ }
 }
 GenericEntity : "{B163A8898F269BDD}Prefabs/Items/Equipment/Radios/INDFOR_Radio_R107M_pl.et" {
  coords 83.125 1 214.653

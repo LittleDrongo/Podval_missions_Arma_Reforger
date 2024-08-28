@@ -1,0 +1,26 @@
+$grp GenericEntity : "{8547E5B779B7BCAA}Prefabs/Props/Fabric/Flags/Flagpole_US.et" {
+ {
+  coords 3265.325 207.867 13064.839
+  angleY 67.99
+  {
+   GenericEntity : "{971F705971EF6F4B}Prefabs/Props/Fabric/Flags/Flag_1_2_US_01.et" {
+    coords -0.027 2.575 1.448
+    angleX 19.32
+    angleY 138.575
+    angleZ -20.223
+   }
+  }
+ }
+ {
+  coords 3271.893 207.867 13049.028
+  angleY 65.97
+  {
+   GenericEntity : "{971F705971EF6F4B}Prefabs/Props/Fabric/Flags/Flag_1_2_US_01.et" {
+    coords -0.027 2.575 1.448
+    angleX 19.32
+    angleY 138.575
+    angleZ -20.223
+   }
+  }
+ }
+}

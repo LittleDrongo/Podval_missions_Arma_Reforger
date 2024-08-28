@@ -1,0 +1,96 @@
+SCR_ChimeraCharacter : "{0714A1857E1FA15A}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_Rifleman.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_CharacterInventoryStorageComponent "{520EA1D2DB118DAC}" {
+   components {
+    SCR_EquipmentStorageComponent "{56B49DA9722B635D}" {
+     InitialStorageSlots {
+      SCR_EquipmentStorageSlot WristwatchSlot {
+       Prefab "{7C53E6DE2E4BD8CB}Prefabs/Items/Equipment/Watches/Watch_GarminTactixBravo.et"
+      }
+     }
+    }
+   }
+  }
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "#DRG-Rifleman_SSO"
+    Icon "{A0C4B723DCAEF8FF}UI/Icons/berets.edds"
+   }
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{6883E434BD3306B8}Prefabs/Weapons/Rifles/M4A1/Rifle_M4A1_RAS_NT4_Peq_Aimpoint.et"
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{7C320B4002B29E0A}Prefabs/Characters/HeadGear/Helmet_OPSCORE/Helmet_OPSCORE_LBH_AOR2_Amp.et"
+    }
+    LoadoutSlotInfo Jacket {
+     Prefab "{10D0A70AB04770B7}Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_AOR2.et"
+    }
+    LoadoutSlotInfo ArmoredVest {
+     Prefab "{651F08B36A2E2A0C}Prefabs/Characters/Vests/Vest_CPC_NCPC/Vest_NCPC_AOR2.et"
+    }
+    LoadoutSlotInfo Pants {
+     Prefab "{5B2078D4EAA62DA1}Prefabs/Characters/Uniforms/Crye_Pants/crye_pants_AOR2.et"
+    }
+    LoadoutSlotInfo Back {
+     Prefab ""
+    }
+    LoadoutSlotInfo Vest {
+     Prefab "{EB6375B9360110DD}Prefabs/Characters/Vests/Vest_CPC_NCPC/variants/Vest_NCPC_AOR2_Pouch_Preset.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{61CF392CD2DBB3E8}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Crye_Pants/crye_pants_AOR2.et"
+    }
+    ItemsInitConfigurationItem "{61CF392CD2FA5E56}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_AOR2.et"
+    }
+    ItemsInitConfigurationItem "{61CF392CD2B76927}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_AOR2.et"
+     PrefabsToSpawn {
+      "{B385064A383A384B}Prefabs/Items/Equipment/Nightvision/PVS14/NVG_PVS14Dual_WP.et" "{01BE30D243F57EE2}Prefabs/Weapons/Attachments/Optics/su230/Optic_SU230_MRDS_tan.et"
+     }
+    }
+    ItemsInitConfigurationItem "{61CF392A6AF0E138}" {
+     TargetStorage ""
+     PrefabsToSpawn {
+     }
+    }
+    ItemsInitConfigurationItem "{61CF392A9D967706}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_CPC_NCPC_pouches/pouch_NCPN_kangroo_base.et"
+     PrefabsToSpawn {
+      "{065A21D95CEAC496}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_HP_B_30rnd_m995.et" "{065A21D95CEAC496}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_HP_B_30rnd_m995.et" "{065A21D95CEAC496}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_HP_B_30rnd_m995.et" "{065A21D95CEAC496}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_HP_B_30rnd_m995.et" "{065A21D95CEAC496}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_HP_B_30rnd_m995.et"
+     }
+    }
+    ItemsInitConfigurationItem "{61CF392A9DAB3322}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_CPC_NCPC_pouches/Pouch_NCPC_Mag_side.et"
+     PrefabsToSpawn {
+      "{065A21D95CEAC496}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_HP_B_30rnd_m995.et" "{065A21D95CEAC496}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_HP_B_30rnd_m995.et" "{065A21D95CEAC496}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_HP_B_30rnd_m995.et" "{065A21D95CEAC496}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_HP_B_30rnd_m995.et" "{065A21D95CEAC496}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_HP_B_30rnd_m995.et"
+     }
+    }
+    ItemsInitConfigurationItem "{61CF392A9C184C9B}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_CPC_NCPC/variants/Vest_NCPC_AOR2_Pouch_Preset.et"
+     PrefabsToSpawn {
+      "{065A21D95CEAC496}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_HP_B_30rnd_m995.et" "{065A21D95CEAC496}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_HP_B_30rnd_m995.et" "{065A21D95CEAC496}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_HP_B_30rnd_m995.et" "{065A21D95CEAC496}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_HP_B_30rnd_m995.et" "{065A21D95CEAC496}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_HP_B_30rnd_m995.et"
+     }
+    }
+    ItemsInitConfigurationItem "{61CF39290AA31E45}" {
+     TargetStorage "Prefabs/Characters/Vests/Vest_CPC_NCPC_pouches/Pouch_NCPC_Radio_Base.et"
+     PrefabsToSpawn {
+      "{BAB50E5D149D64D9}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_prv.et"
+     }
+    }
+    ItemsInitConfigurationItem "{61CF3929C590B210}" {
+     PrefabsToSpawn {
+     }
+    }
+   }
+  }
+ }
+}
