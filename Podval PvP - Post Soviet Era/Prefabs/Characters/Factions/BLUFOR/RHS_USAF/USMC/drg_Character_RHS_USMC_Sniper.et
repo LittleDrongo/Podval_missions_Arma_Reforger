@@ -29,23 +29,23 @@ SCR_ChimeraCharacter : "{0714A1857E1FA15A}Prefabs/Characters/Factions/BLUFOR/RHS
     }
     ItemsInitConfigurationItem "{61CF392A9D967706}" {
      PrefabsToSpawn {
-      "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et" "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et"
+      "{0EC215F0EB3288A6}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_Base.et" "{0EC215F0EB3288A6}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_Base.et"
      }
     }
     ItemsInitConfigurationItem "{61CF392A9DAB3322}" {
      PrefabsToSpawn {
-      "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et" "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et"
+      "{0EC215F0EB3288A6}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_Base.et" "{0EC215F0EB3288A6}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_Base.et"
      }
     }
     ItemsInitConfigurationItem "{61CF392A9C184C9B}" {
      PrefabsToSpawn {
-      "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et" "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et"
+      "{0EC215F0EB3288A6}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_Base.et" "{0EC215F0EB3288A6}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_Base.et"
      }
     }
     ItemsInitConfigurationItem "{61CF39290AA31E45}" {
      TargetStorage "Prefabs/Items/Equipment/Backpacks/FILBE_hydration_pack.et"
      PrefabsToSpawn {
-      "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et" "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et" "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et" "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et" "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et" "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et" "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et" "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et" "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et" "{925F3A6F7FE0DE64}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_M61AP.et" "{E8F00BF730225B00}Prefabs/Weapons/Grenades/Grenade_M67.et" "{E8F00BF730225B00}Prefabs/Weapons/Grenades/Grenade_M67.et" "{14C1A0F061D9DDEE}Prefabs/Weapons/Grenades/M18/Smoke_M18_Violet.et" "{14C1A0F061D9DDEE}Prefabs/Weapons/Grenades/M18/Smoke_M18_Violet.et" "{9BBDEE253A16CC66}Prefabs/Weapons/Grenades/M18/Smoke_M18_Yellow.et" "{9BBDEE253A16CC66}Prefabs/Weapons/Grenades/M18/Smoke_M18_Yellow.et" "{8FF49793853DB2F9}Prefabs/Weapons/Magazines/m17_magazines/Magazine_9x19_m17_17rnd.et" "{8FF49793853DB2F9}Prefabs/Weapons/Magazines/m17_magazines/Magazine_9x19_m17_17rnd.et" "{3343A055A83CB30D}Prefabs/Weapons/Grenades/M18/Smoke_M18_Red.et" "{3343A055A83CB30D}Prefabs/Weapons/Grenades/M18/Smoke_M18_Red.et" "{8FF49793853DB2F9}Prefabs/Weapons/Magazines/m17_magazines/Magazine_9x19_m17_17rnd.et" "{8FF49793853DB2F9}Prefabs/Weapons/Magazines/m17_magazines/Magazine_9x19_m17_17rnd.et"
+      "{0EC215F0EB3288A6}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_Base.et" "{0EC215F0EB3288A6}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_Base.et" "{0EC215F0EB3288A6}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_Base.et" "{0EC215F0EB3288A6}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_Base.et" "{0EC215F0EB3288A6}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_Base.et" "{0EC215F0EB3288A6}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_Base.et" "{0EC215F0EB3288A6}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_Base.et" "{0EC215F0EB3288A6}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_Base.et" "{0EC215F0EB3288A6}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_Base.et" "{0EC215F0EB3288A6}Prefabs/Weapons/Magazines/Magazine_762x51_M40_5rnd_Base.et" "{E8F00BF730225B00}Prefabs/Weapons/Grenades/Grenade_M67.et" "{E8F00BF730225B00}Prefabs/Weapons/Grenades/Grenade_M67.et" "{14C1A0F061D9DDEE}Prefabs/Weapons/Grenades/M18/Smoke_M18_Violet.et" "{14C1A0F061D9DDEE}Prefabs/Weapons/Grenades/M18/Smoke_M18_Violet.et" "{9BBDEE253A16CC66}Prefabs/Weapons/Grenades/M18/Smoke_M18_Yellow.et" "{9BBDEE253A16CC66}Prefabs/Weapons/Grenades/M18/Smoke_M18_Yellow.et" "{8FF49793853DB2F9}Prefabs/Weapons/Magazines/m17_magazines/Magazine_9x19_m17_17rnd.et" "{8FF49793853DB2F9}Prefabs/Weapons/Magazines/m17_magazines/Magazine_9x19_m17_17rnd.et" "{3343A055A83CB30D}Prefabs/Weapons/Grenades/M18/Smoke_M18_Red.et" "{3343A055A83CB30D}Prefabs/Weapons/Grenades/M18/Smoke_M18_Red.et" "{8FF49793853DB2F9}Prefabs/Weapons/Magazines/m17_magazines/Magazine_9x19_m17_17rnd.et" "{8FF49793853DB2F9}Prefabs/Weapons/Magazines/m17_magazines/Magazine_9x19_m17_17rnd.et"
      }
     }
     ItemsInitConfigurationItem "{61CF3929C590B210}" {

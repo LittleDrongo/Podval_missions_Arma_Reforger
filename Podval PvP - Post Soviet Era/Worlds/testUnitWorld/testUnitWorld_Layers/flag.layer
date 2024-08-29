@@ -56,6 +56,9 @@ SCR_ChimeraCharacter : "{2F574F09DE8929B6}Prefabs/Characters/Factions/OPFOR/RHS_
 GenericEntity : "{34A562D30B1CFFEB}Prefabs/Characters/Vests/Vest_TV110_Pouches/Minimap_ArsArma_GMR_FG.et" {
  coords 101.527 1.58 220.882
 }
+SCR_ChimeraCharacter : "{36B0CA48D7FD33BA}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_Sniper.et" {
+ coords 77.278 1 253.6
+}
 GenericEntity : "{37FF769500E5C13C}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V2_FIA.et" {
  coords 78.493 1 219.765
 }
@@ -78,6 +81,9 @@ $grp SCR_ChimeraCharacter : "{603FD375309404CC}Prefabs/Characters/Factions/BLUFO
  {
   coords 83.094 1 242.034
  }
+}
+SCR_ChimeraCharacter : "{605823C66FDBC721}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_AR.et" {
+ coords 76.258 1 254.442
 }
 SCR_ChimeraCharacter : "{684303D826330DDB}Prefabs/Characters/Factions/INDFOR/TKR/mg_variants/Character_TKR_MG.et" {
  coords 96.96 1 247.51
