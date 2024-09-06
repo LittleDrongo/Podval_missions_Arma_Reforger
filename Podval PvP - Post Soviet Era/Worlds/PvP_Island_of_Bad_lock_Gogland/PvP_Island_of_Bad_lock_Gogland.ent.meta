@@ -1,0 +1,19 @@
+MetaFileClass {
+ Name "{43D4551A942173D4}Worlds/PvP_Island_of_Bad_lock_Gogland/PvP_Island_of_Bad_lock_Gogland.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass PS5 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+  ENTResourceClass Xbox : PC {
+  }
+ }
+}

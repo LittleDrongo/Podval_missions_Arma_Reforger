@@ -1,0 +1,388 @@
+$grp GenericEntity : "{2B1D0128ED660BE9}Prefabs/Props/Crates/BoxWooden_01.et" {
+ {
+  coords 1248.425 3.163 4977.67
+  angleY -56.486
+  {
+   $grp GenericEntity : "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et" {
+    {
+     coords 0.043 0.139 0.117
+     angleX 33.357
+     angleY 87.831
+     angleZ -12.71
+    }
+    {
+     coords 0.046 0.139 0.036
+     angleX 33.357
+     angleY 87.831
+     angleZ 0.002
+    }
+    {
+     coords 0.043 0.149 -0.061
+     angleX 33.357
+     angleY 87.831
+     angleZ -25.529
+    }
+    {
+     coords 0.052 0.139 -0.116
+     angleX 33.357
+     angleY 87.831
+     angleZ 8.417
+    }
+   }
+  }
+ }
+ {
+  coords 1247.921 3.163 4978.144
+  angleY -148.472
+  angleZ -0
+  {
+   $grp GenericEntity : "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et" {
+    {
+     coords 0.046 0.139 0.036
+     angleX 33.357
+     angleY 87.831
+     angleZ 0.002
+    }
+    {
+     coords 0.043 0.149 -0.061
+     angleX 33.357
+     angleY 87.831
+     angleZ -25.529
+    }
+    {
+     coords 0.052 0.139 -0.116
+     angleX 33.357
+     angleY 87.831
+     angleZ 8.417
+    }
+    {
+     coords 0.043 0.139 0.117
+     angleX 33.357
+     angleY 87.831
+     angleZ -12.71
+    }
+   }
+  }
+ }
+ {
+  coords 1248.084 3.163 4977.312
+  angleY -145.413
+  {
+   $grp GenericEntity : "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et" {
+    {
+     coords 0.046 0.139 0.036
+     angleX 33.357
+     angleY 87.831
+     angleZ 0.002
+    }
+    {
+     coords 0.043 0.149 -0.061
+     angleX 33.357
+     angleY 87.831
+     angleZ -25.529
+    }
+    {
+     coords 0.052 0.139 -0.116
+     angleX 33.357
+     angleY 87.831
+     angleZ 8.417
+    }
+    {
+     coords 0.043 0.139 0.117
+     angleX 33.357
+     angleY 87.831
+     angleZ -12.71
+    }
+   }
+  }
+ }
+ {
+  coords 1247.769 3.163 4976.85
+  angleY -145.413
+  {
+   $grp GenericEntity : "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et" {
+    {
+     coords 0.046 0.139 0.036
+     angleX 33.357
+     angleY 87.831
+     angleZ 0.002
+    }
+    {
+     coords 0.043 0.149 -0.061
+     angleX 33.357
+     angleY 87.831
+     angleZ -25.529
+    }
+    {
+     coords 0.052 0.139 -0.116
+     angleX 33.357
+     angleY 87.831
+     angleZ 8.417
+    }
+    {
+     coords 0.043 0.139 0.117
+     angleX 33.357
+     angleY 87.831
+     angleZ -12.71
+    }
+   }
+  }
+ }
+ {
+  coords 1247.173 3.163 4977.323
+  angleY 38.257
+  {
+   $grp GenericEntity : "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et" {
+    {
+     coords 0.046 0.139 0.036
+     angleX 33.357
+     angleY 87.831
+     angleZ 0.002
+    }
+    {
+     coords 0.043 0.149 -0.061
+     angleX 33.357
+     angleY 87.831
+     angleZ -25.529
+    }
+    {
+     coords 0.052 0.139 -0.116
+     angleX 33.357
+     angleY 87.831
+     angleZ 8.417
+    }
+    {
+     coords 0.043 0.139 0.117
+     angleX 33.357
+     angleY 87.831
+     angleZ -12.71
+    }
+   }
+  }
+ }
+ {
+  coords 1247.506 3.163 4977.726
+  angleY 40.975
+  {
+   $grp GenericEntity : "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et" {
+    {
+     coords 0.046 0.139 0.036
+     angleX 33.357
+     angleY 87.831
+     angleZ 0.002
+    }
+    {
+     coords 0.043 0.149 -0.061
+     angleX 33.357
+     angleY 87.831
+     angleZ -25.529
+    }
+    {
+     coords 0.052 0.139 -0.116
+     angleX 33.357
+     angleY 87.831
+     angleZ 8.417
+    }
+    {
+     coords 0.043 0.139 0.117
+     angleX 33.357
+     angleY 87.831
+     angleZ -12.71
+    }
+   }
+  }
+ }
+ {
+  coords 1244.905 3.163 4979.733
+  angleY 40.975
+  {
+   $grp GenericEntity : "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et" {
+    {
+     coords 0.046 0.139 0.036
+     angleX 33.357
+     angleY 87.831
+     angleZ 0.002
+    }
+    {
+     coords 0.043 0.149 -0.061
+     angleX 33.357
+     angleY 87.831
+     angleZ -25.529
+    }
+    {
+     coords 0.052 0.139 -0.116
+     angleX 33.357
+     angleY 87.831
+     angleZ 8.417
+    }
+    {
+     coords 0.043 0.139 0.117
+     angleX 33.357
+     angleY 87.831
+     angleZ -12.71
+    }
+   }
+  }
+ }
+ {
+  coords 1245.824 3.163 4979.677
+  angleY -56.486
+  {
+   $grp GenericEntity : "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et" {
+    {
+     coords 0.046 0.139 0.036
+     angleX 33.357
+     angleY 87.831
+     angleZ 0.002
+    }
+    {
+     coords 0.043 0.149 -0.061
+     angleX 33.357
+     angleY 87.831
+     angleZ -25.529
+    }
+    {
+     coords 0.052 0.139 -0.116
+     angleX 33.357
+     angleY 87.831
+     angleZ 8.417
+    }
+    {
+     coords 0.043 0.139 0.117
+     angleX 33.357
+     angleY 87.831
+     angleZ -12.71
+    }
+   }
+  }
+ }
+ {
+  coords 1245.32 3.163 4980.151
+  angleY -148.472
+  angleZ -0
+  {
+   $grp GenericEntity : "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et" {
+    {
+     coords 0.046 0.139 0.036
+     angleX 33.357
+     angleY 87.831
+     angleZ 0.002
+    }
+    {
+     coords 0.043 0.149 -0.061
+     angleX 33.357
+     angleY 87.831
+     angleZ -25.529
+    }
+    {
+     coords 0.052 0.139 -0.116
+     angleX 33.357
+     angleY 87.831
+     angleZ 8.417
+    }
+    {
+     coords 0.043 0.139 0.117
+     angleX 33.357
+     angleY 87.831
+     angleZ -12.71
+    }
+   }
+  }
+ }
+ {
+  coords 1245.483 3.153 4979.315
+  angleY -145.413
+  {
+   $grp GenericEntity : "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et" {
+    {
+     coords 0.046 0.139 0.036
+     angleX 33.357
+     angleY 87.831
+     angleZ 0.002
+    }
+    {
+     coords 0.043 0.149 -0.061
+     angleX 33.357
+     angleY 87.831
+     angleZ -25.529
+    }
+    {
+     coords 0.052 0.139 -0.116
+     angleX 33.357
+     angleY 87.831
+     angleZ 8.417
+    }
+    {
+     coords 0.043 0.139 0.117
+     angleX 33.357
+     angleY 87.831
+     angleZ -12.71
+    }
+   }
+  }
+ }
+ {
+  coords 1245.168 3.163 4978.855
+  angleY -145.413
+  {
+   $grp GenericEntity : "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et" {
+    {
+     coords 0.046 0.139 0.036
+     angleX 33.357
+     angleY 87.831
+     angleZ 0.002
+    }
+    {
+     coords 0.043 0.149 -0.061
+     angleX 33.357
+     angleY 87.831
+     angleZ -25.529
+    }
+    {
+     coords 0.052 0.139 -0.116
+     angleX 33.357
+     angleY 87.831
+     angleZ 8.417
+    }
+    {
+     coords 0.043 0.139 0.117
+     angleX 33.357
+     angleY 87.831
+     angleZ -12.71
+    }
+   }
+  }
+ }
+ {
+  coords 1244.572 3.163 4979.328
+  angleY 38.257
+  {
+   $grp GenericEntity : "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et" {
+    {
+     coords 0.046 0.139 0.036
+     angleX 33.357
+     angleY 87.831
+     angleZ 0.002
+    }
+    {
+     coords 0.043 0.149 -0.061
+     angleX 33.357
+     angleY 87.831
+     angleZ -25.529
+    }
+    {
+     coords 0.052 0.139 -0.116
+     angleX 33.357
+     angleY 87.831
+     angleZ 8.417
+    }
+    {
+     coords 0.043 0.139 0.117
+     angleX 33.357
+     angleY 87.831
+     angleZ -12.71
+    }
+   }
+  }
+ }
+}

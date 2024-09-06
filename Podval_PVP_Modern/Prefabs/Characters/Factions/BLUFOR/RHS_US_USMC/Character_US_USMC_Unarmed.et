@@ -1,8 +1,0 @@
-SCR_ChimeraCharacter : "{D774AFD56F8E7B1F}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC/Character_US_USMC_Base.et" {
- ID "520EC961A090BBD5"
- components {
-  PS_PlayableComponent "{5ECA9419B409A493}" {
-   m_name "#AR-Role_Unarmed"
-  }
- }
-}
