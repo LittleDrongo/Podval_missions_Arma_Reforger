@@ -12,7 +12,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_BTR70_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKA" "Ses_TKR"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKA" "Ses_TKR"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -33,7 +33,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_BTR70_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKA" "Ses_TKR"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKA" "Ses_TKR"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -54,7 +54,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_BTR70_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKA" "Ses_TKR"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKA" "Ses_TKR"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -75,7 +75,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_BTR70_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKA" "Ses_TKR"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKA" "Ses_TKR"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -94,7 +94,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_BTR70_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKA" "Ses_TKR"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKA" "Ses_TKR"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -115,7 +115,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_BTR70_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKA" "Ses_TKR"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKA" "Ses_TKR"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -133,7 +133,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Атлас Ред 1"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKA" "Ses_TKR"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKA" "Ses_TKR"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -150,7 +150,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Блэйзер Ред 1"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKA" "Ses_TKR"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKA" "Ses_TKR"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -167,7 +167,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Блэйзер Ред 2"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKA" "Ses_TKR"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKA" "Ses_TKR"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -184,7 +184,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Блэйзер Ред 3"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKA" "Ses_TKR"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKA" "Ses_TKR"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -201,7 +201,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Блэйзер Ред 4"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKA" "Ses_TKR"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKA" "Ses_TKR"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -218,7 +218,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Хаос Ред 4"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKA" "Ses_TKR"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKA" "Ses_TKR"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -235,7 +235,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Хаос Ред 3"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKA" "Ses_TKR"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKA" "Ses_TKR"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -252,7 +252,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Хаос Ред 2"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKA" "Ses_TKR"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKA" "Ses_TKR"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -269,7 +269,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Хаос Ред 1"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKA" "Ses_TKR"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKA" "Ses_TKR"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -293,7 +293,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   }
   m_iZOrder 0
  }
- RHS_RF_MSV_G_001_M {
+ RHS_AFRF_G_001_M {
   coords 3606.155 333.945 7003.052
   m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
   m_sImageSetGlow ""
@@ -303,14 +303,14 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Актив-12"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKR" "Ses_TKA"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKR" "Ses_TKA"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
  }
- RHS_RF_MSV_G_002_M {
+ RHS_AFRF_G_002_M {
   coords 3608.118 334.006 7000.691
   m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
   m_sImageSetGlow ""
@@ -320,14 +320,14 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Актив-13"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKR" "Ses_TKA"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKR" "Ses_TKA"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
  }
- RHS_RF_MSV_G_003_M {
+ RHS_AFRF_G_003_M {
   coords 3610.213 334.031 6998.147
   m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
   m_sImageSetGlow ""
@@ -337,14 +337,14 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Актив-14"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKR" "Ses_TKA"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKR" "Ses_TKA"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
  }
- RHS_RF_MSV_G_004_M {
+ RHS_AFRF_G_004_M {
   coords 3612.757 334.084 6995.566
   m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
   m_sImageSetGlow ""
@@ -354,14 +354,14 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Актив-14"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKR" "Ses_TKA"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKR" "Ses_TKA"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
  }
- RHS_RF_MSV_G_000_M {
+ RHS_AFRF_G_000_M {
   coords 3590.13 334 7001.525
   m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
   m_sImageSetGlow ""
@@ -371,7 +371,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Актив-11"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKR" "Ses_TKA"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKR" "Ses_TKA"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -389,7 +389,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_Ural4320_Engineer_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC" "Ses_TKA" "Ses_TKR"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF" "Ses_TKA" "Ses_TKR"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {

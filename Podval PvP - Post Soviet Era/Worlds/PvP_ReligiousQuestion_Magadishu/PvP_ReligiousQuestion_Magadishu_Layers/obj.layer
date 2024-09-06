@@ -23,7 +23,7 @@ $grp PS_Objective {
   coords 2825.303 14.726 2644.573
   m_sTitle "Зачистить район"
   m_iScore 75
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
  {
   components {
@@ -49,6 +49,6 @@ $grp PS_Objective {
   coords 2848.511 17.46 2636.997
   m_sTitle "Главарь убит"
   m_iScore 25
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
 }

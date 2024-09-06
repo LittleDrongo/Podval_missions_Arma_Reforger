@@ -1,4 +1,4 @@
-SCR_AIGroup : "{7C5FD1ED23CD3460}Prefabs/Groups/BLUFOR/RHS_US_USMC_D/Group_US_USMC_RifleSquad_D.et" {
+SCR_AIGroup : "{7C5FD1ED23CD3460}Prefabs/Groups/BLUFOR/RHS_USAF_D/Group_US_USMC_RifleSquad_D.et" {
  coords 2874.793 383.714 721.484
  angleY -6.034
  m_faction "drg_PMC_EC"

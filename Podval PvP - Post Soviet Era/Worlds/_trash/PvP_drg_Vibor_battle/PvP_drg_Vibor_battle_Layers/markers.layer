@@ -16,7 +16,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Актив, Буран"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+   "RHS_USAF" "RHS_AFRF" "FIA"
   }
   m_bVisibleForEmptyFaction 1
  }
@@ -29,7 +29,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Административное здание"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+   "RHS_USAF" "RHS_AFRF" "FIA"
   }
   m_bVisibleForEmptyFaction 1
  }
@@ -41,7 +41,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_fWorldSize 35
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+   "RHS_USAF" "RHS_AFRF" "FIA"
   }
   m_bVisibleForEmptyFaction 1
  }
@@ -54,7 +54,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Штаб гарнизона"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+   "RHS_USAF" "RHS_AFRF" "FIA"
   }
   m_bVisibleForEmptyFaction 1
  }
@@ -67,7 +67,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Динамо"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+   "RHS_USAF" "RHS_AFRF" "FIA"
   }
   m_bVisibleForEmptyFaction 1
  }

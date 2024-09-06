@@ -29,7 +29,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "#PS-Description_HeaderUS"
   m_sTextData "Нам нужно эвакуировать секретный ящик за синюю линию (не менее 50 метров)"
   m_aVisibleForFactions {
-   "RHS_US_USMC"
+   "RHS_USAF"
   }
  }
  Ses_TKG {

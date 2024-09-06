@@ -8,7 +8,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Казармы (25)"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+   "RHS_USAF" "RHS_AFRF" "FIA"
   }
   m_bVisibleForEmptyFaction 1
   m_bShowForAnyFaction 1
@@ -22,7 +22,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Окопы (25)"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+   "RHS_USAF" "RHS_AFRF" "FIA"
   }
   m_bVisibleForEmptyFaction 1
   m_bShowForAnyFaction 1
@@ -36,7 +36,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Вышка северная (25)"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+   "RHS_USAF" "RHS_AFRF" "FIA"
   }
   m_bVisibleForEmptyFaction 1
   m_bShowForAnyFaction 1
@@ -50,7 +50,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Вышка южная (25)"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+   "RHS_USAF" "RHS_AFRF" "FIA"
   }
   m_bVisibleForEmptyFaction 1
   m_bShowForAnyFaction 1

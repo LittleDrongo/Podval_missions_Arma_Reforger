@@ -9,7 +9,7 @@ $grp PolylineShapeEntity {
     m_fPolygonBorderWidth 5
     m_bReversed 1
     m_aVisibleForFactions {
-     "RHS_RF_MSV" "RHS_US_USMC" ""
+     "RHS_AFRF" "RHS_USAF" ""
     }
    }
   }
@@ -410,7 +410,7 @@ $grp PolylineShapeEntity {
     m_cPolygonColor 1 1 1 0
     m_cPolygonBorderColor 1 1 1 0
     m_aVisibleForFactions {
-     "RHS_RF_MSV" "RHS_US_USMC" "" ""
+     "RHS_AFRF" "RHS_USAF" "" ""
     }
    }
   }
@@ -559,7 +559,7 @@ $grp PolylineShapeEntity {
     m_fPolygonBorderWidth 5
     m_bLineMode 1
     m_aVisibleForFactions {
-     "RHS_RF_MSV" "RHS_US_USMC" "" ""
+     "RHS_AFRF" "RHS_USAF" "" ""
     }
    }
   }

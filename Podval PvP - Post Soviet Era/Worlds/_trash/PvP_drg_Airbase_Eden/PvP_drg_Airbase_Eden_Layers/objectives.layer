@@ -23,7 +23,7 @@ $grp PolylineShapeEntity : "{127D357736B0C350}Prefabs/PolyZone/PolyZone_Destroy.
     ID "60E9062E6BABF763"
     m_sTitle "Уничтожить Ми-8"
     m_iScore 10
-    m_sFactionKey "RHS_US_USMC"
+    m_sFactionKey "RHS_USAF"
    }
    PS_PolyZoneObjectiveTriggerDestroy {
     ID "60E9062E6BABF765"
@@ -61,7 +61,7 @@ $grp PolylineShapeEntity : "{127D357736B0C350}Prefabs/PolyZone/PolyZone_Destroy.
     ID "60E9062E6BABF763"
     m_sTitle "Уничтожить Ми-8"
     m_iScore 10
-    m_sFactionKey "RHS_US_USMC"
+    m_sFactionKey "RHS_USAF"
    }
    PS_PolyZoneObjectiveTriggerDestroy {
     ID "60E9062E6BABF765"
@@ -99,7 +99,7 @@ $grp PolylineShapeEntity : "{127D357736B0C350}Prefabs/PolyZone/PolyZone_Destroy.
     ID "60E9062E6BABF763"
     m_sTitle "Уничтожить Ми-8"
     m_iScore 10
-    m_sFactionKey "RHS_US_USMC"
+    m_sFactionKey "RHS_USAF"
    }
    PS_PolyZoneObjectiveTriggerDestroy {
     ID "60E9062E6BABF765"
@@ -137,7 +137,7 @@ $grp PolylineShapeEntity : "{127D357736B0C350}Prefabs/PolyZone/PolyZone_Destroy.
     ID "60E9062E6BABF763"
     m_sTitle "Уничтожить Ми-8"
     m_iScore 10
-    m_sFactionKey "RHS_US_USMC"
+    m_sFactionKey "RHS_USAF"
    }
    PS_PolyZoneObjectiveTriggerDestroy {
     ID "60E9062E6BABF765"
@@ -175,7 +175,7 @@ $grp PolylineShapeEntity : "{127D357736B0C350}Prefabs/PolyZone/PolyZone_Destroy.
     ID "60E9062E6BABF763"
     m_sTitle "Уничтожить Ми-8"
     m_iScore 10
-    m_sFactionKey "RHS_US_USMC"
+    m_sFactionKey "RHS_USAF"
    }
    PS_PolyZoneObjectiveTriggerDestroy {
     ID "60E9062E6BABF765"
@@ -213,7 +213,7 @@ $grp PolylineShapeEntity : "{127D357736B0C350}Prefabs/PolyZone/PolyZone_Destroy.
     ID "60E9062E6BABF763"
     m_sTitle "Уничтожить Ми-8"
     m_iScore 10
-    m_sFactionKey "RHS_US_USMC"
+    m_sFactionKey "RHS_USAF"
    }
    PS_PolyZoneObjectiveTriggerDestroy {
     ID "60E9062E6BABF765"
@@ -251,7 +251,7 @@ $grp PolylineShapeEntity : "{127D357736B0C350}Prefabs/PolyZone/PolyZone_Destroy.
     ID "60E9062E6BABF763"
     m_sTitle "Уничтожить Ми-8"
     m_iScore 10
-    m_sFactionKey "RHS_US_USMC"
+    m_sFactionKey "RHS_USAF"
    }
    PS_PolyZoneObjectiveTriggerDestroy {
     ID "60E9062E6BABF765"
@@ -289,7 +289,7 @@ $grp PolylineShapeEntity : "{127D357736B0C350}Prefabs/PolyZone/PolyZone_Destroy.
     ID "60E9062E6BABF763"
     m_sTitle "Уничтожить Ми-8"
     m_iScore 10
-    m_sFactionKey "RHS_US_USMC"
+    m_sFactionKey "RHS_USAF"
    }
    PS_PolyZoneObjectiveTriggerDestroy {
     ID "60E9062E6BABF765"
@@ -327,7 +327,7 @@ $grp PolylineShapeEntity : "{127D357736B0C350}Prefabs/PolyZone/PolyZone_Destroy.
     ID "60E9062E6BABF763"
     m_sTitle "Уничтожить все цели"
     m_iScore 0
-    m_sFactionKey "RHS_US_USMC"
+    m_sFactionKey "RHS_USAF"
     m_bAdvanceWhenTriggered 1
    }
    PS_PolyZoneObjectiveTriggerDestroy {

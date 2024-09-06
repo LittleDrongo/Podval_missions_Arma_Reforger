@@ -36,7 +36,7 @@ $grp Vehicle : "{2DC4DFC25370A088}Prefabs/Vehicles/Wheeled/TIGR/GAZ_TIGR_PKM_Gre
   angleY -60.623
  }
 }
-$grp SCR_AIGroup : "{5EC52DC5123AA81D}Prefabs/Groups/OPFOR/RHS_RF_MSV/SSO/Group_SSO_Team.et" {
+$grp SCR_AIGroup : "{5EC52DC5123AA81D}Prefabs/Groups/OPFOR/RHS_AFRF/SSO/Group_SSO_Team.et" {
  {
   components {
    PS_GroupCallsignAssigner "{60D4D4642ABDDE8E}" {
@@ -155,7 +155,7 @@ $grp SCR_AIGroup : "{5EC52DC5123AA81D}Prefabs/Groups/OPFOR/RHS_RF_MSV/SSO/Group_
   }
  }
 }
-SCR_AIGroup : "{B139845AC443632B}Prefabs/Groups/OPFOR/RHS_RF_MSV/SSO/Group_SSO_HQ.et" {
+SCR_AIGroup : "{B139845AC443632B}Prefabs/Groups/OPFOR/RHS_AFRF/SSO/Group_SSO_HQ.et" {
  coords 2012.361 17.45 1974.057
  angleY 27.52
  m_aUnitPrefabSlots {

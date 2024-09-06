@@ -23,7 +23,7 @@ $grp PS_Objective {
   coords 1493.092 1.913 1520.475
   m_sTitle "Ящик эвакуирован"
   m_iScore 75
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
  {
   components {
@@ -49,6 +49,6 @@ $grp PS_Objective {
   coords 1644.684 2 1778.425
   m_sTitle "Командир роты жив"
   m_iScore 25
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
 }

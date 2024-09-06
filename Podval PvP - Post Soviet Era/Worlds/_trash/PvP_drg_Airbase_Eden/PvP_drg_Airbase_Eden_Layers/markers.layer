@@ -6,7 +6,7 @@ PS_ManualMarker attack2 : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMar
  m_fWorldSize 35
  m_bUseWorldScale 0
  m_aVisibleForFactions {
-  "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+  "RHS_USAF" "RHS_AFRF" "FIA"
  }
  m_bVisibleForEmptyFaction 1
 }

@@ -3076,7 +3076,7 @@ PS_ManualMarker Def5 : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
  m_sDescription "Окопы"
  m_bUseWorldScale 0
  m_aVisibleForFactions {
-  "RHS_RF_MSV"
+  "RHS_AFRF"
  }
 }
 $grp StaticModelEntity : "{D4177594212A056F}Prefabs/Props/Military/Sandbags/Sandbag_01_bunker_plastic_foundation.et" {

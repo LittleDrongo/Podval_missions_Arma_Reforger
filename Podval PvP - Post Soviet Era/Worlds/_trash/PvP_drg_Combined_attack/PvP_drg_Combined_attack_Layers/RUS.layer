@@ -1,4 +1,4 @@
-$grp SCR_AIGroup : "{218445F83827D92B}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_RifleSquad.et" {
+$grp SCR_AIGroup : "{218445F83827D92B}Prefabs/Groups/OPFOR/RHS_AFRF/EMR/Group_MSV_EMR_RifleSquad.et" {
  RFFORCE_1 {
   components {
    PS_GroupCallsignAssigner "{6048E3A2E620DF54}" {
@@ -8,7 +8,7 @@ $grp SCR_AIGroup : "{218445F83827D92B}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_
   coords 4929.958 172.15 13038.886
   angleY -178.267
   m_aUnitPrefabSlots {
-   "{F7375648A51D8C6B}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SL.et" "{8A2FBAB0C08EB0F2}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SR.et" "{C8A8794DF9D63A9B}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_MG.et" "{A93CAF0D53E93908}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AMG.et" "{4217CE96EE103024}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AT.et" "{238318D6442F33B7}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AAT.et" "{3F9035365250E44E}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Rifleman_GL.et" "{0C2053BEACC389D2}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_SniperSVD.et"
+   "{F7375648A51D8C6B}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Character_RF_MSV_EMR_SL.et" "{8A2FBAB0C08EB0F2}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Character_RF_MSV_EMR_SR.et" "{C8A8794DF9D63A9B}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Character_RF_MSV_EMR_MG.et" "{A93CAF0D53E93908}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Character_RF_MSV_EMR_AMG.et" "{4217CE96EE103024}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Character_RF_MSV_EMR_AT.et" "{238318D6442F33B7}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Character_RF_MSV_EMR_AAT.et" "{3F9035365250E44E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Character_RF_MSV_EMR_Rifleman_GL.et" "{0C2053BEACC389D2}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Character_RF_MSV_EMR_SniperSVD.et"
   }
   m_bDeleteWhenEmpty 0
  }
@@ -40,11 +40,11 @@ Vehicle GAZ_TIGR_PKM_Green1 : "{2DC4DFC25370A088}Prefabs/Vehicles/Wheeled/TIGR/G
  angleX 0.895
  angleY 0
 }
-$grp SCR_AIGroup : "{407ABD5B1CBB7AD9}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_PlatoonSquad.et" {
+$grp SCR_AIGroup : "{407ABD5B1CBB7AD9}Prefabs/Groups/OPFOR/RHS_AFRF/EMR/Group_MSV_EMR_PlatoonSquad.et" {
  RFFORCE_5 {
   coords 4994.904 170.878 13004.179
   m_aUnitPrefabSlots {
-   "{A14976FE29316F1D}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_CL.et"
+   "{A14976FE29316F1D}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Character_RF_MSV_EMR_CL.et"
   }
   m_bDeleteWhenEmpty 0
  }

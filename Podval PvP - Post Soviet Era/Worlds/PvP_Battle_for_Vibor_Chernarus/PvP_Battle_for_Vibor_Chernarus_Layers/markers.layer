@@ -8,7 +8,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Административное здание"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "FIA"
+   "Ses_CDF" "RHS_AFRF" "FIA"
   }
   m_bVisibleForEmptyFaction 1
  }
@@ -21,7 +21,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Штаб гарнизона"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "FIA"
+   "Ses_CDF" "RHS_AFRF" "FIA"
   }
   m_bVisibleForEmptyFaction 1
  }

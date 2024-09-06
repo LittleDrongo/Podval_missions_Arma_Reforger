@@ -17,7 +17,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "— 2. Нанести серьёзный урон ВС РФ. "\
   ""
   m_aVisibleForFactions {
-   "RHS_US_USMC" "drg_GTF"
+   "RHS_USAF" "drg_GTF"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -41,12 +41,12 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
    "drg_GTF"
   }
  }
- RHS_US_USMC {
+ RHS_USAF {
   coords 5626.204 38.464 10536.691
   m_sTitle "#DRG-Description_HeaderCDF"
   m_sTextData "Удержать контроль над городом Выбор."
   m_aVisibleForFactions {
-   "RHS_US_USMC"
+   "RHS_USAF"
   }
  }
  ABOUT {
@@ -54,7 +54,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "#PS-Description_HeaderAboutMission"
   m_sTextData "Бой за контроль города Выбор."
   m_aVisibleForFactions {
-   "RHS_US_USMC" "drg_GTF"
+   "RHS_USAF" "drg_GTF"
   }
   m_bEmptyFactionVisibility 1
  }

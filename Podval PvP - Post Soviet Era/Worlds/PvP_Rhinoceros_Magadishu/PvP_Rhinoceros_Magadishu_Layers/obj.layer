@@ -62,7 +62,7 @@ $grp PS_Objective {
   coords 1493.092 1.913 1520.475
   m_sTitle "Удержать южную вышку"
   m_iScore 25
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
  {
   components {
@@ -75,7 +75,7 @@ $grp PS_Objective {
   coords 4764.004 179.231 12360.784
   m_sTitle "Удержать окопы"
   m_iScore 25
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
  {
   components {
@@ -88,7 +88,7 @@ $grp PS_Objective {
   coords 1361.511 -0.087 1321.095
   m_sTitle "Удержать казармы"
   m_iScore 25
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
  {
   components {
@@ -101,6 +101,6 @@ $grp PS_Objective {
   coords 1351.485 -0.087 1301.034
   m_sTitle "Удержать северную вышку"
   m_iScore 25
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
 }

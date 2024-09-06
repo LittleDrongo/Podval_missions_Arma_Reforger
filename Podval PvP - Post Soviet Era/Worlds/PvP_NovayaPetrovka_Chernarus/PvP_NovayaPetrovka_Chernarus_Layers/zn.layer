@@ -8,7 +8,7 @@ PolylineShapeEntity {
    m_fPolygonBorderWidth 5
    m_bReversed 1
    m_aVisibleForFactions {
-    "RHS_RF_MSV" "RHS_US_USMC" ""
+    "RHS_AFRF" "RHS_USAF" ""
    }
   }
  }

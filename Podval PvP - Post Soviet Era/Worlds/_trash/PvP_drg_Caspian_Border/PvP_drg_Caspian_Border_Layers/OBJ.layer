@@ -3,46 +3,46 @@ $grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
   coords 1609.265 14.084 1574.584
   m_iScore 25
   m_sTitle "Занять перекрёсток"
-  m_sFactionKey "RHS_RF_MSV"
+  m_sFactionKey "RHS_AFRF"
  }
  A_RF2 {
   coords 1825.696 2.382 1634.993
   m_iScore 50
   m_sTitle "Занять высоту"
-  m_sFactionKey "RHS_RF_MSV"
+  m_sFactionKey "RHS_AFRF"
  }
  A_RF3 {
   coords 1690.641 17.415 1465.989
   m_sTitle "Занять антенну"
-  m_sFactionKey "RHS_RF_MSV"
+  m_sFactionKey "RHS_AFRF"
  }
  A_RF4 {
   coords 1731.292 3.881 1731.397
   m_sTitle "Занять погран-переход"
-  m_sFactionKey "RHS_RF_MSV"
+  m_sFactionKey "RHS_AFRF"
  }
  A_RF5 {
   coords 1569.88 3.698 1507.787
   m_iScore 50
   m_sTitle "Ничья"
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
  A_RF6 {
   coords 1425.615 9.106 1481.058
   m_sTitle "Победа"
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
  A_RF7 {
   coords 1425.615 9.106 1481.058
   m_iScore 75
   m_sTitle "Незначительная победа"
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
  A_RF8 {
   coords 1622.525 10.578 1559.802
   m_iScore 0
   m_sTitle "Поражение"
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
 }
 $grp GenericEntity : "{E55FC02F8C1518A2}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V1_US.et" {

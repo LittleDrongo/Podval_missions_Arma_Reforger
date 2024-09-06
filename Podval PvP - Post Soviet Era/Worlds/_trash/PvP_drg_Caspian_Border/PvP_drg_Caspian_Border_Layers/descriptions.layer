@@ -32,7 +32,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "25 баллов   — Незначительное поражение ВС РФ"\
   "  0 баллов   — Поражение ВС РФ."
   m_aVisibleForFactions {
-   "RHS_US_USMC" "RHS_RF_MSV"
+   "RHS_USAF" "RHS_AFRF"
   }
   m_bEmptyFactionVisibility 1
   m_bShowForAnyFaction 1
@@ -73,7 +73,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "Таким образом мы может огнём и манёвром завоевать нужное кол-во ключевых точек для победы. Результаты нашей оценки зависит от успеха проведения операции."\
   ""
   m_aVisibleForFactions {
-   "RHS_RF_MSV"
+   "RHS_AFRF"
   }
  }
  USMC {
@@ -100,7 +100,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "Таким образом противник может огнём и манёвром завоевать нужное кол-во ключевых точек для победы. Резульаты нашей оценки зависит от успехов противника, а точнее от нашего противодействия им."\
   ""
   m_aVisibleForFactions {
-   "RHS_US_USMC"
+   "RHS_USAF"
   }
  }
  ABOUT {
@@ -109,7 +109,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTextData "Встречный бой за контрольные точки на Каспийской границе."\
   ""
   m_aVisibleForFactions {
-   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+   "RHS_USAF" "RHS_AFRF" "FIA"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -129,7 +129,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   "Так же информация пограничная полоса укрепелена противотанковыми сооружениями, преодалеть её на технике не возможно."
   m_aVisibleForFactions {
-   "RHS_RF_MSV"
+   "RHS_AFRF"
   }
  }
 }

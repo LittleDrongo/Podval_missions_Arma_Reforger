@@ -7,7 +7,7 @@ PolylineShapeEntity {
    m_cPolygonBorderColor 0.502 0 0 1
    m_fPolygonBorderWidth 6
    m_aVisibleForFactions {
-    "Ses_TKG" "RHS_US_USMC" ""
+    "Ses_TKG" "RHS_USAF" ""
    }
   }
  }

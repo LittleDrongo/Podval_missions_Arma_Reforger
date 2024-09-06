@@ -4,13 +4,13 @@ GenericEntity {
 GenericEntity : "{125B4AD05FC87ED1}Prefabs/Weapons/Rifles/M27IAR/Rifle_M27IAR_2_Drongo.et" {
  coords 134.5 1.469 149.905
 }
-SCR_ChimeraCharacter : "{1CF97224F5932103}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC/Character_US_USMC_Rifleman.et" {
+SCR_ChimeraCharacter : "{1CF97224F5932103}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/Character_US_USMC_Rifleman.et" {
  coords 133.933 1 148.042
 }
 GameEntity : "{465BDFBC7904A8FB}Prefabs/Characters/HeadGear/Helmet_LShZ/Helmet_LShZ_B_6m2_atacs_drg.et" {
  coords 142.918 1 158.468
 }
-SCR_AIGroup : "{5EC52DC5123AA81D}Prefabs/Groups/OPFOR/RHS_RF_MSV/SSO/Group_SSO_Team.et" {
+SCR_AIGroup : "{5EC52DC5123AA81D}Prefabs/Groups/OPFOR/RHS_AFRF/SSO/Group_SSO_Team.et" {
  components {
   PS_GroupCallsignAssigner "{60D4D4642ABDDE8E}" {
    m_iCompanyCallsign 3

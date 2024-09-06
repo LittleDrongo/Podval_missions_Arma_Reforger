@@ -8,7 +8,7 @@ PS_ManualMarker attack3 : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMar
  m_sDescription "Опорный пункт"
  m_bUseWorldScale 0
  m_aVisibleForFactions {
-  "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC"
+  "Ses_CDF" "RHS_AFRF" "RHS_USAF"
  }
  m_bVisibleForEmptyFaction 1
 }

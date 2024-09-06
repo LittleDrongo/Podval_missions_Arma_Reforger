@@ -3,30 +3,30 @@ $grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
   coords 1912.989 2.761 4525.801
   m_iScore 25
   m_sTitle "Эвакуировать 50 ящиков"
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
  {
   coords 1918.149 2.75 4544.303
   m_iScore 50
   m_sTitle "Разгромить противника"
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
  {
   coords 1915.443 2.75 4558.927
   m_iScore 50
   m_sTitle "Разгромить противника"
-  m_sFactionKey "RHS_RF_MSV"
+  m_sFactionKey "RHS_AFRF"
  }
  {
   coords 1918.323 3.474 4568.054
   m_iScore 50
   m_sTitle "Сорвать эвакуацию ящиков"
-  m_sFactionKey "RHS_RF_MSV"
+  m_sFactionKey "RHS_AFRF"
  }
  {
   coords 1945.839 2.761 4500.421
   m_iScore 75
   m_sTitle "Эвакуировать 100 ящиков"
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
 }

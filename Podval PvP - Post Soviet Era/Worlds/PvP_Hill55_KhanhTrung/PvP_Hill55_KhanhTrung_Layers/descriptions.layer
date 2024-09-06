@@ -18,7 +18,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_bEmptyFactionVisibility 1
   m_bShowForAnyFaction 1
  }
- RHS_US_USMC {
+ RHS_USAF {
   coords 5159.505 56.132 10322.095
   m_sTitle "#PS-Description_HeaderUS"
   m_sTextData "НАШИ ЗАДАЧИ:"\
@@ -26,7 +26,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   "p.s. возможно вас спасут подземные коммуникации."
   m_aVisibleForFactions {
-   "RHS_US_USMC"
+   "RHS_USAF"
   }
  }
  Ses_TKG {

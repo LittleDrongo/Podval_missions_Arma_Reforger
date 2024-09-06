@@ -9,7 +9,7 @@ $grp PolylineShapeEntity {
     m_fPolygonBorderWidth 5
     m_bReversed 1
     m_aVisibleForFactions {
-     "RHS_US_USMC" "RHS_RF_MSV" "" ""
+     "RHS_USAF" "RHS_AFRF" "" ""
     }
     m_aHideOnGameModeStates {
      6
@@ -119,7 +119,7 @@ $grp PolylineShapeEntity {
     m_cPolygonBorderColor 0.502 0 0 1
     m_fPolygonBorderWidth 5
     m_aVisibleForFactions {
-     "RHS_US_USMC" "RHS_RF_MSV" ""
+     "RHS_USAF" "RHS_AFRF" ""
     }
    }
   }
@@ -172,7 +172,7 @@ $grp PolylineShapeEntity {
     m_polyZoneEffect PS_PolyZoneEffectRestricted "{614548BC046ADB65}" {
      m_fKillTime 20
     }
-    m_sFactionKey "RHS_US_USMC"
+    m_sFactionKey "RHS_USAF"
    }
   }
  }

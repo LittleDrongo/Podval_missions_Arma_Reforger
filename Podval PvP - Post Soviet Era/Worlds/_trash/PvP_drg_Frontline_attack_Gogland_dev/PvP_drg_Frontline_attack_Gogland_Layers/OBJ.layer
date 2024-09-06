@@ -2,21 +2,21 @@ $grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
  {
   coords 6877.231 51.667 4338.621
   m_sTitle "Занять опорный пункт"
-  m_sFactionKey "RHS_RF_MSV"
+  m_sFactionKey "RHS_AFRF"
  }
  {
   coords 6800.49 40.146 4615.779
   m_sTitle "Разгромить противника"
-  m_sFactionKey "RHS_RF_MSV"
+  m_sFactionKey "RHS_AFRF"
  }
  {
   coords 6800.49 40.146 4615.779
   m_sTitle "Удержать опорный пункт"
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
  {
   coords 6723.749 28.625 4892.938
   m_sTitle "Разгромить противника"
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
 }

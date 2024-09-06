@@ -1,4 +1,4 @@
-$grp SCR_AIGroup : "{218445F83827D92B}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_RifleSquad.et" {
+$grp SCR_AIGroup : "{218445F83827D92B}Prefabs/Groups/OPFOR/RHS_AFRF/EMR/Group_MSV_EMR_RifleSquad.et" {
  {
   components {
    PS_GroupCallsignAssigner "{6048E3A2E620DF54}" {
@@ -50,7 +50,7 @@ $grp SCR_AIGroup : "{218445F83827D92B}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_
   angleY -13.103
  }
 }
-$grp SCR_AIGroup : "{407ABD5B1CBB7AD9}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_PlatoonSquad.et" {
+$grp SCR_AIGroup : "{407ABD5B1CBB7AD9}Prefabs/Groups/OPFOR/RHS_AFRF/EMR/Group_MSV_EMR_PlatoonSquad.et" {
  {
   components {
    PS_GroupCallsignAssigner "{6048E3A0897E61F5}" {
@@ -60,14 +60,14 @@ $grp SCR_AIGroup : "{407ABD5B1CBB7AD9}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_
   coords 2910.714 331.713 7321.903
   angleY -66.047
   m_aUnitPrefabSlots {
-   "{C6D303918A841EE7}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_PL.et" "{A6D630CBAF1A6A10}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Medic.et"
+   "{C6D303918A841EE7}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Character_RF_MSV_EMR_PL.et" "{A6D630CBAF1A6A10}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Character_RF_MSV_EMR_Medic.et"
   }
  }
  {
   coords 2910.785 331.625 7311.81
   angleY -73.406
   m_aUnitPrefabSlots {
-   "{A14976FE29316F1D}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_CL.et"
+   "{A14976FE29316F1D}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Character_RF_MSV_EMR_CL.et"
   }
  }
  {
@@ -79,7 +79,7 @@ $grp SCR_AIGroup : "{407ABD5B1CBB7AD9}Prefabs/Groups/OPFOR/RHS_RF_MSV/EMR/Group_
   coords 2720.862 364.292 6790.208
   angleY -66.047
   m_aUnitPrefabSlots {
-   "{C6D303918A841EE7}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_PL.et" "{A6D630CBAF1A6A10}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Medic.et"
+   "{C6D303918A841EE7}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Character_RF_MSV_EMR_PL.et" "{A6D630CBAF1A6A10}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Character_RF_MSV_EMR_Medic.et"
   }
  }
 }

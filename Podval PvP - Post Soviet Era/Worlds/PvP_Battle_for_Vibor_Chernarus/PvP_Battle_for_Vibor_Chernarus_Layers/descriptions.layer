@@ -25,7 +25,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   ""
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV"
+   "Ses_CDF" "RHS_AFRF"
   }
   m_bEmptyFactionVisibility 1
   m_bShowForAnyFaction 1
@@ -35,7 +35,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "#PS-Description_HeaderFIA"
   m_sTextData "Удержать контроль над городом Выбор."
   m_aVisibleForFactions {
-   "RHS_US_USMC"
+   "RHS_USAF"
   }
  }
  RF {
@@ -43,7 +43,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "#DRG-Description_HeaderRUS"
   m_sTextData "Получить контроль над городом Выбор."
   m_aVisibleForFactions {
-   "RHS_RF_MSV"
+   "RHS_AFRF"
   }
  }
  CDF {
@@ -59,7 +59,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "#PS-Description_HeaderAboutMission"
   m_sTextData "Бой за контроль города Выбор."
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "FIA"
+   "Ses_CDF" "RHS_AFRF" "FIA"
   }
   m_bEmptyFactionVisibility 1
   m_bShowForAnyFaction 1

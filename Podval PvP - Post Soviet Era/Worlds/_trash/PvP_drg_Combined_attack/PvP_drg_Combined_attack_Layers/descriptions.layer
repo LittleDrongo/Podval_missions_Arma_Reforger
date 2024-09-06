@@ -19,7 +19,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "— 1. Удержать позиции опорного пункта"\
   "— 2. Нанести серьёзный урон КМП США"
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -32,7 +32,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "ВАЖНАЯ ИНФОРМАЦИЯ:"\
   "У противника большая фриз-зона имеет радиус 900 метров, они могут занять позиции на фризтайме не торопитесь, разведуйте позиции противника прежде чем наступать за красную линию."
   m_aVisibleForFactions {
-   "RHS_US_USMC"
+   "RHS_USAF"
   }
  }
  RF {
@@ -57,7 +57,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   "6. Развед.группа может пересекать красную линию и действовать в тылах противника."
   m_aVisibleForFactions {
-   "RHS_RF_MSV"
+   "RHS_AFRF"
   }
  }
  CDF {
@@ -73,7 +73,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "#PS-Description_HeaderAboutMission"
   m_sTextData "Наступательная операция КМП США на позиции ВС РФ"
   m_aVisibleForFactions {
-   "Ses_CDF" "RHS_RF_MSV" "RHS_US_USMC"
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF"
   }
   m_bEmptyFactionVisibility 1
  }

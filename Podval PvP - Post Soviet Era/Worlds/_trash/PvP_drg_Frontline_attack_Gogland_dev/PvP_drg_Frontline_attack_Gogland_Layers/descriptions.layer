@@ -16,7 +16,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "— 1. Удержать опорный пункт"\
   "— 2. Нанести серьёзный урон ВС РФ. "
   m_aVisibleForFactions {
-   "RHS_US_USMC" "RHS_RF_MSV"
+   "RHS_USAF" "RHS_AFRF"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -37,7 +37,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "#DRG-Description_HeaderRUS"
   m_sTextData "Получить контроль над опорным пуктом КМП США"
   m_aVisibleForFactions {
-   "RHS_RF_MSV"
+   "RHS_AFRF"
   }
  }
  USMC {
@@ -45,7 +45,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "#PS-Description_HeaderUS"
   m_sTextData "Удержать контроль над опорным пунктом"
   m_aVisibleForFactions {
-   "RHS_US_USMC"
+   "RHS_USAF"
   }
  }
  ABOUT {
@@ -53,7 +53,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "#PS-Description_HeaderAboutMission"
   m_sTextData "Бой за контроль опорного пункта."
   m_aVisibleForFactions {
-   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+   "RHS_USAF" "RHS_AFRF" "FIA"
   }
   m_bEmptyFactionVisibility 1
  }

@@ -3,24 +3,24 @@ $grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
   coords 1609.265 14.084 1574.584
   m_iScore 75
   m_sTitle "Занять школу в Новой Петровки"
-  m_sFactionKey "RHS_RF_MSV"
+  m_sFactionKey "RHS_AFRF"
  }
  A_RF8 {
   coords 1622.525 10.578 1559.802
   m_iScore 50
   m_sTitle "Разгромить противника"
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
  A_RF2 {
   coords 3144.38 206.171 13160.9
   m_iScore 50
   m_sTitle "Разгромить противника"
-  m_sFactionKey "RHS_RF_MSV"
+  m_sFactionKey "RHS_AFRF"
  }
  A_RF3 {
   coords 3144.38 206.171 13160.9
   m_iScore 75
   m_sTitle "Удержать школу в Новой Петровке"
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
 }

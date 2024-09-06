@@ -13,7 +13,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "— 1. Эвакуировать более 100 ящиков специального груза с острова."\
   "— 2. Нанести серьёзный урон ВС РФ. "
   m_aVisibleForFactions {
-   "RHS_US_USMC" "RHS_RF_MSV"
+   "RHS_USAF" "RHS_AFRF"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -40,7 +40,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   ""
   m_aVisibleForFactions {
-   "RHS_RF_MSV"
+   "RHS_AFRF"
   }
  }
  USMC {
@@ -61,7 +61,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   ""
   m_aVisibleForFactions {
-   "RHS_US_USMC"
+   "RHS_USAF"
   }
  }
  ABOUT {
@@ -71,7 +71,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "----"\
   "Оборонительный бой КМП США с дополнительной целью эвакуации специального груза со склада снабжения."
   m_aVisibleForFactions {
-   "RHS_US_USMC" "RHS_RF_MSV" "FIA"
+   "RHS_USAF" "RHS_AFRF" "FIA"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -87,7 +87,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "4. Обратите внимание пилотов, что от их успеха зависит победа стороны."\
   ""
   m_aVisibleForFactions {
-   "RHS_US_USMC"
+   "RHS_USAF"
   }
  }
 }

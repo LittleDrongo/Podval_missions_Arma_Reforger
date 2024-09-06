@@ -23,6 +23,6 @@ $grp PS_Objective {
   coords 2012.798 10.388 2938.295
   m_sTitle "Высота удержана"
   m_iScore 100
-  m_sFactionKey "RHS_US_USMC"
+  m_sFactionKey "RHS_USAF"
  }
 }
