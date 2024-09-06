@@ -74,8 +74,13 @@ GenericEntity : "{54E8E1A933B59AA2}Prefabs/Characters/Vests/Vest_Taktika/Variant
 SCR_ChimeraCharacter : "{58A98F5B061C7507}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_RTO.et" {
  coords 94.381 1 248.31
 }
-SCR_ChimeraCharacter : "{5DBAD0F229721ADB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AT.et" {
- coords 71.199 1 235.775
+$grp SCR_ChimeraCharacter : "{5DBAD0F229721ADB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AT.et" {
+ {
+  coords 71.199 1 235.775
+ }
+ {
+  coords 69.715 1 242.518
+ }
 }
 $grp SCR_ChimeraCharacter : "{603FD375309404CC}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_Officer.et" {
  {
@@ -208,6 +213,9 @@ $grp SCR_ChimeraCharacter : "{D51475636CE569E4}Prefabs/Characters/Factions/OPFOR
  {
   coords 96.959 1 218.903
  }
+}
+SCR_ChimeraCharacter : "{D70567293EB41064}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MG.et" {
+ coords 68.146 1 240.842
 }
 $grp SCR_ChimeraCharacter : "{DC6EA865F186B3D1}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_Rifleman.et" {
  {

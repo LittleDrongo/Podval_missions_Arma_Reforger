@@ -13,7 +13,7 @@ SCR_ChimeraCharacter : "{B1788B7ADBB77B3D}Prefabs/Characters/Factions/OPFOR/RHS_
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Hat {
-     Prefab "{6160CFB9CB2A3B01}Prefabs/Characters/HeadGear/Helmet_LShZ/variants/Helmet_LShZ_HC_emr_Pokemon.et"
+     Prefab "{93346FBCF0E18517}Prefabs/Characters/HeadGear/Helmet_LShZ/Helmet_LShZ_6m2_emr.et"
     }
     LoadoutSlotInfo Back {
      Prefab "{41A9C55B61F375F0}Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok.et"

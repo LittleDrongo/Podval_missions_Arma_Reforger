@@ -1,0 +1,11 @@
+$grp GenericEntity : "{E55FC02F8C1518A2}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V1_US.et" {
+ {
+  coords 1311.337 18.687 4992.207
+ }
+ {
+  coords 1238.667 15.992 5004.498
+ }
+ {
+  coords 5435.946 13.783 4640.544
+ }
+}
