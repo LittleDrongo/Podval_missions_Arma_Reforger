@@ -1,0 +1,108 @@
+$grp Vehicle : "{52441D784D145D52}Prefabs/Vehicles/Wheeled/BTR70/BTR70_Ses_CDF.et" {
+ BTR70_Ses_CDF1 {
+  coords 979.467 181.156 7651.185
+  angleY 77.96
+ }
+ BTR70_Ses_CDF2 {
+  coords 1188.431 185.336 7218.895
+  angleX 0.049
+  angleY -176.856
+  angleZ -0.894
+ }
+}
+$grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_RifleSquad_P.et" {
+ DEFEND_CDF_0_0 {
+  coords 1190.223 185.407 7234.261
+  angleY 11.255
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ DEFEND_CDF_1_0 {
+  components {
+   PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 1153.453 185.406 7224.41
+  angleY 179.442
+  m_aUnitPrefabSlots {
+   "{14B773656108F1C6}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_SL.et" "{69AF9F9D049BCD5F}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_SR.et" "{793F827A538C53D5}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AR.et" "{A197EBBB2A054D89}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AT.et" "{843201041DF19B3E}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AAT.et" "{74EAFC5BA43B3AFF}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_GL.et" "{DC6EA865F186B3D1}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_Rifleman.et" "{0D8F69CA2B51D040}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_CrewGunner.et" "{EAA4CE2A03A6D9ED}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_CrewDriver.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ DEFEND_CDF_1_1 {
+  components {
+   PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 1
+   }
+  }
+  coords 1162.551 185.406 7252.028
+  angleY 176.165
+  m_aUnitPrefabSlots {
+   "{14B773656108F1C6}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_SL.et" "{69AF9F9D049BCD5F}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_SR.et" "{793F827A538C53D5}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AR.et" "{A197EBBB2A054D89}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AT.et" "{843201041DF19B3E}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AAT.et" "{74EAFC5BA43B3AFF}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_GL.et" "{DC6EA865F186B3D1}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_Rifleman.et" "{DC6EA865F186B3D1}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_Rifleman.et" "{DC6EA865F186B3D1}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_Rifleman.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ DEFEND_CDF_1_2 {
+  components {
+   PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 2
+   }
+  }
+  coords 1207.889 185.334 7222.994
+  angleY 2.765
+  m_aUnitPrefabSlots {
+   "{2B285C603DC34736}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_MG.et" "{AEFC149A3ED71F05}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_MGAB.et" "{7E232C91920E7FA7}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_MGA.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ DEFEND_CDF_2_0 {
+  components {
+   PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
+    m_iCompanyCallsign 2
+   }
+  }
+  coords 954.554 181.033 7658.667
+  angleY 179.442
+  m_aUnitPrefabSlots {
+   "{14B773656108F1C6}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_SL.et" "{69AF9F9D049BCD5F}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_SR.et" "{793F827A538C53D5}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AR.et" "{A197EBBB2A054D89}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AT.et" "{843201041DF19B3E}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AAT.et" "{74EAFC5BA43B3AFF}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_GL.et" "{DC6EA865F186B3D1}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_Rifleman.et" "{0D8F69CA2B51D040}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_CrewGunner.et" "{EAA4CE2A03A6D9ED}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_CrewDriver.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ DEFEND_CDF_2_1 {
+  components {
+   PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 1
+   }
+  }
+  coords 958.341 181.031 7658.364
+  angleY 179.442
+  m_aUnitPrefabSlots {
+   "{14B773656108F1C6}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_SL.et" "{69AF9F9D049BCD5F}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_SR.et" "{793F827A538C53D5}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AR.et" "{A197EBBB2A054D89}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AT.et" "{843201041DF19B3E}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AAT.et" "{74EAFC5BA43B3AFF}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_GL.et" "{DC6EA865F186B3D1}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_Rifleman.et" "{DC6EA865F186B3D1}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_Rifleman.et" "{DC6EA865F186B3D1}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_Rifleman.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ DEFEND_CDF_2_2 {
+  components {
+   PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 2
+   }
+  }
+  coords 964.554 181.094 7658.833
+  angleY -92.899
+  m_aUnitPrefabSlots {
+   "{2B285C603DC34736}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_MG.et" "{AEFC149A3ED71F05}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_MGAB.et" "{7E232C91920E7FA7}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_MGA.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+}

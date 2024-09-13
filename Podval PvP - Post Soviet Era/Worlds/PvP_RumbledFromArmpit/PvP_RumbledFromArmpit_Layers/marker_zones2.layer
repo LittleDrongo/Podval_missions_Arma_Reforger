@@ -1,0 +1,102 @@
+PolylineShapeEntity {
+ components {
+  PS_PolyZone "{625A71A13F935896}" {
+   m_mPolygonTexture "{0750C59EDB7D77E5}UI/layouts/Textures/Grid1.edds"
+   m_cPolygonColor 0.251 0 0.502 1
+   m_mPolygonTextureBorder ""
+   m_cPolygonBorderColor 0.251 0 0.502 1
+   m_fPolygonBorderWidth 7
+   m_bReversed 1
+   m_aVisibleForFactions {
+    "" "Ses_CDF" "RHS_AFRF" "RHS_USAF"
+   }
+  }
+ }
+ coords 633.511 143.138 5709.694
+ Points {
+  ShapePoint "{625A71A17259065E}" {
+   Position -3.644 1.265 -9.46
+  }
+  ShapePoint "{625A71A172580F8D}" {
+   Position -13.039 0.323 24.185
+  }
+  ShapePoint "{625A71A16C5AA79A}" {
+   Position -401.725 50.489 730.871
+  }
+  ShapePoint "{625A71A16E27BE18}" {
+   Position -474.642 138.73 1290.857
+  }
+  ShapePoint "{625A71A1603B83EC}" {
+   Position -461.57 165.108 1675.073
+  }
+  ShapePoint "{625A71A162A49EED}" {
+   Position -469.32 171.006 2204.022
+  }
+  ShapePoint "{625A71A15C17308F}" {
+   Position -436.321 125.104 2566.588
+  }
+  ShapePoint "{625A71A15F83FB7F}" {
+   Position -447.987 150.686 2837.173
+  }
+  ShapePoint "{625A71A1598E8856}" {
+   Position -405.51 155.599 3012.141
+  }
+  ShapePoint "{625A71A15926271F}" {
+   Position -323.251 140.234 3322.279
+  }
+  ShapePoint "{625A71A158BB5DA0}" {
+   Position 40.754 93.887 3518.911
+  }
+  ShapePoint "{625A71A15A0A11A1}" {
+   Position 605.555 62.747 3443.316
+  }
+  ShapePoint "{625A71A155BA6BFE}" {
+   Position 834.694 153.981 3241.787
+  }
+  ShapePoint "{625A71A157F65674}" {
+   Position 864.636 174.004 2835.702
+  }
+  ShapePoint "{625A71A152F6E64E}" {
+   Position 1067.504 161.717 2228.277
+  }
+  ShapePoint "{625A71A14D4712C5}" {
+   Position 1099.577 148.262 1750.146
+  }
+  ShapePoint "{625A71A14E97706A}" {
+   Position 1208.361 75.405 1250.657
+  }
+  ShapePoint "{625A71A149CF945C}" {
+   Position 1377.445 156.555 1082.602
+  }
+  ShapePoint "{625A71A14BCFC44F}" {
+   Position 1233.656 187.58 485.524
+  }
+  ShapePoint "{625A71A14A8804E9}" {
+   Position 1034.965 114.581 52.575
+  }
+  ShapePoint "{625A71A145BA5D46}" {
+   Position 17.153 1.691 -41.786
+  }
+ }
+ {
+  PS_PolyZoneTrigger {
+   components {
+    Hierarchy "{614548BDF998E12B}" {
+    }
+   }
+   TriggerShapeType Polyline
+   SphereRadius 9223372036854775808
+   "Polyline Height" 500
+   TriggerActivationType "All changes"
+   PeriodicQueries 1
+   UpdatePeriod 1
+   ClassesFilter {
+    "SCR_ChimeraCharacter"
+   }
+   m_polyZoneEffect PS_PolyZoneEffectRestricted "{614548BC046ADB65}" {
+    m_fKillTime 35
+   }
+   m_bReversed 1
+  }
+ }
+}

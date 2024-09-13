@@ -1,0 +1,70 @@
+$grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescription/EditableMissionDescription.et" {
+ RULES {
+  coords 5534.73 61.71 10496.381
+  m_sTitle "#PS-Description_HeaderRules"
+  m_sTextData "ОБЩИЕ ПРАВИЛА"\
+  "— Всем запрещено надевать форму, головные уборы, разгрузки, бронежилеты противника (рюкзаки можно) "\
+  "  "\
+  "СПОСОБЫ ПОБЕДЫ ВС РФ"\
+  "— 1. Занять здание логистического пункта и взводный опорный пункт"\
+  "— 2. Нанести серьёзный урон ЧСО. "\
+  "  "\
+  "СПОСОБЫ ПОБЕДЫ ДЛЯ ЧСО"\
+  "— 1. Удержать хотя бы один из объектов, здание логистического пункта или взводный опорный пункт"\
+  "— 2. Нанести серьёзный урон ВС РФ. "\
+  ""\
+  "ПАРАМЕТРЫ МИССИИ"\
+  "— Для контроля необходимо поменять флаг через взаимодействие."\
+  "— Для победы атаки должно быть поднято два Российских флага."\
+  "— Для победы обороны должен остаться хотя бы один флаг ЧСО."\
+  "— Время на миссию 50 минут."\
+  ""\
+  ""\
+  ""
+  m_aVisibleForFactions {
+   "Ses_CDF" "RHS_AFRF"
+  }
+  m_bEmptyFactionVisibility 1
+  m_bShowForAnyFaction 1
+ }
+ FIA {
+  coords 5159.505 56.132 10322.095
+  m_sTitle "#PS-Description_HeaderFIA"
+  m_sTextData "Удержать контроль над городом Выбор."
+  m_aVisibleForFactions {
+   "RHS_USAF"
+  }
+ }
+ RF {
+  coords 5534.418 43.503 10540.239
+  m_sTitle "#DRG-Description_HeaderRUS"
+  m_sTextData "Занять две контрольных точек"\
+  "1. Логистический пункт"\
+  "2. Взводный опорный пункт"\
+  ""\
+  "ВНИМАНИЕ! ДЛЯ ЗАХВАТА НУЖНО ПОМЕНЯТЬ ФЛАГ ЧЕРЕЗ ВЗАИМОДЕЙСТВИЕ."
+  m_aVisibleForFactions {
+   "RHS_AFRF"
+  }
+ }
+ CDF {
+  coords 5626.204 38.464 10536.691
+  m_sTitle "#DRG-Description_HeaderCDF"
+  m_sTextData "Удержать один из двух пунктов."\
+  "1. Логистический пункт"\
+  "2. Взводный опорный пункт"
+  m_aVisibleForFactions {
+   "Ses_CDF"
+  }
+ }
+ ABOUT {
+  coords 5568.057 56.802 10524.196
+  m_sTitle "#PS-Description_HeaderAboutMission"
+  m_sTextData "Бой под н.п. Мышкино"
+  m_aVisibleForFactions {
+   "Ses_CDF" "RHS_AFRF" "FIA"
+  }
+  m_bEmptyFactionVisibility 1
+  m_bShowForAnyFaction 1
+ }
+}

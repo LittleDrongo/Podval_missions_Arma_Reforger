@@ -1,0 +1,146 @@
+$grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_RifleSquad_P.et" {
+ RF_0_0 {
+  coords 1332.129 182.703 5886.404
+  angleY 18.844
+  m_faction "RHS_AFRF"
+  m_aUnitPrefabSlots {
+   "{1DBB22961E5E56A8}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Officer.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ RF_1_0 {
+  components {
+   PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 1336.001 183.584 5884.668
+  angleY 18.844
+  m_faction "RHS_AFRF"
+  m_aUnitPrefabSlots {
+   "{E89A482C627FA694}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_SL.et" "{9582A4D407EC9A0D}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_SR.et" "{5DBAD0F229721ADB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AT.et" "{F4E48C1D5E1D278C}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AAT.et" "{D70567293EB41064}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MG.et" "{083386CC8925021B}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MGAB.et" "{537A04B0623D6221}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Sniper.et" "{B4793DD53928CD4F}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_CrewGunner.et" "{53529A3511DFC4E2}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_CrewDriver.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ RF_1_1 {
+  components {
+   PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 1
+   }
+  }
+  coords 1340.22 184.594 5882.661
+  angleY 18.844
+  m_faction "RHS_AFRF"
+  m_aUnitPrefabSlots {
+   "{E89A482C627FA694}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_SL.et" "{9582A4D407EC9A0D}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_SR.et" "{5DBAD0F229721ADB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AT.et" "{F4E48C1D5E1D278C}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AAT.et" "{D70567293EB41064}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MG.et" "{083386CC8925021B}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MGAB.et" "{537A04B0623D6221}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Sniper.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ RF_1_2 {
+  components {
+   PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 2
+   }
+  }
+  coords 1344.479 185.598 5880.41
+  angleY 18.844
+  m_faction "RHS_AFRF"
+  m_aUnitPrefabSlots {
+   "{E89A482C627FA694}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_SL.et" "{9582A4D407EC9A0D}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_SR.et" "{5DBAD0F229721ADB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AT.et" "{F4E48C1D5E1D278C}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AAT.et" "{D70567293EB41064}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MG.et" "{083386CC8925021B}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MGAB.et" "{537A04B0623D6221}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Sniper.et" "{B1788B7ADBB77B3D}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Rifleman.et" "{B1788B7ADBB77B3D}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Rifleman.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ RF_2_0 {
+  components {
+   PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
+    m_iCompanyCallsign 2
+   }
+  }
+  coords 516.983 223.674 8796.772
+  angleX -3.989
+  angleY 157.042
+  angleZ -0.251
+  m_faction "RHS_AFRF"
+  m_aUnitPrefabSlots {
+   "{E89A482C627FA694}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_SL.et" "{9582A4D407EC9A0D}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_SR.et" "{5DBAD0F229721ADB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AT.et" "{F4E48C1D5E1D278C}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AAT.et" "{D70567293EB41064}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MG.et" "{083386CC8925021B}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MGAB.et" "{537A04B0623D6221}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Sniper.et" "{B4793DD53928CD4F}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_CrewGunner.et" "{53529A3511DFC4E2}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_CrewDriver.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ RF_2_1 {
+  components {
+   PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 1
+   }
+  }
+  coords 518.708 223.472 8794.416
+  angleX -3.985
+  angleY 148.891
+  angleZ 0.316
+  m_faction "RHS_AFRF"
+  m_aUnitPrefabSlots {
+   "{E89A482C627FA694}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_SL.et" "{9582A4D407EC9A0D}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_SR.et" "{5DBAD0F229721ADB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AT.et" "{F4E48C1D5E1D278C}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AAT.et" "{D70567293EB41064}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MG.et" "{083386CC8925021B}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MGAB.et" "{537A04B0623D6221}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Sniper.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+ RF_2_2 {
+  components {
+   PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 2
+   }
+  }
+  coords 520.912 223.177 8791.502
+  angleX -3.374
+  angleY 149.039
+  angleZ -2.145
+  m_faction "RHS_AFRF"
+  m_aUnitPrefabSlots {
+   "{E89A482C627FA694}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_SL.et" "{9582A4D407EC9A0D}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_SR.et" "{5DBAD0F229721ADB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AT.et" "{F4E48C1D5E1D278C}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AAT.et" "{D70567293EB41064}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MG.et" "{083386CC8925021B}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MGAB.et" "{537A04B0623D6221}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Sniper.et" "{B1788B7ADBB77B3D}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_Rifleman.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+ }
+}
+$grp Vehicle : "{B70E6D12A8EC2410}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_FIA_transport_covered.et" {
+ Ural4320_FIA_transport_covered1 {
+  coords 1315.437 178.077 5925.992
+ }
+ Ural4320_FIA_transport_covered2 {
+  coords 1314.919 178.377 5913.541
+  angleX -1.747
+  angleY 0.273
+  angleZ -8.885
+ }
+ Ural4320_FIA_transport_covered3 {
+  coords 502.998 226.113 8830.738
+  angleX -2.776
+  angleY 172.662
+  angleZ -0.544
+ }
+ Ural4320_FIA_transport_covered4 {
+  coords 501.681 226.891 8848.512
+  angleX -3.571
+  angleY -176.941
+  angleZ -0.191
+ }
+}
+$grp Vehicle : "{DD0CB0331A3D8CA7}Prefabs/Vehicles/Wheeled/K17/APC_K17_Berezok_camo1.et" {
+ APC_K17_Berezok_camo1 {
+  coords 1315.75 177.759 5938.554
+ }
+ APC_K17_Berezok_camo2 {
+  coords 507.782 225.033 8813.481
+  angleX -3.675
+  angleY 161.5
+  angleZ 0.287
+ }
+}
