@@ -1,6 +1,9 @@
 $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
  {
-  coords 1315.75 177.759 5938.554
+  coords 1305.011 176.96 5914.694
+  angleX -0.881
+  angleY 90.11
+  angleZ -7.126
   m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 0.555 0.002 0 1
@@ -158,13 +161,16 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  {
-  coords 1315.437 178.077 5925.992
+  coords 1304.543 177.165 5900.83
+  angleX -0.878
+  angleY 90.11
+  angleZ -8.881
   m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
   m_sImageSetGlow ""
-  m_MarkerColor 0 0.44 0.078 1
+  m_MarkerColor 0.555 0.002 0 1
   m_sQuadName "Truck"
   m_fWorldSize 3.722
-  m_sDescription "#AR-Vehicle_Ural4320_Transport_Covered_Name FIA"
+  m_sDescription "#AR-Vehicle_Ural4320_Transport_Covered_Name #RHS-Camo"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
    "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
@@ -176,16 +182,16 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 0
  }
  {
-  coords 1314.919 178.377 5913.541
-  angleX -1.747
-  angleY 90.273
-  angleZ -8.885
+  coords 1304.186 177.295 5889.01
+  angleX -0.874
+  angleY 90.136
+  angleZ -8.882
   m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
   m_sImageSetGlow ""
-  m_MarkerColor 0 0.44 0.078 1
+  m_MarkerColor 0.555 0.002 0 1
   m_sQuadName "Truck"
   m_fWorldSize 3.722
-  m_sDescription "#AR-Vehicle_Ural4320_Transport_Covered_Name FIA"
+  m_sDescription "#AR-Vehicle_Ural4320_Transport_Covered_Name #RHS-Camo"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
    "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
@@ -197,16 +203,16 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 0
  }
  {
-  coords 502.998 226.113 8830.738
-  angleX -2.776
-  angleY 262.662
-  angleZ -0.544
+  coords 503.22 226.073 8829.962
+  angleX -2.82
+  angleY 256.12
+  angleZ -0.225
   m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
   m_sImageSetGlow ""
-  m_MarkerColor 0 0.44 0.078 1
+  m_MarkerColor 0.555 0.002 0 1
   m_sQuadName "Truck"
   m_fWorldSize 3.722
-  m_sDescription "#AR-Vehicle_Ural4320_Transport_Covered_Name FIA"
+  m_sDescription "#AR-Vehicle_Ural4320_Transport_Covered_Name #RHS-Camo"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
    "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
@@ -218,16 +224,16 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 0
  }
  {
-  coords 501.681 226.891 8848.512
-  angleX -3.571
-  angleY -86.941
-  angleZ -0.191
+  coords 501.497 226.681 8843.21
+  angleX -2.68
+  angleY 266.864
+  angleZ 0.147
   m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
   m_sImageSetGlow ""
-  m_MarkerColor 0 0.44 0.078 1
+  m_MarkerColor 0.555 0.002 0 1
   m_sQuadName "Truck"
   m_fWorldSize 3.722
-  m_sDescription "#AR-Vehicle_Ural4320_Transport_Covered_Name FIA"
+  m_sDescription "#AR-Vehicle_Ural4320_Transport_Covered_Name #RHS-Camo"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
    "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
@@ -296,7 +302,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  Ses_CDF_G_100_M {
-  coords 1153.453 185.406 7224.41
+  coords 1159.98 185.47 7290.914
   m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
@@ -313,7 +319,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  Ses_CDF_G_101_M {
-  coords 1162.551 185.406 7252.028
+  coords 1163.732 185.406 7228.726
   m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
