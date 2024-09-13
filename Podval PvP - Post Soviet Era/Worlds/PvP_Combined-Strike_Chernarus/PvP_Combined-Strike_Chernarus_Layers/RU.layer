@@ -1,4 +1,32 @@
-$grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_AFRF_RifleSquad_P.et" {
+$grp GenericEntity : "{0228B8EFBA99AC1D}Prefabs/Weapons/Misc/SpectrumDevice/Device_SpectrumDevice_base.et" {
+ {
+  coords 4912.028 173.193 13037.853
+  angleX 0.899
+  angleY -0.002
+  angleZ -0.131
+ }
+ {
+  coords 3219.368 204.121 12694.476
+  angleX 0.495
+  angleY 56.707
+  angleZ 0.617
+ }
+}
+$grp GenericEntity : "{4E202866EA77CF71}Prefabs/Props/Military/Compositions/Dst/PersonnelService_Table_01/PersonnelService_Table_01_dst_01_FIA.et" {
+ {
+  coords 4911.922 172.254 13038.229
+  angleX 0.016
+  angleY 88.983
+  angleZ 0.895
+ }
+ {
+  coords 3219.612 203.181 12694.776
+  angleX -0.739
+  angleY 145.685
+  angleZ 0.505
+ }
+}
+$grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_RifleSquad_P.et" {
  RFFORCE_1 {
   components {
    PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {

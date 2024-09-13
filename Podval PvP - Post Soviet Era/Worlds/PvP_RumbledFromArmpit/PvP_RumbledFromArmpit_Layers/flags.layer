@@ -1,3 +1,31 @@
+$grp GenericEntity : "{0228B8EFBA99AC1D}Prefabs/Weapons/Misc/SpectrumDevice/Device_SpectrumDevice_base.et" {
+ {
+  coords 1193.366 186.359 7234.501
+  angleX -0.879
+  angleY -170.373
+  angleZ -0.28
+ }
+ {
+  coords 1330.835 183.205 5883.351
+  angleX 0.527
+  angleY -63.178
+  angleZ -0.757
+ }
+}
+$grp GenericEntity : "{4E202866EA77CF71}Prefabs/Props/Military/Compositions/Dst/PersonnelService_Table_01/PersonnelService_Table_01_dst_01_FIA.et" {
+ {
+  coords 1193.409 185.409 7234.144
+  angleX 0.133
+  angleY -81.391
+  angleZ -0.885
+ }
+ {
+  coords 1330.464 182.263 5883.433
+  angleX 0.636
+  angleY 25.812
+  angleZ 0.513
+ }
+}
 $grp GenericEntity : "{F9EBA10CC445ED63}PrefabsEditable/Auto/Structures/Military/Flags/FlagPole_02_V1_CDF_Editable.et" {
  {
   coords 972.209 193.269 7622.361
