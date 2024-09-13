@@ -1,0 +1,14 @@
+$grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
+ {
+  coords 3514.416 338.646 7024.973
+  m_sTitle "Захватить опорный пункт"
+  m_sDescriptionLayout ""
+  m_sFactionKey "Ses_CDF"
+ }
+ {
+  coords 3515.286 338.644 7022.819
+  m_sTitle "Удержать опорный пункт"
+  m_sDescriptionLayout ""
+  m_sFactionKey "RHS_AFRF"
+ }
+}

@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{EE39EC0EE97A2F31}worlds/Arland_PodvalConflict/Arland_PodvalConflict.ent"
+ Name "{18D78C8D4D04744B}Worlds/PvP_EdgeOfAttack_Chernarus/PvP_EdgeOfAttack_Chernarus.ent"
  Configurations {
   ENTResourceClass PC {
   }
@@ -12,6 +12,8 @@ MetaFileClass {
   ENTResourceClass PS5 : PC {
   }
   ENTResourceClass HEADLESS : PC {
+  }
+  ENTResourceClass Xbox : PC {
   }
  }
 }
