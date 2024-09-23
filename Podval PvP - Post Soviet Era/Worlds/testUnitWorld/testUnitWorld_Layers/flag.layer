@@ -13,6 +13,36 @@ GenericEntity : "{0DBE058F13F0C7E8}PrefabsEditable/Auto/Structures/Military/Flag
 GenericEntity : "{119D0AA19EF023A7}Prefabs/Items/Equipment/Radios/INDFOR_Radio_R187P1_OLD_SL.et" {
  coords 82.666 1 213.665
 }
+GenericEntity : "{125B4AD05FC87ED1}Prefabs/Weapons/Rifles/M27IAR/Rifle_M27IAR_2_Drongo.et" {
+ components {
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    AttachmentSlotComponent "{5CC8E73BB698D287}" {
+     Enabled 0
+    }
+    AttachmentSlotComponent "{5CD1561B4A2D591F}" {
+     Enabled 0
+    }
+    AttachmentSlotComponent "{5CF88C80AF78DA73}" {
+     Enabled 0
+    }
+    AttachmentSlotComponent "{5D873BE1CB1DD9C4}" {
+     Enabled 0
+    }
+    AttachmentSlotComponent "{5D873BE26346E4D7}" {
+     Enabled 0
+    }
+    AttachmentSlotComponent "{60A6AC64CDA3C786}" {
+     Enabled 0
+    }
+    AttachmentSlotComponent "{6174A7A88B1F8EF5}" {
+     Enabled 0
+    }
+   }
+  }
+ }
+ coords 68.229 1.264 243.669
+}
 GenericEntity : "{14B2D417839BF8A3}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_USSR.et" {
  coords 76.594 1 219.888
 }
@@ -230,6 +260,67 @@ $grp SCR_ChimeraCharacter : "{DC6EA865F186B3D1}Prefabs/Characters/Factions/BLUFO
 }
 GenericEntity : "{E328B3306A15E882}Prefabs/Items/Equipment/Radios/INDFOR_Radio_RF10.et" {
  coords 81.42 1 214.357
+}
+GenericEntity : "{E799D6F15367FC6A}Prefabs/Weapons/Rifles/M4A1/Rifle_M4A1_RAS_ACOG.et" {
+ components {
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    AttachmentSlotComponent "{5E0ED05F322AB08B}" {
+     AttachmentSlot InventoryStorageSlot PistolGrip {
+     }
+    }
+    AttachmentSlotComponent "{5E0EEDA2A35B78B4}" {
+     AttachmentSlot InventoryStorageSlot Buffertube {
+     }
+    }
+    AttachmentSlotComponent "{5E0EEDA2E5FAA2B6}" {
+     AttachmentSlot InventoryStorageSlot Buttstock {
+      Offset 0 0.0771 -0.0558
+      Prefab "{ACF0240F90EF7566}Prefabs/Weapons/Attachments/Stocks/Stock_APS_Wirestock.et"
+     }
+    }
+    AttachmentSlotComponent "{5E0EEDA47E3F452D}" {
+     AttachmentSlot InventoryStorageSlot Handguard {
+      Enabled 0
+     }
+    }
+    AttachmentSlotComponent "{5E0EEDA5B623AB37}" {
+     AttachmentSlot InventoryStorageSlot Handguard_lower {
+      Enabled 0
+     }
+    }
+    AttachmentSlotComponent "{5E0EEDA70372C8BA}" {
+     AttachmentSlot InventoryStorageSlot Barrel {
+     }
+    }
+    AttachmentSlotComponent "{5E0EEDA7F53DE1B1}" {
+     AttachmentSlot InventoryStorageSlot Upper {
+     }
+    }
+    AttachmentSlotComponent "{5E0EEDB0BD59EE7D}" {
+     AttachmentSlot InventoryStorageSlot Optics {
+      Enabled 0
+     }
+    }
+    AttachmentSlotComponent "{5EA2BE949ECF03E3}" {
+     AttachmentSlot InventoryStorageSlot "{5EA2BE9573F14F0C}" {
+     }
+    }
+    AttachmentSlotComponent "{5EA2BE953838E77C}" {
+     AttachmentSlot InventoryStorageSlot "{5EA2BE95244FA719}" {
+      Enabled 0
+     }
+    }
+    AttachmentSlotComponent "{61749A66C4BA094E}" {
+     AttachmentSlot InventoryStorageSlot bayonet {
+      Offset 0 -0.0098 -0.0937
+      Prefab "{1ABABE3551512B0A}Prefabs/Weapons/Attachments/Underbarrel/UGL_GP25.et"
+     }
+    }
+   }
+  }
+ }
+ coords 63.849 1 233.339
 }
 SCR_ChimeraCharacter : "{E94CBA221C90E93D}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_Sniper.et" {
  coords 98.103 1 254.393
