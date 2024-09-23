@@ -13,11 +13,10 @@ GenericEntity : "{D30D4FA5A82D6F0D}Prefabs/Items/Equipment/RangeCard/RangeCard_N
    "500	----	5,8	----	6,2"\
    "600	----	7,6	----	8,3"\
    "700	----	9,9	---	10,8"\
-   "800	-----	12,6	--	13,9"\
-   "900	-----	15,6	--	17,3"\
-   "1000	----	19,5	--	21,6"\
-   "1100	----	24,4	--	27,3"\
-   "				"
+   "800	----	12,6	--	13,9"\
+   "900	----	15,6	--	17,3"\
+   "1000	---	19,5	--	21,6"\
+   "1100	---	24,4	--	27,3"
   }
   InventoryItemComponent "{5222EB4D0C73006B}" {
    Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
