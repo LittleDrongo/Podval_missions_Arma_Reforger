@@ -18,6 +18,9 @@ SCR_ChimeraCharacter : "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS
     Icon "{9BEC8B891B893C04}UI/Icons/terrorist_leader.edds"
    }
   }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{26701B3AF0242526}Prefabs/Weapons/Rifles/M4A1/Variants/ION/Rifle_M4A1_BLOCK_II_FSP_ION.et"
+  }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{6286835A4B546266}" {

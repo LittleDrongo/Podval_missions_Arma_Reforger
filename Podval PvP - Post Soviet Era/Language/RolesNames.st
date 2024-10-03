@@ -49,6 +49,15 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{628699D4A6720E10}" {
+   Id "DRG-Description_HeaderION"
+   Target_en_us "Tasks for ION"
+   Target_pl_pl "Bóbr, kurwa!"
+   Target_ru_ru "Задачи для ИОН"
+   Modified 1652990006
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{6048E3AB7E2BE2B7}" {
    Id "DRG-Description_HeaderRUS"
    Target_en_us "Tasks for AFRF"
@@ -190,6 +199,22 @@ StringTable {
    Target_en_us "Change flag"
    Target_ru_ru "Поменять флаг"
    Modified 1646448211
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{628699D7D2786DB1}" {
+   Id "DRG_ION_PlatoonLeader"
+   Target_en_us "Platoon Leader ION"
+   Target_ru_ru "Главарь боевиков ION"
+   Modified 1652989173
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{628699D0ECB4522C}" {
+   Id "DRG_ION_RadioEng"
+   Target_en_us "Radio-Specialist ION"
+   Target_ru_ru "Специалист РЭР ИОН"
+   Modified 1652991681
    Author "hasta"
    LastChanged "hasta"
   }

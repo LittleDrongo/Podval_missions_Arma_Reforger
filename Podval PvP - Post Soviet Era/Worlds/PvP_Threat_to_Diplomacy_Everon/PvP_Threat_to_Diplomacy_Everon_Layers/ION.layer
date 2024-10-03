@@ -1,0 +1,98 @@
+$grp SCR_AIGroup : "{ED4577D444D210BD}Prefabs/Groups/INDFOR/RHS_ION/DRG_Group_RHS_ION.et" {
+ {
+  components {
+   PS_GroupCallsignAssigner "{628699D5485F0B62}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 4680.896 14.832 10541.968
+  angleY -6.943
+  m_aUnitPrefabSlots {
+   "{F98D93318EE6C137}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_TL.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{F71FE6F813004D98}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman_RER.et" "{4A5D799B4B07B170}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Sapper.et"
+  }
+ }
+ ks {
+  coords 4557.022 14.488 10384.227
+  angleY -6.943
+  m_aUnitPrefabSlots {
+   "{6754D0F9F5874A64}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_PL.et"
+  }
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{628699D5485F0B62}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 1
+   }
+  }
+  coords 4336.066 22.251 10540.481
+  angleY -6.943
+  m_aUnitPrefabSlots {
+   "{F98D93318EE6C137}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_TL.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{F71FE6F813004D98}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman_RER.et" "{4A5D799B4B07B170}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Sapper.et"
+  }
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{628699D5485F0B62}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 2
+   }
+  }
+  coords 4729.391 23.847 10776.863
+  angleY -6.943
+  m_aUnitPrefabSlots {
+   "{F98D93318EE6C137}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_TL.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{F71FE6F813004D98}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman_RER.et" "{4A5D799B4B07B170}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Sapper.et"
+  }
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{628699D5485F0B62}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 3
+   }
+  }
+  coords 4628.843 26.049 11066.003
+  angleY -6.943
+  m_aUnitPrefabSlots {
+   "{F98D93318EE6C137}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_TL.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{F71FE6F813004D98}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman_RER.et" "{4A5D799B4B07B170}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Sapper.et"
+  }
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{628699D5485F0B62}" {
+    m_iCompanyCallsign 2
+   }
+  }
+  coords 4670.229 27.469 10936.142
+  angleY -6.943
+  m_aUnitPrefabSlots {
+   "{F98D93318EE6C137}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_TL.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{F71FE6F813004D98}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman_RER.et" "{4A5D799B4B07B170}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Sapper.et"
+  }
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{628699D5485F0B62}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 1
+   }
+  }
+  coords 4491.069 20.364 10508.757
+  angleY -6.943
+  m_aUnitPrefabSlots {
+   "{F98D93318EE6C137}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_TL.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{F71FE6F813004D98}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman_RER.et" "{4A5D799B4B07B170}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Sapper.et"
+  }
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{628699D5485F0B62}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 2
+   }
+  }
+  coords 4090.949 8.274 10641.686
+  angleY -6.943
+  m_aUnitPrefabSlots {
+   "{F98D93318EE6C137}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_TL.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{F71FE6F813004D98}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman_RER.et" "{4A5D799B4B07B170}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Sapper.et"
+  }
+ }
+}
