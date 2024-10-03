@@ -1,0 +1,249 @@
+$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ Ses_TKG_G_100_M {
+  coords 2783.613 6.082 892.841
+  m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "infantry"
+  m_fWorldSize 50
+  m_sDescription "Batikh-11"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "FIA" "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 0
+  m_bShowForAnyFaction 1
+ }
+ Ses_TKG_G_101_M {
+  coords 2780.014 6.082 898.447
+  m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "infantry"
+  m_fWorldSize 50
+  m_sDescription "Batikh-12"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "FIA" "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 0
+  m_bShowForAnyFaction 1
+ }
+ Ses_TKG_G_200_M {
+  coords 1987.612 3.856 1162.797
+  m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "infantry"
+  m_fWorldSize 50
+  m_sDescription "Hamzah-11"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "FIA" "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 0
+  m_bShowForAnyFaction 1
+ }
+ Ses_TKG_G_201_M {
+  coords 1984.608 3.856 1165.941
+  m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "infantry"
+  m_fWorldSize 50
+  m_sDescription "Hamzah-12"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "FIA" "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 0
+  m_bShowForAnyFaction 1
+ }
+ Ses_TKG_G_300_M {
+  coords 1118.344 24.142 853.344
+  m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "infantry"
+  m_fWorldSize 50
+  m_sDescription "Kasrah-11"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "FIA" "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 0
+  m_bShowForAnyFaction 1
+ }
+ Ses_TKG_G_301_M {
+  coords 1114.735 24.142 849.896
+  m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "infantry"
+  m_fWorldSize 50
+  m_sDescription "Kasrah-12"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "FIA" "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 0
+  m_bShowForAnyFaction 1
+ }
+ Ses_TKG_G_000_M {
+  coords 1994.21 4.05 1176.514
+  m_sImageSet "{301FC1A2A46D3E0D}UI/Textures/GroupManagement/FlagIcons/GroupFlagsIndfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "infantry"
+  m_fWorldSize 50
+  m_sDescription "Alif-11"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "FIA" "US" "USSR"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 0
+  m_bShowForAnyFaction 1
+ }
+ RHS_USAF_G_000_M {
+  coords 2018.67 1.719 235.186
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "Атлас Ред 1"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_USAF_G_002_M {
+  coords 2015.99 1.655 232.659
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "Атлас Ред 3"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_USAF_G_001_M {
+  coords 2013.742 1.437 230.31
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "Атлас Ред 2"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_USAF_G_003_M {
+  coords 2011.351 1.437 228.763
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "Атлас Ред 4"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_USAF_G_100_M {
+  coords 2009.05 1.437 226.651
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "Блэйзер Ред 1"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_USAF_G_400_M {
+  coords 2905.939 10.75 3409.502
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "Игл Ред 1"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ {
+  coords 2924.619 10.759 3383.493
+  angleY 230.401
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.016 0.552 0.905 1
+  m_sQuadName "Helicopter"
+  m_fWorldSize 6.487
+  m_sDescription "#AR-Vehicle_UH1H_Armed_Name"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+}

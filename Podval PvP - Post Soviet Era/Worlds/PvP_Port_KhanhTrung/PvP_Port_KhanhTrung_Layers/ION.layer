@@ -1,0 +1,66 @@
+$grp SCR_AIGroup : "{688A666448CE614D}Prefabs/Groups/INDFOR/DRG_Group_Ses_TGK.et" {
+ {
+  components {
+   PS_GroupCallsignAssigner "{6286F14417932D54}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 2783.613 6.082 892.841
+  angleY -32.697
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{6286F14417932D54}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 1
+   }
+  }
+  coords 2780.014 6.082 898.447
+  angleY -32.697
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{6286F14417932D54}" {
+    m_iCompanyCallsign 2
+   }
+  }
+  coords 1987.612 3.856 1162.797
+  angleY -43.695
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{6286F14417932D54}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 1
+   }
+  }
+  coords 1984.608 3.856 1165.941
+  angleY -43.695
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{6286F14417932D54}" {
+    m_iCompanyCallsign 3
+   }
+  }
+  coords 1118.344 24.142 853.344
+  angleY -43.695
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{6286F14417932D54}" {
+    m_iCompanyCallsign 3
+    m_iSquadCallsign 1
+   }
+  }
+  coords 1114.735 24.142 849.896
+  angleY -43.695
+ }
+ {
+  coords 1994.21 4.05 1176.514
+  angleY -32.697
+  m_aUnitPrefabSlots {
+   "{77D575C76E41A8AD}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Officer.et"
+  }
+ }
+}

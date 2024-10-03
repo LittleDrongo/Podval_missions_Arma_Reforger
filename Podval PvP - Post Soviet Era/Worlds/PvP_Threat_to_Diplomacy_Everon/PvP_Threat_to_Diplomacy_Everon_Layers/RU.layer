@@ -1,25 +1,60 @@
-GenericEntity : "{6D56FED1E55A8F84}Prefabs/Items/Misc/IntelligenceFolder_E_01/IntelligenceFolder_E_01.et" {
- components {
-  SignalsManagerComponent "{628699DEFD06BC0A}" {
-  }
-  BaseRadioComponent "{628699D07889EA90}" {
-   "Encryption key" "secret document"
-   "Turned on" 1
-   Transceivers {
-    RelayTransceiver "{628699D0672C415E}" {
-     "Transmitting Range" 2000
-    }
-   }
-  }
-  RHS_RadioSourceComponent "{628699DF3E4FF7CB}" {
-   m_iSignalType Static
-  }
- }
- coords 4447.556 9.275 10836.638
+GenericEntity : "{231EF6796E1D97CE}Prefabs/Items/Misc/IntelligenceFolder_E_01/IntelligenceFolder_E_01_Radio.et" {
+ coords 4447.091 9.267 10837.645
  {
   PS_ManualMarker Def1 : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
    coords 0 0 0
+   m_MarkerColor 0.502 0 0 1
+   m_sQuadName "cross-2"
+   m_fWorldSize 40
   }
+ }
+}
+$grp Vehicle : "{7B4BBFD80FB91FF0}Prefabs/Vehicles/Wheeled/TIGR/GAZ_TIGR_v2_KORD_SPP_Green.et" {
+ GAZ_TIGR_v2_KORD_SPP_Green1 {
+  coords 4491.255 13.312 9454.583
+  angleY 2.119
+ }
+ GAZ_TIGR_v2_KORD_SPP_Green2 {
+  coords 4492.278 12.449 9436.154
+  angleX 4.466
+  angleY 1.028
+  angleZ 0.08
+ }
+ GAZ_TIGR_v2_KORD_SPP_Green3 {
+  coords 4490.948 13.712 9474.821
+  angleX 4.466
+  angleY 1.028
+  angleZ 0.08
+ }
+ GAZ_TIGR_v2_KORD_SPP_Green4 {
+  coords 4490.362 14.217 9493.869
+  angleX 4.466
+  angleY 1.028
+  angleZ 0.08
+ }
+ GAZ_TIGR_v2_KORD_SPP_Green5 {
+  coords 4954.242 28.354 11905.12
+  angleX 0.703
+  angleY -78.71
+  angleZ 1.053
+ }
+ GAZ_TIGR_v2_KORD_SPP_Green6 {
+  coords 4955.195 28.264 11909.896
+  angleX 0.703
+  angleY -78.71
+  angleZ 1.053
+ }
+ GAZ_TIGR_v2_KORD_SPP_Green7 {
+  coords 4956.1 28.179 11914.437
+  angleX 0.703
+  angleY -78.71
+  angleZ 1.053
+ }
+ GAZ_TIGR_v2_KORD_SPP_Green8 {
+  coords 4957.054 28.089 11919.221
+  angleX 0.703
+  angleY -78.71
+  angleZ 1.053
  }
 }
 $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_RifleSquad_P.et" {
@@ -102,8 +137,8 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
     m_iSquadCallsign 1
    }
   }
-  coords 4930.612 36.216 9181.989
-  angleY -117.544
+  coords 4496.277 13.312 9455.924
+  angleY -2.595
   m_faction "RHS_AFRF"
   m_aUnitPrefabSlots {
    "{8DA3D31B19FE9606}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_TeamLeader.et" "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator.et" "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator.et" "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator.et" "{6F65A9E2795AB2D3}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Medic.et" "{F01A848FC8BDA273}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_MG.et"
@@ -117,8 +152,8 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
     m_iCompanyCallsign 2
    }
   }
-  coords 4935.584 36.124 9159.253
-  angleY -103.239
+  coords 4487.292 12.715 9439.146
+  angleY -5.092
   m_faction "RHS_AFRF"
   m_aUnitPrefabSlots {
    "{8DA3D31B19FE9606}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_TeamLeader.et" "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator.et" "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator.et" "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator.et" "{6F65A9E2795AB2D3}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Medic.et" "{F01A848FC8BDA273}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_MG.et"
@@ -133,8 +168,8 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
     m_iSquadCallsign 2
    }
   }
-  coords 4938.655 36.07 9132.291
-  angleY -96.388
+  coords 4486.316 13.882 9481.217
+  angleY -0.952
   m_faction "RHS_AFRF"
   m_aUnitPrefabSlots {
    "{8DA3D31B19FE9606}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_TeamLeader.et" "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator.et" "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator.et" "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator.et" "{6F65A9E2795AB2D3}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Medic.et" "{F01A848FC8BDA273}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_MG.et"
@@ -149,8 +184,8 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
     m_iSquadCallsign 3
    }
   }
-  coords 4931.592 35.968 9104.278
-  angleY -69.111
+  coords 4497.032 11.684 9427.961
+  angleY 0.158
   m_faction "RHS_AFRF"
   m_aUnitPrefabSlots {
    "{8DA3D31B19FE9606}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_TeamLeader.et" "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator.et" "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator.et" "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator.et" "{6F65A9E2795AB2D3}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Medic.et" "{F01A848FC8BDA273}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_MG.et"
@@ -173,63 +208,5 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   }
   m_bDeleteWhenEmpty 0
   m_bDeleteIfNoPlayer 0
- }
-}
-$grp Vehicle : "{E1288C24A903F64B}Prefabs/Vehicles/Wheeled/TIGR/GAZ_TIGR_v2_Arbalet_PKM_Green.et" {
- GAZ_TIGR_v2_Arbalet_PKM_Green1 {
-  coords 4956.667 28.312 11909.362
-  angleX 0.59
-  angleY -72.785
-  angleZ 1.12
- }
- GAZ_TIGR_v2_Arbalet_PKM_Green2 {
-  coords 4958.111 28.217 11914.025
-  angleX 0.59
-  angleY -72.785
-  angleZ 1.12
- }
- GAZ_TIGR_v2_Arbalet_PKM_Green3 {
-  coords 4959.552 28.281 11918.682
-  angleY -72.785
- }
- GAZ_TIGR_v2_Arbalet_PKM_Green4 {
-  coords 4955.221 28.281 11904.705
-  angleY -72.785
- }
- GAZ_TIGR_v2_Arbalet_PKM_Green5 {
-  coords 4942.254 36.125 9157.109
-  angleY -18.486
- }
- GAZ_TIGR_v2_Arbalet_PKM_Green6 {
-  coords 4944.906 36.115 9141.356
-  angleY -1.89
- }
- GAZ_TIGR_v2_Arbalet_PKM_Green7 {
-  coords 4942.967 36.057 9126.037
-  angleY 14.072
- }
-}
-SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/RestrictionZone/E_EditorRestrictionZoneSmall.et" {
- components {
-  SCR_ZoneRestrictionAreaMeshComponent "{56D8A3C5A31496A1}" {
-   m_fHeight 2
-   m_bFollowTerrain 1
-  }
- }
- coords 4556.972 14.488 10384.201
- m_fWarnRadius 20
- m_fZoneRadius 60
- m_fZoneTeleportedRadius 70
- {
-  GenericEntity {
-   ID "59D673B36B893D84"
-   components {
-    SCR_CustomAreaMeshComponent "{59D673B22B1EBC57}" {
-     m_fHeight 2
-     m_bFollowTerrain 1
-     m_fRadius 20
-    }
-   }
-  }
  }
 }

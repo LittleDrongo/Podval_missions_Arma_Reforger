@@ -7,7 +7,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sQuadName "infantry"
   m_fWorldSize 50
   m_sDescription "Атлас Ред 1"
-  m_bUseWorldScale 1
+  m_bUseWorldScale 0
   m_aVisibleForFactions {
    "FIA" "US" "USSR"
   }
@@ -25,7 +25,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sQuadName "infantry"
   m_fWorldSize 50
   m_sDescription "Блэйзер Ред 1"
-  m_bUseWorldScale 1
+  m_bUseWorldScale 0
   m_aVisibleForFactions {
    "FIA" "US" "USSR"
   }
@@ -43,7 +43,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sQuadName "infantry"
   m_fWorldSize 50
   m_sDescription "Блэйзер Ред 2"
-  m_bUseWorldScale 1
+  m_bUseWorldScale 0
   m_aVisibleForFactions {
    "FIA" "US" "USSR"
   }
@@ -61,7 +61,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sQuadName "infantry"
   m_fWorldSize 50
   m_sDescription "Блэйзер Ред 3"
-  m_bUseWorldScale 1
+  m_bUseWorldScale 0
   m_aVisibleForFactions {
    "FIA" "US" "USSR"
   }
@@ -79,7 +79,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sQuadName "infantry"
   m_fWorldSize 50
   m_sDescription "Блэйзер Ред 4"
-  m_bUseWorldScale 1
+  m_bUseWorldScale 0
   m_aVisibleForFactions {
    "FIA" "US" "USSR"
   }
@@ -97,7 +97,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sQuadName "infantry"
   m_fWorldSize 50
   m_sDescription "Хаос Ред 1"
-  m_bUseWorldScale 1
+  m_bUseWorldScale 0
   m_aVisibleForFactions {
    "FIA" "US" "USSR"
   }
@@ -115,7 +115,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sQuadName "infantry"
   m_fWorldSize 50
   m_sDescription "Хаос Ред 2"
-  m_bUseWorldScale 1
+  m_bUseWorldScale 0
   m_aVisibleForFactions {
    "FIA" "US" "USSR"
   }
@@ -133,7 +133,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sQuadName "infantry"
   m_fWorldSize 50
   m_sDescription "Хаос Ред 3"
-  m_bUseWorldScale 1
+  m_bUseWorldScale 0
   m_aVisibleForFactions {
    "FIA" "US" "USSR"
   }
@@ -224,8 +224,10 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 0
  }
  {
-  coords 4942.254 36.125 9157.109
-  angleY 71.514
+  coords 4490.329 14.218 9493.938
+  angleX 0.895
+  angleY 88.849
+  angleZ -0.018
   m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 0.855 0.031 0.028 1
@@ -243,8 +245,10 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 0
  }
  {
-  coords 4944.906 36.115 9141.356
-  angleY 88.11
+  coords 4490.891 13.715 9474.885
+  angleX 1.79
+  angleY 88.973
+  angleZ -0.032
   m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 0.855 0.031 0.028 1
@@ -262,8 +266,29 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 0
  }
  {
-  coords 4942.967 36.057 9126.037
-  angleY 104.072
+  coords 4491.198 13.312 9454.256
+  angleY 91.642
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.855 0.031 0.028 1
+  m_sQuadName "Car"
+  m_fWorldSize 2.974
+  m_sDescription "#TF-Vehicle-Gaz233114 - #TF-Vehicle-Color-Green (#TF-Vehicle-Weapon-Arbalet #TF-Vehicle-Weapon-PKMT)"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 4492.118 12.511 9436.939
+  angleX 4.463
+  angleY 87.461
+  angleZ -0.198
   m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 0.855 0.031 0.028 1
@@ -349,7 +374,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  RHS_AFRF_G_201_M {
-  coords 4930.612 36.216 9181.989
+  coords 4496.277 13.312 9455.924
   m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
@@ -366,7 +391,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  RHS_AFRF_G_200_M {
-  coords 4935.584 36.124 9159.253
+  coords 4487.292 12.715 9439.146
   m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
@@ -383,7 +408,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  RHS_AFRF_G_202_M {
-  coords 4938.655 36.07 9132.291
+  coords 4486.316 13.882 9481.217
   m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
@@ -400,7 +425,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  RHS_AFRF_G_203_M {
-  coords 4931.592 35.968 9104.278
+  coords 4497.033 11.684 9427.961
   m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1

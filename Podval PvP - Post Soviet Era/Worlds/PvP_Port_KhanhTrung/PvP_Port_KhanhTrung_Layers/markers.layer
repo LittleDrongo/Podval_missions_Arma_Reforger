@@ -1,0 +1,30 @@
+$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ attack3 {
+  coords 2146.487 13.523 218.732
+  angleY 90
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "Task_Attack"
+  m_fWorldSize 35
+  m_sDescription "Здание Б"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack2 {
+  coords 2051.934 13.477 158.63
+  angleY 90
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "Task_Attack"
+  m_fWorldSize 35
+  m_sDescription "Здание А"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "Ses_CDF" "RHS_AFRF" "RHS_USAF"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+}

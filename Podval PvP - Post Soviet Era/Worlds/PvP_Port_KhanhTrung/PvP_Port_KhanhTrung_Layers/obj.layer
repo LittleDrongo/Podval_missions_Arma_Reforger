@@ -1,0 +1,26 @@
+$grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
+ {
+  coords 4275.639 0 11239.247
+  m_sTitle "Удержать здание А"
+  m_iScore 50
+  m_sFactionKey "RHS_USAF"
+ }
+ {
+  coords 4287.987 0 11296.067
+  m_sTitle "Удержать здание Б"
+  m_iScore 50
+  m_sFactionKey "RHS_USAF"
+ }
+ {
+  coords 4256.378 0 11337.29
+  m_sTitle "Занять здание А"
+  m_iScore 50
+  m_sFactionKey "Ses_TKG"
+ }
+ {
+  coords 4271.501 0 11368.588
+  m_sTitle "Занять здание Б"
+  m_iScore 50
+  m_sFactionKey "Ses_TKG"
+ }
+}
