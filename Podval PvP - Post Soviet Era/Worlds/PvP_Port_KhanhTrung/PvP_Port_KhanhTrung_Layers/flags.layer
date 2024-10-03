@@ -19,4 +19,10 @@ $grp GenericEntity : "{795552B887CD50E7}Prefabs/Props/Industrial/ConcretePanel_0
   angleY -129.383
   angleZ 0.03
  }
+ {
+  coords 2057.403 13.442 168.169
+  angleX 1.222
+  angleY -129.383
+  angleZ 0.03
+ }
 }
