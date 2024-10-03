@@ -1,0 +1,19 @@
+MetaFileClass {
+ Name "{24BD65B8AA4CC421}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/FSO/Character_RHS_AFRF_FSO_Pistol.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+  EntityTemplateResourceClass Xbox : PC {
+  }
+ }
+}

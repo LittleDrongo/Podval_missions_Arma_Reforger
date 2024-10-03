@@ -193,6 +193,30 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{628683598FD08E86}" {
+   Id "DRG_ION_Rifleman"
+   Target_en_us "ION Figther"
+   Target_ru_ru "Боевик ИОН"
+   Modified 1652987440
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{6286835A8AB49ECC}" {
+   Id "DRG_ION_Sapper"
+   Target_en_us "Sapper ION"
+   Target_ru_ru "Сапёр ИОН"
+   Modified 1652987909
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{6286835B30D45AFD}" {
+   Id "DRG_ION_TeamLeader"
+   Target_en_us "TeamLeader ION"
+   Target_ru_ru "Командир группы ИОН"
+   Modified 1652988057
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{61CF39320BCCAA57}" {
    Id "DRG_PC_Gen_III_Base_AR_Desc"
    Target_en_us "Developed by Podval"
@@ -270,6 +294,14 @@ StringTable {
    Target_en_us "Spec-Ops Saboteur"
    Target_ru_ru "Подрывник ССО"
    Modified 1640963691
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{62868352D24FB61B}" {
+   Id "DRG_SS_rifleman"
+   Target_en_us "Security service officer"
+   Target_ru_ru "Оперативник службы безопасности"
+   Modified 1652983936
    Author "hasta"
    LastChanged "hasta"
   }

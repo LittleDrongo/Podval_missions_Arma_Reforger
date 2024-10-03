@@ -1,0 +1,19 @@
+MetaFileClass {
+ Name "{AD36FCA13C580256}Worlds/PvP_Threat_to_Diplomacy_Everon/PvP_Threat_to_Diplomacy_Everon.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass PS5 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+  ENTResourceClass Xbox : PC {
+  }
+ }
+}

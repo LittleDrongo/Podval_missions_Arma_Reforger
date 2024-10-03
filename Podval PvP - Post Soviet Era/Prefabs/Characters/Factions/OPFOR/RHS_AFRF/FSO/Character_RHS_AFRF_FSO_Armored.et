@@ -1,0 +1,14 @@
+SCR_ChimeraCharacter : "{6BBC0E66519CA877}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/FSO/Character_RHS_AFRF_FSO_Unarmed.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo ArmoredVest {
+     Prefab "{CD38415A20E5DD22}Prefabs/Characters/Vests/Vest_Taktika/Vest_Taktika_groinProtection_black.et"
+    }
+    LoadoutSlotInfo Back {
+    }
+   }
+  }
+ }
+}

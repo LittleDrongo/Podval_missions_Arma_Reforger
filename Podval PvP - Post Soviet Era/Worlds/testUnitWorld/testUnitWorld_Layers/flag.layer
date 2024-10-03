@@ -1,6 +1,14 @@
 SCR_ChimeraCharacter {
  coords 92.445 1 223.443
 }
+$grp SCR_ChimeraCharacter : "{00F47F72680EB992}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Unarmed.et" {
+ {
+  coords 52.318 1 242.915
+ }
+ {
+  coords 48.483 1 244.151
+ }
+}
 GenericEntity : "{071B55C2A5E0346F}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V2_US.et" {
  coords 80.653 1 219.726
 }
@@ -12,36 +20,6 @@ GenericEntity : "{0DBE058F13F0C7E8}PrefabsEditable/Auto/Structures/Military/Flag
 }
 GenericEntity : "{119D0AA19EF023A7}Prefabs/Items/Equipment/Radios/INDFOR_Radio_R187P1_OLD_SL.et" {
  coords 82.666 1 213.665
-}
-GenericEntity : "{125B4AD05FC87ED1}Prefabs/Weapons/Rifles/M27IAR/Rifle_M27IAR_2_Drongo.et" {
- components {
-  WeaponComponent "{CFBAA4B706BA66E8}" {
-   components {
-    AttachmentSlotComponent "{5CC8E73BB698D287}" {
-     Enabled 0
-    }
-    AttachmentSlotComponent "{5CD1561B4A2D591F}" {
-     Enabled 0
-    }
-    AttachmentSlotComponent "{5CF88C80AF78DA73}" {
-     Enabled 0
-    }
-    AttachmentSlotComponent "{5D873BE1CB1DD9C4}" {
-     Enabled 0
-    }
-    AttachmentSlotComponent "{5D873BE26346E4D7}" {
-     Enabled 0
-    }
-    AttachmentSlotComponent "{60A6AC64CDA3C786}" {
-     Enabled 0
-    }
-    AttachmentSlotComponent "{6174A7A88B1F8EF5}" {
-     Enabled 0
-    }
-   }
-  }
- }
- coords 68.229 1.264 243.669
 }
 GenericEntity : "{14B2D417839BF8A3}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_USSR.et" {
  coords 76.594 1 219.888
@@ -104,14 +82,6 @@ GenericEntity : "{54E8E1A933B59AA2}Prefabs/Characters/Vests/Vest_Taktika/Variant
 SCR_ChimeraCharacter : "{58A98F5B061C7507}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_RTO.et" {
  coords 94.381 1 248.31
 }
-$grp SCR_ChimeraCharacter : "{5DBAD0F229721ADB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AT.et" {
- {
-  coords 71.199 1 235.775
- }
- {
-  coords 69.715 1 242.518
- }
-}
 $grp SCR_ChimeraCharacter : "{603FD375309404CC}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_Officer.et" {
  {
   coords 86.822 1 233.381
@@ -122,6 +92,9 @@ $grp SCR_ChimeraCharacter : "{603FD375309404CC}Prefabs/Characters/Factions/BLUFO
 }
 SCR_ChimeraCharacter : "{605823C66FDBC721}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_AR.et" {
  coords 76.258 1 254.442
+}
+SCR_ChimeraCharacter : "{6754D0F9F5874A64}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_PL.et" {
+ coords 49.358 1 250.672
 }
 SCR_ChimeraCharacter : "{684303D826330DDB}Prefabs/Characters/Factions/INDFOR/TKR/mg_variants/Character_TKR_MG.et" {
  coords 96.96 1 247.51
@@ -184,6 +157,13 @@ SCR_ChimeraCharacter : "{88C7C712A74C6DAD}Prefabs/Characters/Factions/OPFOR/RHS_
 SCR_ChimeraCharacter : "{8DA9CAFC7CEFC056}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_PL.et" {
  coords 87.508 1 232.19
 }
+SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_RifleSquad_P.et" {
+ coords 51.024 1 237.122
+ m_faction "RHS_ION"
+ m_aUnitPrefabSlots {
+  "{F98D93318EE6C137}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_TL.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" "{4A5D799B4B07B170}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Sapper.et" "" ""
+ }
+}
 GenericEntity : "{95FE0F50F9593031}Prefabs/Items/Equipment/Radios/INDFOR_Radio_R148_Prv.et" {
  coords 84.03 1 214.86
 }
@@ -224,11 +204,22 @@ GenericEntity : "{B163A8898F269BDD}Prefabs/Items/Equipment/Radios/INDFOR_Radio_R
 GenericEntity : "{B31D9C2465D00D93}Prefabs/Items/Equipment/Radios/Radio_R107M_pl.et" {
  coords 81.905 1 215.308
 }
+GameEntity : "{B8ABE98AE067D30B}Prefabs/Items/Equipment/Accessories/PONOS/Ponos.et" {
+ coords 61.772 1 237.493
+}
 GenericEntity : "{BAB50E5D149D64D9}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_prv.et" {
  coords 84.688 1 212.719
 }
 SCR_ChimeraCharacter : "{BB99ED025BCA260E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Sniper.et" {
  coords 97.602 1 218.136
+}
+$grp SCR_ChimeraCharacter : "{C1F6E56F01DB4722}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_Rifleman.et" {
+ {
+  coords 43.939 1 250.24
+ }
+ {
+  coords 48 1 248.443
+ }
 }
 GenericEntity : "{C3351EC6D64ED74A}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC77.et" {
  coords 83.957 1 214.067
@@ -243,9 +234,6 @@ $grp SCR_ChimeraCharacter : "{D51475636CE569E4}Prefabs/Characters/Factions/OPFOR
  {
   coords 96.959 1 218.903
  }
-}
-SCR_ChimeraCharacter : "{D70567293EB41064}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MG.et" {
- coords 68.146 1 240.842
 }
 $grp SCR_ChimeraCharacter : "{DC6EA865F186B3D1}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_Rifleman.et" {
  {
@@ -333,11 +321,8 @@ $grp SCR_ChimeraCharacter : "{EAA4CE2A03A6D9ED}Prefabs/Characters/Factions/BLUFO
   coords 89.179 1 243.211
  }
 }
-GenericEntity : "{EDD98972553144BD}Prefabs/Weapons/Rifles/AK74N/Rifle_AK74N_Rail_ACOG_Ses_CDF.et" {
+GenericEntity : "{EDD98972553144BD}Prefabs/Weapons/Rifles/AK74N/Rifle_AK74N_Rail_ACOG.et" {
  coords 88.462 1 229.995
-}
-SCR_ChimeraCharacter : "{EEC0ADDF2643A2C6}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_HeliPilot_Radio.et" {
- coords 67.174 1 241.041
 }
 $grp SCR_ChimeraCharacter : "{F01A848FC8BDA273}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_MG.et" {
  {
@@ -347,9 +332,9 @@ $grp SCR_ChimeraCharacter : "{F01A848FC8BDA273}Prefabs/Characters/Factions/OPFOR
   coords 99.86 1 216.15
  }
 }
-SCR_ChimeraCharacter : "{F4E48C1D5E1D278C}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_AAT.et" {
- coords 72.966 1 235.567
-}
 GenericEntity : "{F8A6FE06F4C70B2C}Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_belt_arsarma_1_pistol_body_PK.et" {
  coords 100.414 1.478 218.092
+}
+SCR_ChimeraCharacter : "{F98D93318EE6C137}Prefabs/Characters/Factions/INDFOR/RHS_ION/Drg_Character_RHS_ION_TL.et" {
+ coords 45.992 1 245.601
 }
