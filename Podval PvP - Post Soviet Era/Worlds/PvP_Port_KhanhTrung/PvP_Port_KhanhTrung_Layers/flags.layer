@@ -1,3 +1,22 @@
-GenericEntity : "{0DBE058F13F0C7E8}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_US.et" {
- coords 2067.653 13.581 169.548
+$grp GenericEntity : "{0DBE058F13F0C7E8}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_US.et" {
+ {
+  coords 2052.498 17.507 175.718
+ }
+ {
+  coords 2130.58 17.63 222.596
+ }
+}
+$grp GenericEntity : "{795552B887CD50E7}Prefabs/Props/Industrial/ConcretePanel_01_stack.et" {
+ {
+  coords 2138.048 13.515 231.229
+  angleX -1.7
+  angleY -129.385
+  angleZ -0.052
+ }
+ {
+  coords 2052.846 13.304 173.345
+  angleX 1.222
+  angleY -129.383
+  angleZ 0.03
+ }
 }
