@@ -3,6 +3,19 @@ GameEntity : "{FEDC7DA627D89A65}Prefabs/Items/Equipment/Patches/Patch_RU_Flag_Re
  components {
   SCR_GadgetComponent "{628AA9CBC727058A}" {
    m_eAnimVariable ADRIANOV
+   m_eUseMask NONE
+  }
+  ActionsManagerComponent "{5DB09136B1C99451}" {
+   additionalActions {
+    SCR_EquipGadgetAction "{628AC84A13161D4C}" {
+     ParentContextList {
+      "default"
+     }
+     UIInfo UIInfo "{5250DDF0CF72184F}" {
+      Name "#AR-Inventory_Equip"
+     }
+    }
+   }
   }
  }
 }

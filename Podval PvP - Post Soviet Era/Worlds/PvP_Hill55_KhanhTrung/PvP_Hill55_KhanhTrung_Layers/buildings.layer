@@ -47,7 +47,7 @@ $grp GenericEntity : "{926C09375D2DAA4D}PrefabLibrary/Rocks/Granite/GraniteStone
   scale 2.352
  }
  {
-  coords 1154.24 -0 1755.508
+  coords 1154.24 0 1755.508
   angleY 320.953
   scale 2.352
  }

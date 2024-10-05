@@ -1,0 +1,93 @@
+GenericEntity : "{7CEEC3FF35A201A2}Prefabs/Items/Core/Compass_Base.et" {
+ ID "508AB2013EEE1E00"
+ components {
+  Drg_NotepadRtComponent "{628AC84AD07E25F0}" {
+   m_sPathLayout "{BFDD1C34CD9D8C2D}UI/layouts/NotepadSheet/NotepadSheet.layout"
+   m_sText "        Привет!"\
+   "Наследую этот префаб через кнопку \"inherit\" "\
+   "и создайте свой вариант блокнота."\
+   ""\
+   "       Hello!"\
+   "Inherit this prefab via the “inherit” button "\
+   "and create your own variant of notepad."\
+   ""\
+   "	"\
+   "                                  Drongo"
+  }
+  InventoryItemComponent "{5222EB4D0C73006B}" {
+   Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
+    ItemDisplayName UIInfo "{5222EB4D07D865FA}" {
+     Name "Empty rangecard"
+     Description "Empty rangecard"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes PhysicalAttributes {
+     Weight 0.1
+     SizeSetupStrategy Manual
+     ItemDimensions 5 5 5
+     ItemVolume 10
+    }
+    ItemAnimationAttributes ItemAnimationAttributes "{628AC84AD07E25C7}" {
+     AnimationAttachments {
+      AnimationAttachmentInfo "{628AC84AD07E25CB}" {
+       AnimGraph "{83675D0B0AB1B2C3}Assets/Items/Equipment/workspaces/paper_map.agr"
+       AnimInstance "{56794534F6B8C3D7}Assets/Items/Equipment/workspaces/player_map.asi"
+       BindingName "Gadget"
+      }
+     }
+     HandAdditiveRotation 0 -5 0
+     HandAdditiveTranslation -0.015 0 0
+     AllowInspection 1
+    }
+    CustomAttributes {
+     CharacterModifierAttributes "{52A87A37FE262120}" {
+      TurnLimit 90
+     }
+     PreviewRenderAttributes "{628AC84AD07E25D3}" {
+      CameraPreset Top
+      CameraOrbitAngles 20 0 0
+      CameraDistanceToItem 1
+      CameraOffset 0 -0.015 0
+      ItemRenderRotation 0 180 180
+      FOV 10
+      AspectRatio 1
+     }
+     SCR_SelectionMenuPreviewAttributes "{628AC84AD07E25D7}" {
+      m_fCustomFov 12
+      m_fIconSizeXMultiplier 1
+     }
+    }
+   }
+  }
+  MeshObject "{628AC84AD07E25D5}" {
+   Object "{C278EEA42E75C9E2}Assets/Props/Civilian/RangeCard/Notepad_LP.xob"
+   Materials {
+    MaterialAssignClass "{628AC84AD07E25DB}" {
+     SourceMaterial "Material"
+     AssignedMaterial "{7FE13489D6ABC30E}Assets/Props/Civilian/RangeCard/Data/notepad_rt.emat"
+    }
+   }
+   LODFactors {
+    15 0
+   }
+  }
+  RigidBody "{628AC84AD07E25D8}" {
+   Mass 1
+   LinearDamping 0.05
+   AngularDamping 0.05
+   ModelGeometry 1
+   CCDRadius 0.007
+  }
+  SCR_GadgetComponent "{628AC84AD07E25DD}" {
+   m_eAnimVariable ADRIANOV
+  }
+  ActionsManagerComponent "{508AB5952B584B2E}" {
+   ActionContexts {
+    UserActionContext "{508AC2ABEC97066C}" {
+     Position PointInfo "{508AC2ABEAC4A0F5}" {
+      Offset 0 0.1032 0
+     }
+    }
+   }
+  }
+ }
+}
