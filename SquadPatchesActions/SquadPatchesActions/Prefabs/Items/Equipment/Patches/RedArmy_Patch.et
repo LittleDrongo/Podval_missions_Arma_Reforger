@@ -1,0 +1,8 @@
+GameEntity : "{FEDC7DA627D89A65}Prefabs/Items/Equipment/Patches/Patch_RU_Flag_Reflective.et" {
+ ID "5DB09136945FC6DB"
+ components {
+  SCR_GadgetComponent "{628AA9CBC727058A}" {
+   m_eAnimVariable ADRIANOV
+  }
+ }
+}

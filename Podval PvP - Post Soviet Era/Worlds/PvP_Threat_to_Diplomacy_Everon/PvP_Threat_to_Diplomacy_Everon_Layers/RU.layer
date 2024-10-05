@@ -1,15 +1,4 @@
-GenericEntity : "{231EF6796E1D97CE}Prefabs/Items/Misc/IntelligenceFolder_E_01/IntelligenceFolder_E_01_Radio.et" {
- coords 4447.091 9.267 10837.645
- {
-  PS_ManualMarker Def1 : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
-   coords 0 0 0
-   m_MarkerColor 0.502 0 0 1
-   m_sQuadName "cross-2"
-   m_fWorldSize 40
-  }
- }
-}
-$grp Vehicle : "{7B4BBFD80FB91FF0}Prefabs/Vehicles/Wheeled/TIGR/GAZ_TIGR_v2_KORD_SPP_Green.et" {
+$grp Vehicle {
  GAZ_TIGR_v2_KORD_SPP_Green1 {
   coords 4491.255 13.312 9454.583
   angleY 2.119
@@ -55,6 +44,22 @@ $grp Vehicle : "{7B4BBFD80FB91FF0}Prefabs/Vehicles/Wheeled/TIGR/GAZ_TIGR_v2_KORD
   angleX 0.703
   angleY -78.71
   angleZ 1.053
+ }
+}
+GenericEntity : "{231EF6796E1D97CE}Prefabs/Items/Misc/IntelligenceFolder_E_01/IntelligenceFolder_E_01_Radio.et" {
+ coords 4447.091 9.267 10837.645
+ {
+  PS_ManualMarker Def1 : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+   coords 0 0 0
+   m_MarkerColor 0.502 0 0 1
+   m_sQuadName "cross-2"
+   m_fWorldSize 40
+   m_sDescription "Секретные документы"
+   m_aVisibleForFactions {
+    "RHS_AFRF"
+   }
+   m_bVisibleForEmptyFaction 1
+  }
  }
 }
 $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_RifleSquad_P.et" {
