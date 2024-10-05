@@ -1,0 +1,19 @@
+MetaFileClass {
+ Name "{7F891478B7D3A4C0}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_TeamLeader_2.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+  EntityTemplateResourceClass Xbox : PC {
+  }
+ }
+}
