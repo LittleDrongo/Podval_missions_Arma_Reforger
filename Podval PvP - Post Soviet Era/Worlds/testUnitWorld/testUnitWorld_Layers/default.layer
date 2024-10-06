@@ -15,13 +15,18 @@ GenericEntity : "{48B06B12F3BD7E9B}Prefabs/Items/Equipment/Radios/Radio_R187P1_O
 SCR_ChimeraCharacter : "{5A988A6419A39A3C}Prefabs/Characters/Factions/INDFOR/TKR/AT_variants/Character_TKR_AT3.et" {
  coords 39.813 1.906 253.631
 }
-SCR_ChimeraCharacter : "{86E82C6AFE916FB1}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_AT_random.et" {
- components {
-  PS_PlayableComponent "{5EFCC1946F475F15}" {
-   m_bIsPlayable 1
+$grp SCR_ChimeraCharacter : "{86E82C6AFE916FB1}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_AT_random.et" {
+ {
+  components {
+   PS_PlayableComponent "{5EFCC1946F475F15}" {
+    m_bIsPlayable 1
+   }
   }
+  coords 37.724 1 254.872
  }
- coords 37.724 1 254.872
+ {
+  coords 33.804 1 254.668
+ }
 }
 SCR_ChimeraCharacter : "{9411D814ADD0FF4C}Prefabs/Characters/Factions/INDFOR/TKR/AT_variants/Character_TKR_AT_2.et" {
  coords 37.708 1 254.265

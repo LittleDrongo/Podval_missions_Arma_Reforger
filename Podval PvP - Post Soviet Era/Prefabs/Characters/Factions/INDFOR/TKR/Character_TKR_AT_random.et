@@ -1,6 +1,9 @@
-SCR_ChimeraCharacter : "{EC0FA9C8693899D5}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman_Random.et" {
+SCR_ChimeraCharacter : "{AF7E582285E7C5F6}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_AT.et" {
  ID "520EC961A090B1EE"
  components {
+  PS_PlayableComponent "{5EFCC1946F475F15}" {
+   m_bIsPlayable 1
+  }
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "#DRG_TKR_Roles_AT"
