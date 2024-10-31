@@ -1,0 +1,161 @@
+GenericEntity : "{070E80C72C21BF4F}Prefabs/Compositions/Misc/SubCompositions/Tents/Tent_CommandPost_FIA_01.et" {
+ coords 5976.121 294.536 13995.794
+ angleX -4.125
+ angleY 132.94
+ angleZ 8.303
+}
+$grp StaticModelEntity : "{2CF6244D6C76F560}Prefabs/Terrain/Erosion/ErodedEmbankment_01/ErodedEmbankment_01_dirt_straight.et" {
+ {
+  coords 5975.637 285.496 13942.479
+  angleX -29.836
+  angleY -167.361
+ }
+ {
+  coords 5982.503 285.332 13940.718
+  angleX -32.511
+  angleY 179.225
+  angleZ 3.039
+ }
+ {
+  coords 6016.831 289.474 13955.609
+  angleX -22.351
+  angleY 117.189
+  angleZ 9.16
+ }
+ {
+  coords 6019.367 290.204 13961.009
+  angleX -20.263
+  angleY 90.424
+  angleZ 9.636
+ }
+ {
+  coords 6020.977 291.241 13967.269
+  angleX -22.52
+  angleY 105.221
+  angleZ 10.339
+ }
+ {
+  coords 6022.68 292.337 13972.911
+  angleX -20.776
+  angleY 96.389
+  angleZ 10.478
+ }
+}
+$grp GenericEntity : "{6A130E5B3DD3EAA9}Prefabs/Props/Forest/WoodPile/WoodPile_02_end_A.et" {
+ {
+  coords 5979.781 285.756 13940.903
+  angleX 0.702
+  angleY 102.391
+  angleZ 9.239
+ }
+ {
+  coords 5980.845 285.77 13940.668
+  angleX 1.488
+  angleY 97.539
+  angleZ 9.146
+ }
+ {
+  coords 5981.841 285.8 13940.563
+  angleX 2.149
+  angleY 93.403
+  angleZ 9.015
+ }
+ {
+  coords 5980.845 285.77 13940.667
+  angleX 1.488
+  angleY 97.539
+  angleZ 9.146
+ }
+ {
+  coords 5979.781 285.756 13940.903
+  angleX 0.702
+  angleY 102.391
+  angleZ 9.239
+ }
+ {
+  coords 5981.841 285.8 13940.563
+  angleX 2.149
+  angleY 93.403
+  angleZ 9.015
+ }
+ {
+  coords 5982.928 285.84 13940.498
+  angleX 2.149
+  angleY 93.403
+  angleZ 9.015
+ }
+ {
+  coords 5983.964 285.885 13940.479
+  angleX 3.88
+  angleY 82.135
+  angleZ 8.42
+ }
+ {
+  coords 6013.523 288.419 13948.823
+  angleX 8.672
+  angleY 37.48
+  angleZ 3.275
+ }
+ {
+  coords 6015.136 288.884 13951.319
+  angleX 9.23
+  angleY 21.731
+  angleZ 0.809
+ }
+ {
+  coords 6014.104 288.571 13949.626
+  angleX 8.887
+  angleY 33.249
+  angleZ 2.629
+ }
+ {
+  coords 6012.794 288.261 13948.031
+  angleX 8.359
+  angleY 42.439
+  angleZ 4.009
+ }
+ {
+  coords 6014.635 288.723 13950.438
+  angleX 8.887
+  angleY 33.249
+  angleZ 2.629
+ }
+}
+$grp GenericEntity : "{795D20A26B62F82F}Prefabs/Compositions/Misc/SubCompositions/Tents/Tent_Barracks_FIA_01.et" {
+ {
+  coords 5992.265 295.503 13997.564
+  angleX -7.615
+  angleY -135.728
+  angleZ -4.911
+ }
+ {
+  coords 5981.29 296.369 14005.795
+  angleX -10.016
+  angleY -157.188
+  angleZ -1.322
+ }
+ {
+  coords 5978.178 289.51 13966.012
+  angleX 9.043
+  angleY 29.372
+  angleZ 2.024
+ }
+ {
+  coords 5971.945 291.295 13978.651
+  angleX 9.019
+  angleY 49.769
+  angleZ 5.127
+ }
+ {
+  coords 5994.342 291.585 13974.077
+  angleX 3.448
+  angleY -56.474
+  angleZ -8.377
+ }
+}
+GenericEntity : "{C0EB5039FEB95354}Prefabs/Compositions/Misc/SubCompositions/Tents/Tent_Medical_FIA_01.et" {
+ coords 5992.794 293.825 13987.133
+ angleX 6.188
+ angleY -0.582
+ angleZ -5.387
+}

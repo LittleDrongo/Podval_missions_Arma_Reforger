@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{3B1A6BCC41912E6B}Worlds/PvP_Partizans_Camp_Chernarus/PvP_Partizans_Camp_Charnarus.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass PS5 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,76 @@
+GenericEntity : "{0958E6B949501D00}Prefabs/Props/Military/Generators/GeneratorPortable_US_01.et" {
+ coords 5987.464 295.109 13996.257
+ angleX 2.592
+ angleY -57.191
+ angleZ -8.898
+}
+$grp GenericEntity : "{31A455F7FD8DCE84}Prefabs/Props/Military/Sandbags/Sandbag_01_long_high_plastic.et" {
+ {
+  coords 5945.565 289.54 13975.544
+  angleX 6.214
+  angleY 58.205
+  angleZ 6.597
+ }
+ {
+  coords 5943.797 289.896 13978.178
+  angleX 7.412
+  angleY 58.351
+  angleZ 6.882
+ }
+ {
+  coords 5948.903 288.653 13969.312
+  angleX 3.6
+  angleY 84.016
+  angleZ 8.543
+ }
+ {
+  coords 5949.884 288.234 13966.332
+  angleX 6.957
+  angleY 58.285
+  angleZ 6.135
+ }
+ {
+  coords 5951.841 287.931 13963.985
+  angleX 7.019
+  angleY 43.808
+  angleZ 4.246
+ }
+}
+$grp StaticModelEntity : "{53CF78A46139AA55}Prefabs/Terrain/Erosion/ErodedEmbankment_01/ErodedEmbankment_01_dirt_wave.et" {
+ {
+  coords 5992.636 299.29 14019.638
+  angleX -13.436
+  angleY 36.413
+  angleZ 3.938
+ }
+ {
+  coords 5997.848 298.549 14014.525
+  angleX -13.899
+  angleY 59.637
+  angleZ 5.541
+ }
+ {
+  coords 5986.491 299.704 14024.414
+  angleX -17.038
+  angleY 22.796
+  angleZ 0.005
+ }
+}
+GenericEntity : "{9ED9DC6AF7936C13}Prefabs/Props/Military/Sandbags/Sandbag_01_bunker_plastic_camonet.et" {
+ coords 5946.248 288.908 13971.563
+ angleX -5.914
+ angleY -119.236
+ angleZ -6.868
+}
+GameEntity : "{D9842C11742C00CF}Prefabs/Props/Civilian/Fireplace_01.et" {
+ coords 5980.81 293.226 13986.999
+ angleX 10.597
+ angleY -0.502
+ angleZ -2.73
+}
+GenericEntity : "{DFF391458A7AC773}Prefabs/Props/Military/WaterTanks/MobileWaterTank_US_01.et" {
+ coords 5982.976 294.305 13992.357
+ angleX 8.872
+ angleY -0.28
+ angleZ -1.812
+}
