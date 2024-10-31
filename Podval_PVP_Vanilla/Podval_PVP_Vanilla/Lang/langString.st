@@ -1,14 +1,6 @@
 StringTable {
  ItemClassName "CustomStringTableItem"
  Items {
-  CustomStringTableItem "{62BED26AD2D8D92B}" {
-   Id "#DRG_ChangeFlagAction"
-   Target_en_us "Change flag"
-   Target_ru_ru "Поменять флаг"
-   Modified 1656673197
-   Author "hasta"
-   LastChanged "hasta"
-  }
   CustomStringTableItem "{61B543EF74F189EC}" {
    Id "DRG-Role_AntiTank"
    Target_en_us "Anti-Tank Specialist"
@@ -174,6 +166,14 @@ StringTable {
    Target_en_us "NSP"
    Target_ru_ru "НСП"
    Modified 1640696536
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{62BED26AD2D8D92B}" {
+   Id "DRG_ChangeFlagAction"
+   Target_en_us "Change flag"
+   Target_ru_ru "Поменять флаг"
+   Modified 1656675458
    Author "hasta"
    LastChanged "hasta"
   }
