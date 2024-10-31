@@ -93,3 +93,11 @@ PS_GameModeCoop PS_GameMode_Lobby1 : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_Game
   }
  }
 }
+$grp GenericEntity : "{8364151EF33B3B33}Prefabs/Structures/Core/FlagPole_Base.et" {
+ {
+  coords 9594.063 10.875 5214.727
+ }
+ {
+  coords 9597.374 10.875 5213.826
+ }
+}
