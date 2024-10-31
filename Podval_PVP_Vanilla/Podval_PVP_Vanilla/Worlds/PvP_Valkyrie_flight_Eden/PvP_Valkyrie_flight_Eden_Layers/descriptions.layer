@@ -1,8 +1,7 @@
 $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescription/EditableMissionDescription.et" {
  RULES {
   coords 5534.73 61.71 10496.381
-  m_sTitle "Условности"
-  m_sDescriptionLayout "{0DF2089A5BA70D01}UI/MissionDescription/DescriptionEditable_drg.layout"
+  m_sTitle "#PS-Description_HeaderRules"
   m_sTextData "ОБЩИЕ ПРАВИЛА "\
   "— Всем запрещено надевать форму, головные уборы, разгрузки, бронежилеты противника (рюкзаки можно) "\
   "— Количество радиостанций ограничено до 2-3 шт. в отделении. "\
