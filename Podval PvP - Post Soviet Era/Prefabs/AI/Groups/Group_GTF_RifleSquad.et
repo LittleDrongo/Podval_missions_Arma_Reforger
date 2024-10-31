@@ -1,6 +1,0 @@
-SCR_AIGroup : "{CD91F27702A13DDB}Prefabs/AI/Groups/Group_GTF_PlatoonSquad.et" {
- ID "0000000000000001"
- m_aUnitPrefabSlots {
-  "{3356669FAE546728}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_SL.et" "{530BE9A16B67AC11}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_GL.et" "{0CC9499AF29FD1D8}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_MG.et" "{ADC0F996831EC335}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_AMG.et" "{8676FE41E559DB67}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_AT.et" "{5EDE97809CD0C53B}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_AR.et" "{58B1D364B22A0CD6}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_Sniper.et" "{DF3119ACA202D958}Prefabs/Characters/Factions/GUER/GTF_Army/Character_GTF_Rifleman.et"
- }
-}

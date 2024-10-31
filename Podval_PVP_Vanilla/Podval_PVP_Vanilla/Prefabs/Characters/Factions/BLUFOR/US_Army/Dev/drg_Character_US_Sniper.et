@@ -4,7 +4,7 @@ SCR_ChimeraCharacter : "{903097F658A99BE3}Prefabs/Characters/Factions/BLUFOR/US_
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "#AR-Role_Sniper"
-    Icon "{0A78405E73C36477}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_Sharpshooter.edds"
+    Icon "{0C058E04C5ACCE05}UI/Icons/sniper.edds"
    }
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {

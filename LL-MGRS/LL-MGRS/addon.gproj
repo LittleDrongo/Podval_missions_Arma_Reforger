@@ -1,0 +1,8 @@
+GameProject {
+ ID "LLMGRS"
+ GUID "629801CE72FAEFB5"
+ TITLE "LL-MGRS"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

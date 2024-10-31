@@ -1,0 +1,1682 @@
+$grp CommentEntity {
+ {
+  coords 0 0.1 150
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "150"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.9
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 200
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "200"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.9
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 250
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "250"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.9
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 300
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "300"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.9
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 350
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "350"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 400
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "400"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 450
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "450"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 500
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "500"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 550
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "550"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 600
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "600"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 650
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "650"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 700
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "700"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 750
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "750"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 800
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "800"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 850
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "850"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 900
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "900"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 950
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "950"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 1000
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "1000"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 100
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "100"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.9
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords 0 0.1 50
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "50"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0.502 0 0
+  m_BackgroundTransparency 0.9
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1150
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "150"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.9
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1200
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "200"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.9
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1250
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "250"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.9
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1300
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "300"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.9
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1350
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "350"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1400
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "400"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1450
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "450"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1500
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "500"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1550
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "550"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1600
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "600"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1650
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "650"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1700
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "700"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1750
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "750"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1800
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "800"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1850
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "850"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1900
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "900"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1950
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "950"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 2000
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "2000"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1100
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "100"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.9
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.001 0.1 1050
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "50"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.125 0.502
+  m_BackgroundTransparency 0.9
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2149.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "150"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.9
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2199.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "200"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.9
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2249.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "250"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.9
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2299.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "300"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.9
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2349.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "350"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2399.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "400"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2449.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "450"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2499.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "500"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2549.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "550"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2599.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "600"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2649.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "650"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2699.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "700"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2749.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "750"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2799.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "800"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2849.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "850"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2899.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "900"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2949.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "950"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2999.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "3000"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.98
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2099.999
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "100"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.9
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+ {
+  coords -0.002 0.1 2050
+  angleX -90
+  angleY -180
+  angleZ -180
+  scale 2.395
+  m_Comment "50"
+  m_Size 14
+  m_VisibleOverall 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundColor 0 0.502 0.125
+  m_BackgroundTransparency 0.9
+  {
+   GenericEntity {
+    components {
+     MeshObject "{62A34A88F00CADF6}" {
+      Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+     }
+    }
+    coords 0 0 0.413
+    angleX 90
+    angleY 79.634
+    angleZ 79.634
+    scale 0.417
+   }
+  }
+ }
+}

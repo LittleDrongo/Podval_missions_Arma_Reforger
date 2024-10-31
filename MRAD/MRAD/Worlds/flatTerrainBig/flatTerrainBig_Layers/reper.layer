@@ -1,0 +1,8 @@
+GenericEntity {
+ components {
+  MeshObject "{62A34A88F00CADF6}" {
+   Object "{6D71816A6AE6AA66}Assets/Props/CubeMeter/box_1m.xob"
+  }
+ }
+ coords 0 -0.99 0
+}

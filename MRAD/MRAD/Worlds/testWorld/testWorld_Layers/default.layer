@@ -1,5 +1,15 @@
-GenericEntity : "{2E270983BF04AAB2}Prefabs/Items/Equipment/RangeCard/Rangecard_M4A1.et" {
- coords 1.584 1.906 2.139
+$grp GenericEntity : "{2E270983BF04AAB2}Prefabs/Items/Equipment/RangeCard/Rangecard_M4A1.et" {
+ {
+  coords 1.584 1.906 2.139
+ }
+ {
+  components {
+   Drg_NotepadRtComponent "{61ECFCAC76676880}" {
+    m_sText "dasdasdkasdhkjasdhkjasdhjasdkjaskj"
+   }
+  }
+  coords 1.705 1.906 2.191
+ }
 }
 GameEntity : "{333A794F0B55C019}Prefabs/Weapons/Attachments/Optics/m8541/Optic_M8541.et" {
  coords 1.519 1.906 2.558
