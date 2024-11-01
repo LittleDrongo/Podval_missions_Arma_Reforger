@@ -1,11 +1,40 @@
 $grp GenericEntity : "{0DBE058F13F0C7E8}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_US.et" {
  {
+  components {
+   SCR_FlagComponent "{5E3C95A1E1EE9681}" {
+    m_aFlagData {
+     PS_FlagData "{62C2EE84B5A72B90}" {
+      m_sFactionKey "US"
+     }
+     PS_FlagData "{62C2EE84ADBF01C6}" {
+      m_sFactionKey "USSR"
+      m_iCaptureCounter 1
+     }
+    }
+    m_sFactionKey "US"
+   }
+  }
   coords 7099.294 132.365 6029.422
   angleX 15.499
   angleY -29.876
   angleZ -36.226
  }
  {
+  components {
+   SCR_FlagComponent "{5E3C95A1E1EE9681}" {
+    m_aFlagData {
+     PS_FlagData "{62C2EE8499FD906C}" {
+      m_sFactionKey "US"
+      m_iCaptureCounter 0
+     }
+     PS_FlagData "{62C2EE84998BFF24}" {
+      m_sFactionKey "USSR"
+      m_iCaptureCounter 1
+     }
+    }
+    m_sFactionKey "US"
+   }
+  }
   coords 7546.135 88.292 5512.713
   angleX -11.424
   angleY 162.695

@@ -1,3 +1,14 @@
+GenericEntity : "{0D9500E01167FBAF}Prefabs/Weapons/Explosives/DemoBlock_M112/test_DemoBlock_M112_brick.et" {
+ components {
+  MeshObject "{5968D9C73C08706E}" {
+   Object "{4B4D4C4D9A5AE435}Assets/Weapons/Tripods/M3/Tripod_M3.xob"
+  }
+  SCR_MineDamageManager "{5AA692DC30B9C651}" {
+   Enabled 0
+  }
+ }
+ coords 13.79 1 233.967
+}
 $grp GenericEntity : "{119D0AA19EF023A7}Prefabs/Items/Equipment/Radios/INDFOR_Radio_R187P1_OLD_SL.et" {
  {
   coords 63.128 1 229.491
@@ -9,11 +20,55 @@ $grp GenericEntity : "{119D0AA19EF023A7}Prefabs/Items/Equipment/Radios/INDFOR_Ra
   coords 63.011 1 229.82
  }
 }
+GenericEntity : "{1571BF54599093AF}PrefabsEditable/Auto/Props/Furniture/E_MeetingTable_01.et" {
+ coords 20.813 1 231.732
+}
+GenericEntity : "{16655E8545F7231B}Prefabs/Items/Box_bulba_M2.et" {
+ components {
+  SCR_PlaceableItemComponent "{604732700271ECD4}" {
+   Enabled 1
+   m_bCanAttachToDynamicObject 1
+   m_bCanAttachAngled 1
+   m_eIgnoredPhysicsLayers 0
+   m_aIgnoredComponents {
+    "WeaponComponent" "SCR_RotorDamageManagerComponent"
+   }
+   m_fMaxPlacementDistance 1.4
+  }
+ }
+ coords 18.814 1 230.68
+}
+GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
+ coords 10.76 1 230.856
+}
 GenericEntity : "{48B06B12F3BD7E9B}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD_SL.et" {
  coords 63.142 1 229.867
 }
 SCR_ChimeraCharacter : "{5A988A6419A39A3C}Prefabs/Characters/Factions/INDFOR/TKR/AT_variants/Character_TKR_AT3.et" {
  coords 39.813 1.906 253.631
+}
+Turret : "{73530808E4B455BA}Prefabs/Weapons/Tripods/Tripod_M3_M2HB.et" {
+ components {
+  SCR_PlaceableItemComponent "{62C2D73676209D58}" {
+   m_bCanAttachToDynamicObject 1
+   m_eIgnoredPhysicsLayers 0
+   m_aIgnoredComponents {
+    "WeaponComponent" "SCR_RotorDamageManagerComponent"
+   }
+   m_fMaxPlacementDistance 1.4
+   m_ePlacementType XYZ
+  }
+  ActionsManagerComponent "{51ACD09C7181BA0B}" {
+   additionalActions {
+    SCR_PickUpItemAction "{62C2D73622F068F7}" {
+     ParentContextList {
+      "default"
+     }
+    }
+   }
+  }
+ }
+ coords 17.347 1 233.855
 }
 $grp SCR_ChimeraCharacter : "{86E82C6AFE916FB1}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_AT_random.et" {
  {

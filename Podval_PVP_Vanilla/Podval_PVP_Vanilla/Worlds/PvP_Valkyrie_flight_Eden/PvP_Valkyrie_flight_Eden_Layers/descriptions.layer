@@ -56,7 +56,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  ABOUT {
   coords 5568.057 56.802 10524.196
   m_sTitle "#PS-Description_HeaderAboutMission"
-  m_sTextData "Аэромобильная операция ВС США с целью захвата опорного пункта ВС США."
+  m_sTextData "Аэромобильная операция ВС США с целью захвата опорного пункта ВС СССР."
   m_bEmptyFactionVisibility 1
   m_bShowForAnyFaction 1
  }
