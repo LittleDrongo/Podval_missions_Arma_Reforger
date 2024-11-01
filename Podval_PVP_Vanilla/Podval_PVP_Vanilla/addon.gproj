@@ -1,6 +1,6 @@
 GameProject {
- ID "PodvalPVPVanilla"
- GUID "5EAF354E3B3071C4"
+ ID "PodvalPVPVanillaDev" 
+ GUID "7777777777777777"
  TITLE "Podval_PVP_Vanilla"
  Dependencies {
   "596523840114E2D3"
