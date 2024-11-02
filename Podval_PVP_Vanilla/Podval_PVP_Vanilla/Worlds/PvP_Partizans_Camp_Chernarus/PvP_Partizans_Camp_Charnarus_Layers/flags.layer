@@ -1,0 +1,18 @@
+GenericEntity : "{8528347E5F47F2A4}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_FIA.et" {
+ components {
+  SCR_FlagComponent "{5E3C95A1E1EE9681}" {
+   m_aFlagData {
+    PS_FlagData "{62C4942B0C82AAC0}" {
+     m_sFactionKey "USSR"
+     m_iCaptureCounter 1
+    }
+    PS_FlagData "{62C4942B0C46E3F3}" {
+     m_sFactionKey "FIA"
+     m_iCaptureCounter 1
+    }
+   }
+   m_sFactionKey "FIA"
+  }
+ }
+ coords 5979.573 296.56 13993.73
+}

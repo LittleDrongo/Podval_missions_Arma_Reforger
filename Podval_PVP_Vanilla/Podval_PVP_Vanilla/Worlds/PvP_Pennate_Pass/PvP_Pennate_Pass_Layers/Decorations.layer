@@ -462,3 +462,7 @@ $grp GenericEntity : "{B547CF929FCC6BB7}Prefabs/Props/Military/Sandbags/Sandbag_
   scale 0.8
  }
 }
+SCR_DestructibleBuildingEntity : "{CCE6A451A226AF4E}Prefabs/Structures/Military/Houses/GuardHouse_01/GuardHouse_01_beige.et" {
+ coords 8320.715 0.266 2407.712
+ angleY 126.728
+}
