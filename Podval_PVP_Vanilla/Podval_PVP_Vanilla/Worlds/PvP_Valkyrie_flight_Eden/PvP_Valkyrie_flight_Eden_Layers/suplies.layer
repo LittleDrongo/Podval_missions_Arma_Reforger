@@ -1,0 +1,26 @@
+$grp GenericEntity : "{5B1ACF5EB4596820}Prefabs/Items/supplie_box.et" {
+ {
+  coords 11117.742 35.208 11568.553
+  angleX 1.979
+  angleY -18.053
+  angleZ 0.296
+ }
+ {
+  coords 11117.541 35.231 11569.167
+  angleX 1.979
+  angleY -18.053
+  angleZ 0.296
+ }
+ {
+  coords 11117.346 35.253 11569.768
+  angleX 1.979
+  angleY -18.053
+  angleZ 0.296
+ }
+ {
+  coords 11117.143 35.275 11570.39
+  angleX 1.979
+  angleY -18.053
+  angleZ 0.296
+ }
+}

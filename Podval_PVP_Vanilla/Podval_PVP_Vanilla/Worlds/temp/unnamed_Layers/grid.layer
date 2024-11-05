@@ -1,0 +1,223 @@
+$grp PolylineShapeEntity {
+ {
+  components {
+   PS_PolyZone "{62C4F2F25C842DB4}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 1 1 1 0
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.502 0 0 1
+    m_aVisibleForFactions {
+     ""
+    }
+   }
+  }
+  coords 5123.868 207.565 13640.492
+  Points {
+   ShapePoint "{62C4F2F396794E29}" {
+    Position 0 -0.006 0
+   }
+   ShapePoint "{62C4F2F396448E18}" {
+    Position 5 0.053 0
+   }
+   ShapePoint "{62C4F2F391E6204C}" {
+    Position -296.348 20.378 -1404.87
+   }
+   ShapePoint "{62C4F2F39161D752}" {
+    Position 582.493 3.837 -1667.812
+   }
+   ShapePoint "{62C4F2F390F01E09}" {
+    Position 985.891 17.473 -292.079
+   }
+   ShapePoint "{62C4F2F3907BD106}" {
+    Position -7.236 -0.629 24.384
+   }
+  }
+  {
+   SplineShapeEntity {
+    coords -53.408 -2.371 -1331.673
+    Points {
+     ShapePoint "{5D13115BA80EE427}" {
+      Position 0 -0.001 0
+     }
+     ShapePoint "{5D13115BA80EE5EB}" {
+      Position -10.816 -0.041 7.243
+     }
+     ShapePoint "{5D13115BA6612AFD}" {
+      Position -20.138 -0.078 11.075
+     }
+     ShapePoint "{5D13115BA6226B43}" {
+      Position -31.127 0.057 16.856
+     }
+     ShapePoint "{5D13115BA5D8D538}" {
+      Position -42.99 -0.046 24.977
+     }
+     ShapePoint "{5D13115BA56343B7}" {
+      Position -52.726 0.372 24.713
+     }
+    }
+    LineColor 0 0 0 0
+    {
+     WallGeneratorEntity : "{7800837A84CBD665}PrefabLibrary/Generators/Walls/Metal/WG_TinWall_01.et" {
+      coords 0 0 0
+      Flags 1048579
+      {
+       $grp SCR_DestructibleEntity : "{24EBCCFD22E56256}PrefabLibrary/Walls/Metal/TinWall_01_6m_C.et" {
+        {
+         coords 0.032 -0.001 -0.021
+         angleY -146.192
+        }
+        {
+         coords -18.134 -0.071 10.204
+         angleY -152.889
+        }
+        {
+         coords -36.372 0.015 20.411
+         angleY -145.399
+        }
+        {
+         coords -41.287 -0.032 23.825
+         angleY -175.563
+        }
+       }
+       $grp SCR_DestructibleEntity : "{5326C298427D91A3}PrefabLibrary/Walls/Metal/TinWall_01_3m.et" {
+        {
+         coords -15.387 -0.059 9.016
+         angleY -156.569
+        }
+        {
+         coords -28.785 0.034 15.657
+         angleY -152.889
+        }
+        {
+         coords -47.245 0.178 24.288
+         angleY -175.563
+        }
+       }
+       $grp SCR_DestructibleEntity : "{AD23B4E492C47A13}PrefabLibrary/Walls/Metal/TinWall_01_6m_A.et" {
+        {
+         coords -4.937 -0.019 3.306
+         angleY -146.192
+        }
+        {
+         coords -9.901 -0.037 6.639
+         angleY -156.569
+        }
+        {
+         coords -31.451 0.06 17.016
+         angleY -145.399
+        }
+       }
+       SCR_DestructibleEntity : "{C17780042E00F53D}PrefabLibrary/Walls/Metal/TinWall_01_6m_B.et" {
+        coords -23.456 -0.019 12.928
+        angleY -152.889
+       }
+       SCR_DestructibleEntity : "{D7D4B9C12ADA4FA0}PrefabLibrary/Walls/Metal/TinWall_01_6m_Pole.et" {
+        coords -50.223 0.283 24.519
+        angleY -175.563
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{62C4F2F259B0725D}" {
+    m_cPolygonColor 1 1 1 0
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.502 0 0 1
+    m_aVisibleForFactions {
+     ""
+    }
+   }
+  }
+  coords 4816.023 227.75 12260.515
+  Points {
+   ShapePoint "{62C4F2F38E4E1BAE}" {
+    Position 0 -0.011 0
+   }
+   ShapePoint "{62C4F2F38E4D1A89}" {
+    Position 5 -0.346 0
+   }
+   ShapePoint "{62C4F2F38991F9EB}" {
+    Position -837.54 25.415 90.827
+   }
+   ShapePoint "{62C4F2F388815B19}" {
+    Position -713.721 -30.005 1272.942
+   }
+   ShapePoint "{62C4F2F38BDC892C}" {
+    Position 309.297 -20.849 1346.892
+   }
+   ShapePoint "{62C4F2F38B3A0330}" {
+    Position 8.776 -3.05 34.586
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{62C4F2F259B0725D}" {
+    m_cPolygonColor 1 1 1 0
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.502 0 0 1
+    m_aVisibleForFactions {
+     ""
+    }
+   }
+  }
+  coords 4349.073 278.714 10589.486
+  Points {
+   ShapePoint "{62C4F2F38E4E1BAE}" {
+    Position 0 -0.011 0
+   }
+   ShapePoint "{62C4F2F38E4D1A89}" {
+    Position 5 -0.346 0
+   }
+   ShapePoint "{62C4F2F38991F9EB}" {
+    Position -837.54 25.415 90.827
+   }
+   ShapePoint "{62C4F2F388815B19}" {
+    Position -713.721 -30.005 1272.942
+   }
+   ShapePoint "{62C4F2F38BDC892C}" {
+    Position 309.297 -20.849 1346.892
+   }
+   ShapePoint "{62C4F2F38B3A0330}" {
+    Position 8.776 -3.05 34.586
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{62C4F2F25C842DB4}" {
+    m_cPolygonColor 1 1 1 0
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.502 0 0 1
+    m_aVisibleForFactions {
+     ""
+    }
+   }
+  }
+  coords 5036.961 258.529 11526.447
+  Points {
+   ShapePoint "{62C4F2F396794E29}" {
+    Position 0 -0.006 0
+   }
+   ShapePoint "{62C4F2F396448E18}" {
+    Position 5 0.053 0
+   }
+   ShapePoint "{62C4F2F391E6204C}" {
+    Position -296.348 20.378 -1404.87
+   }
+   ShapePoint "{62C4F2F39161D752}" {
+    Position 582.493 3.837 -1667.812
+   }
+   ShapePoint "{62C4F2F390F01E09}" {
+    Position 985.891 17.473 -292.079
+   }
+   ShapePoint "{62C4F2F3907BD106}" {
+    Position -7.236 -0.629 24.384
+   }
+  }
+ }
+}
