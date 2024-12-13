@@ -1,0 +1,8 @@
+GameProject {
+ ID "BulletWay"
+ GUID "62F0E58707D126C6"
+ TITLE "BulletWay"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

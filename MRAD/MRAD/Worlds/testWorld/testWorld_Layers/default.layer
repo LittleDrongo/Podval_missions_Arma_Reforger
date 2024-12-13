@@ -1,21 +1,24 @@
-$grp GenericEntity : "{2E270983BF04AAB2}Prefabs/Items/Equipment/RangeCard/Rangecard_M4A1.et" {
- {
-  coords 1.584 1.906 2.139
- }
- {
-  components {
-   Drg_NotepadRtComponent "{61ECFCAC76676880}" {
-    m_sText "dasdasdkasdhkjasdhkjasdhjasdkjaskj"
-   }
-  }
-  coords 1.705 1.906 2.191
- }
-}
 GameEntity : "{333A794F0B55C019}Prefabs/Weapons/Attachments/Optics/m8541/Optic_M8541.et" {
  coords 1.519 1.906 2.558
 }
+GenericEntity : "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et" {
+ coords 2.052 1.053 2.04
+ angleY 43.517
+}
 GameEntity : "{6DC0EE135013FC47}Prefabs/Weapons/Attachments/Optics/ts30a2/optic_ts30a2_base.et" {
  coords 0.907 1.906 2.189
+}
+GenericEntity : "{6FD6C96121905202}Prefabs/Items/Equipment/Watches/Watch_Vostok.et" {
+ components {
+  InventoryItemComponent "{5222EB4D0C73006B}" {
+   Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
+    ItemAnimationAttributes ItemAnimationAttributes "{568A982833EF25F4}" {
+     AllowInspection 1
+    }
+   }
+  }
+ }
+ coords 1.501 1.906 2.277
 }
 GenericEntity : "{757FCCE8E756175C}Prefabs/Props/Furniture/MeetingTable_01.et" {
  coords 1.362 1 2.624
@@ -84,9 +87,36 @@ $grp GenericEntity : "{7F519F63E96020D4}Prefabs/Weapons/Magazines/PmagUnwindowed
   coords 2.396 1.906 2.331
  }
 }
+GameEntity : "{98C79F5FAE12F9B6}Prefabs/Weapons/Attachments/Bayonets/Bayonet_6Kh4.et" {
+ components {
+  InventoryItemComponent "{52627A1F45CD4EB6}" {
+   Attributes SCR_ItemAttributeCollection "{608CA292C2A37516}" {
+    ItemAnimationAttributes ItemAnimationAttributes "{62E8B60D2005B056}" {
+     AnimationInstance "{4FCBEA45CAEBC9C0}anims/workspaces/player/player_main_1h.asi"
+     AnimationIKPose "{3E5C93E85F05C6B5}Assets/Weapons/Grenades/RGD5/anims/anm/p_rgd5_ik.anm"
+     AllowInspection 1
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{60A09184D697B1DF}" {
+      AnimationInstance "{CD706CDA25024989}anims/workspaces/player/player_inventory_1handed.asi"
+     }
+    }
+   }
+   WbPlacementFromAttributes 1
+  }
+  SCR_MeleeWeaponProperties "{62E8B60ED638C1C5}" {
+  }
+ }
+ coords 1.63 1.917 2.321
+ angleY 5.056
+ angleZ 90
+}
 GameEntity : "{ACC9B43941CE5EA6}Prefabs/Weapons/Attachments/Optics/Optic_leupoldMK4/Optic_leupoldMK4.et" {
  coords 1.149 1.906 2.286
 }
 GenericEntity : "{B41250C7E1720F92}Prefabs/Weapons/Rifles/M4A1/Rifle_M4A1_BLOCK_1_NT4.et" {
  coords 2.134 1.906 2.377
+}
+GenericEntity : "{D30D4FA5A82D6F0D}Prefabs/Items/Equipment/RangeCard/RangeCard_Notepad_Base.et" {
+ coords 2.302 1.906 2.204
 }

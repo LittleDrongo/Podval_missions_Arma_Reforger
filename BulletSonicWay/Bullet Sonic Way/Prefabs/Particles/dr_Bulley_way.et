@@ -1,0 +1,16 @@
+ParticleEffectEntity {
+ ID "62F0E585D4C7122F"
+ components {
+  SignalsManagerComponent "{62F0E585D4C71237}" {
+  }
+  SoundComponent "{62F0E585D4C7123C}" {
+   Enabled 0
+   Filenames {
+    "{ADF9249D6654328B}Sounds/Compositions/Misc/Campfire/Compositions_Campfire.acp"
+   }
+   IncludeInactive 1
+  }
+ }
+ coords -18.547 0.1 -56.166
+ EffectPath "{06F4399C2F1E9AFD}Prefabs/Particles/BulletWave.ptc"
+}

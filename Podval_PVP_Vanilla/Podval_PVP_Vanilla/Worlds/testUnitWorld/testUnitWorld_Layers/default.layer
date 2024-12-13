@@ -1,107 +1,38 @@
-SCR_ChimeraCharacter : "{0A094940386CC0EF}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_BaseLoadout.et" {
- coords 122.698 1 164.014
+SCR_ChimeraCharacter : "{072F75BB5AA0200E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_SeniorScout.et" {
+ coords 135.879 1 141.927
 }
-GenericEntity : "{0C6056970C640273}Prefabs/Items/Equipment/Radios/Radio_ANPRC77_PL.et" {
- coords 134.331 1 136.461
+GenericEntity : "{135044000CA7BF85}Prefabs/Weapons/Rifles/M16/Variants/Rifle_M16A2_carbine_M203_OliveGreen_Solid.et" {
+ coords 139.569 1 153.944
 }
-SCR_ChimeraCharacter : "{15453D336EC875EF}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_MGA.et" {
- coords 135.106 1 173.05
+GenericEntity : "{43D001A8797EA5C9}Prefabs/Weapons/Rifles/AK74/Variants/Rifle_AK74N_PBS4.et" {
+ coords 131.96 1 144.709
 }
-SCR_ChimeraCharacter : "{1ADC4934980AA91A}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_PL.et" {
- coords 143.266 1 156.536
+SCR_ChimeraCharacter : "{5F88BE1BA34D5A97}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_PL.et" {
+ coords 133.338 1 144.387
 }
-SCR_ChimeraCharacter : "{23AFC29074BBA605}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Officer.et" {
- coords 144.154 1 166.528
+GenericEntity : "{83CE659F2C763F28}Prefabs/Weapons/Rifles/M16/Variants/Rifle_M16A2_carbine_suppressor_OliveGreen_Sand_Stripes.et" {
+ coords 140.248 1 154.288
+ angleZ 0
 }
-$grp SCR_ChimeraCharacter : "{36E26873CEE024C5}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_AT.et" {
- {
-  coords 126.666 1 160.852
- }
- {
-  coords 127.35 1 166.06
- }
+GenericEntity : "{877128FBE22FF2C9}Prefabs/Weapons/Rifles/M16/Variants/Rifle_M16A2_carbine_suppressor_AP2K_OliveGreen_Sand_Stripes.et" {
+ coords 136.714 1 154.957
+ angleZ 0
 }
-SCR_ChimeraCharacter : "{39010C8A890ADB0C}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_MG.et" {
- coords 137.379 1 133.869
+SCR_ChimeraCharacter : "{8A242D399692B223}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_SeniorRifleman.et" {
+ coords 134.754 1 153.167
 }
-SCR_ChimeraCharacter : "{48C93CF154FFB9EF}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_SR.et" {
- coords 138.875 1 151.263
+SCR_ChimeraCharacter : "{9E981A3B207C7653}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_Officer.et" {
+ coords 138.274 1 152.305
 }
-SCR_ChimeraCharacter : "{516B6D08CE76004B}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Rifleman.et" {
- coords 140.998 1 155.382
+GenericEntity : "{AE81219082244685}Prefabs/Weapons/Rifles/M16/Variants/Rifle_M16A2_carbine_suppressor_M203_OliveGreen_Sand_Stripes.et" {
+ coords 138.943 1 153.613
 }
-GenericEntity : "{6492196F107687BC}Prefabs/Items/Equipment/Radios/Radio_R148_SL.et" {
- coords 128.89 1 123.75
+SCR_ChimeraCharacter : "{C6960782BEAA6B07}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_SL.et" {
+ coords 138.778 1 140.357
 }
-SCR_ChimeraCharacter : "{6A651A06B845EA4B}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Unarmed.et" {
- coords 137.65 1 145.327
+SCR_ChimeraCharacter : "{CBED715857D6D899}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_Leader.et" {
+ coords 140.168 1 151.951
 }
-SCR_ChimeraCharacter : "{83C2F0AD85ED988A}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_SL.et" {
- coords 136.531 1 150.385
-}
-SCR_ChimeraCharacter : "{8D15D76B163B42E6}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_MGA_B.et" {
- coords 141.998 1 167.451
-}
-SCR_ChimeraCharacter : "{8E1DE06D8C1B0EDC}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot.et" {
- coords 143.811 1 162.166
-}
-GenericEntity : "{92B819C350698359}Prefabs/Items/Equipment/Radios/Radio_R148_rprv.et" {
- coords 133.724 1 126.552
-}
-SCR_ChimeraCharacter : "{95616EE9E638BC9D}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Sapper.et" {
- coords 136.498 1 153.709
-}
-SCR_ChimeraCharacter : "{96B44E4B03427129}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_CrewGunner.et" {
- coords 134.924 1 169.414
-}
-GenericEntity : "{A7313E86D0CE3C83}Prefabs/Items/Equipment/Radios/Radio_R148_FIA_rprv.et" {
- coords 135.841 1 131.064
-}
-SCR_ChimeraCharacter : "{AE13A3EF3D1D4508}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot_Radio.et" {
- coords 143.056 1 159.404
-}
-SCR_ChimeraCharacter : "{B0E9B83A7D6563B4}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_HeliCrew.et" {
- coords 139.711 1 170.15
-}
-GenericEntity : "{B31D9C2465D00D93}Prefabs/Items/Equipment/Radios/Radio_R107M_PL.et" {
- coords 134.509 1 133.964
-}
-GenericEntity : "{BA2D0EE170E44DC7}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_rprv.et" {
- coords 136.122 1 139.656
-}
-SCR_ChimeraCharacter : "{BC5DDFA8D9262E7A}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_MG.et" {
- coords 137.738 1 173.446
-}
-SCR_ChimeraCharacter : "{C8917EA9B578E2CE}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Medic.et" {
- coords 137.621 1 169.183
-}
-SCR_ChimeraCharacter : "{CF75C616AFC95FE8}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_CrewDriver.et" {
- coords 133.343 1 167.254
-}
-GenericEntity : "{DB03C02C4AB1E0F0}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_SL.et" {
- coords 134.78 1 138.039
-}
-GenericEntity : "{DB600C5EAB00714B}Prefabs/Items/Equipment/Radios/Radio_R148_FIA_SL.et" {
- coords 134.186 1 128.508
-}
-SCR_ChimeraCharacter : "{DBC2E2FDC3D25C0F}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_SR_Optic.et" {
- coords 148.216 1 155.072
-}
-SCR_ChimeraCharacter : "{EE4A01B2B7693A99}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_AR.et" {
- coords 130.725 1 159.804
-}
-SCR_ChimeraCharacter : "{EF5410A6E1379176}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_AAT.et" {
- coords 131.752 1 157.094
-}
-SCR_ChimeraCharacter : "{F0534BE840748288}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Rifleman_GL.et" {
- coords 138.55 1 155.628
-}
-SCR_ChimeraCharacter : "{F111BECBF28A7C11}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Armored.et" {
- coords 129.781 1 162.316
-}
-SCR_ChimeraCharacter : "{FBECF688D117F377}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Sniper.et" {
- coords 144.447 1 151.138
-}
-SCR_ChimeraCharacter : "{FBFF6922C0194CA6}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_SL_GL.et" {
- coords 140.935 1 151.202
+SCR_ChimeraCharacter : "{E3C185DC8DBB377B}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_PL.et" {
+ coords 136.293 1 152.752
 }

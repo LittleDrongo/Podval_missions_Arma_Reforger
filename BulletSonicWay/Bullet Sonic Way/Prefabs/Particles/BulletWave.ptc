@@ -1,0 +1,35 @@
+EffectDef {
+ Version 2
+ Emitters {
+  EmitterDef Sonic_Wave {
+   LocalTransform 1
+   Material "{C6F4DCD7DC66D027}Particles/_Materials/Gas/Smoke_Weapons_01.emat"
+   SizeMultiplier 0.1
+   SizeRND 0.1
+   Velocity 0
+   AnimOnce 1
+   Lifetime 1
+   Alpha {
+    0 0.528 1 0
+   }
+  }
+  EmitterDef Sonic_1 {
+   MaxNum 45
+   BirthRate 55
+   LocalTransform 1
+   Material "{239FB3ED3B942A0B}Particles/_Materials/Gas/Smoke_Weapons_02.emat"
+   SizeMultiplier 0.15
+   SizeRND 0.15
+   RandomAngle 1
+   Velocity 0
+   AnimOnce 1
+   AnimFPS 60
+   Lifetime 1
+   Alpha {
+    0 0.564 0.055 0.712 1 0
+   }
+   EmittingTime 1
+   Repeat 0
+  }
+ }
+}

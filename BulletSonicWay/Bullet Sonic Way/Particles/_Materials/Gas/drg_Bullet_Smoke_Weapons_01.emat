@@ -1,0 +1,17 @@
+Particle {
+ AlbedoMap "{8D945078DF1AA14D}Particles/_Textures/Smoke_Weapon_01_BCA.edds"
+ NormalMap "{9194DEF8AB17CDDE}Particles/_Textures/4x4_sphere_N.edds"
+ Diffuse 0.032 0.032 0.032 1
+ Ambient 0.171 0.171 0.171 1
+ Emissive 0.003 0.003 0.003 0
+ EmissiveAbsoluteLV 0
+ AlphaToEmissiveLV FromAlphaGraphs
+ ReceiveShadow 1
+ ReceiveProbesLighting 1
+ ReceiveLights 1
+ BlendMode Additive_AlphaModulate
+ TileU 4
+ TileV 4
+ SphereSizeMultiplier 0.5
+ Softness 1
+}

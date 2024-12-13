@@ -1,0 +1,115 @@
+GenericEntity : "{042D11BE86F63715}Prefabs/Vehicles/Helicopters/UH1H/VehParts/Glass/UH1H_Glass_Windshield_Left.et" {
+ coords 50.619 1 231.048
+}
+GenericEntity : "{06439CE55E03721E}Prefabs/Structures/BuildingParts/Windows/Glass_PhoneBooth_E_01/Glass_Door_PhoneBooth_E_63x58.et" {
+ coords 51.343 1.276 230.74
+}
+Building : "{0C98FA35242BC3CB}Prefabs/Structures/BuildingParts/Windows/Win_FactoryHall_E/Win_FactoryHall_E_340x340_55555_base.et" {
+ coords 37.568 1 236.464
+}
+GenericEntity : "{0ED7475B14DB5DE4}Prefabs/Structures/BuildingParts/Windows/Glass_ConcretePlant/Glass_01_82x84.et" {
+ coords 51.038 1 229.917
+}
+GenericEntity : "{16E70B8686161A2D}Prefabs/Structures/BuildingParts/Windows/Glass_60x133/Glass_60x133_M1.et" {
+ coords 51.47 1 228.005
+}
+GenericEntity : "{18D3425C4DD33E82}Prefabs/Vehicles/Wheeled/UAZ452/Dst/UAZ452_glass_F.et" {
+ coords 54.455 1.671 228.9
+}
+Building : "{1E1BEC6839150401}Prefabs/Structures/BuildingParts/Windows/Win_MunicipalOffice_E_01/Win_Counter_MunicialOffice_E_01_120x100_21_B.et" {
+ coords 40.778 1 234.191
+}
+GenericEntity : "{27B6AF2B97642E86}Prefabs/Structures/BuildingParts/Doors/Door_Village_E_A_RIGHT_INT_ST_M1.et" {
+ components {
+  DoorComponent "{221C667A9F7D4B69}" {
+   AngleRange -90
+  }
+  Hierarchy "{7642683606C70747}" {
+   PivotID "socket_door_RIGHT"
+  }
+ }
+ coords 52.877 1 217.538
+}
+Building : "{2F1B0B2CF15910CA}Prefabs/Structures/BuildingParts/Windows/Win_Villa_E_A/Win_Villa_E_A_315x285_33_B.et" {
+ coords 49.335 1 232.629
+}
+GenericEntity : "{3F23DA7ACAC0ED90}Prefabs/Props/Civilian/GlassBeer_01/GlassBeer_01.et" {
+ coords 56.422 1 229.93
+}
+GenericEntity : "{4E56DF6D89D44A55}Prefabs/Structures/BuildingParts/Windows/Win_GlassBlock_01/Win_GlassBlock_01_200x100_int.et" {
+ coords 40.205 1 235.264
+}
+Building : "{55DC06190B21CBFA}Prefabs/Structures/BuildingParts/Windows/Win_Historical_A/Win_Historical_A_90x90_22_B.et" {
+ coords 40.358 1 234.577
+}
+GenericEntity : "{5C9384D0382F2A34}Prefabs/Structures/BuildingParts/Windows/Glass_32x42/Glass_32x42.et" {
+ coords 51.32 1.433 230.785
+}
+GenericEntity : "{5F8EB7401DF08D3C}Prefabs/Structures/BuildingParts/Windows/Glass_62x62/Glass_62x62_int.et" {
+ coords 52.054 1 229.424
+}
+Building : "{8D848BCFE2530FF1}Prefabs/Structures/BuildingParts/Windows/Win_Services_E_A/Win_Services_E_A_UNI_135x300_111_B_INT.et" {
+ coords 43.077 1 234.084
+}
+GenericEntity : "{909DF42FAE53A015}Prefabs/Structures/BuildingParts/Windows/Glass_198x190/Glass_198x190.et" {
+ coords 52.462 1 229.488
+}
+Building : "{90C830B91785D87C}Prefabs/Structures/BuildingParts/Windows/Win_Office_E_A/Win_Office_E_130x142_1_B_base.et" {
+ coords 41.8 1 233.302
+}
+GenericEntity : "{94846C3D09DEA0DE}Prefabs/Vehicles/Helicopters/Mi8MT/VehParts/Glass/Mi-8_Glass_Door_Left_01.et" {
+ coords 53.61 1.978 228.466
+}
+GenericEntity : "{A5E350585874DDCF}Prefabs/Vehicles/Wheeled/UAZ452/Dst/UAZ452_glass_FR1.et" {
+ coords 50.359 1 231.238
+}
+GenericEntity : "{A672274B7A57FF01}Prefabs/Structures/BuildingParts/Windows/Win_GlassBlock_01/Win_GlassBlock_01_150x225.et" {
+ coords 55.475 1 228.562
+}
+GenericEntity : "{AF843E1825BC85A7}Prefabs/Structures/BuildingParts/Windows/Glass_GuardHouse_02_58x212/Glass_GuardHouse_02_58x212.et" {
+ coords 37.223 1 244.077
+}
+Building : "{B354A17CD6BEE37E}Prefabs/Structures/BuildingParts/Windows/Win_MunicipalOffice_E_01/Win_Counter_MunicialOffice_E_01_120x100_21_B_base.et" {
+ coords 48.937 1 231.992
+}
+GenericEntity : "{BE194BB44666C304}Prefabs/Structures/BuildingParts/Windows/Glass_74x81/Glass_74x81.et" {
+ coords 52.101 1 229.319
+}
+Building : "{C15EE30DC3441358}Prefabs/Structures/BuildingParts/Windows/Win_HarborCrane_A/Win_HarborCrane_A_126x116.et" {
+ coords 50.348 1.063 231.379
+}
+GenericEntity : "{C44ABBADC5E7F7E8}Prefabs/Structures/BuildingParts/Windows/Glass_109x109/Glass_109x109_M1.et" {
+ coords 52.121 1 229.549
+}
+GenericEntity : "{D05D0DB285EBFEEF}Prefabs/Structures/BuildingParts/Windows/Glass_Cabin_01/Glass_Cabin_03.et" {
+ coords 52.547 1 229.053
+}
+GenericEntity : "{D1B29F6467927156}Prefabs/Props/Civilian/GlassBeer_01/GlassBeer_01_base.et" {
+ coords 51.169 1 230.764
+}
+Building : "{E7BCB6073873BE11}Prefabs/Structures/BuildingParts/Windows/Win_Lighthouse/Win_lighthouse_95x160_1_B.et" {
+ coords 39.611 1 232.642
+}
+GenericEntity : "{EE073873C285EE66}Prefabs/Vehicles/Helicopters/UH1H/VehParts/Glass/UH1H_Glass_CrewSlider_Left.et" {
+ coords 50.467 1 231.053
+}
+GenericEntity : "{FEC9E591743B4F8B}Prefabs/Structures/BuildingParts/Windows/Glass_88x154/Glass_88x154.et" {
+ components {
+  MeshObject "{51C4DA208DB0E200}" {
+   Materials {
+    MaterialAssignClass "{5856B749273C03F9}" {
+     SourceMaterial "Common/Materials/Glass_generic"
+     AssignedMaterial "{DFF3A8696381DD38}Assets/Structures/BuildingsParts/Windows/Data/window_glass_uneven_INT.emat"
+    }
+   }
+  }
+  Hierarchy "{51C4DA20F011E284}" {
+   PivotID "Socket_Glass_88x154_RIGHT"
+  }
+ }
+ coords 49.274 -2.578 199.756
+ scale 50
+}
+Building : "{FF4C8943A5F2FF00}Prefabs/Structures/BuildingParts/Windows/Win_FactoryHall_E/Win_FactoryHall_E_340x340_999999_M1.et" {
+ coords 37.593 1 237.681
+}

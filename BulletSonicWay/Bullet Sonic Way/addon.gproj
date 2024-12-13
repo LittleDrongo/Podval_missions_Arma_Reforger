@@ -1,0 +1,8 @@
+GameProject {
+ ID "BulletSonicWay"
+ GUID "62F0FAC56DD60CDE"
+ TITLE "Bullet Sonic Way"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

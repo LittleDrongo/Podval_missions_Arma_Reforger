@@ -1,0 +1,14 @@
+Projectile {
+ ID "DA5C6308000CDEF2"
+ components {
+  SlotManagerComponent "{62F0E585E8605308}" {
+   Slots {
+    EntitySlotInfo Effect {
+     Prefab "{BAED580379E668FF}Prefabs/Particles/Bulley_way.et"
+    }
+   }
+  }
+  Hierarchy "{62F0E585EC7B386C}" {
+  }
+ }
+}
