@@ -1,0 +1,8 @@
+GameProject {
+ ID "Realisticmineshells"
+ GUID "631E18996F212AF3"
+ TITLE "Realistic mine shells"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

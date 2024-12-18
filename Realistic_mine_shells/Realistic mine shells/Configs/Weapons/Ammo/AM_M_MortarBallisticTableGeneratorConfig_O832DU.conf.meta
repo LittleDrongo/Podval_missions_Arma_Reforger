@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{974C1A464B0F35E2}Configs/Weapons/Ammo/AM_M_MortarBallisticTableGeneratorConfig_O832DU.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

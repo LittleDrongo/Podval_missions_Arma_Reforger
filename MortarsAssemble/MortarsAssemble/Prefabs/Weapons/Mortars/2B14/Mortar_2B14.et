@@ -1,0 +1,23 @@
+Turret : "{89BB7489D53FBB6C}Prefabs/Weapons/Core/Mortar_Base.et" {
+ ID "5CF87D15B3D0A976"
+ components {
+  StaticWeaponComponent "{6325317870C64B2A}" {
+   m_rWeaponBagPrefab "{A1D5A386395E57E0}Prefabs/Items/Equipment/Backpacks/2B14/Backpack_2B14_Weapon.et"
+   m_rBipodBagPrefab "{88E13F812F521583}Prefabs/Items/Equipment/Backpacks/2B14/Backpack_2B14_Bipod.et"
+  }
+  ActionsManagerComponent "{51ACD09C7181BA0B}" {
+   additionalActions {
+    DisassembleWeaponAction "{63253178D2BE152F}" {
+     ParentContextList {
+      "default"
+     }
+     UIInfo UIInfo "{62B366B8A0CCB826}" {
+      Name "#DRG_disassemble_weapon"
+     }
+     Duration 5
+     "Sort Priority" 4
+    }
+   }
+  }
+ }
+}

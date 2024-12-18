@@ -1,0 +1,28 @@
+Turret : "{29F0CC704A582154}Prefabs/Weapons/Tripods/6T7/Tripod_6T7_NSV.et" {
+ coords 143.189 1 144.779
+}
+$grp GenericEntity : "{7611D0DAE5796941}Prefabs/Items/Equipment/Backpacks/Backpack_USSR_Bipod.et" {
+ {
+  coords 140.583 1 144.89
+ }
+ {
+  coords 140.705 1 133.708
+ }
+}
+GenericEntity : "{88E13F812F521583}Prefabs/Items/Equipment/Backpacks/Backpack_2B14_Bipod.et" {
+ coords 140.709 1 139.591
+}
+$grp GenericEntity : "{A1D5A386395E57E0}Prefabs/Items/Equipment/Backpacks/NSV/Backpack_2B14_Weapon.et" {
+ {
+  coords 139.972 1 139.624
+ }
+ {
+  coords 140.181 1 133.77
+ }
+}
+GenericEntity : "{B4C47869B0B37699}Prefabs/Items/Equipment/Backpacks/NSV/Backpack_NSV_Weapon.et" {
+ coords 139.85 1 144.966
+}
+Turret : "{D1FFE458E8AC4BDB}Prefabs/Weapons/Mortars/2B14/Mortar_2B14.et" {
+ coords 143.629 1 139.164
+}

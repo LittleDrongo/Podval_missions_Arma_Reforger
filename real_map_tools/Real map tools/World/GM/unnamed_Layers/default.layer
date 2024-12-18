@@ -1,0 +1,6 @@
+GenericEntity : "{922F95F91943F69A}Prefabs/Items/Equipment/Maps/PaperMap_01_folded_US.et" {
+ coords 1384.433 36.299 2370.653
+}
+GenericEntity : "{F849217AB3BA88BE}Prefabs/Items/Equipment/Maps/PaperMap_01_folded_USSR.et" {
+ coords 1385.815 36.293 2371.385
+}

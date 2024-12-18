@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{9D5415711052E818}Configs/Weapons/Ammo/AM_M_M819_Shell_81mm_Smoke.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

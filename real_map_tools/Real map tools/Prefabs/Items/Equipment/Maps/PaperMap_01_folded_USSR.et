@@ -1,0 +1,9 @@
+GenericEntity : "{13772C903CB5E4F7}Prefabs/Items/Equipment/Maps/PaperMap_01_folded.et" {
+ ID "508AB2013EEE1E00"
+ components {
+  SCR_MapGadgetComponent "{516ACCA1BB4F79C6}" {
+   m_sProtractorTexture "{DB1FF1FEBEF8C687}UI/Textures/Map/ussr_map_tools_ak.edds"
+   m_fRulerLength 1487.628
+  }
+ }
+}

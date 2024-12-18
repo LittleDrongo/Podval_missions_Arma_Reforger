@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{CEE9E09748A7C3F6}Configs/Weapons/Ammo/AM_M_M821_Shell_81mm_HE.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

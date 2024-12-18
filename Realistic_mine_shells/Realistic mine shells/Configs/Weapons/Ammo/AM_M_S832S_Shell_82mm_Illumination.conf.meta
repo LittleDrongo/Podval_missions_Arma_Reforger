@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{B9EAB4A7CD0E9CD0}Configs/Weapons/Ammo/AM_M_S832S_Shell_82mm_Illumination.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

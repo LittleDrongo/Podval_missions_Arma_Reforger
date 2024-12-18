@@ -1,0 +1,83 @@
+GameProject {
+ ID "MortarsAssemble"
+ GUID "6323284F326FBAF4"
+ TITLE "MortarsAssemble"
+ Dependencies {
+  "58D0FB3206B6F859" "62B0555FF0A21CA6"
+ }
+ Configurations {
+  GameProjectConfig PC {
+   WidgetManagerSettings WidgetManagerSettings "{AC4BE58770485E02}" {
+    StringTables {
+     StringTableDefinition "{6325317D83BE3303}" {
+      StringTableSource "{90AE5DA7069E587F}Lang/Lang.st"
+      Languages {
+       LanguageDefinition "{6325317D820A41CA}" {
+        Code "cs_cz"
+        StringTableRuntime "{7C47568E86133502}Lang/Lang.cs_cz.conf"
+       }
+       LanguageDefinition "{6325317D820A41B4}" {
+        Code "de_de"
+        StringTableRuntime "{A9394CBD95B02422}Lang/Lang.de_de.conf"
+       }
+       LanguageDefinition "{6325317D820A4184}" {
+        Code "en_us"
+        StringTableRuntime "{F7C9C6F6FF432123}Lang/Lang.en_us.conf"
+       }
+       LanguageDefinition "{6325317D820A4191}" {
+        Code "es_es"
+        StringTableRuntime "{32858B7F11414A3C}Lang/Lang.es_es.conf"
+       }
+       LanguageDefinition "{6325317D820A4162}" {
+        Code "fr_fr"
+        StringTableRuntime "{892D7E48F7C2A93E}Lang/Lang.fr_fr.conf"
+       }
+       LanguageDefinition "{6325317D820A416D}" {
+        Code "it_it"
+        StringTableRuntime "{0931F17C5AE02AC7}Lang/Lang.it_it.conf"
+       }
+       LanguageDefinition "{6325317D820A417A}" {
+        Code "ja_jp"
+        StringTableRuntime "{192A4CEE64911A6C}Lang/Lang.ja_jp.conf"
+       }
+       LanguageDefinition "{6325317D820A4140}" {
+        Code "ko_kr"
+        StringTableRuntime "{B9946442F7BC1953}Lang/Lang.ko_kr.conf"
+       }
+       LanguageDefinition "{6325317D820A414E}" {
+        Code "pl_pl"
+        StringTableRuntime "{E5E5C2B84953852F}Lang/Lang.pl_pl.conf"
+       }
+       LanguageDefinition "{6325317D820A4156}" {
+        Code "pt_br"
+        StringTableRuntime "{3092587472AD4F95}Lang/Lang.pt_br.conf"
+       }
+       LanguageDefinition "{6325317D820A4122}" {
+        Code "ru_ru"
+        StringTableRuntime "{65D34CDCEFD42AE3}Lang/Lang.ru_ru.conf"
+       }
+       LanguageDefinition "{6325317D820A412D}" {
+        Code "uk_ua"
+        StringTableRuntime "{EF8B192A83FA94B6}Lang/Lang.uk_ua.conf"
+       }
+       LanguageDefinition "{6325317D820A413A}" {
+        Code "zh_cn"
+        StringTableRuntime "{353B7717BA5A44AB}Lang/Lang.zh_cn.conf"
+       }
+      }
+     }
+    }
+   }
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

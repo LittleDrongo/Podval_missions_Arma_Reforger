@@ -1,0 +1,9 @@
+GenericEntity : "{13772C903CB5E4F7}Prefabs/Items/Equipment/Maps/PaperMap_01_folded.et" {
+ ID "508AB2013EEE1E00"
+ components {
+  SCR_MapGadgetComponent "{516ACCA1BB4F79C6}" {
+   m_sProtractorTexture "{14E52FA6B87455F7}UI/Textures/Map/nato_map_tools.edds"
+   m_fRulerLength 1286.451
+  }
+ }
+}
