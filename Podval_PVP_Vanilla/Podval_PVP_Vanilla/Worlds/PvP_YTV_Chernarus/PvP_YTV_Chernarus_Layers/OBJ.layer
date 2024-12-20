@@ -1,0 +1,15 @@
+$grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
+ A_RF2 {
+  coords 4562.05 339.125 10030.788
+  m_sTitle "Телеведущий эвакуирован"
+  m_sFactionKey "USSR"
+ }
+ A_RF3 {
+  coords 4562.05 339.125 10030.788
+  m_sTitle "Телеведущий убит"
+ }
+ A_RF4 {
+  coords 8342.497 359.08 6655.991
+  m_sTitle "Телеведущий пленён"
+ }
+}

@@ -3,7 +3,7 @@ GameProject {
  GUID "6323284F326FBAF4"
  TITLE "MortarsAssemble"
  Dependencies {
-  "58D0FB3206B6F859" "62B0555FF0A21CA6"
+  "58D0FB3206B6F859"
  }
  Configurations {
   GameProjectConfig PC {

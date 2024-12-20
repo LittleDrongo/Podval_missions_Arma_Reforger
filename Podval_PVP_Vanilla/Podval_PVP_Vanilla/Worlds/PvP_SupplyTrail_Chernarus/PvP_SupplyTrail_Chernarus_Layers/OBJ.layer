@@ -1,0 +1,46 @@
+$grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
+ A_RF2 {
+  coords 4562.05 339.125 10030.788
+  m_sTitle "Остановить 84"
+  m_iScore 25
+  m_sFactionKey "USSR"
+ }
+ A_RF3 {
+  coords 4562.05 339.125 10030.788
+  m_sTitle "Доставить 84 орудий"
+  m_iScore 25
+ }
+ A_RF4 {
+  coords 8342.497 359.08 6655.991
+  m_sTitle "Доставить 168 орудий"
+  m_iScore 25
+ }
+ A_RF5 {
+  coords 8382.35 160.045 4830.741
+  m_sTitle "Доставить 252 орудий"
+  m_iScore 25
+ }
+ A_RF6 {
+  coords 8399.878 159.095 4825.271
+  m_sTitle "Доставить 336 орудий"
+  m_iScore 25
+ }
+ A_RF7 {
+  coords 8272.333 311.035 6135.54
+  m_sTitle "Остановить 168"
+  m_iScore 25
+  m_sFactionKey "USSR"
+ }
+ A_RF8 {
+  coords 8272.333 311.035 6135.54
+  m_sTitle "Остановить 252"
+  m_iScore 25
+  m_sFactionKey "USSR"
+ }
+ A_RF9 {
+  coords 8272.333 311.035 6135.54
+  m_sTitle "Остановить 336"
+  m_iScore 25
+  m_sFactionKey "USSR"
+ }
+}

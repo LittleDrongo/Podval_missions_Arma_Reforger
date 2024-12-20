@@ -177,5 +177,13 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{6328C0238BB9D206}" {
+   Id "DRG_Role_TV"
+   Target_en_us "Yuri Vladimirovich (TV presenter)"
+   Target_ru_ru "Юрий Владимирович (Телеведущий)"
+   Modified 1663630906
+   Author "hasta"
+   LastChanged "hasta"
+  }
  }
 }

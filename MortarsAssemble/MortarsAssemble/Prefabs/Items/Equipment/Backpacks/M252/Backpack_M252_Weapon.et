@@ -26,7 +26,7 @@ GenericEntity : "{841162A79157C494}Prefabs/Items/Equipment/Backpacks/Backpack_AL
    Enabled 1
    Attributes SCR_ItemAttributeCollection "{5222CB039E9715D1}" {
     ItemDisplayName UIInfo "{5222CB03904B414C}" {
-     Name "M2 Weapon Backpack"
+     Name "#DRG_m252_backpack"
      Description ""
     }
     ItemPhysAttributes ItemPhysicalAttributes PhysicalAttributes {
@@ -75,7 +75,7 @@ GenericEntity : "{841162A79157C494}Prefabs/Items/Equipment/Backpacks/Backpack_AL
       "default"
      }
      UIInfo UIInfo "{6325317FD0A007B0}" {
-      Name "Assemble Weapon"
+      Name "#DRG_assemble_mortar"
      }
      Duration 5
      "Sort Priority" 3

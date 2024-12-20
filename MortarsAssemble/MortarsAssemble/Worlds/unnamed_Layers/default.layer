@@ -1,5 +1,67 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{63257B243FD77BAA}" {
+    Object "{03C23B16DE054D5A}Assets/Weapons/Mortars/M252/M252_Cannon.xob"
+   }
+  }
+  coords 130.387 1 129.656
+ }
+ {
+  components {
+   MeshObject "{63257B264D2DCCF7}" {
+    Object "{1F2390C7C31666DE}Assets/Items/Equipment/Backpacks/Backpack_ALICE_Medium/Backpack_ALICE_Medium_frame.xob"
+   }
+  }
+  coords 132.001 1 127.78
+ }
+ {
+  components {
+   MeshObject "{63257B264FFFF6D4}" {
+    Object "{A2D3D022764E0F74}Assets/Items/Equipment/Backpacks/Backpack_ALICE_Medium/Backpack_ALICE_Medium_combined_Inflated.xob"
+   }
+  }
+  coords 132.599 1 127.226
+ }
+}
+GenericEntity : "{06B68C58B72EAAC6}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium.et" {
+ coords 129.985 1.463 126.556
+}
+GenericEntity : "{180185465C7286A5}Prefabs/Items/Equipment/Backpacks/M252/Backpack_M252_Weapon_test.et" {
+ components {
+  BaseLoadoutClothComponent "{511E9C6ADE70F7BB}" {
+   Slots {
+    LoadoutSlotInfo MortarGun {
+    }
+   }
+   DeflatedModel "{841162A79157C494}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium_frame.et"
+  }
+ }
+ coords 132.394 1 130.779
+}
 Turret : "{29F0CC704A582154}Prefabs/Weapons/Tripods/6T7/Tripod_6T7_NSV.et" {
  coords 143.189 1 144.779
+}
+Vehicle M923A1_transport_MERDC1 : "{3F2AA823B6C65E1E}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_MERDC.et" {
+ components {
+  SlotManagerComponent "{55BCE45E438E4CFF}" {
+   Slots {
+    RegisteringComponentSlotInfo window_right {
+    }
+   }
+  }
+  BaseLoadoutClothComponent "{63257B2538A6E817}" {
+  }
+ }
+ coords 135.986 1 128.953
+}
+$grp GenericEntity : "{5C5C6EE05EE2FF1A}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium_assembled.et" {
+ {
+  coords 130.286 1.773 127.193
+ }
+ {
+  coords 128.895 1 126.73
+ }
 }
 $grp GenericEntity : "{7611D0DAE5796941}Prefabs/Items/Equipment/Backpacks/Backpack_USSR_Bipod.et" {
  {
@@ -9,10 +71,21 @@ $grp GenericEntity : "{7611D0DAE5796941}Prefabs/Items/Equipment/Backpacks/Backpa
   coords 140.705 1 133.708
  }
 }
-GenericEntity : "{88E13F812F521583}Prefabs/Items/Equipment/Backpacks/Backpack_2B14_Bipod.et" {
+$grp GenericEntity : "{841162A79157C494}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium_frame.et" {
+ {
+  coords 130.5 1 128.251
+ }
+ {
+  coords 128.71 1 127.935
+ }
+}
+GenericEntity : "{88E13F812F521583}Prefabs/Items/Equipment/Backpacks/2B14/Backpack_2B14_Bipod.et" {
  coords 140.709 1 139.591
 }
-$grp GenericEntity : "{A1D5A386395E57E0}Prefabs/Items/Equipment/Backpacks/NSV/Backpack_2B14_Weapon.et" {
+GenericEntity : "{95D4766BBE46F23D}Prefabs/Items/Equipment/Backpacks/Backpack_IIFS_FieldPack.et" {
+ coords 129.338 2.011 125.142
+}
+$grp GenericEntity : "{A1D5A386395E57E0}Prefabs/Items/Equipment/Backpacks/2B14/Backpack_2B14_Weapon.et" {
  {
   coords 139.972 1 139.624
  }

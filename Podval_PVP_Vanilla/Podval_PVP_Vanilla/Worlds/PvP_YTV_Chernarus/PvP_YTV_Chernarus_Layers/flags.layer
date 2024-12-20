@@ -1,0 +1,14 @@
+GenericEntity : "{1AAC905FBE6CF779}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V2_USSR.et" {
+ coords 3697.284 406.152 5989.094
+}
+GenericEntity : "{21F7E55C8EBF7877}Prefabs/Props/Military/RoadBlocks/Roadblock ConcreteBlock 2.et" {
+ coords 3696.892 0 5989.373
+ angleY 72.066
+ scale 1.349
+ {
+  GenericEntity {
+   ID "60D22A4ED5957E2A"
+   coords 0.415 0.706 0
+  }
+ }
+}

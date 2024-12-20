@@ -1,0 +1,16 @@
+$grp SCR_DestructibleBuildingEntity : "{165E069CD712902F}Prefabs/Structures/Houses/Village/House_Village_E_1I01/House_Village_E_1I01_ruin.et" {
+ {
+  coords 9265.015 0.082 4966.466
+  angleY -37.856
+ }
+ {
+  coords 9260.563 0.741 5007.776
+  angleY -46.832
+ }
+}
+SCR_DestructibleBuildingEntity : "{184042D4EAE59FF5}Prefabs/Structures/Houses/Village/House_Village_E_1I02/House_Village_E_1I02_ruin.et" {
+ coords 9244.688 0 4988.396
+ angleX 0.108
+ angleY -40.123
+ angleZ -1.261
+}

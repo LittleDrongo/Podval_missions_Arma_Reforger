@@ -1,63 +1,15 @@
-Vehicle Ural4320_FIA_transport1 : "{16E32C3ABEAFC2C6}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_FIA_transport.et" {
- components {
-  SCR_UniversalInventoryStorageComponent "{5916C58171230A92}" {
-   MultiSlots {
-    MultiSlotConfiguration "{5A60D38EDB3709A9}" {
-     SlotTemplate InventoryStorageSlot Bandages {
-      Prefab "{A1D5A386395E57E0}Prefabs/Items/Equipment/Backpacks/2B14/Backpack_2B14_Weapon.et"
-     }
-     NumSlots 1
-    }
-    MultiSlotConfiguration "{6325317EE87C29D8}" {
-     SlotTemplate InventoryStorageSlot "{6325317ECCFDA6EA}" {
-      Prefab "{88E13F812F521583}Prefabs/Items/Equipment/Backpacks/2B14/Backpack_2B14_Bipod.et"
-     }
-     NumSlots 1
-    }
-    MultiSlotConfiguration "{6325317EEBD4D0AF}" {
-     SlotTemplate InventoryStorageSlot "{6325317EC93FE06F}" {
-      Prefab "{A544A2C131DE2C64}Prefabs/Weapons/Ammo/Ammo_Shell_82mm_Smoke_D832DU.et"
-     }
-     NumSlots 80
-    }
-    MultiSlotConfiguration "{6325317EEB9B3583}" {
-     SlotTemplate InventoryStorageSlot "{6325317ECBCDCCFE}" {
-      Prefab "{98EC9C526AFBA282}Prefabs/Weapons/Ammo/Ammo_Shell_82mm_HE_O832DU.et"
-     }
-     NumSlots 240
-    }
-   }
-  }
- }
- coords 1369.718 39 2200.938
+GenericEntity : "{16855EA1E591982A}Prefabs/Items/Equipment/Backpacks/M252/Backpack_M252_Weapon.et" {
+ coords 1355.263 39.014 2146.643
 }
-Turret : "{29F0CC704A582154}Prefabs/Weapons/Tripods/6T7/Tripod_6T7_NSV.et" {
- coords 1336.756 39 2260.756
+GenericEntity : "{2576AC07143F921B}Prefabs/Items/Equipment/Backpacks/M252/Backpack_M252_Biipod.et" {
+ coords 1358.458 39 2153.635
 }
 Turret : "{8094D99689ABE241}Prefabs/Weapons/Mortars/M252/Mortar_M252.et" {
- coords 1366.907 39 2193.58
+ coords 1359.092 39 2163.859
 }
-$grp GenericEntity : "{88E13F812F521583}Prefabs/Items/Equipment/Backpacks/2B14/Backpack_2B14_Bipod.et" {
- {
-  coords 1338.225 39 2252.931
-  angleY -33.873
- }
- {
-  coords 1369.838 39 2191.728
- }
+GenericEntity : "{88E13F812F521583}Prefabs/Items/Equipment/Backpacks/2B14/Backpack_2B14_Bipod.et" {
+ coords 1355.203 39 2170.905
 }
-$grp GenericEntity : "{A1D5A386395E57E0}Prefabs/Items/Equipment/Backpacks/2B14/Backpack_2B14_Weapon.et" {
- {
-  coords 1337.274 39 2252.335
-  angleY -33.873
- }
- {
-  coords 1372.417 39 2193.173
- }
- {
-  coords 1375.449 39 2194.819
- }
-}
-Turret : "{D1FFE458E8AC4BDB}Prefabs/Weapons/Mortars/2B14/Mortar_2B14.et" {
- coords 1364.642 39.011 2194.301
+GenericEntity : "{A1D5A386395E57E0}Prefabs/Items/Equipment/Backpacks/2B14/Backpack_2B14_Weapon.et" {
+ coords 1353.231 39 2169.434
 }
