@@ -4,7 +4,7 @@ SCR_ChimeraCharacter : "{B1788B7ADBB77B3D}Prefabs/Characters/Factions/OPFOR/RHS_
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "#DRG_Roles_RHS_AR_RPK"
-    Icon "{EF1F445746A3391A}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_MachineGunner.edds"
+    Icon "{0284ABAAB8CCDEF1}UI/Icons/automatic_rifleman.edds"
    }
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {

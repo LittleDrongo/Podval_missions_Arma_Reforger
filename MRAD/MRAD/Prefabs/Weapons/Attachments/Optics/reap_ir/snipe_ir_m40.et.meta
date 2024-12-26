@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{22E51EE7DB41E2F0}Prefabs/Weapons/Attachments/Optics/reap_ir/snipe_ir_m40.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

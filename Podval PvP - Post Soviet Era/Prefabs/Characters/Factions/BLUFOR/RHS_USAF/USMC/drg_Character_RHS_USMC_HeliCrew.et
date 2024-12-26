@@ -4,7 +4,7 @@ SCR_ChimeraCharacter : "{582AE95F1F73CC8D}Prefabs/Characters/Factions/BLUFOR/RHS
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "#AR-Role_HelicopterCrew"
-    Icon "{A489F552FB7489C3}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_Custom.edds"
+    Icon "{B0611A54EB6AA798}UI/Icons/engineer.edds"
    }
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {

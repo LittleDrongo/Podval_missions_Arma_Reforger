@@ -258,6 +258,22 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{633283561F8E584A}" {
+   Id "DRG_Role_AT_TeamLeader"
+   Target_en_us "TeamLeader AT Squad"
+   Target_ru_ru "Командир ПТ расчёта"
+   Modified 1664256388
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{63328351A098CC85}" {
+   Id "DRG_Role_AT_Unit"
+   Target_en_us "AT Assistant"
+   Target_ru_ru "Номер ПТ расчёта"
+   Modified 1664257083
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{61CEB759F6CAB9E4}" {
    Id "DRG_Roles_RHS_AAT"
    Target_en_us "Assistant anti-tank specialist"

@@ -32,8 +32,14 @@ $grp RHS_Tank : "{48BB423641D40E77}Prefabs/Vehicles/Tracked/T14/Tank_T14.et" {
   angleZ -1.1
  }
 }
-$grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_AFRF_RifleSquad_P.et" {
+$grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_RifleSquad_P.et" {
  RED_0_0_0 {
+  components {
+   PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
+    m_iCompanyCallsign 0
+    m_iSquadCallsign 0
+   }
+  }
   coords 2662.802 274.186 10100.931
   angleY -37.708
   m_faction "RHS_AFRF"
@@ -46,6 +52,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_AFRF_Ri
   components {
    PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
     m_iCompanyCallsign 1
+    m_iSquadCallsign 0
    }
   }
   coords 2667.929 274.055 10093.546
@@ -90,6 +97,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_AFRF_Ri
   components {
    PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
     m_iCompanyCallsign 2
+    m_iSquadCallsign 0
    }
   }
   coords 2706.656 274.094 10011.421
@@ -134,6 +142,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_AFRF_Ri
   components {
    PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
     m_iCompanyCallsign 3
+    m_iSquadCallsign 0
    }
   }
   coords 2674.995 273.566 9916.754
@@ -162,9 +171,9 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_AFRF_Ri
   m_sCustomNameSet "T-14"
  }
 }
-Vehicle GAZ_TIGR_v2_Arbalet_Green1 : "{A56DE473B89C2C69}Prefabs/Vehicles/Wheeled/TIGR/GAZ_TIGR_v2_Arbalet_Green.et" {
- coords 2657.176 274.157 10095.617
- angleX 1.969
- angleY -36.911
- angleZ -0.359
+Vehicle K4386_Armed1 : "{AB5DE68E3E654FCA}Prefabs/Vehicles/Wheeled/K4386/K4386_Armed.et" {
+ coords 2658.256 274.16 10096.229
+ angleX 1.954
+ angleY -39.08
+ angleZ -0.433
 }

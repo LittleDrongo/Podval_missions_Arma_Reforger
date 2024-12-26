@@ -24,6 +24,8 @@ SCR_ChimeraCharacter : "{605823C66FDBC721}Prefabs/Characters/Factions/BLUFOR/RHS
     }
     ItemsInitConfigurationItem "{61CF3929C590B210}" {
      TargetStorage "Prefabs/Characters/Uniforms/BDU_Pants/BDU_PANTS_MC.et"
+     PrefabsToSpawn {
+     }
     }
    }
   }

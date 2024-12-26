@@ -15,7 +15,7 @@ SCR_ChimeraCharacter : "{6D8D5DE7986CAE0B}Prefabs/Characters/Factions/BLUFOR/RHS
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "#AR-Role_Spotter"
-    Icon "{9A61AD7EADB131FD}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_Spotter.edds"
+    Icon "{DCF0F63BF8F4B59B}UI/Icons/spotter.edds"
    }
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {

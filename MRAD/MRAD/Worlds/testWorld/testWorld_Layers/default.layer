@@ -1,8 +1,11 @@
+GenericEntity : "{18B5482585A88240}Prefabs/Weapons/Attachments/Muzzle/Supressor_TGPV/Supressor_TGPV2.et" {
+ coords 2.248 1.906 2.734
+}
 GameEntity : "{333A794F0B55C019}Prefabs/Weapons/Attachments/Optics/m8541/Optic_M8541.et" {
  coords 1.519 1.906 2.558
 }
 GenericEntity : "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et" {
- coords 2.052 1.053 2.04
+ coords 2.077 1.053 2.016
  angleY 43.517
 }
 GameEntity : "{6DC0EE135013FC47}Prefabs/Weapons/Attachments/Optics/ts30a2/optic_ts30a2_base.et" {
@@ -117,6 +120,12 @@ GameEntity : "{ACC9B43941CE5EA6}Prefabs/Weapons/Attachments/Optics/Optic_leupold
 GenericEntity : "{B41250C7E1720F92}Prefabs/Weapons/Rifles/M4A1/Rifle_M4A1_BLOCK_1_NT4.et" {
  coords 2.134 1.906 2.377
 }
+GenericEntity : "{C828F6D563E1A9BE}Prefabs/Weapons/Rifles/SVD/Rifle_SVD_PSO_7N14.et" {
+ coords 2.041 1.906 2.243
+}
 GenericEntity : "{D30D4FA5A82D6F0D}Prefabs/Items/Equipment/RangeCard/RangeCard_Notepad_Base.et" {
  coords 2.302 1.906 2.204
+}
+GenericEntity : "{F3DD3F69F633AD36}Prefabs/Weapons/Attachments/Muzzle/Supressor_TGPA/Supressor_TGPA.et" {
+ coords 2.354 1.906 2.642
 }
