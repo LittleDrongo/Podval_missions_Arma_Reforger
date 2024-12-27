@@ -1,51 +1,3 @@
-$grp Vehicle {
- GAZ_TIGR_v2_KORD_SPP_Green1 {
-  coords 4491.255 13.312 9454.583
-  angleY 2.119
- }
- GAZ_TIGR_v2_KORD_SPP_Green2 {
-  coords 4492.278 12.449 9436.154
-  angleX 4.466
-  angleY 1.028
-  angleZ 0.08
- }
- GAZ_TIGR_v2_KORD_SPP_Green3 {
-  coords 4490.948 13.712 9474.821
-  angleX 4.466
-  angleY 1.028
-  angleZ 0.08
- }
- GAZ_TIGR_v2_KORD_SPP_Green4 {
-  coords 4490.362 14.217 9493.869
-  angleX 4.466
-  angleY 1.028
-  angleZ 0.08
- }
- GAZ_TIGR_v2_KORD_SPP_Green5 {
-  coords 4954.242 28.354 11905.12
-  angleX 0.703
-  angleY -78.71
-  angleZ 1.053
- }
- GAZ_TIGR_v2_KORD_SPP_Green6 {
-  coords 4955.195 28.264 11909.896
-  angleX 0.703
-  angleY -78.71
-  angleZ 1.053
- }
- GAZ_TIGR_v2_KORD_SPP_Green7 {
-  coords 4956.1 28.179 11914.437
-  angleX 0.703
-  angleY -78.71
-  angleZ 1.053
- }
- GAZ_TIGR_v2_KORD_SPP_Green8 {
-  coords 4957.054 28.089 11919.221
-  angleX 0.703
-  angleY -78.71
-  angleZ 1.053
- }
-}
 GenericEntity : "{231EF6796E1D97CE}Prefabs/Items/Misc/IntelligenceFolder_E_01/IntelligenceFolder_E_01_Radio.et" {
  coords 4447.091 9.267 10837.645
  {
@@ -213,5 +165,65 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   }
   m_bDeleteWhenEmpty 0
   m_bDeleteIfNoPlayer 0
+ }
+}
+$grp Vehicle : "{A61E5C16E9A2161A}Prefabs/Vehicles/Wheeled/K4386/K4386.et" {
+ K1 {
+  coords 4491.148 13.432 9463.627
+  angleX 0.893
+  angleY -3.968
+  angleZ -0.062
+ }
+ K2 {
+  coords 4492.516 12.73 9439.751
+  angleX 4.456
+  angleY -3.991
+  angleZ -0.311
+ }
+ K3 {
+  coords 4491.438 13.854 9480.354
+  angleX 1.789
+  angleY 1.474
+  angleZ 0.046
+ }
+ K4 {
+  coords 4491.558 13.343 9452.065
+  angleX -0.893
+  angleY -3.968
+  angleZ 0.062
+ }
+ K5 {
+  coords 4491.113 14.218 9493.926
+  angleX 0.895
+  angleY 1.474
+  angleZ 0.023
+ }
+ K6 {
+  coords 4958.298 28.281 11910.99
+  angleY -72.973
+ }
+ K7 {
+  coords 4956.49 28.319 11905.089
+  angleX 0.594
+  angleY -72.961
+  angleZ 1.118
+ }
+ K8 {
+  coords 4954.64 28.365 11899.045
+  angleX 0.856
+  angleY -72.969
+  angleZ 0.262
+ }
+ K9 {
+  coords 4952.856 28.393 11893.225
+  angleX 0.856
+  angleY -72.969
+  angleZ 0.262
+ }
+ K10 {
+  coords 4951.181 28.415 11887.754
+  angleX 1.118
+  angleY -72.984
+  angleZ -0.594
  }
 }

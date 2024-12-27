@@ -151,168 +151,6 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 0
   m_bShowForAnyFaction 1
  }
- {
-  coords 4956.667 28.312 11909.362
-  angleX 0.59
-  angleY 17.215
-  angleZ 1.12
-  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
-  m_sImageSetGlow ""
-  m_MarkerColor 0.855 0.031 0.028 1
-  m_sQuadName "Car"
-  m_fWorldSize 2.974
-  m_sDescription "#TF-Vehicle-Gaz233114 - #TF-Vehicle-Color-Green (#TF-Vehicle-Weapon-Arbalet #TF-Vehicle-Weapon-PKMT)"
-  m_bUseWorldScale 1
-  m_aVisibleForFactions {
-   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
-  }
-  m_bVisibleForEmptyFaction 1
-  m_aHideOnGameModeStates {
-   1
-  }
-  m_iZOrder 0
- }
- {
-  coords 4958.111 28.217 11914.025
-  angleX 0.59
-  angleY 17.215
-  angleZ 1.12
-  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
-  m_sImageSetGlow ""
-  m_MarkerColor 0.855 0.031 0.028 1
-  m_sQuadName "Car"
-  m_fWorldSize 2.974
-  m_sDescription "#TF-Vehicle-Gaz233114 - #TF-Vehicle-Color-Green (#TF-Vehicle-Weapon-Arbalet #TF-Vehicle-Weapon-PKMT)"
-  m_bUseWorldScale 1
-  m_aVisibleForFactions {
-   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
-  }
-  m_bVisibleForEmptyFaction 1
-  m_aHideOnGameModeStates {
-   1
-  }
-  m_iZOrder 0
- }
- {
-  coords 4959.552 28.281 11918.682
-  angleY 17.215
-  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
-  m_sImageSetGlow ""
-  m_MarkerColor 0.855 0.031 0.028 1
-  m_sQuadName "Car"
-  m_fWorldSize 2.974
-  m_sDescription "#TF-Vehicle-Gaz233114 - #TF-Vehicle-Color-Green (#TF-Vehicle-Weapon-Arbalet #TF-Vehicle-Weapon-PKMT)"
-  m_bUseWorldScale 1
-  m_aVisibleForFactions {
-   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
-  }
-  m_bVisibleForEmptyFaction 1
-  m_aHideOnGameModeStates {
-   1
-  }
-  m_iZOrder 0
- }
- {
-  coords 4955.221 28.281 11904.705
-  angleY 17.215
-  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
-  m_sImageSetGlow ""
-  m_MarkerColor 0.855 0.031 0.028 1
-  m_sQuadName "Car"
-  m_fWorldSize 2.974
-  m_sDescription "#TF-Vehicle-Gaz233114 - #TF-Vehicle-Color-Green (#TF-Vehicle-Weapon-Arbalet #TF-Vehicle-Weapon-PKMT)"
-  m_bUseWorldScale 1
-  m_aVisibleForFactions {
-   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
-  }
-  m_bVisibleForEmptyFaction 1
-  m_aHideOnGameModeStates {
-   1
-  }
-  m_iZOrder 0
- }
- {
-  coords 4490.329 14.218 9493.938
-  angleX 0.895
-  angleY 88.849
-  angleZ -0.018
-  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
-  m_sImageSetGlow ""
-  m_MarkerColor 0.855 0.031 0.028 1
-  m_sQuadName "Car"
-  m_fWorldSize 2.974
-  m_sDescription "#TF-Vehicle-Gaz233114 - #TF-Vehicle-Color-Green (#TF-Vehicle-Weapon-Arbalet #TF-Vehicle-Weapon-PKMT)"
-  m_bUseWorldScale 1
-  m_aVisibleForFactions {
-   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
-  }
-  m_bVisibleForEmptyFaction 1
-  m_aHideOnGameModeStates {
-   1
-  }
-  m_iZOrder 0
- }
- {
-  coords 4490.891 13.715 9474.885
-  angleX 1.79
-  angleY 88.973
-  angleZ -0.032
-  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
-  m_sImageSetGlow ""
-  m_MarkerColor 0.855 0.031 0.028 1
-  m_sQuadName "Car"
-  m_fWorldSize 2.974
-  m_sDescription "#TF-Vehicle-Gaz233114 - #TF-Vehicle-Color-Green (#TF-Vehicle-Weapon-Arbalet #TF-Vehicle-Weapon-PKMT)"
-  m_bUseWorldScale 1
-  m_aVisibleForFactions {
-   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
-  }
-  m_bVisibleForEmptyFaction 1
-  m_aHideOnGameModeStates {
-   1
-  }
-  m_iZOrder 0
- }
- {
-  coords 4491.198 13.312 9454.256
-  angleY 91.642
-  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
-  m_sImageSetGlow ""
-  m_MarkerColor 0.855 0.031 0.028 1
-  m_sQuadName "Car"
-  m_fWorldSize 2.974
-  m_sDescription "#TF-Vehicle-Gaz233114 - #TF-Vehicle-Color-Green (#TF-Vehicle-Weapon-Arbalet #TF-Vehicle-Weapon-PKMT)"
-  m_bUseWorldScale 1
-  m_aVisibleForFactions {
-   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
-  }
-  m_bVisibleForEmptyFaction 1
-  m_aHideOnGameModeStates {
-   1
-  }
-  m_iZOrder 0
- }
- {
-  coords 4492.118 12.511 9436.939
-  angleX 4.463
-  angleY 87.461
-  angleZ -0.198
-  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
-  m_sImageSetGlow ""
-  m_MarkerColor 0.855 0.031 0.028 1
-  m_sQuadName "Car"
-  m_fWorldSize 2.974
-  m_sDescription "#TF-Vehicle-Gaz233114 - #TF-Vehicle-Color-Green (#TF-Vehicle-Weapon-Arbalet #TF-Vehicle-Weapon-PKMT)"
-  m_bUseWorldScale 1
-  m_aVisibleForFactions {
-   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
-  }
-  m_bVisibleForEmptyFaction 1
-  m_aHideOnGameModeStates {
-   1
-  }
-  m_iZOrder 0
- }
  RHS_AFRF_G_000_M {
   coords 4962.765 28.281 11930.498
   m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
@@ -492,5 +330,213 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 10
+ }
+ {
+  coords 4491.148 13.432 9463.627
+  angleX 0.893
+  angleY 86.032
+  angleZ -0.062
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.555 0.002 0 1
+  m_sQuadName "Car"
+  m_fWorldSize 3.124
+  m_sDescription "#RHS-Vehicle_K4386_Name #RHS-Vehicle_Unarmed"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 4951.181 28.415 11887.754
+  angleX 1.118
+  angleY 17.016
+  angleZ -0.594
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.555 0.002 0 1
+  m_sQuadName "Car"
+  m_fWorldSize 3.124
+  m_sDescription "#RHS-Vehicle_K4386_Name #RHS-Vehicle_Unarmed"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 4492.516 12.73 9439.751
+  angleX 4.456
+  angleY 86.009
+  angleZ -0.311
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.555 0.002 0 1
+  m_sQuadName "Car"
+  m_fWorldSize 3.124
+  m_sDescription "#RHS-Vehicle_K4386_Name #RHS-Vehicle_Unarmed"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 4491.438 13.854 9480.354
+  angleX 1.789
+  angleY 91.474
+  angleZ 0.046
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.555 0.002 0 1
+  m_sQuadName "Car"
+  m_fWorldSize 3.124
+  m_sDescription "#RHS-Vehicle_K4386_Name #RHS-Vehicle_Unarmed"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 4491.558 13.343 9452.065
+  angleX -0.893
+  angleY 86.032
+  angleZ 0.062
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.555 0.002 0 1
+  m_sQuadName "Car"
+  m_fWorldSize 3.124
+  m_sDescription "#RHS-Vehicle_K4386_Name #RHS-Vehicle_Unarmed"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 4491.113 14.218 9493.926
+  angleX 0.895
+  angleY 91.474
+  angleZ 0.023
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.555 0.002 0 1
+  m_sQuadName "Car"
+  m_fWorldSize 3.124
+  m_sDescription "#RHS-Vehicle_K4386_Name #RHS-Vehicle_Unarmed"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 4958.298 28.281 11910.99
+  angleY 17.027
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.555 0.002 0 1
+  m_sQuadName "Car"
+  m_fWorldSize 3.124
+  m_sDescription "#RHS-Vehicle_K4386_Name #RHS-Vehicle_Unarmed"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 4956.49 28.319 11905.089
+  angleX 0.594
+  angleY 17.039
+  angleZ 1.118
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.555 0.002 0 1
+  m_sQuadName "Car"
+  m_fWorldSize 3.124
+  m_sDescription "#RHS-Vehicle_K4386_Name #RHS-Vehicle_Unarmed"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 4954.64 28.365 11899.045
+  angleX 0.856
+  angleY 17.031
+  angleZ 0.262
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.555 0.002 0 1
+  m_sQuadName "Car"
+  m_fWorldSize 3.124
+  m_sDescription "#RHS-Vehicle_K4386_Name #RHS-Vehicle_Unarmed"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 4952.856 28.393 11893.225
+  angleX 0.856
+  angleY 17.031
+  angleZ 0.262
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.555 0.002 0 1
+  m_sQuadName "Car"
+  m_fWorldSize 3.124
+  m_sDescription "#RHS-Vehicle_K4386_Name #RHS-Vehicle_Unarmed"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
  }
 }

@@ -45,6 +45,6 @@ $grp PS_Objective {
   coords 3205.411 355.615 10891.354
   m_sTitle "Взводный опорник захвачен"
   m_iScore 50
-  m_sFactionKey "Ses_CDF"
+  m_sFactionKey "RHS_AFRF"
  }
 }
