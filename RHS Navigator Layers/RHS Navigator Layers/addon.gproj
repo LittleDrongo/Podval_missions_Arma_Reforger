@@ -1,0 +1,8 @@
+GameProject {
+ ID "RHSNavigatorLayers"
+ GUID "6336E2E96E63B583"
+ TITLE "RHS Navigator Layers"
+ Dependencies {
+  "595F2BF2F44836FB" "58D0FB3206B6F859"
+ }
+}
