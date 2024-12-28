@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{AA95FA52F72BBC31}MapsLayers/Goglang/GPSVectorData.vhcsurf"
+ Configurations {
+  ContactSurfaceResourceClass PC {
+  }
+  ContactSurfaceResourceClass XBOX_ONE : PC {
+  }
+  ContactSurfaceResourceClass XBOX_SERIES : PC {
+  }
+  ContactSurfaceResourceClass PS4 : PC {
+  }
+  ContactSurfaceResourceClass PS5 : PC {
+  }
+  ContactSurfaceResourceClass HEADLESS : PC {
+  }
+ }
+}

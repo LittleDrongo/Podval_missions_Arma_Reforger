@@ -1,0 +1,16 @@
+In this addon I will try to add all custom landscapes for RHS navigators.
+
+Maps supports:
+• Chernarus
+• Gogland
+
+
+An unsuccessful attempt to add an island.
+• Khan Thung
+
+----
+
+ATTENTION THESE ISLANDS WILL NOT BE SUPPORTED BECAUSE THERE IS NO COMPONENT IN THE WORLD.
+The author must use MapEntity in their world for support GPS.
+Example: MapEntity_Arland.et 
+Example: MapEntity_Everon.et

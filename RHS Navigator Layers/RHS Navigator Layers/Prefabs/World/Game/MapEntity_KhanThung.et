@@ -1,0 +1,6 @@
+SCR_MapEntity : "{731564B66F91B107}Prefabs/World/Game/MapEntity.et" {
+ ID "5255036BAB847859"
+ coords 6400 0 6400
+ "Map Geometry Data" "{A32FCD93E2A13AA2}Data/Vietnam.topo"
+ "Satellite background image" "{1B3F73F3B950BF58}Data/Vietnam.edds"
+}

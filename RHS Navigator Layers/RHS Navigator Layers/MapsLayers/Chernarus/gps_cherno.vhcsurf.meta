@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{78E3F19C22E9BA48}MapsLayers/Chernarus/gps_cherno.vhcsurf"
+ Configurations {
+  ContactSurfaceResourceClass PC {
+  }
+  ContactSurfaceResourceClass XBOX_ONE : PC {
+  }
+  ContactSurfaceResourceClass XBOX_SERIES : PC {
+  }
+  ContactSurfaceResourceClass PS4 : PC {
+  }
+  ContactSurfaceResourceClass PS5 : PC {
+  }
+  ContactSurfaceResourceClass HEADLESS : PC {
+  }
+ }
+}
