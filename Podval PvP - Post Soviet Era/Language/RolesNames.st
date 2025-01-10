@@ -118,7 +118,7 @@ StringTable {
    Id "DRG-Rifleman_SSO"
    Target_en_us "Spec-Ops Operator"
    Target_ru_ru "Оперативник ССО"
-   Modified 1640954027
+   Modified 1683291846
    Author "hasta"
    LastChanged "hasta"
   }
@@ -143,6 +143,14 @@ StringTable {
    Target_en_us "Engineering Group Commander"
    Target_ru_ru "Командир инженерной группы"
    Modified 1640950459
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{6454F7955932DBED}" {
+   Id "DRG-SMAW_AT_SSO"
+   Target_en_us "Spec-Ops Operator SMAW"
+   Target_ru_ru "Оператор-ПТ SMAW ССО"
+   Modified 1683292341
    Author "hasta"
    LastChanged "hasta"
   }
@@ -175,6 +183,22 @@ StringTable {
    Target_en_us "Spec-Ops TeamLeader"
    Target_ru_ru "Командир группы ССО"
    Modified 1640958865
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{6454F7904A5EBA4E}" {
+   Id "DRG-Squadleader_SSO_Officer"
+   Target_en_us "Spec-Ops Officer"
+   Target_ru_ru "Офицер ССО"
+   Modified 1683290596
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{6454F7928D5A7D86}" {
+   Id "DRG-SR_SSO"
+   Target_en_us "Spec-Ops Senior Operator"
+   Target_ru_ru "Старший оперативник ССО"
+   Modified 1683291826
    Author "hasta"
    LastChanged "hasta"
   }

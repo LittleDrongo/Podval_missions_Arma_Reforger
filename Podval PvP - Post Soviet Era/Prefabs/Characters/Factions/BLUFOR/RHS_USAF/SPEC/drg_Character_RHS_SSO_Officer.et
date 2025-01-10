@@ -1,0 +1,11 @@
+SCR_ChimeraCharacter : "{59B8CE7F80BD3D10}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SPEC/drg_Character_RHS_SSO_Leader.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "#DRG-Squadleader_SSO_Officer"
+    Icon "{C5B18D620AE24B66}UI/Icons/berret_officer.edds"
+   }
+  }
+ }
+}

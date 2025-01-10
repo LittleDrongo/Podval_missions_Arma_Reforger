@@ -4,7 +4,7 @@ SCR_ChimeraCharacter : "{3F5F4A349BEA54E2}Prefabs/Characters/Factions/BLUFOR/RHS
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "#DRG_Sapper_SSO"
-    Icon "{78C22BDA06C2F7AB}UI/Icons/sapper.edds"
+    Icon "{73E25E59B83916CE}UI/Icons/berret_sapper.edds"
    }
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFB7}" {
@@ -35,8 +35,7 @@ SCR_ChimeraCharacter : "{3F5F4A349BEA54E2}Prefabs/Characters/Factions/BLUFOR/RHS
     }
     ItemsInitConfigurationItem "{61CF39290AA31E45}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_CPC_NCPC_pouches/Pouch_NCPC_Radio_Base.et"
-     PrefabsToSpawn {
-      "{BAB50E5D149D64D9}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_prv.et"
+     PrefabsToSpawn +{
      }
     }
     ItemsInitConfigurationItem "{61CF3929C590B210}" {

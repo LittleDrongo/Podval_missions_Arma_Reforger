@@ -1,0 +1,76 @@
+GenericEntity : "{2D2D5A7CBCFFC35B}Prefabs/Items/Box_bulba.et" {
+ components {
+  SCR_MineWeaponComponent "{604732700271EDBF}" {
+   UIInfo GrenadeUIInfo "{604732700271EC7A}" {
+    m_sAmmoType "Секретный ящик"
+   }
+  }
+ }
+ coords 5941.66 44.599 4731.501
+ angleX -0.036
+ angleY -61.4
+ angleZ 0.72
+ {
+  PS_ManualMarker RHS_AFRF_G_000_M : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+   coords 0 0 0
+   angleY 151.4
+   m_sImageSet "{C9D19DBFDE7AD72D}UI/Imagesets/Conflict/conflict-icons.imageset"
+   m_sImageSetGlow ""
+   m_MarkerColor 1 1 1 1
+   m_sQuadName "9-8"
+   m_fWorldSize 50
+   m_sDescription "Актив-11"
+   m_bUseWorldScale 0
+   m_aVisibleForFactions {
+    "RHS_AFRF"
+   }
+   m_bVisibleForEmptyFaction 1
+   m_aHideOnGameModeStates {
+    1
+   }
+   m_iZOrder 10
+  }
+ }
+}
+$grp Vehicle : "{5674FAEB9AB7BDD0}Prefabs/Vehicles/Wheeled/M998/M998.et" {
+ M1 {
+  components {
+   SCR_FuelConsumptionComponent "{512CC5B0F07DA8F9}" {
+    m_fFuelConsumption 0
+    m_fFuelConsumptionIdle 0
+   }
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      MaxFuel 0
+      m_fInitialFuelTankState 0
+     }
+    }
+   }
+  }
+  coords 5935.654 45.023 4717.314
+  angleX 0.72
+  angleY -153.165
+  angleZ 0.013
+ }
+ M2 {
+  components {
+   SCR_FuelConsumptionComponent "{512CC5B0F07DA8F9}" {
+    m_fFuelConsumption 0
+    m_fFuelConsumptionIdle 0
+   }
+   SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+    FuelNodes {
+     SCR_FuelNode "{5622A70CD4036C5A}" {
+      MaxFuel 0
+      m_fInitialFuelTankState 0
+     }
+    }
+   }
+  }
+  coords 5938.018 44.958 4721.989
+  angleX 0.72
+  angleY -153.165
+  angleZ 0.014
+ }
+}

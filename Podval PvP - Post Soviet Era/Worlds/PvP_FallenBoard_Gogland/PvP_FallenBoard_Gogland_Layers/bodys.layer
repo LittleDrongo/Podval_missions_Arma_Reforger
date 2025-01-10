@@ -1,0 +1,40 @@
+SCR_ChimeraCharacter : "{310B1B6A98B670EE}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_AR.et" {
+ components {
+  PS_PlayableComponent "{5EFCC1946F475F15}" {
+   m_bIsPlayable 0
+  }
+ }
+ coords 5947.354 152.094 4744.522
+ angleX -18.734
+ angleY -8.738
+ angleZ -42.945
+}
+SCR_ChimeraCharacter : "{3CDE654B6F0119C4}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_GL.et" {
+ components {
+  PS_PlayableComponent "{5EFCC1946F475F15}" {
+   m_bIsPlayable 0
+  }
+ }
+ coords 5943.52 152.095 4739.199
+ angleY -25.381
+}
+SCR_ChimeraCharacter : "{5B441024CCB4683E}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_TL.et" {
+ components {
+  PS_PlayableComponent "{5EFCC1946F475F15}" {
+   m_bIsPlayable 0
+  }
+ }
+ coords 5954.502 152.095 4740.708
+ angleY -25.381
+}
+SCR_ChimeraCharacter : "{631CC570F6F9640D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MG.et" {
+ components {
+  PS_PlayableComponent "{5EFCC1946F475F15}" {
+   m_bIsPlayable 0
+  }
+ }
+ coords 5949.177 152.094 4740.589
+ angleX 82.028
+ angleY 59.559
+ angleZ -180
+}

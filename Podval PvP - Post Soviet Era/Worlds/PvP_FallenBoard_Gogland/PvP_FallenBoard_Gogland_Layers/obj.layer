@@ -1,0 +1,74 @@
+$grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
+ {
+  coords 4275.639 0 11239.247
+  m_sTitle "Не дать эвакуировать ящик"
+  m_iScore 50
+  m_sFactionKey "RHS_AFRF"
+ }
+ {
+  coords 4271.501 0 11368.588
+  m_sTitle "Эвакуирован секретный ящик"
+  m_iScore 50
+  m_sFactionKey "RHS_USAF"
+ }
+ {
+  coords 6061.74 44.563 4731.572
+  m_sTitle "Эвакуирован выживший "
+  m_iScore 10
+  m_sFactionKey "RHS_USAF"
+ }
+ {
+  coords 6067.214 43.524 4722.041
+  m_sTitle "Эвакуирован выживший "
+  m_iScore 10
+  m_sFactionKey "RHS_USAF"
+ }
+ {
+  coords 6045.881 44.563 4760.932
+  m_sTitle "Эвакуирован выживший "
+  m_iScore 10
+  m_sFactionKey "RHS_USAF"
+ }
+ {
+  coords 6045.88 44.563 4760.933
+  m_sTitle "Эвакуирован выживший "
+  m_iScore 10
+  m_sFactionKey "RHS_USAF"
+ }
+ {
+  coords 6020.356 44.563 4782.33
+  m_sTitle "Убит солдат с самолёта"
+  m_iScore 10
+  m_sFactionKey "RHS_AFRF"
+ }
+ {
+  coords 6004.683 44.562 4794.545
+  m_sTitle "Убит солдат с самолёта"
+  m_iScore 10
+  m_sFactionKey "RHS_AFRF"
+ }
+ {
+  coords 6004.683 44.562 4794.545
+  m_sTitle "Убит солдат с самолёта"
+  m_iScore 10
+  m_sFactionKey "RHS_AFRF"
+ }
+ {
+  coords 6020.356 44.563 4782.33
+  m_sTitle "Убит солдат с самолёта"
+  m_iScore 10
+  m_sFactionKey "RHS_AFRF"
+ }
+ {
+  coords 5949.557 44.563 4730.584
+  m_sTitle "Уничтожен хамви с спец.грузом"
+  m_iScore 25
+  m_sFactionKey "RHS_USAF"
+ }
+ {
+  coords 5949.557 44.563 4730.584
+  m_sTitle "Уничтожен хамви с спец.грузом"
+  m_iScore 25
+  m_sFactionKey "RHS_USAF"
+ }
+}

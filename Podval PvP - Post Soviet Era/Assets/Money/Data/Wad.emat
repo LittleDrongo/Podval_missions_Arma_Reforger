@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{34E5306042ABEA56}Assets/Money/Data/WadDiffuse.edds"
+ NMOMap "{92B3F5BD02385CEA}Assets/Money/Data/WadNormal.edds"
+}

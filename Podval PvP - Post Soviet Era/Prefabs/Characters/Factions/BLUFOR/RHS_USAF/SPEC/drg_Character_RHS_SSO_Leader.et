@@ -15,6 +15,7 @@ SCR_ChimeraCharacter : "{3F5F4A349BEA54E2}Prefabs/Characters/Factions/BLUFOR/RHS
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "#DRG-Squadleader_SSO"
+    Icon "{35610E79E2260BBB}UI/Icons/berret_sl.edds"
    }
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
