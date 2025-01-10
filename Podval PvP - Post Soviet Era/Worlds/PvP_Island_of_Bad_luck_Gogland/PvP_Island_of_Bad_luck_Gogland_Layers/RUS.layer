@@ -124,20 +124,6 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   }
  }
 }
-$grp Vehicle : "{E1288C24A903F64B}Prefabs/Vehicles/Wheeled/TIGR/GAZ_TIGR_v2_Arbalet_PKM_Green.et" {
- GAZ_TIGR_v2_Arbalet_PKM_Green1 {
-  coords 833.146 2.84 5510.249
-  angleX 0.324
-  angleY -111.201
-  angleZ 0.835
- }
- GAZ_TIGR_v2_Arbalet_PKM_Green2 {
-  coords 828.247 2.172 5519.956
-  angleX 0.324
-  angleY -111.201
-  angleZ 0.835
- }
-}
 SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/RestrictionZone/E_EditorRestrictionZoneSmall.et" {
  components {
   SCR_ZoneRestrictionAreaMeshComponent "{56D8A3C5A31496A1}" {
