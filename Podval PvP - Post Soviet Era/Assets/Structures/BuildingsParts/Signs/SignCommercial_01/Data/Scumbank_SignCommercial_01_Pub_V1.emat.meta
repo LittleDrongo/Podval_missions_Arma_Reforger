@@ -1,0 +1,19 @@
+MetaFileClass {
+ Name "{492AFC8DAA7E89E2}Assets/Structures/BuildingsParts/Signs/SignCommercial_01/Data/Scumbank_SignCommercial_01_Pub_V1.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+  EMATResourceClass Xbox : PC {
+  }
+ }
+}

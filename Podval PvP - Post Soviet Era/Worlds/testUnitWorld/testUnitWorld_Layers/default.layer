@@ -29,6 +29,17 @@ $grp GenericEntity : "{119D0AA19EF023A7}Prefabs/Items/Equipment/Radios/INDFOR_Ra
   coords 63.011 1 229.82
  }
 }
+Vehicle UAZ452_ambulance_base1 : "{1247D68D2A76907D}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_ambulance_base.et" {
+ coords 9.245 1 240.778
+}
+$grp GenericEntity : "{12CF2CF5F1027C6B}Prefabs/Props/Military/Arsenal/AmmoBoxes/US/AmmoBoxArsenal_Explosives_US.et" {
+ {
+  coords 80.825 1 208.355
+ }
+ {
+  coords 8.939 1 247.518
+ }
+}
 GenericEntity : "{1571BF54599093AF}PrefabsEditable/Auto/Props/Furniture/E_MeetingTable_01.et" {
  coords 20.813 1 231.732
 }

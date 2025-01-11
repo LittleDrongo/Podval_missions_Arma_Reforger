@@ -1,5 +1,0 @@
-MatPBRBasic {
- Color 0.539 0.539 0.539 1
- MetalnessScale 0
- BCRMap "{5671B487F1E5EF4C}Images/banner.edds"
-}

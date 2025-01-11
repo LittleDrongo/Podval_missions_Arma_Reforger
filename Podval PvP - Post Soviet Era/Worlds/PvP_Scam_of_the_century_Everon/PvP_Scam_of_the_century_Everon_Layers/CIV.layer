@@ -1,0 +1,194 @@
+$grp SCR_AIGroup : "{F9652067979208AA}Prefabs/Groups/CIV/DRG_Group_CIV.et" {
+ {
+  coords 4826.864 168.578 6928.908
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4785.095 167.634 6923.617
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4742.194 165.948 6911.377
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4737.489 166.178 6941.546
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4702.386 161.356 6988.951
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4701.886 162.34 6948.51
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4697.263 160.555 7008.334
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4682.52 159.937 7026.298
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4736.366 163.146 7030.5
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4746.802 164.586 7049.351
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4770.303 166.175 7041.111
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4767.525 164.337 7090.764
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4793.879 163.342 7120.87
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4771.68 161.781 7144.282
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4805.264 163.785 7103.474
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4811.382 167.347 7049.965
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4823.312 169.513 7017.459
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4838.69 170.127 6995.492
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4807.929 169.6 6963.314
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4828.215 169.501 6962.346
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4885.319 171.046 7027.023
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4885.709 170.699 7050.098
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4848.472 163.945 7139.517
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4888.178 169.089 7096.424
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4798.422 161.983 7185.832
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4810.182 166.841 7079.17
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4804.954 166.841 7086.456
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4811.606 166.841 7074.384
+  m_aUnitPrefabSlots {
+   "{D61A7AED024DCE1B}Prefabs/Characters/Factions/CIV/GenericCivilians/Character_CIV_Randomized.et"
+  }
+ }
+ {
+  coords 4801.822 166.84 7086.352
+  angleY -112.49
+  m_aUnitPrefabSlots {
+   "{783503FB32DD508F}Prefabs/Characters/Factions/CIV/Businessman/Character_CIV_Businessman_3.et"
+  }
+  m_bSnapToTerrain 0
+ }
+ {
+  coords 4801.13 166.84 7088.022
+  angleY -112.49
+  m_aUnitPrefabSlots {
+   "{783503FB32DD508F}Prefabs/Characters/Factions/CIV/Businessman/Character_CIV_Businessman_3.et"
+  }
+  m_bSnapToTerrain 0
+ }
+ {
+  coords 4798.193 170.638 7088.61
+  angleY 164.095
+  m_aUnitPrefabSlots {
+   "{F1FD7BE282FC48CA}Prefabs/Characters/Factions/CIV/Businessman/Character_CIV_Businessman_1.et"
+  }
+  m_bSnapToTerrain 0
+ }
+}

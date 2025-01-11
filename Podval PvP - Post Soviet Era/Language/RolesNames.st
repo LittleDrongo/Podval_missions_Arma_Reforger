@@ -122,6 +122,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{6454F7D05B5A39E5}" {
+   Id "DRG-Rifleman_SSO_RER"
+   Target_en_us "Spec-Ops Operator"
+   Target_ru_ru "Оперативник ССО РЭР"
+   Modified 1683321908
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{61CED9378F6B6B92}" {
    Id "DRG-Roles_RHS_CrewCommander"
    Target_en_us "Crew-commander"
@@ -143,6 +151,13 @@ StringTable {
    Target_en_us "Engineering Group Commander"
    Target_ru_ru "Командир инженерной группы"
    Modified 1640950459
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{6454F7818C721A31}" {
+   Id "DRG-Scam-Dollars"
+   Target_en_us "Scam dollars"
+   Modified 1683298315
    Author "hasta"
    LastChanged "hasta"
   }
@@ -282,6 +297,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{6454F7AD451DAEA0}" {
+   Id "DRG_Policeman"
+   Target_en_us "Policeman"
+   Target_ru_ru "Полицейский"
+   Modified 1683319391
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{633283561F8E584A}" {
    Id "DRG_Role_AT_TeamLeader"
    Target_en_us "TeamLeader AT Squad"
@@ -359,6 +382,13 @@ StringTable {
    Target_en_us "Spec-Ops Saboteur"
    Target_ru_ru "Подрывник ССО"
    Modified 1640963691
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{6454F7AD163C0F5C}" {
+   Id "DRG_Senior_Policeman"
+   Target_ru_ru "Старший полицейский"
+   Modified 1683319477
    Author "hasta"
    LastChanged "hasta"
   }

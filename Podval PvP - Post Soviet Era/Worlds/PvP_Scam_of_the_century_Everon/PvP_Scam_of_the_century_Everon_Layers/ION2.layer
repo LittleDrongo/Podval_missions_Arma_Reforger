@@ -1,0 +1,77 @@
+Vehicle S105_randomized1 : "{128253A267BE9424}Prefabs/Vehicles/Wheeled/S105/S105_randomized.et" {
+ coords 4767.531 143.5 7562.511
+ angleX 5.642
+ angleY 160.385
+ angleZ -0.116
+}
+Vehicle S105_darkred1 : "{8000A0F649FB4B0D}Prefabs/Vehicles/Wheeled/S105/S105_darkred.et" {
+ coords 4751.409 139.561 7602.466
+ angleX 2.275
+ angleY 160.995
+ angleZ 1.109
+}
+Vehicle S105_lightblue1 : "{8EB38BBD860DA06E}Prefabs/Vehicles/Wheeled/S105/S105_lightblue.et" {
+ coords 4761.96 141.931 7576.049
+ angleX 5.974
+ angleY 156.653
+ angleZ 0.335
+}
+Vehicle S105_darkblue1 : "{9C3269FB43F989A3}Prefabs/Vehicles/Wheeled/S105/S105_darkblue.et" {
+ coords 4755.135 140.344 7591.557
+ angleX 3.964
+ angleY 160.839
+ angleZ 0.515
+}
+$grp SCR_AIGroup : "{ED4577D444D210BD}Prefabs/Groups/INDFOR/RHS_ION/DRG_Group_RHS_ION.et" {
+ {
+  coords 4772.396 143.996 7559.572
+  angleX 6.478
+  angleY 160.537
+  angleZ -0.397
+  m_aUnitPrefabSlots {
+   "{E6D720D4D27A5BE3}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit_Bag.et" "{57716A2D0B4E834A}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit4_Bag.et" "{1E62304928813C61}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit3_Bag.et" "{702F0E101DE0D2E9}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit2_Bag.et"
+  }
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{628699D5485F0B62}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 4766.52 141.963 7574.993
+  angleX 6.473
+  angleY 159.893
+  angleZ -0.47
+  m_aUnitPrefabSlots {
+   "{702F0E101DE0D2E9}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit2_Bag.et" "{E6D720D4D27A5BE3}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit_Bag.et" "{1E62304928813C61}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit3_Bag.et" "{57716A2D0B4E834A}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit4_Bag.et"
+  }
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{628699D5485F0B62}" {
+    m_iCompanyCallsign 2
+   }
+  }
+  coords 4759.432 140.381 7592.492
+  angleX 6.473
+  angleY 159.893
+  angleZ -0.47
+  m_aUnitPrefabSlots {
+   "{702F0E101DE0D2E9}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit2_Bag.et" "{E6D720D4D27A5BE3}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit_Bag.et" "{1E62304928813C61}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit3_Bag.et" "{57716A2D0B4E834A}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit4_Bag.et"
+  }
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{628699D5485F0B62}" {
+    m_iCompanyCallsign 3
+   }
+  }
+  coords 4754.644 139.49 7605.086
+  angleX 6.473
+  angleY 159.893
+  angleZ -0.47
+  m_aUnitPrefabSlots {
+   "{702F0E101DE0D2E9}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit2_Bag.et" "{E6D720D4D27A5BE3}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit_Bag.et" "{1E62304928813C61}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit3_Bag.et" "{57716A2D0B4E834A}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit4_Bag.et"
+  }
+ }
+}

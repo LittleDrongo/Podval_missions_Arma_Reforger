@@ -1,6 +1,0 @@
-MatPBRBasic {
- RoughnessScale 0.634
- MetalnessScale 0
- BCRMap "{5671B487F1E5EF4C}Images/banner.edds"
- NMOMap "{839CBC1678749998}Assets/_SharedData/Metal/ST_MetalPaint_Coated_1m_NMO.edds"
-}

@@ -1,0 +1,62 @@
+$grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
+ {
+  coords 4275.639 0 11239.247
+  m_sTitle "Вернуть кассу 1"
+  m_iScore 20
+  m_sFactionKey "RHS_AFRF"
+ }
+ {
+  coords 4271.501 0 11368.588
+  m_sTitle "Касса 1 сохранена"
+  m_iScore 20
+  m_sFactionKey "RHS_ION"
+ }
+ {
+  coords 4745.801 164.188 7113.652
+  m_sTitle "Касса 2 сохранена"
+  m_iScore 20
+  m_sFactionKey "RHS_ION"
+ }
+ {
+  coords 4745.801 164.188 7113.652
+  m_sTitle "Касса 3 сохранена"
+  m_iScore 20
+  m_sFactionKey "RHS_ION"
+ }
+ {
+  coords 4745.801 164.188 7113.652
+  m_sTitle "Вернуть кассу 2"
+  m_iScore 20
+  m_sFactionKey "RHS_AFRF"
+ }
+ {
+  coords 4745.801 164.188 7113.652
+  m_sTitle "Вернуть кассу 3"
+  m_iScore 20
+  m_sFactionKey "RHS_AFRF"
+ }
+ {
+  coords 4834.927 182.831 7134.532
+  m_sTitle "Вернуть телевизор"
+  m_iScore 10
+  m_sFactionKey "RHS_AFRF"
+ }
+ {
+  coords 4834.927 182.83 7134.532
+  m_sTitle "Увезти телевизор"
+  m_iScore 10
+  m_sFactionKey "RHS_ION"
+ }
+ {
+  coords 4834.927 182.83 7134.532
+  m_sTitle "Вывезти все доллары"
+  m_iScore 30
+  m_sFactionKey "RHS_ION"
+ }
+ {
+  coords 4834.927 182.831 7134.532
+  m_sTitle "Вернуть все доллары"
+  m_iScore 30
+  m_sFactionKey "RHS_AFRF"
+ }
+}

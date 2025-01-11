@@ -15,7 +15,7 @@ GenericEntity : "{D30D4FA5A82D6F0D}Prefabs/Items/Equipment/RangeCard/RangeCard_N
     }
     CustomAttributes {
      PreviewRenderAttributes "{61EA9D1BBDB999C8}" {
-      CameraPreset Front
+      CameraPreset Top
       CameraOrbitAngles 0 0 0
      }
     }

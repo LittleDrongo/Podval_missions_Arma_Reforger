@@ -1,0 +1,64 @@
+Vehicle S105_lightgreen1 : "{321016E0F9361A22}Prefabs/Vehicles/Wheeled/S105/S105_lightgreen.et" {
+ coords 4744.206 165.989 6914.874
+ angleX -4.579
+ angleY -50.337
+ angleZ -1.474
+}
+$grp Vehicle : "{49C909AFD66E90A1}Prefabs/Vehicles/Wheeled/S1203/S1203_transport_randomized.et" {
+ S1203_transport_randomized1 {
+  coords 4837.319 172.151 7055.807
+ }
+ S1203_transport_randomized2 {
+  coords 4760.327 164.327 7087.935
+  angleX -0.035
+  angleY 62.932
+  angleZ -3.997
+ }
+}
+Vehicle S1203_transport_yellow1 : "{4C79EB5FADB89B7A}Prefabs/Vehicles/Wheeled/S1203/S1203_transport_yellow.et" {
+ coords 4851.33 170.31 7024.842
+ angleX 1.856
+ angleY 138.553
+ angleZ 0.749
+}
+Vehicle S1203_transport_beige1 : "{543799AC5C52989C}Prefabs/Vehicles/Wheeled/S1203/S1203_transport_beige.et" {
+ coords 4870.209 170.397 7040.975
+ angleX -1.884
+ angleY -43.721
+ angleZ -0.675
+}
+Vehicle S105_beige1 : "{54C3CC22DEBD57BE}Prefabs/Vehicles/Wheeled/S105/S105_beige.et" {
+ coords 4699.7 162.357 6944.859
+ angleX 0.221
+ angleY 55.062
+ angleZ -1.246
+}
+Vehicle S105_red1 : "{85F0BD6AF0F42D6D}Prefabs/Vehicles/Wheeled/S105/S105_red.et" {
+ coords 4799.431 168.045 6915.316
+ angleY -27.437
+}
+Vehicle UAZ469_covered_CIV_teal1 : "{870EB660433857D3}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_covered_CIV_teal.et" {
+ coords 5156.486 174.031 7100.915
+ angleY -156.973
+}
+$grp Vehicle : "{B3C8EC88E7782C78}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_tanker_CIV_pohona.et" {
+ Ural4320_tanker_CIV_pohona1 {
+  coords 4756.885 165.51 6961.972
+ }
+ Ural4320_tanker_CIV_pohona2 {
+  coords 5074.621 177.691 7021.8
+  angleX -0.637
+  angleY -44.613
+  angleZ 0.629
+ }
+}
+Vehicle S1203_transport_base1 : "{D7663936ABF75FB0}Prefabs/Vehicles/Wheeled/S1203/S1203_transport_base.et" {
+ coords 4753.594 165.164 6965.297
+ angleX 3.281
+ angleY 84.078
+ angleZ -3.033
+}
+Vehicle Ural4320_transport_CIV_randomized1 : "{EEAC3A94929A2B55}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_CIV_randomized.et" {
+ coords 5165.027 174.031 7096.2
+ angleY -160.821
+}

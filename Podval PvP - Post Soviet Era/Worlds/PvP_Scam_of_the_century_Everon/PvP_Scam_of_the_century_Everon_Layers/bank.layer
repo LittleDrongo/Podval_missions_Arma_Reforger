@@ -1,0 +1,106 @@
+$grp GenericEntity : "{39419B55C4CFD156}Prefabs/Props/Furniture/Wardrobe_02.et" {
+ {
+  coords 4805.551 166.84 7090.378
+  angleY -120.99
+ }
+ {
+  coords 4804.127 166.84 7092.75
+  angleY -120.99
+ }
+ {
+  coords 4804.82 166.84 7091.594
+  angleY -120.99
+ }
+ {
+  coords 4810.578 166.84 7072.253
+  angleY -29.996
+ }
+}
+$grp GenericEntity : "{7ECD209251CE76A6}Prefabs/Structures/BuildingParts/Signs/Commercial/ScamBank_SignCommercial_01_Pub_V1.et" {
+ {
+  coords 4800.038 170.565 7078.557
+  angleY -118.861
+ }
+ {
+  coords 4797.166 170.553 7089.349
+  angleY -29.274
+ }
+}
+GenericEntity : "{8395707D43F51E77}Prefabs/Items/TV_box.et" {
+ coords 4801.484 171.544 7082.334
+ angleY -34.049
+}
+$grp GenericEntity : "{86AA32A8B5CB8FF7}Prefabs/Props/Military/Arsenal/AmmoBoxes/US/safe.et" {
+ {
+  coords 4803.824 170.638 7073.374
+  angleY -28.026
+ }
+ {
+  coords 4808.776 170.638 7071.478
+  angleY -28.026
+ }
+ {
+  coords 4809.2 170.638 7071.703
+  angleY -28.026
+ }
+ {
+  coords 4809.62 170.638 7071.927
+  angleY -28.026
+ }
+}
+$grp GenericEntity : "{BA12B9BCB99F3866}Prefabs/Items/box_cash.et" {
+ {
+  components {
+   BaseRadioComponent "{6454F7A15F0D71B6}" {
+    "Encryption key" "cash 1"
+   }
+  }
+  coords 4799.266 167.746 7088.885
+  angleY 61.457
+  {
+   PS_ManualMarker Def2 : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+    coords 0 0 0
+    angleX -1.789
+    angleY 23.986
+    angleZ 1.79
+    m_sDescription "Касса 1"
+   }
+  }
+ }
+ {
+  components {
+   BaseRadioComponent "{6454F7A15F0D71B6}" {
+    "Encryption key" "cash 2"
+   }
+  }
+  coords 4799.62 167.746 7088.316
+  angleY 58.908
+  {
+   PS_ManualMarker Def4 : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+    coords 0 0 0
+    angleX -1.789
+    angleY -34.922
+    angleZ 1.79
+    m_sDescription "Касса 2"
+   }
+  }
+ }
+ {
+  components {
+   BaseRadioComponent "{6454F7A15F0D71B6}" {
+    "Encryption key" "cash 3"
+   }
+  }
+  coords 4799.989 167.746 7087.704
+  angleY 58.908
+  {
+   PS_ManualMarker Def3 : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+    coords 0 0 0
+    angleX -1.789
+    angleY -34.922
+    angleZ 1.79
+    m_sDescription "Касса 3"
+   }
+  }
+ }
+}
