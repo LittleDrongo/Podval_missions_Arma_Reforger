@@ -22,6 +22,12 @@ Vehicle S105_darkblue1 : "{9C3269FB43F989A3}Prefabs/Vehicles/Wheeled/S105/S105_d
  angleY 160.839
  angleZ 0.515
 }
+Vehicle S105_green1 : "{AD80FB47D868C775}Prefabs/Vehicles/Wheeled/S105/S105_green.et" {
+ coords 4747.213 139.017 7612.652
+ angleX 2.298
+ angleY 159.75
+ angleZ 1.059
+}
 $grp SCR_AIGroup : "{ED4577D444D210BD}Prefabs/Groups/INDFOR/RHS_ION/DRG_Group_RHS_ION.et" {
  {
   coords 4772.396 143.996 7559.572
@@ -67,6 +73,20 @@ $grp SCR_AIGroup : "{ED4577D444D210BD}Prefabs/Groups/INDFOR/RHS_ION/DRG_Group_RH
    }
   }
   coords 4754.644 139.49 7605.086
+  angleX 6.473
+  angleY 159.893
+  angleZ -0.47
+  m_aUnitPrefabSlots {
+   "{702F0E101DE0D2E9}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit2_Bag.et" "{E6D720D4D27A5BE3}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit_Bag.et" "{1E62304928813C61}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit3_Bag.et" "{57716A2D0B4E834A}Prefabs/Characters/Factions/INDFOR/RHS_ION/Bandits/Drg_Character_RHS_ION_Bandit4_Bag.et"
+  }
+ }
+ {
+  components {
+   PS_GroupCallsignAssigner "{628699D5485F0B62}" {
+    m_iCompanyCallsign 4
+   }
+  }
+  coords 4751.746 139.024 7614.061
   angleX 6.473
   angleY 159.893
   angleZ -0.47

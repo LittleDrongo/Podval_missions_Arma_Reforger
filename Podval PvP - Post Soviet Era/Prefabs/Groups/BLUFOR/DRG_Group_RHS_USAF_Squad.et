@@ -5,11 +5,12 @@ SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad_P.et
    DefaultFormation "Column"
   }
   PS_GroupCallsignAssigner "{624D56B5FDC6118E}" {
-   m_iCompanyCallsign 1
+   m_iCompanyCallsign 4
+   m_iSquadCallsign 1
   }
  }
  m_faction "RHS_USAF"
  m_aUnitPrefabSlots {
-  "{59B8CE7F80BD3D10}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SPEC/drg_Character_RHS_SSO_Leader.et" "{A9F293CD90DA21CB}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SPEC/drg_Character_RHS_SSO_SR.et" "{3F5F4A349BEA54E2}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SPEC/drg_Character_RHS_SSO_Rifleman.et" "{3F5F4A349BEA54E2}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SPEC/drg_Character_RHS_SSO_Rifleman.et" "{1895F08FC0D4B28A}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SPEC/drg_Character_RHS_SSO_SMAW.et" "{AB2760EB80AFCAA9}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SPEC/drg_Character_RHS_SSO_Rifleman_LAT.et" "{E0E74144C9457F2D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SPEC/drg_Character_RHS_SSO_Sapper.et"
+  "{0DD0D2D95D5F6532}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_SL.et" "{324FFDDC0194D3C2}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_MG.et" "{AC27C8298A1C3B9B}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_MGAB.et" "{AF29C533E014E165}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_MGA.et" "{324FFDDC0194D3C2}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_MG.et" "{AC27C8298A1C3B9B}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_MGAB.et" "{AF29C533E014E165}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_MGA.et"
  }
 }

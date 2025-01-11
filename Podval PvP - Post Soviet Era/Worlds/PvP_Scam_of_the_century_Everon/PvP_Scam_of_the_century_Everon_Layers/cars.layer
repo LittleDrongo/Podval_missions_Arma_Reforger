@@ -6,7 +6,10 @@ Vehicle S105_lightgreen1 : "{321016E0F9361A22}Prefabs/Vehicles/Wheeled/S105/S105
 }
 $grp Vehicle : "{49C909AFD66E90A1}Prefabs/Vehicles/Wheeled/S1203/S1203_transport_randomized.et" {
  S1203_transport_randomized1 {
-  coords 4837.319 172.151 7055.807
+  coords 4839.001 168.839 7061.646
+  angleX -3.274
+  angleY -115.372
+  angleZ 3.526
  }
  S1203_transport_randomized2 {
   coords 4760.327 164.327 7087.935
