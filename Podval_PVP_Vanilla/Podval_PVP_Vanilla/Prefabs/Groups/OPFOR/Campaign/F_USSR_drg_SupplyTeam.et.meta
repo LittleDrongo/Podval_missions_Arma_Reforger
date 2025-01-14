@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{611D6FBDC2D1C26F}Prefabs/Groups/OPFOR/Campaign/drg_Group_USSR_RifleSquad.et"
+ Name "{23EA56FEB403C090}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_SupplyTeam.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
