@@ -1,62 +1,58 @@
 $grp PolylineShapeEntity {
  {
   components {
-   PS_PolyZone "{4E85E39FA13112BE}" {
+   PS_PolyZone "{6622ACB3740C3ED1}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{61E1F12991566306}" {
+   ShapePoint "{A4105184BD967545}" {
     Position 746 0 5853
    }
-   ShapePoint "{FA4A377A83B52F8F}" {
+   ShapePoint "{364D83A4171931E3}" {
     Position 1104 0 5504
    }
-   ShapePoint "{991D02A3F562AD19}" {
+   ShapePoint "{0269678541BDCB22}" {
     Position 1384 0 5233
    }
-   ShapePoint "{9BA7F3442FE92F53}" {
+   ShapePoint "{0B5F99A273D5E3F0}" {
     Position 1270 0 5100
    }
-   ShapePoint "{8A943A86E9DF55D0}" {
+   ShapePoint "{CEA758A35A0C4BFA}" {
     Position 1260 0 4878
    }
-   ShapePoint "{B6D1209F84BBA870}" {
+   ShapePoint "{55CDFAF8470EC64C}" {
     Position 1708 0 4408
    }
-   ShapePoint "{EC72BEBF82EB2077}" {
+   ShapePoint "{F1CC01DDE800FA7A}" {
     Position 1876 0 4479
    }
-   ShapePoint "{73F58B1D7956501D}" {
+   ShapePoint "{ED83767B6C8E8EA7}" {
     Position 2216 0 6008
    }
-   ShapePoint "{1F25EE6246199093}" {
+   ShapePoint "{970EA1BD8EACAE6D}" {
     Position 2182 0 6314
    }
-   ShapePoint "{C7A5C627E6ED27B6}" {
+   ShapePoint "{111F84BE69BE13AC}" {
     Position 1953 0 6750
    }
-   ShapePoint "{C492AA249DEBDF92}" {
+   ShapePoint "{B6E60327F75E21DB}" {
     Position 1608 0 6519
    }
-   ShapePoint "{627AB6D3826D2183}" {
+   ShapePoint "{6B648B28B473E1F8}" {
     Position 1160 0 6669
    }
-   ShapePoint "{3564DA137A9E7A0B}" {
+   ShapePoint "{8DBA9B8DE049ABAD}" {
     Position 813 0 6433
    }
-   ShapePoint "{22FB7BFC28D8BAB1}" {
+   ShapePoint "{375AD61CB0A8BBA1}" {
     Position 662 0 6154
    }
   }
@@ -79,74 +75,70 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sGroupKey "F_USSR_"
+    m_sGroupKey "F_US_"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{85985701F6807592}" {
+   PS_PolyZone "{0199A6D8C8ECF569}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{76DD1329B394880D}" {
+   ShapePoint "{09F0947F254B39BC}" {
     Position 2182 0 6314
    }
-   ShapePoint "{B9F0726F6E7BD6B6}" {
+   ShapePoint "{04BC78350A2E73C1}" {
     Position 2216 0 6008
    }
-   ShapePoint "{26E9F50989356479}" {
+   ShapePoint "{B04D37DAE7F320DC}" {
     Position 2934 0 5632
    }
-   ShapePoint "{7AAF55EE52DC7DC8}" {
+   ShapePoint "{E7E64257E7669D3B}" {
     Position 2942 0 6126
    }
-   ShapePoint "{1A4AE801EA6E9ADB}" {
+   ShapePoint "{906624F7A5EDCE9E}" {
     Position 3150 0 6170
    }
-   ShapePoint "{DC0EE04C21C88BFB}" {
+   ShapePoint "{7FC81E71DD2C34AD}" {
     Position 3266 0 6294
    }
-   ShapePoint "{2EDE88954CB89EC}" {
+   ShapePoint "{83FD989F8BC454A1}" {
     Position 3478 0 6485
    }
-   ShapePoint "{1D3D28B1FE1A36E2}" {
+   ShapePoint "{583E1C337E858594}" {
     Position 3574 0 6518
    }
-   ShapePoint "{16C05244B3C914E0}" {
+   ShapePoint "{707B3A8627FCD2E7}" {
     Position 3514 0 6668
    }
-   ShapePoint "{3466726F86380A7E}" {
+   ShapePoint "{587858AD7F955DBE}" {
     Position 3478 0 7124
    }
-   ShapePoint "{6B386258227E28F3}" {
+   ShapePoint "{61D0D26454FECD78}" {
     Position 3383 0 7356
    }
-   ShapePoint "{D3028E6529C4170E}" {
+   ShapePoint "{32FDD9291CCBCC0A}" {
     Position 3170 0 7244
    }
-   ShapePoint "{96F38EEA8FAC7A4E}" {
+   ShapePoint "{67F132ED384DF9F7}" {
     Position 2951 0 7672
    }
-   ShapePoint "{9B8D3E464A6D977A}" {
+   ShapePoint "{A1DC05C90B049279}" {
     Position 2315 0 8155
    }
-   ShapePoint "{89D08D71A9499290}" {
+   ShapePoint "{45970E93D71F0FCA}" {
     Position 1804 0 7514
    }
-   ShapePoint "{EAF225DA306ED8A3}" {
+   ShapePoint "{A0B7F0923A966E69}" {
     Position 1953 0 6750
    }
   }
@@ -169,53 +161,49 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sGroupKey "F_USSR_"
+    m_sGroupKey "F_US_"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{1CD3CA2D5CFB1EA6}" {
+   PS_PolyZone "{45706D46A04D7E9E}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{C301663B9F4B6019}" {
+   ShapePoint "{E95331B3DF51DB22}" {
     Position 2293 0 3948
    }
-   ShapePoint "{40A94F6DEF51954F}" {
+   ShapePoint "{9DD1F3D0572685FE}" {
     Position 2615 0 4087
    }
-   ShapePoint "{F81D62C62661174D}" {
+   ShapePoint "{632EFA5292F11995}" {
     Position 2992 0 4597
    }
-   ShapePoint "{9CD433DF6C9BDFE1}" {
+   ShapePoint "{134C6936E6749D16}" {
     Position 3156 0 4885
    }
-   ShapePoint "{28CDFED007F5C2C7}" {
+   ShapePoint "{0C62AE64540ADD4C}" {
     Position 3187 0 5056
    }
-   ShapePoint "{D79F89DCF9E22CFC}" {
+   ShapePoint "{87A07B769E7E42D4}" {
     Position 3208 0 5169
    }
-   ShapePoint "{333B61E8929283E3}" {
+   ShapePoint "{B68A3ED0EB0463AD}" {
     Position 2934 0 5632
    }
-   ShapePoint "{DBA57B9856FC9FED}" {
+   ShapePoint "{8EBD94D510776626}" {
     Position 2216 0 6008
    }
-   ShapePoint "{B2585C133810F32}" {
+   ShapePoint "{349A449ABDB89EB5}" {
     Position 1876 0 4479
    }
   }
@@ -238,83 +226,79 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sGroupKey "F_USSR_"
+    m_sGroupKey "F_US_"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{B90EC50BB09AFAFE}" {
+   PS_PolyZone "{920B743A9AD8B1A1}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{301C93801E1F08}" {
+   ShapePoint "{E1695DCC55252143}" {
     Position 3778 0 4881
    }
-   ShapePoint "{EBD272EE8AA58057}" {
+   ShapePoint "{47FDB252DCA200DE}" {
     Position 4012 0 5136
    }
-   ShapePoint "{EF036A50D942FB3E}" {
+   ShapePoint "{B41A635284BD0D09}" {
     Position 4188 0 5346
    }
-   ShapePoint "{E9AC131B155A71C1}" {
+   ShapePoint "{ECE75BD6148473E9}" {
     Position 4147 0 5538
    }
-   ShapePoint "{FD7CC1900E010494}" {
+   ShapePoint "{EFD107B675AFC9BA}" {
     Position 4302 0 5571
    }
-   ShapePoint "{59F2A6E66C83169D}" {
+   ShapePoint "{5D39F736BAE6D7F9}" {
     Position 4284 0 5718
    }
-   ShapePoint "{627942E54B9FBDB0}" {
+   ShapePoint "{92E6A11812D3E36B}" {
     Position 4374 0 5862
    }
-   ShapePoint "{656D0BC15E74AC25}" {
+   ShapePoint "{05D194E17DC01A6D}" {
     Position 4266 0 5958
    }
-   ShapePoint "{5AB5BC59FB5C7460}" {
+   ShapePoint "{368ED4D5B8A5E431}" {
     Position 4058 0 6096
    }
-   ShapePoint "{2058A732BA547983}" {
+   ShapePoint "{88D5E639889DF7FB}" {
     Position 3988 0 6198
    }
-   ShapePoint "{D159242A576C8D2E}" {
+   ShapePoint "{66626FA076318F3E}" {
     Position 3780 0 6542
    }
-   ShapePoint "{A66427DAD8575F9B}" {
+   ShapePoint "{B48B04875F04285C}" {
     Position 3696 0 6560
    }
-   ShapePoint "{CE5475DE0EBEC699}" {
+   ShapePoint "{AF6BEF027A9B9BFC}" {
     Position 3478 0 6485
    }
-   ShapePoint "{420786F9943DC8E9}" {
+   ShapePoint "{EF54D668EB9B1C6A}" {
     Position 3266 0 6294
    }
-   ShapePoint "{D0257877CAB1B25C}" {
+   ShapePoint "{A2A85413910C9702}" {
     Position 3150 0 6170
    }
-   ShapePoint "{4D009947578A4F9D}" {
+   ShapePoint "{A371903E473E056A}" {
     Position 2942 0 6126
    }
-   ShapePoint "{99F41E6C6689694A}" {
+   ShapePoint "{B74CAC382862917E}" {
     Position 2934 0 5632
    }
-   ShapePoint "{7480BD8074229413}" {
+   ShapePoint "{BD4EDFA5E837E7E2}" {
     Position 3208 0 5169
    }
-   ShapePoint "{FDB3900A25DF53B1}" {
+   ShapePoint "{9679A07EF9B54C06}" {
     Position 3187 0 5056
    }
   }
@@ -337,86 +321,82 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sGroupKey "F_USSR_"
+    m_sGroupKey "F_US_"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{FCECB07CBB8F2DE7}" {
+   PS_PolyZone "{24EDF055FDBD6A73}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{4D8A794EB40CE7F4}" {
+   ShapePoint "{FB6AD8326B9F08CE}" {
     Position 3802 0 3370
    }
-   ShapePoint "{3DC430606CEA16CD}" {
+   ShapePoint "{A0C3F0EA268774AB}" {
     Position 4036 0 3288
    }
-   ShapePoint "{2667FF3A220191D2}" {
+   ShapePoint "{1B872DB9B9F380B7}" {
     Position 4328 0 3269
    }
-   ShapePoint "{70AEAD6E4EF18005}" {
+   ShapePoint "{800000E7547111AE}" {
     Position 4396 0 3517
    }
-   ShapePoint "{65F7FD0BD9367193}" {
+   ShapePoint "{7EDBA26D627BA86D}" {
     Position 4220 0 3844
    }
-   ShapePoint "{4C54199D1ADDC067}" {
+   ShapePoint "{0143A2E569EA4540}" {
     Position 4190 0 4094
    }
-   ShapePoint "{CA08F32026F850B}" {
+   ShapePoint "{B029B5E8503C1985}" {
     Position 4534 0 4394
    }
-   ShapePoint "{E0EA17C1363E343B}" {
+   ShapePoint "{EB16825221628FED}" {
     Position 4458 0 4536
    }
-   ShapePoint "{E543553E09ECEDB0}" {
+   ShapePoint "{9CCAA843C569F27C}" {
     Position 4410 0 4690
    }
-   ShapePoint "{55973D814D81F39C}" {
+   ShapePoint "{AF3730A8B3B60B2A}" {
     Position 4398 0 4788
    }
-   ShapePoint "{40C53ACBDBD9A01}" {
+   ShapePoint "{14B3AEE01BD36DAE}" {
     Position 4012 0 5136
    }
-   ShapePoint "{B38014E2618A1EC2}" {
+   ShapePoint "{FB32D259B0CDA35C}" {
     Position 3778 0 4881
    }
-   ShapePoint "{FA267E11A1BE8971}" {
+   ShapePoint "{5A482B4C6911FA09}" {
     Position 3187 0 5056
    }
-   ShapePoint "{11AD5AA7B9C7F490}" {
+   ShapePoint "{1E62D8D73C6C5461}" {
     Position 3156 0 4885
    }
-   ShapePoint "{90FA314102C66143}" {
+   ShapePoint "{10C20CE86CC7B076}" {
     Position 2992 0 4598
    }
-   ShapePoint "{926385CA1DE1A42B}" {
+   ShapePoint "{B4EACD4F9992043A}" {
     Position 2615 0 4087
    }
-   ShapePoint "{AC6AEE7B4D404DBA}" {
+   ShapePoint "{6E3052BA23D890CB}" {
     Position 2566 0 3946
    }
-   ShapePoint "{C46AC228229A0D80}" {
+   ShapePoint "{01669E013D9D672E}" {
     Position 2554 0 3700
    }
-   ShapePoint "{9B620BE9BC779378}" {
+   ShapePoint "{B4511ADA0C10D035}" {
     Position 3056 0 3602
    }
-   ShapePoint "{9CEAB2192C4DFA48}" {
+   ShapePoint "{650D9772FAEEAD71}" {
     Position 3267 0 3175
    }
   }
@@ -439,74 +419,70 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sGroupKey "F_USSR_"
+    m_sGroupKey "F_US_"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{51E047C6B55D94BC}" {
+   PS_PolyZone "{ED6CD43D4BA7EF30}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{EA47F4AF7CD70E9C}" {
+   ShapePoint "{0037FCFC11F682C6}" {
     Position 4937 0 4998
    }
-   ShapePoint "{72C3058D9F70320}" {
+   ShapePoint "{A271E6D5D402A61A}" {
     Position 4946 0 4820
    }
-   ShapePoint "{B3E3A9525B795B6D}" {
+   ShapePoint "{AEFF6115DDD79F98}" {
     Position 5144 0 4842
    }
-   ShapePoint "{96C1B933EA6789DD}" {
+   ShapePoint "{9231A2D65D64ED9F}" {
     Position 5290 0 4782
    }
-   ShapePoint "{6F10134A9AC72574}" {
+   ShapePoint "{66A56B818E612187}" {
     Position 5354 0 4862
    }
-   ShapePoint "{5A8AE37A1CEC549A}" {
+   ShapePoint "{007942FB3B9E5E71}" {
     Position 5431 0 4880
    }
-   ShapePoint "{BBB3CCCB88AF131F}" {
+   ShapePoint "{53F61C44B53997CD}" {
     Position 5620 0 5015
    }
-   ShapePoint "{146A1788EEB6E648}" {
+   ShapePoint "{D686D73A39AC34F4}" {
     Position 5752 0 5206
    }
-   ShapePoint "{89E806C550DC25E1}" {
+   ShapePoint "{1109783305E27001}" {
     Position 5907 0 5447
    }
-   ShapePoint "{DAF74C42A2195156}" {
+   ShapePoint "{1AF58F50FB29EBFE}" {
     Position 5419 0 5841
    }
-   ShapePoint "{A4300DA848C5F583}" {
+   ShapePoint "{D35C6B417C80C23B}" {
     Position 4996 0 6095
    }
-   ShapePoint "{E7C010C11262495E}" {
+   ShapePoint "{2C02D8B5CCAC61C2}" {
     Position 4614 0 5790
    }
-   ShapePoint "{EB85D4BBF01EA0FA}" {
+   ShapePoint "{D7BD9E3B40DF7605}" {
     Position 4608 0 5742
    }
-   ShapePoint "{7B3FE9271F37FE8E}" {
+   ShapePoint "{1F0AC0050D3B2637}" {
     Position 4642 0 5436
    }
-   ShapePoint "{8CE72A619C19275C}" {
+   ShapePoint "{4B2A384E9807ADCB}" {
     Position 4916 0 5230
    }
-   ShapePoint "{64B2D90DD0200D88}" {
+   ShapePoint "{856461038E9CAA3A}" {
     Position 5017 0 5107
    }
   }
@@ -529,74 +505,70 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sGroupKey "F_USSR_"
+    m_sGroupKey "F_US_"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{E0AF14F13757E8B7}" {
+   PS_PolyZone "{211A2BD44B13CFEC}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{1F1C052AD8FB6A2B}" {
+   ShapePoint "{D3B7A19788CBB989}" {
     Position 4723 0 4445
    }
-   ShapePoint "{1921AB5D25FDDB60}" {
+   ShapePoint "{942C2D65EF7510E2}" {
     Position 4842 0 4419
    }
-   ShapePoint "{8911D7068F162C62}" {
+   ShapePoint "{45D7D00BA50EB5E4}" {
     Position 5014 0 4351
    }
-   ShapePoint "{4AB7F5395CCE1961}" {
+   ShapePoint "{1A97502AF44CBE47}" {
     Position 5093 0 4246
    }
-   ShapePoint "{68903D4ECC318C88}" {
+   ShapePoint "{3164DC91421EE93B}" {
     Position 5442 0 4266
    }
-   ShapePoint "{D1D11162B520E24B}" {
+   ShapePoint "{9451F92F9984F506}" {
     Position 6002 0 3976
    }
-   ShapePoint "{7AB4E1D6D55538D5}" {
+   ShapePoint "{4446B3A541F161A5}" {
     Position 6021 0 4234
    }
-   ShapePoint "{AF6A6A24039F5773}" {
+   ShapePoint "{B920BA207E72FBF4}" {
     Position 5872 0 4668
    }
-   ShapePoint "{FBEFC492A903A0CF}" {
+   ShapePoint "{4BCCA485DD7189FF}" {
     Position 5645 0 4820
    }
-   ShapePoint "{BADD816A4097F0DC}" {
+   ShapePoint "{BF4F3E71892A0D28}" {
     Position 5431 0 4880
    }
-   ShapePoint "{D35246C3EB98F79C}" {
+   ShapePoint "{F09E6C1A5D8BBC25}" {
     Position 5354 0 4862
    }
-   ShapePoint "{222FF90F29C1E25D}" {
+   ShapePoint "{D42374D82D45D431}" {
     Position 5290 0 4782
    }
-   ShapePoint "{35D9157CDDA79922}" {
+   ShapePoint "{BADEB433FC152341}" {
     Position 5144 0 4842
    }
-   ShapePoint "{DAC6840940F51C3F}" {
+   ShapePoint "{00B6D348E7543F84}" {
     Position 4946 0 4820
    }
-   ShapePoint "{4355AC0554D76D23}" {
+   ShapePoint "{9B29F96A086C50D4}" {
     Position 4902 0 4672
    }
-   ShapePoint "{53F5D4CF13129DE3}" {
+   ShapePoint "{91E1E110BD331EF7}" {
     Position 4752 0 4666
    }
   }
@@ -619,65 +591,61 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sGroupKey "F_USSR_"
+    m_sGroupKey "F_US_"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{F4399D253D946007}" {
+   PS_PolyZone "{FB7F0E0E3DF61A24}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{68A9110A2C3798F9}" {
+   ShapePoint "{3054D3E3FE89E30B}" {
     Position 5620 0 5015
    }
-   ShapePoint "{B8DD0E9B953D257}" {
+   ShapePoint "{2E37E7AE0F756814}" {
     Position 5431 0 4880
    }
-   ShapePoint "{CEBB38B557E4E549}" {
+   ShapePoint "{E77AD2877E9B39AD}" {
     Position 5645 0 4820
    }
-   ShapePoint "{150918947EB77A45}" {
+   ShapePoint "{0E956B59C94B529C}" {
     Position 5872 0 4668
    }
-   ShapePoint "{F844498C12065D87}" {
+   ShapePoint "{5D8399DC644FD129}" {
     Position 6021 0 4234
    }
-   ShapePoint "{8E8E64E1F035236F}" {
+   ShapePoint "{4E996E3289A6B915}" {
     Position 6420 0 4179
    }
-   ShapePoint "{FE4BB5CB8D11EC75}" {
+   ShapePoint "{3EEB478A4935434F}" {
     Position 6686 0 4455
    }
-   ShapePoint "{D247C63310B15A71}" {
+   ShapePoint "{AD95BCFB73E08488}" {
     Position 6652 0 4788
    }
-   ShapePoint "{58EA262F0927F277}" {
+   ShapePoint "{1904FEF359E29211}" {
     Position 6534 0 4984
    }
-   ShapePoint "{DB5F63C6E6144959}" {
+   ShapePoint "{333F3B3EC31062C4}" {
     Position 6558 0 5136
    }
-   ShapePoint "{5F6CC5F64B449677}" {
+   ShapePoint "{D54A2C7C5E1D4707}" {
     Position 6358 0 5550
    }
-   ShapePoint "{D89B1800BEAC1960}" {
+   ShapePoint "{A92C3DC9A6C915B9}" {
     Position 5907 0 5447
    }
-   ShapePoint "{AEE343915CDBD300}" {
+   ShapePoint "{4EB7A993C9638520}" {
     Position 5751 0 5206
    }
   }
@@ -700,86 +668,82 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sGroupKey "F_USSR_"
+    m_sGroupKey "F_US_"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{C0577AF294717B40}" {
+   PS_PolyZone "{2EA539674A789EC0}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{675DD1E368DE1661}" {
+   ShapePoint "{A89558F38909AD23}" {
     Position 4534 0 4394
    }
-   ShapePoint "{6106DD49D6C71197}" {
+   ShapePoint "{80517EC619CB6517}" {
     Position 4723 0 4445
    }
-   ShapePoint "{512BD91A49DC2F47}" {
+   ShapePoint "{01A9850DF35274AD}" {
     Position 4752 0 4666
    }
-   ShapePoint "{3A0AA16CC696B45}" {
+   ShapePoint "{116E3814BB950C0D}" {
     Position 4902 0 4672
    }
-   ShapePoint "{F5D4C39594229C18}" {
+   ShapePoint "{BA2E7DBEA22302DC}" {
     Position 4946 0 4820
    }
-   ShapePoint "{5D1CFFEDCDEB2B1A}" {
+   ShapePoint "{8CDD895955ED608F}" {
     Position 4936 0 4997
    }
-   ShapePoint "{70AAF9237F1B5CC8}" {
+   ShapePoint "{FD52137046EAD447}" {
     Position 5017 0 5107
    }
-   ShapePoint "{8CEDF51425EF574}" {
+   ShapePoint "{26E2E650A36A2293}" {
     Position 4916 0 5230
    }
-   ShapePoint "{3787D820365E8F50}" {
+   ShapePoint "{7D8780487984EFD7}" {
     Position 4642 0 5436
    }
-   ShapePoint "{CF20ED0B3AE2F5B6}" {
+   ShapePoint "{761FF1072A0DE8A8}" {
     Position 4608 0 5742
    }
-   ShapePoint "{FA6A9B2292C7698A}" {
+   ShapePoint "{712C02E09C546364}" {
     Position 4478 0 5838
    }
-   ShapePoint "{46402D8B8670258E}" {
+   ShapePoint "{DAF606B6743F37BE}" {
     Position 4374 0 5862
    }
-   ShapePoint "{89946FBE64D0A599}" {
+   ShapePoint "{B4C58CF1989FA0D5}" {
     Position 4284 0 5718
    }
-   ShapePoint "{B9AFF321510866EE}" {
+   ShapePoint "{CABB85716B389C18}" {
     Position 4302 0 5571
    }
-   ShapePoint "{93F6E07E6314F6F}" {
+   ShapePoint "{15F82F5EC7706AFF}" {
     Position 4147 0 5538
    }
-   ShapePoint "{A35C335C5B70C749}" {
+   ShapePoint "{C61CEB7C77EF1C14}" {
     Position 4188 0 5346
    }
-   ShapePoint "{FDDAE74945A4AB3B}" {
+   ShapePoint "{39045960AFCB6A87}" {
     Position 4012 0 5136
    }
-   ShapePoint "{70016370ECCB2838}" {
+   ShapePoint "{7AFFD2D385BB52AB}" {
     Position 4398 0 4788
    }
-   ShapePoint "{7D7A245A2164F506}" {
+   ShapePoint "{4BEF1DA78BC1A622}" {
     Position 4410 0 4690
    }
-   ShapePoint "{54C49C203CB51D78}" {
+   ShapePoint "{28BDE97972A722A4}" {
     Position 4458 0 4536
    }
   }
@@ -802,92 +766,88 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sGroupKey "F_USSR_"
+    m_sGroupKey "F_US_"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{53B507600E75CB3F}" {
+   PS_PolyZone "{26B47993DC4866D6}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{77B781F100C5661B}" {
+   ShapePoint "{EF1385460EBF85A9}" {
     Position 4945 0 3266
    }
-   ShapePoint "{338F8D5CF2CF414F}" {
+   ShapePoint "{59D0247ED0679CE6}" {
     Position 5000 0 3404
    }
-   ShapePoint "{CE1CC16D8315D787}" {
+   ShapePoint "{6B89F9056598BD6E}" {
     Position 4922 0 3580
    }
-   ShapePoint "{132666704E27E0F9}" {
+   ShapePoint "{9DE409E73299BD7C}" {
     Position 5110 0 3701
    }
-   ShapePoint "{DDB5F130F71A799A}" {
+   ShapePoint "{91C0890945B8B8C3}" {
     Position 5276 0 3734
    }
-   ShapePoint "{3FC0414C1D02A675}" {
+   ShapePoint "{93BADA8286B6B47C}" {
     Position 5523 0 3482
    }
-   ShapePoint "{7A8DCC89647D7AA2}" {
+   ShapePoint "{170C2C13327CE94C}" {
     Position 5798 0 3201
    }
-   ShapePoint "{F0109E557E4A5E53}" {
+   ShapePoint "{D413ED0105184964}" {
     Position 6161 0 3226
    }
-   ShapePoint "{FA6B2FE1CB1C61B1}" {
+   ShapePoint "{DC767C17BDF4AFFA}" {
     Position 6272 0 3423
    }
-   ShapePoint "{7CA56F37F3AC5193}" {
+   ShapePoint "{50961ECC6C456054}" {
     Position 5962 0 3646
    }
-   ShapePoint "{8AECB8CFDABA6200}" {
+   ShapePoint "{D94C49939BBB7B6A}" {
     Position 6002 0 3976
    }
-   ShapePoint "{C2E3EE11CF417449}" {
+   ShapePoint "{A0816B2A8476F11D}" {
     Position 5442 0 4266
    }
-   ShapePoint "{56A71E4DC5385EA2}" {
+   ShapePoint "{F8F8D71F1B6EFFA3}" {
     Position 5093 0 4246
    }
-   ShapePoint "{ECAE2841BAD8E5B9}" {
+   ShapePoint "{C46F88D2FAE2531B}" {
     Position 5014 0 4351
    }
-   ShapePoint "{4894F4E03DEE6773}" {
+   ShapePoint "{4C5513D704EA221D}" {
     Position 4842 0 4419
    }
-   ShapePoint "{FAC66E0691DE894B}" {
+   ShapePoint "{914A426B5B270AD3}" {
     Position 4723 0 4445
    }
-   ShapePoint "{B9EC2EB5610A5771}" {
+   ShapePoint "{6E491E6B0C218818}" {
     Position 4534 0 4394
    }
-   ShapePoint "{24E555C1CF041097}" {
+   ShapePoint "{4E2CDD1A7412A07E}" {
     Position 4190 0 4094
    }
-   ShapePoint "{D27042CD2595214B}" {
+   ShapePoint "{FADCE66008079052}" {
     Position 4220 0 3844
    }
-   ShapePoint "{4A7006E5ADFE37E8}" {
+   ShapePoint "{4184F7CBF6E9C948}" {
     Position 4396 0 3517
    }
-   ShapePoint "{FD527EC12DF6CE23}" {
+   ShapePoint "{3E1F66AA057DC460}" {
     Position 4440 0 3332
    }
-   ShapePoint "{427AB0949D202AC}" {
+   ShapePoint "{D546165DCD08F40E}" {
     Position 4689 0 3178
    }
   }
@@ -910,56 +870,52 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sGroupKey "F_USSR_"
+    m_sGroupKey "F_US_"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{E29C3E17EC95853C}" {
+   PS_PolyZone "{349FB42A46C819DF}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.00 0.69 0.31 0.40
+    m_cPolygonColor 0 0.69 0.31 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{5E1951F764650678}" {
+   ShapePoint "{7D1711D7C1FFEC95}" {
     Position 2068 0 2268
    }
-   ShapePoint "{2A4FEE54C246B23}" {
+   ShapePoint "{7D1772880B3D33A3}" {
     Position 2098 0 2018
    }
-   ShapePoint "{238E9168FC99A48D}" {
+   ShapePoint "{0608C8A2FB134B02}" {
     Position 2473 0 1894
    }
-   ShapePoint "{95497445CAEDEF8C}" {
+   ShapePoint "{64FFD2AF641B02AE}" {
     Position 2696 0 1546
    }
-   ShapePoint "{4057D42031682B13}" {
+   ShapePoint "{819399B31D289F87}" {
     Position 3370 0 1335
    }
-   ShapePoint "{E213269443FF126C}" {
+   ShapePoint "{E5A299926F7E6C54}" {
     Position 3676 0 1375
    }
-   ShapePoint "{DBCEC490D82434C5}" {
+   ShapePoint "{A07331C6E52525F7}" {
     Position 3477 0 2034
    }
-   ShapePoint "{46CD65BACFAE603E}" {
+   ShapePoint "{8B7BCD8EB57D9A1B}" {
     Position 3138 0 2618
    }
-   ShapePoint "{15EFEA6A6CB17D0B}" {
+   ShapePoint "{32E3D4FAE840C80C}" {
     Position 2696 0 2581
    }
-   ShapePoint "{CC423AAC0777AB4D}" {
+   ShapePoint "{58ADB90A3D13BE67}" {
     Position 2444 0 2390
    }
   }
@@ -988,53 +944,49 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{DDAE6040E2A61886}" {
+   PS_PolyZone "{73CAF8ED5E4928FE}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{98CE4B9FD1E8A225}" {
+   ShapePoint "{ADE1696FBC09A32D}" {
     Position 4584 0 6122
    }
-   ShapePoint "{5B3C96C2E56C4EC0}" {
+   ShapePoint "{C336D5DF3B868C1D}" {
     Position 5014 0 6147
    }
-   ShapePoint "{F852BBA338EF81AA}" {
+   ShapePoint "{A8AB2676A07C4331}" {
     Position 4736 0 6548
    }
-   ShapePoint "{E1A095588F5882DE}" {
+   ShapePoint "{F9A972D86ED840FE}" {
     Position 4532 0 6612
    }
-   ShapePoint "{25E2883A2C45D728}" {
+   ShapePoint "{0CFBC0867C8B8B78}" {
     Position 4280 0 6526
    }
-   ShapePoint "{B542817FC275EFD2}" {
+   ShapePoint "{A06131983B8899DD}" {
     Position 3904 0 6581
    }
-   ShapePoint "{1204D25EF3ACA597}" {
+   ShapePoint "{25789577F8C3A228}" {
     Position 3780 0 6542
    }
-   ShapePoint "{56FB69DA463D1BCB}" {
+   ShapePoint "{212DBFBAC57FF9F4}" {
     Position 3956 0 6251
    }
-   ShapePoint "{3266FA5873641ADC}" {
+   ShapePoint "{CF029D50980CA46F}" {
     Position 3989 0 6196
    }
-   ShapePoint "{3D34D8DF795374EE}" {
+   ShapePoint "{DACAB11C635A6D96}" {
     Position 4058 0 6096
    }
-   ShapePoint "{F3C302EB1FBEBECE}" {
+   ShapePoint "{EBC002D47E727B03}" {
     Position 4266 0 5957
    }
   }
@@ -1063,38 +1015,34 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{DEEC377711C317FB}" {
+   PS_PolyZone "{115347BE9651782C}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{E4EAB6CEC5B64C30}" {
+   ShapePoint "{C776FFD3085A8B82}" {
     Position 6104 0 6360
    }
-   ShapePoint "{F7A185315BFB116F}" {
+   ShapePoint "{E48C043C86655538}" {
     Position 5907 0 5446
    }
-   ShapePoint "{10F9B28399959D08}" {
+   ShapePoint "{C993D36A378C25E7}" {
     Position 6358 0 5550
    }
-   ShapePoint "{633C6891CE92F0BA}" {
+   ShapePoint "{E6407B36398C186F}" {
     Position 6558 0 5136
    }
-   ShapePoint "{4C60E7B2298C6885}" {
+   ShapePoint "{35284A6C6E3C7D0E}" {
     Position 7082 0 5550
    }
-   ShapePoint "{CE16BA0EBB57D638}" {
+   ShapePoint "{27957F7F05D0F065}" {
     Position 6836 0 5909
    }
   }
@@ -1117,47 +1065,43 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sGroupKey "F_US_"
+    m_sGroupKey "F_USSR_"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{FB6AAF2746160368}" {
+   PS_PolyZone "{BD0F438A22524539}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{8599F3E0D174A1AC}" {
+   ShapePoint "{09160653F9CB8392}" {
     Position 7679 0 6136
    }
-   ShapePoint "{CBC9BAF94F7C5757}" {
+   ShapePoint "{2FAFA23DEDD141A4}" {
     Position 7082 0 5550
    }
-   ShapePoint "{903EBBA1F6FFFF97}" {
+   ShapePoint "{3B090188D02A3922}" {
     Position 7113 0 5222
    }
-   ShapePoint "{A4BC884EC2438D5D}" {
+   ShapePoint "{0564322A237D239D}" {
     Position 7946 0 4812
    }
-   ShapePoint "{6B93CEDF9E327ADA}" {
+   ShapePoint "{5F0A931A083A42AF}" {
     Position 8495 0 5306
    }
-   ShapePoint "{15DE8498552E024B}" {
+   ShapePoint "{0FC8B7A476E23996}" {
     Position 8344 0 5615
    }
-   ShapePoint "{5A8190C6B71EBF5C}" {
+   ShapePoint "{29A1D151ACCA39E2}" {
     Position 8172 0 5968
    }
   }
@@ -1186,50 +1130,46 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{C0BD81EC117FE2AE}" {
+   PS_PolyZone "{94E89AD911BB3263}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{FE05482B200F16CF}" {
+   ShapePoint "{2C349F0820DBD2AB}" {
     Position 8442 0 4536
    }
-   ShapePoint "{B02F8D1F81BA8491}" {
+   ShapePoint "{B7C9DA81831785A2}" {
     Position 7946 0 4812
    }
-   ShapePoint "{35158A8672C73DB1}" {
+   ShapePoint "{FC19DDC70579C1C2}" {
     Position 7756 0 4122
    }
-   ShapePoint "{92B6C93C997D07DD}" {
+   ShapePoint "{2D344A44B6D91C46}" {
     Position 7538 0 3986
    }
-   ShapePoint "{F17FA5348DE96526}" {
+   ShapePoint "{F4C81BF7262F0E6B}" {
     Position 7902 0 3717
    }
-   ShapePoint "{90A05B231FBA571F}" {
+   ShapePoint "{51BF1B6736C3F756}" {
     Position 8165 0 3037
    }
-   ShapePoint "{7FE397A91098805A}" {
+   ShapePoint "{C46770F110C42377}" {
     Position 8825 0 3066
    }
-   ShapePoint "{D97BEA576584C1FD}" {
+   ShapePoint "{4AD00B4FB21A72A0}" {
     Position 9228 0 3520
    }
-   ShapePoint "{5182F570AB206FF6}" {
+   ShapePoint "{DA00B32AEDDFD37F}" {
     Position 8932 0 4101
    }
-   ShapePoint "{87E514D538B6140D}" {
+   ShapePoint "{46797193CECA34AF}" {
     Position 9014 0 4444
    }
   }
@@ -1258,41 +1198,37 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{5ED4B39EBE41A651}" {
+   PS_PolyZone "{BAA41E0A03920FC8}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{60C8A07A9DD306F2}" {
+   ShapePoint "{CDD6A6744B79B974}" {
     Position 8825 0 3066
    }
-   ShapePoint "{6CEDB01AA29E63FF}" {
+   ShapePoint "{78A50AA9CB697390}" {
     Position 8165 0 3037
    }
-   ShapePoint "{455BA27DC65813ED}" {
+   ShapePoint "{37E2D1704E888B9F}" {
     Position 8557 0 2525
    }
-   ShapePoint "{43571CCE6605B7F}" {
+   ShapePoint "{7124D897D5EC222C}" {
     Position 8628 0 2132
    }
-   ShapePoint "{CD42026AE7377A0A}" {
+   ShapePoint "{22646ACB03C6A8EB}" {
     Position 9318 0 2868
    }
-   ShapePoint "{579922FBFF9F5C02}" {
+   ShapePoint "{7F62E203E979D98D}" {
     Position 9358 0 3217
    }
-   ShapePoint "{916253FB3940FBF3}" {
+   ShapePoint "{07FB1EB90A920BAB}" {
     Position 9228 0 3520
    }
   }
@@ -1321,41 +1257,37 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{C2DEDC8227D1620C}" {
+   PS_PolyZone "{0231E0EA0DF3017E}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{1076F57DE676D11F}" {
+   ShapePoint "{BB17405990D44DEE}" {
     Position 9354 0 1692
    }
-   ShapePoint "{33211390F738EB99}" {
+   ShapePoint "{823F3BC28CB4D89E}" {
     Position 9318 0 1414
    }
-   ShapePoint "{2FD50E5828936136}" {
+   ShapePoint "{269CFE45BA26AA15}" {
     Position 9660 0 1136
    }
-   ShapePoint "{E1F15EDAD67634A6}" {
+   ShapePoint "{75725B84D3BB917F}" {
     Position 10059 0 1248
    }
-   ShapePoint "{C06250C1BAFFFBCE}" {
+   ShapePoint "{9C90E384C06893E5}" {
     Position 10340 0 1400
    }
-   ShapePoint "{CDBD45C4EFC9F504}" {
+   ShapePoint "{816A8A79E0357055}" {
     Position 10198 0 2087
    }
-   ShapePoint "{91E94F185AD7602B}" {
+   ShapePoint "{29160A0BDE11CD55}" {
     Position 9893 0 2048
    }
   }
@@ -1384,47 +1316,43 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{BF33A1D30F023C26}" {
+   PS_PolyZone "{3F190B4379EF5331}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{F748397E536F024B}" {
+   ShapePoint "{DDC077FB140F9BF7}" {
     Position 6446 0 3380
    }
-   ShapePoint "{19D2D910B3CD5526}" {
+   ShapePoint "{BDDB7A25055F1941}" {
     Position 6366 0 3202
    }
-   ShapePoint "{CD6FC5BE5D0CD7A2}" {
+   ShapePoint "{08E48EB9A63211B7}" {
     Position 6446 0 2942
    }
-   ShapePoint "{545DEF50C7540213}" {
+   ShapePoint "{C5D215DCD422F84F}" {
     Position 6467 0 2752
    }
-   ShapePoint "{C4EF7A43176CB23B}" {
+   ShapePoint "{824F78A6D983AB2A}" {
     Position 7269 0 2896
    }
-   ShapePoint "{A687E6F68568737E}" {
+   ShapePoint "{1698BC1F7F45666B}" {
     Position 7082 0 3942
    }
-   ShapePoint "{A4F26560DB238C8A}" {
+   ShapePoint "{7B03C260258037E4}" {
     Position 6696 0 3904
    }
-   ShapePoint "{E784E12D4D3CDA72}" {
+   ShapePoint "{577CDD6DD29856E8}" {
     Position 6596 0 3704
    }
-   ShapePoint "{C67116995BA85F26}" {
+   ShapePoint "{FC579884DBA480C1}" {
     Position 6720 0 3486
    }
   }
@@ -1453,38 +1381,37 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{E042D2D7C1191032}" {
+   PS_PolyZone "{5E487573AF7BEB7B}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{E5B73CDAA05ABA3C}" {
+   ShapePoint "{805E7C296EEE9295}" {
     Position 7775 0 1330
    }
-   ShapePoint "{2E24EB1E4F35A81}" {
+   ShapePoint "{6AD77839E8F2DA99}" {
     Position 8242 0 936
    }
-   ShapePoint "{D651F1B0C271C27A}" {
+   ShapePoint "{EEA1B4C9DF01F170}" {
+    Position 8264 0 703
+   }
+   ShapePoint "{7B50F23E325E8738}" {
     Position 8694 0 471
    }
-   ShapePoint "{9E85AD92220ADF3B}" {
+   ShapePoint "{17BBFBFB21724FC4}" {
     Position 8868 0 953
    }
-   ShapePoint "{B6C9FA77A527D7C9}" {
+   ShapePoint "{A3D3C3C94D343371}" {
     Position 8694 0 1338
    }
-   ShapePoint "{DC14D41A208D4929}" {
+   ShapePoint "{5FAF40241AC1A959}" {
     Position 8591 0 1640
    }
   }
@@ -1513,41 +1440,37 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{73E486C88993957C}" {
+   PS_PolyZone "{1CEE1C9FF4012C0D}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{D15529CDEB10B039}" {
+   ShapePoint "{DF711FFECF083A13}" {
     Position 8165 0 3037
    }
-   ShapePoint "{FA48635D0C9EEAF7}" {
+   ShapePoint "{272F28515E4ACF36}" {
     Position 7902 0 3718
    }
-   ShapePoint "{E9798416CE881E64}" {
+   ShapePoint "{17E01C21985087FC}" {
     Position 7538 0 3986
    }
-   ShapePoint "{C4DDB2E9FEE5EF9B}" {
+   ShapePoint "{2DDF97806EF20665}" {
     Position 7082 0 3942
    }
-   ShapePoint "{530B345C6E370B33}" {
+   ShapePoint "{372D65CC869C98B9}" {
     Position 7269 0 2896
    }
-   ShapePoint "{DF53F178ED56ADEF}" {
+   ShapePoint "{E8A3BE5A6161BC24}" {
     Position 7636 0 2314
    }
-   ShapePoint "{42F539BF0C52EDFC}" {
+   ShapePoint "{FDA87388CF74CA1C}" {
     Position 7914 0 2547
    }
   }
@@ -1576,44 +1499,40 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{C1189845A03ABFA6}" {
+   PS_PolyZone "{4C0F15B8DE816819}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{F1252C620E695750}" {
+   ShapePoint "{4BC5617707E36A7D}" {
     Position 7914 0 2547
    }
-   ShapePoint "{E5590CFC4DBBAF50}" {
+   ShapePoint "{42B81A9B54AA8EC9}" {
     Position 7636 0 2314
    }
-   ShapePoint "{518208F28867BB51}" {
+   ShapePoint "{66DC2CD8A18BDB03}" {
     Position 7752 0 1676
    }
-   ShapePoint "{EAAB724F7C12221C}" {
+   ShapePoint "{E994B3EC0084C436}" {
     Position 7775 0 1330
    }
-   ShapePoint "{458FB39599AE2534}" {
+   ShapePoint "{42BFA931A9AE3141}" {
     Position 8591 0 1640
    }
-   ShapePoint "{9C984D70FAC0CE31}" {
+   ShapePoint "{E665550C2F13B09E}" {
     Position 8628 0 2132
    }
-   ShapePoint "{D92F1ACEC2C2250D}" {
+   ShapePoint "{B2AFC6194CEB30AD}" {
     Position 8557 0 2525
    }
-   ShapePoint "{BC6F06BC9B5BC00F}" {
+   ShapePoint "{F53C3C0CE4C553C7}" {
     Position 8165 0 3037
    }
   }
@@ -1642,53 +1561,49 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{7A4C07FFB6BEB37C}" {
+   PS_PolyZone "{80F1D71F51C864D8}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{B2FC85F40A44A8A8}" {
+   ShapePoint "{891F9B95EB0CA3FB}" {
     Position 6322 0 2254
    }
-   ShapePoint "{1ACE8CEDA143C634}" {
+   ShapePoint "{1EE0CF04687F8869}" {
     Position 5996 0 1946
    }
-   ShapePoint "{E90018DDF7A82873}" {
+   ShapePoint "{13821EA857ADF81A}" {
     Position 6322 0 1532
    }
-   ShapePoint "{96866DB24490EB9}" {
+   ShapePoint "{7A3024EB13226381}" {
     Position 6900 0 1408
    }
-   ShapePoint "{1C29E6D254CFB5AA}" {
+   ShapePoint "{ECDA3194756742C4}" {
     Position 7174 0 996
    }
-   ShapePoint "{6D8F1267BBAC6109}" {
+   ShapePoint "{2B6B8CBFFB0BDCFD}" {
     Position 7611 0 898
    }
-   ShapePoint "{7598E7DFC84628A7}" {
+   ShapePoint "{9FCEFD55A4ED99AA}" {
     Position 7775 0 1330
    }
-   ShapePoint "{5019A8C42641D6E7}" {
+   ShapePoint "{038AD44C11DB412F}" {
     Position 7752 0 1676
    }
-   ShapePoint "{1B0B25FCC7BFD05A}" {
+   ShapePoint "{4DF7ADFE37C234D7}" {
     Position 7636 0 2314
    }
-   ShapePoint "{17F6CAEC21B6E923}" {
+   ShapePoint "{3ABF9C570113024F}" {
     Position 7269 0 2896
    }
-   ShapePoint "{8B9226320ED1D8EE}" {
+   ShapePoint "{BD8EAE69063B2C79}" {
     Position 6467 0 2752
    }
   }
@@ -1717,53 +1632,49 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{DBCB018CA4DBEA52}" {
+   PS_PolyZone "{EA7465C9BBFB9733}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{88408C60E308193D}" {
+   ShapePoint "{E425A1F813121A20}" {
     Position 9834 0 38
    }
-   ShapePoint "{B88B410EB9CB7E96}" {
+   ShapePoint "{A9EA951150DBD826}" {
     Position 10456 0 74
    }
-   ShapePoint "{53BF8A12E2FD6368}" {
+   ShapePoint "{9B68B8FFDA9F548F}" {
     Position 10639 0 310
    }
-   ShapePoint "{16D192CB4BF926E0}" {
+   ShapePoint "{FA62C123D9FF0C56}" {
     Position 10477 0 854
    }
-   ShapePoint "{669DE818F74A9FAD}" {
+   ShapePoint "{2A752B0BC607C1FB}" {
     Position 10059 0 1248
    }
-   ShapePoint "{CB1383742950B53D}" {
+   ShapePoint "{B6BDBF083EE899CA}" {
     Position 9660 0 1136
    }
-   ShapePoint "{9CB0360B2BB2425C}" {
+   ShapePoint "{25E6C9F63B6D4A6D}" {
     Position 9318 0 1414
    }
-   ShapePoint "{CB390B50D04A2458}" {
+   ShapePoint "{4FEAE9E7CFD59F78}" {
     Position 8694 0 1338
    }
-   ShapePoint "{AAED4E085AA4D212}" {
+   ShapePoint "{8421D3B3E6DE4EB3}" {
     Position 8868 0 954
    }
-   ShapePoint "{F754B3B2A28E4711}" {
+   ShapePoint "{A798EB1E9F6CCD1F}" {
     Position 8694 0 471
    }
-   ShapePoint "{2C0F884ED531614E}" {
+   ShapePoint "{4802B52C7664D458}" {
     Position 9138 0 117
    }
   }
@@ -1792,44 +1703,40 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{EA26F369287BADF8}" {
+   PS_PolyZone "{B5A03ED5BEF366B5}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{41D2F40D5526E0AA}" {
+   ShapePoint "{02CA834D12E315F1}" {
     Position 8628 0 2132
    }
-   ShapePoint "{716DAB3292C76FCF}" {
+   ShapePoint "{FA98D4ECED855F92}" {
     Position 8591 0 1640
    }
-   ShapePoint "{D3F2133C877B14A5}" {
+   ShapePoint "{D52A5A7A09B9815C}" {
     Position 8694 0 1338
    }
-   ShapePoint "{C8AA58EA5738EC0F}" {
+   ShapePoint "{31F757C87D697546}" {
     Position 9318 0 1414
    }
-   ShapePoint "{D3921B8D2D58F2CA}" {
+   ShapePoint "{1C28784D48BA1351}" {
     Position 9354 0 1692
    }
-   ShapePoint "{E4F5A979D6A4EBEA}" {
+   ShapePoint "{AE7396BEA6E535AB}" {
     Position 9893 0 2048
    }
-   ShapePoint "{4C8D0E10CE6A5DE4}" {
+   ShapePoint "{A3A063760B4DDE96}" {
     Position 9500 0 2312
    }
-   ShapePoint "{B89C5C31ADED41AD}" {
+   ShapePoint "{70AA999D3C241E79}" {
     Position 9177 0 2718
    }
   }
@@ -1858,53 +1765,49 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{698128649F142AC9}" {
+   PS_PolyZone "{95589F629D48518A}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{B828B9BB37468AE6}" {
+   ShapePoint "{C3915635DB5E9AFB}" {
     Position 9660 0 2714
    }
-   ShapePoint "{837F56484281D56B}" {
+   ShapePoint "{05E1FC84754BD927}" {
     Position 9318 0 2868
    }
-   ShapePoint "{839B8A0BF4197893}" {
+   ShapePoint "{5DA4C2191745C674}" {
     Position 9177 0 2718
    }
-   ShapePoint "{C88739573259CAA1}" {
+   ShapePoint "{91937AE08305759E}" {
     Position 9500 0 2312
    }
-   ShapePoint "{4D2B79A48A0A8FE3}" {
+   ShapePoint "{991B16F52885E03C}" {
     Position 9893 0 2048
    }
-   ShapePoint "{E4E7891B6479433F}" {
+   ShapePoint "{9FF596A7534DA0CD}" {
     Position 10198 0 2087
    }
-   ShapePoint "{3D758625D6D8DA4D}" {
+   ShapePoint "{C98A31D357EAE64C}" {
     Position 10404 0 2114
    }
-   ShapePoint "{E82486DD0F0FF1C9}" {
+   ShapePoint "{2319B6978C12372F}" {
     Position 10993 0 2448
    }
-   ShapePoint "{D40A1214E88C9131}" {
+   ShapePoint "{49D9F4746C874A49}" {
     Position 11364 0 2966
    }
-   ShapePoint "{D692D41704F43C06}" {
+   ShapePoint "{CE20152BD3AA52F3}" {
     Position 10672 0 3246
    }
-   ShapePoint "{6829C4521B83FA13}" {
+   ShapePoint "{51C389266B49BE91}" {
     Position 10444 0 3188
    }
   }
@@ -1933,62 +1836,58 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{5E9126D06A779470}" {
+   PS_PolyZone "{2109B42E3EDC7E01}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{FD2A25DF4E892C4C}" {
+   ShapePoint "{9CCEBA36E572438D}" {
     Position 10992 0 2448
    }
-   ShapePoint "{7CD4C1746B3B2278}" {
+   ShapePoint "{E6690F7728033ED2}" {
     Position 10404 0 2114
    }
-   ShapePoint "{808E67FA34B2324D}" {
+   ShapePoint "{981703AA83476D91}" {
     Position 10198 0 2087
    }
-   ShapePoint "{FE432390980EB5C3}" {
+   ShapePoint "{F70CA8B087771FE5}" {
     Position 10340 0 1400
    }
-   ShapePoint "{E75A15D12A9BF9A7}" {
+   ShapePoint "{2239332DEEEBE35F}" {
     Position 10892 0 1374
    }
-   ShapePoint "{F1B027787F92A7FB}" {
+   ShapePoint "{7960FC87AC425685}" {
     Position 11192 0 1132
    }
-   ShapePoint "{B3B50778ADF7DBDC}" {
+   ShapePoint "{C62BC9DA520ECC3E}" {
     Position 11998 0 1160
    }
-   ShapePoint "{C128879B54B4C37D}" {
+   ShapePoint "{954E5BD9BEC1EB68}" {
     Position 12029 0 1508
    }
-   ShapePoint "{50580A8E0443462B}" {
+   ShapePoint "{484AADFBBFD38E18}" {
     Position 12334 0 1669
    }
-   ShapePoint "{CA4C840A17072735}" {
+   ShapePoint "{0F11D757E62377DB}" {
     Position 12253 0 1980
    }
-   ShapePoint "{F532D98C6CBAEA84}" {
+   ShapePoint "{5B2D585069A15A09}" {
     Position 11957 0 2132
    }
-   ShapePoint "{C0A3AEA4F0BAE7F7}" {
+   ShapePoint "{90C88456A74BFF7C}" {
     Position 11860 0 2448
    }
-   ShapePoint "{8C37EB77BF347D00}" {
+   ShapePoint "{07602A224AA52FEF}" {
     Position 11486 0 2532
    }
-   ShapePoint "{885B731C262ED023}" {
+   ShapePoint "{3BEE4453805E14B4}" {
     Position 11364 0 2966
    }
   }
@@ -2017,65 +1916,61 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{B2F99FA12500DB76}" {
+   PS_PolyZone "{2C2AF6B992FDD37A}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{4DC7861B8A9C87B}" {
+   ShapePoint "{8217C8A214E994C9}" {
     Position 9918 0 4884
    }
-   ShapePoint "{DFA708379CE4F78E}" {
+   ShapePoint "{C52BD087A0B8316B}" {
     Position 9574 0 4558
    }
-   ShapePoint "{1A86A280FE5CF8F7}" {
+   ShapePoint "{EFD9BF5622A88AD4}" {
     Position 9014 0 4444
    }
-   ShapePoint "{47FA21AC5EC030BE}" {
+   ShapePoint "{6F83E7CF8C54DD82}" {
     Position 8932 0 4101
    }
-   ShapePoint "{417809112C8185CE}" {
+   ShapePoint "{933655ED693BA6BE}" {
     Position 9228 0 3520
    }
-   ShapePoint "{1AB769691DE584F4}" {
+   ShapePoint "{61B3C51160ACECC2}" {
     Position 9358 0 3217
    }
-   ShapePoint "{F0D2DFC3FF3C89E2}" {
+   ShapePoint "{89006B7BBE8E4E7C}" {
     Position 9318 0 2868
    }
-   ShapePoint "{F82BECF58A2920FE}" {
+   ShapePoint "{2B71DDD125663389}" {
     Position 9660 0 2714
    }
-   ShapePoint "{432517DEEBE7C18}" {
+   ShapePoint "{86414DB3AAA5F6AD}" {
     Position 10444 0 3188
    }
-   ShapePoint "{C1A8FC3C7ABA24C1}" {
+   ShapePoint "{CCEAB5C57369BCC7}" {
     Position 10656 0 3591
    }
-   ShapePoint "{C7C22749CD33EEE0}" {
+   ShapePoint "{69BB15A28F774214}" {
     Position 10547 0 3983
    }
-   ShapePoint "{152F934456C273CA}" {
+   ShapePoint "{1204D052D1808873}" {
     Position 10332 0 4197
    }
-   ShapePoint "{D299AA402008369E}" {
+   ShapePoint "{19FC21308790F7A8}" {
     Position 10109 0 4444
    }
-   ShapePoint "{281D8598FDE4B3BF}" {
+   ShapePoint "{B24D2B655DC8FD3F}" {
     Position 10344 0 4750
    }
-   ShapePoint "{60719DE63111293F}" {
+   ShapePoint "{61CF0E1372CC1517}" {
     Position 10189 0 4900
    }
   }
@@ -2104,65 +1999,61 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{26F29744B71B0934}" {
+   PS_PolyZone "{AF0F5F537DEE08FA}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{7781766CFB1C9B4A}" {
+   ShapePoint "{5904EB0E560AF81B}" {
     Position 8495 0 5306
    }
-   ShapePoint "{C2355D069633F1A7}" {
+   ShapePoint "{C06057AB3DB1E4BB}" {
     Position 7946 0 4812
    }
-   ShapePoint "{7EB707B798B1DFCF}" {
+   ShapePoint "{3A808027AA2011EA}" {
     Position 8442 0 4536
    }
-   ShapePoint "{893272D304179CA}" {
+   ShapePoint "{453C024EB5CE92A4}" {
     Position 9014 0 4444
    }
-   ShapePoint "{7D8B9E331C0340A5}" {
+   ShapePoint "{5D8A795F5674DCD6}" {
     Position 9574 0 4558
    }
-   ShapePoint "{CDD472F37F0D933B}" {
+   ShapePoint "{A54E8FFD234030CB}" {
     Position 9918 0 4884
    }
-   ShapePoint "{847B7ACF27F43700}" {
+   ShapePoint "{DB300ECEB915B8DA}" {
     Position 10068 0 5124
    }
-   ShapePoint "{90E505E1E4233FDE}" {
+   ShapePoint "{1C4FA65091E13C4C}" {
     Position 9952 0 5438
    }
-   ShapePoint "{BCABA4AD169D3B6B}" {
+   ShapePoint "{EFBD9991CEAB4AB3}" {
     Position 9782 0 5763
    }
-   ShapePoint "{78A145BC4CC88920}" {
+   ShapePoint "{812F0E335AEF7489}" {
     Position 9456 0 5859
    }
-   ShapePoint "{CF779EAA86412AA1}" {
+   ShapePoint "{D3A3CA2F8E1FE671}" {
     Position 9274 0 5983
    }
-   ShapePoint "{55F5742739F1E2B5}" {
+   ShapePoint "{8730839B3332AE08}" {
     Position 9088 0 5763
    }
-   ShapePoint "{9D093B2A5D7E4CE0}" {
+   ShapePoint "{65ECFF9F964636CA}" {
     Position 8824 0 5662
    }
-   ShapePoint "{F66B515B44CA359E}" {
+   ShapePoint "{D9E267914CE791C7}" {
     Position 8584 0 5806
    }
-   ShapePoint "{470E2F87FA8B1E3}" {
+   ShapePoint "{98E75E541B332C50}" {
     Position 8344 0 5615
    }
   }
@@ -2191,35 +2082,31 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{19DF2DE8E0EAB063}" {
+   PS_PolyZone "{2492960E59255BDB}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{232343E04C02BA6C}" {
+   ShapePoint "{B8E484AD4C1654AE}" {
     Position 7679 0 6136
    }
-   ShapePoint "{B06FC356920BD4E1}" {
+   ShapePoint "{61B0B064D5406170}" {
     Position 6682 0 6637
    }
-   ShapePoint "{B3E7727CFE4566C1}" {
+   ShapePoint "{0F5473F9E8CF313B}" {
     Position 6104 0 6360
    }
-   ShapePoint "{5F33F508A888EA88}" {
-    Position 6836 0 5908
+   ShapePoint "{FC1D73F83BE0B3B1}" {
+    Position 6836 0 5909
    }
-   ShapePoint "{4C8ECE9082118D1D}" {
+   ShapePoint "{303C09C0CB0819F3}" {
     Position 7082 0 5550
    }
   }
@@ -2242,53 +2129,49 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sGroupKey "F_US_"
+    m_sGroupKey "F_USSR_"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{FBCB3F9FADA26D4F}" {
+   PS_PolyZone "{0A01701CA90A8656}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{28CB6A1CF7408F56}" {
+   ShapePoint "{48A49DDB26C58C32}" {
     Position 6682 0 6637
    }
-   ShapePoint "{3B9775D5D0C6436}" {
+   ShapePoint "{7F96BFA735A306C5}" {
     Position 7679 0 6136
    }
-   ShapePoint "{1229AF6EB1DD489F}" {
+   ShapePoint "{C40EE07D37C045E4}" {
     Position 7552 0 6461
    }
-   ShapePoint "{4562AFBF4668C536}" {
+   ShapePoint "{F28B11CA33BBCD30}" {
     Position 7815 0 6636
    }
-   ShapePoint "{55595C31D0A06AE3}" {
+   ShapePoint "{CC4C9090FB72A11F}" {
     Position 7560 0 6958
    }
-   ShapePoint "{DE765C0D8CEAEE46}" {
+   ShapePoint "{87F1A28D0961DD17}" {
     Position 7620 0 7424
    }
-   ShapePoint "{C838B4A2D77AFB90}" {
+   ShapePoint "{839F6FBDEF2B8165}" {
     Position 6938 0 7708
    }
-   ShapePoint "{4D205692BF4519FA}" {
+   ShapePoint "{69CADC695DECE1A3}" {
     Position 6543 0 7522
    }
-   ShapePoint "{A2FA2EB10FE3499F}" {
+   ShapePoint "{B8D0A2183EB29BE4}" {
     Position 6494 0 7210
    }
   }
@@ -2311,68 +2194,64 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sGroupKey "F_US_"
+    m_sGroupKey "F_USSR_"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{981651F61F0CC9C4}" {
+   PS_PolyZone "{74E1DA83468993B3}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{9E7E5E3A3553107}" {
+   ShapePoint "{B0CAE1AF6511B894}" {
     Position 6938 0 7708
    }
-   ShapePoint "{D54639E293EF3C77}" {
+   ShapePoint "{ED7C34B451280746}" {
     Position 7620 0 7424
    }
-   ShapePoint "{DC58B6FB7A5797C8}" {
+   ShapePoint "{B2552F6FB81E0801}" {
     Position 7655 0 7624
    }
-   ShapePoint "{CDB915AFE59DD0D5}" {
+   ShapePoint "{800BF8C2D7BD54BB}" {
     Position 7918 0 7799
    }
-   ShapePoint "{2901716EF9DD33E7}" {
+   ShapePoint "{AC2CAAEC2559C6CB}" {
     Position 8117 0 8116
    }
-   ShapePoint "{11D6BCFE6AD01782}" {
+   ShapePoint "{9F80DB0C45C694D2}" {
     Position 7842 0 8753
    }
-   ShapePoint "{E516BCC1EEAEAD61}" {
+   ShapePoint "{14D3EF5F38B3022F}" {
     Position 7993 0 9386
    }
-   ShapePoint "{D390B94A72196B87}" {
+   ShapePoint "{306AC07AE467D97C}" {
     Position 7449 0 9720
    }
-   ShapePoint "{FC379F540C936A1E}" {
+   ShapePoint "{176885FEC2D1F808}" {
     Position 7222 0 9579
    }
-   ShapePoint "{47F7409EF0A13072}" {
+   ShapePoint "{F27E830110EC5892}" {
     Position 7170 0 9180
    }
-   ShapePoint "{8B659CD6523F9BC}" {
+   ShapePoint "{1FBBF6BEC7FBF562}" {
     Position 6781 0 9242
    }
-   ShapePoint "{6B4A53EFD5F45798}" {
+   ShapePoint "{ED900AB1A11D2B19}" {
     Position 6518 0 9128
    }
-   ShapePoint "{27E2A30652EB3B60}" {
+   ShapePoint "{A1CE8E3190E4F71F}" {
     Position 6608 0 8753
    }
-   ShapePoint "{D2B69DC98255B74C}" {
+   ShapePoint "{733B002BBB742AB6}" {
     Position 6646 0 8051
    }
   }
@@ -2401,62 +2280,58 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{159BEE4C447279CD}" {
+   PS_PolyZone "{E9D5382F034495F6}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{68F7C8B0253268DB}" {
+   ShapePoint "{2A2CCCEB672F4091}" {
     Position 3514 0 6668
    }
-   ShapePoint "{FA9A323AEF7F0875}" {
+   ShapePoint "{3800CA0CA1B773CB}" {
     Position 3574 0 6518
    }
-   ShapePoint "{B6C3467930C91C05}" {
+   ShapePoint "{9534454FC83804A7}" {
     Position 3696 0 6560
    }
-   ShapePoint "{8263FD1E3B2298E4}" {
+   ShapePoint "{74DCE2A861A99EFF}" {
     Position 3780 0 6542
    }
-   ShapePoint "{760C887B1BDDE8F2}" {
+   ShapePoint "{425F576702279C78}" {
     Position 3904 0 6581
    }
-   ShapePoint "{B6833141DD179413}" {
+   ShapePoint "{1F04C6C379E22330}" {
     Position 4280 0 6526
    }
-   ShapePoint "{1EE8E8E4E5187D0F}" {
+   ShapePoint "{28FF599201A07AD4}" {
     Position 4532 0 6612
    }
-   ShapePoint "{5FC3407B508CBA24}" {
+   ShapePoint "{35A5C443CC82CDF8}" {
     Position 4392 0 6750
    }
-   ShapePoint "{7255390B8A9A25DF}" {
+   ShapePoint "{0BFD79465CD16D3B}" {
     Position 4390 0 7341
    }
-   ShapePoint "{EFBA3347E2EA2096}" {
+   ShapePoint "{D2A8C9387156F206}" {
     Position 4180 0 7406
    }
-   ShapePoint "{8717BBCD5A6767BE}" {
+   ShapePoint "{4382F7A611CA70EB}" {
     Position 3912 0 7484
    }
-   ShapePoint "{F617A7EF0A3A0687}" {
+   ShapePoint "{922CDA363A4000B9}" {
     Position 3578 0 7466
    }
-   ShapePoint "{D3476D01106E6D7F}" {
+   ShapePoint "{4A8DDE4444921766}" {
     Position 3383 0 7356
    }
-   ShapePoint "{52CDCC2B71C97659}" {
+   ShapePoint "{771B5275F0FF65E1}" {
     Position 3478 0 7124
    }
   }
@@ -2485,41 +2360,37 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{8098BA2BC1084A40}" {
+   PS_PolyZone "{6D4F562B5C7E29E3}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{B1F64B1A272152}" {
+   ShapePoint "{63F3A6F176BDCEB8}" {
     Position 4532 0 6612
    }
-   ShapePoint "{C7E33E48A76E5FA}" {
+   ShapePoint "{905F9DD923910EED}" {
     Position 4736 0 6548
    }
-   ShapePoint "{DF62A74DA521E37}" {
+   ShapePoint "{C5CF1EA93A324741}" {
     Position 5360 0 6952
    }
-   ShapePoint "{3F90291D57589036}" {
+   ShapePoint "{C565D3E4E0F20991}" {
     Position 5270 0 7422
    }
-   ShapePoint "{E83917D6D0FC9CEC}" {
+   ShapePoint "{1FC9C75E5302720A}" {
     Position 4574 0 7518
    }
-   ShapePoint "{15A7D8F9DBDBBFD6}" {
+   ShapePoint "{44D62CB6B182B897}" {
     Position 4390 0 7341
    }
-   ShapePoint "{58548CB43124BB23}" {
+   ShapePoint "{4210CDA870A63476}" {
     Position 4392 0 6750
    }
   }
@@ -2542,50 +2413,46 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sGroupKey "F_US_"
+    m_sGroupKey "F_USSR_"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{BCFC8F712A252946}" {
+   PS_PolyZone "{8CA58BA9C32DD639}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{B5161800E9C2EE69}" {
+   ShapePoint "{5A2D99D5B7C52D5C}" {
     Position 5270 0 7422
    }
-   ShapePoint "{F9F03471C445832}" {
+   ShapePoint "{91D9F976EA03A49A}" {
     Position 5587 0 7910
    }
-   ShapePoint "{DA15AAF3505C6010}" {
+   ShapePoint "{45924C25AA29E998}" {
     Position 5678 0 8644
    }
-   ShapePoint "{8325552018489CB8}" {
+   ShapePoint "{E619DE5E57465F08}" {
     Position 5534 0 8744
    }
-   ShapePoint "{A5EF0C092042765}" {
+   ShapePoint "{2EF359B03D554410}" {
     Position 4817 0 8692
    }
-   ShapePoint "{93CF0C36C328535}" {
+   ShapePoint "{0041F2CBF65A3252}" {
     Position 4546 0 8620
    }
-   ShapePoint "{EEEA5706503BD471}" {
+   ShapePoint "{5DECD3D28A2E972F}" {
     Position 4504 0 8146
    }
-   ShapePoint "{7BB659205F64C915}" {
+   ShapePoint "{A428192BBC559EC2}" {
     Position 4574 0 7518
    }
   }
@@ -2614,44 +2481,40 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{C3D9E993B3DDE341}" {
+   PS_PolyZone "{E8FCBC11DAAD8F34}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{4F77A35889737152}" {
+   ShapePoint "{B56E9F379E06C074}" {
     Position 5722 0 6580
    }
-   ShapePoint "{CEC2FF6B310A0188}" {
+   ShapePoint "{39CAE3299964E31E}" {
     Position 6104 0 6360
    }
-   ShapePoint "{1D16C779E1F16DF0}" {
+   ShapePoint "{75BF1254A1863B43}" {
     Position 6682 0 6637
    }
-   ShapePoint "{A4316C851074230C}" {
+   ShapePoint "{4DF53CA73762E84B}" {
     Position 6494 0 7210
    }
-   ShapePoint "{5E78E13863241106}" {
+   ShapePoint "{02166034E10A6D7F}" {
     Position 6144 0 7474
    }
-   ShapePoint "{8FDA112EF5498CA2}" {
+   ShapePoint "{489D58C775F7277F}" {
     Position 5784 0 7544
    }
-   ShapePoint "{349981392D48F4B3}" {
+   ShapePoint "{884A1D5A04C8D1DF}" {
     Position 5270 0 7422
    }
-   ShapePoint "{55DA946DD032B416}" {
+   ShapePoint "{6ED158814B654611}" {
     Position 5360 0 6952
    }
   }
@@ -2674,62 +2537,58 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sGroupKey "F_US_"
+    m_sGroupKey "F_USSR_"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{75DCACAFB2B69EE3}" {
+   PS_PolyZone "{B08B28F4955491AD}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{4E354E07CB36F99}" {
+   ShapePoint "{538E53483C075400}" {
     Position 5784 0 7544
    }
-   ShapePoint "{21FC777ABC89AFB6}" {
+   ShapePoint "{3313A40549A29FCE}" {
     Position 6144 0 7474
    }
-   ShapePoint "{2B9719C6E7D2B202}" {
+   ShapePoint "{AAC94A6CED0B1F88}" {
     Position 6494 0 7210
    }
-   ShapePoint "{F3F8F5C045ED8150}" {
+   ShapePoint "{95FB32B45E775126}" {
     Position 6543 0 7522
    }
-   ShapePoint "{4FC20EB69E396F0B}" {
+   ShapePoint "{E7D31D93E80C7B54}" {
     Position 6938 0 7708
    }
-   ShapePoint "{DDE0C3ACE22FE35E}" {
+   ShapePoint "{3759587BD56A8D99}" {
     Position 6646 0 8051
    }
-   ShapePoint "{DB5BEF7303018221}" {
+   ShapePoint "{BA024B8C976A474D}" {
     Position 6608 0 8752
    }
-   ShapePoint "{51AE0F2BFB996E84}" {
+   ShapePoint "{492CB6FD82E79EA7}" {
     Position 6518 0 9128
    }
-   ShapePoint "{E7CD975F0A950F6}" {
+   ShapePoint "{C02C042E42D69F15}" {
     Position 6082 0 8806
    }
-   ShapePoint "{E5093F30479A89F6}" {
+   ShapePoint "{AA14688C729D716E}" {
     Position 5678 0 8644
    }
-   ShapePoint "{B155CA0859D5FE8A}" {
+   ShapePoint "{97BB3F281E6AE6A3}" {
     Position 5587 0 7910
    }
-   ShapePoint "{6A7CBA0441A804B4}" {
+   ShapePoint "{74FBD46816E12651}" {
     Position 5270 0 7422
    }
   }
@@ -2758,53 +2617,49 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{F432A72511263B72}" {
+   PS_PolyZone "{8E0B275913322638}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.40
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{84AAFACFAC8DC7B4}" {
+   ShapePoint "{8B2677BCAE135A11}" {
     Position 6534 0 4984
    }
-   ShapePoint "{8F240C521619BD75}" {
+   ShapePoint "{06ADC9B79DF39C59}" {
     Position 6652 0 4788
    }
-   ShapePoint "{5E142FFD8EDFBB45}" {
+   ShapePoint "{B65A7951E72C5713}" {
     Position 6686 0 4455
    }
-   ShapePoint "{FAF96356B9D7502D}" {
+   ShapePoint "{CE6E918BE4BDC6FB}" {
     Position 6696 0 3904
    }
-   ShapePoint "{1A263378C6179FA6}" {
+   ShapePoint "{A87BF4255BF2CFA0}" {
     Position 7082 0 3942
    }
-   ShapePoint "{8A398F32E7EE6229}" {
+   ShapePoint "{2EC2C3E22630B9DD}" {
     Position 7538 0 3986
    }
-   ShapePoint "{2EFD74786A75DEC6}" {
+   ShapePoint "{06C28D7E8F44A56F}" {
     Position 7756 0 4122
    }
-   ShapePoint "{1DF0A1D4E4603BE7}" {
+   ShapePoint "{74918E72E75E3DD7}" {
     Position 7946 0 4812
    }
-   ShapePoint "{13319FF9ECE9A096}" {
+   ShapePoint "{6416A48C45B14B9A}" {
     Position 7113 0 5222
    }
-   ShapePoint "{830385D6D432823}" {
+   ShapePoint "{B8EE60EAE10601D1}" {
     Position 7082 0 5550
    }
-   ShapePoint "{9F2EF4A5DEF73A38}" {
+   ShapePoint "{C3C69F85097E2753}" {
     Position 6558 0 5136
    }
   }
@@ -2833,44 +2688,40 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{E61EEE93EDFFF390}" {
+   PS_PolyZone "{658A3BEBC860F58E}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.55 0.55 0.55 0.00
+    m_cPolygonColor 0.07 0.39 0.98 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{3153149BCB30E23}" {
+   ShapePoint "{D8500EBDDCC9614B}" {
     Position 5360 0 6952
    }
-   ShapePoint "{9E8E875D884902FE}" {
+   ShapePoint "{AD13937D93253985}" {
     Position 4736 0 6548
    }
-   ShapePoint "{4538778AD0C4DE5E}" {
+   ShapePoint "{E93603A995327FBE}" {
     Position 5014 0 6147
    }
-   ShapePoint "{5B1799E35E535B28}" {
+   ShapePoint "{A580B8F825C13C98}" {
     Position 4996 0 6095
    }
-   ShapePoint "{3B2D5DCA4837D498}" {
+   ShapePoint "{B4E60B31456B26A8}" {
     Position 5418 0 5842
    }
-   ShapePoint "{995F6A7214222F3B}" {
+   ShapePoint "{B4A0448D3F08AA81}" {
     Position 5907 0 5447
    }
-   ShapePoint "{E14980550A9A7E0F}" {
+   ShapePoint "{FB3520067C6F8BC0}" {
     Position 6104 0 6360
    }
-   ShapePoint "{7BCDBD931EC87A9C}" {
+   ShapePoint "{872904D64F00738E}" {
     Position 5722 0 6580
    }
   }
@@ -2893,47 +2744,43 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sGroupKey "GREYZONE"
+    m_sGroupKey "F_USSR_"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{12DF15EFE40FDEB}" {
+   PS_PolyZone "{2FA51927A0C4F2DB}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{D58145E3EC62A7F5}" {
+   ShapePoint "{7D498D04E6B58F3E}" {
     Position 3578 0 7466
    }
-   ShapePoint "{6D3A7706230E9D0B}" {
+   ShapePoint "{70A4F5D5AC8E5610}" {
     Position 3912 0 7484
    }
-   ShapePoint "{C99A06EEF7720147}" {
+   ShapePoint "{B08B20796A9CD633}" {
     Position 4390 0 7341
    }
-   ShapePoint "{1285775705BDF1A6}" {
+   ShapePoint "{118A16E2EAA62D35}" {
     Position 4574 0 7518
    }
-   ShapePoint "{EFD1ED87949164EC}" {
+   ShapePoint "{415A6E6454792470}" {
     Position 4504 0 8146
    }
-   ShapePoint "{AEACDB28CDE75A83}" {
+   ShapePoint "{16502E1C6E748FEF}" {
     Position 3735 0 8166
    }
-   ShapePoint "{A994360D8781EEB7}" {
+   ShapePoint "{E5BD575AAE6D06F8}" {
     Position 3550 0 7956
    }
   }
@@ -2962,44 +2809,40 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{B451084F78A1DCC2}" {
+   PS_PolyZone "{59A35DBF0207ACB9}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{1E10CDF0B047CF74}" {
+   ShapePoint "{899CCC6FA5D82260}" {
     Position 3474 0 8482
    }
-   ShapePoint "{50333B5CC388ABA8}" {
+   ShapePoint "{DABE97C70DFECC63}" {
     Position 3735 0 8166
    }
-   ShapePoint "{3AC912864B34BAA6}" {
+   ShapePoint "{E1B6A325A7B48DBC}" {
     Position 4504 0 8146
    }
-   ShapePoint "{F27D065EBD799F38}" {
+   ShapePoint "{B13032CA2E4541A3}" {
     Position 4546 0 8620
    }
-   ShapePoint "{3383A5CDE10C1B5C}" {
+   ShapePoint "{2521812AF34936DF}" {
     Position 4409 0 9026
    }
-   ShapePoint "{144DEFC3D5EDEB1A}" {
+   ShapePoint "{F0758CF0B8826DFB}" {
     Position 3878 0 9262
    }
-   ShapePoint "{92BA02C8171506EE}" {
+   ShapePoint "{9EDF58C9AC54BA91}" {
     Position 3638 0 9028
    }
-   ShapePoint "{72879FDD3F5A35BB}" {
+   ShapePoint "{22489009CB295069}" {
     Position 3614 0 8693
    }
   }
@@ -3028,47 +2871,43 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{C788C2CC3BB967C6}" {
+   PS_PolyZone "{686C8F33024E3D9A}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{8259484D69F4AA5B}" {
+   ShapePoint "{C81972512FEBB898}" {
     Position 4099 0 9473
    }
-   ShapePoint "{FA38CB584653861F}" {
+   ShapePoint "{6E87492379FBCFD5}" {
     Position 3878 0 9262
    }
-   ShapePoint "{71315F409A0BEA8F}" {
+   ShapePoint "{2F70348667E6C7B7}" {
     Position 4409 0 9026
    }
-   ShapePoint "{B6E8B4A21B6D0BA7}" {
+   ShapePoint "{D880A7E6BBED4ED6}" {
     Position 4776 0 9132
    }
-   ShapePoint "{91F340762C77915E}" {
+   ShapePoint "{8CF6EB42B7A675C8}" {
     Position 4914 0 9496
    }
-   ShapePoint "{1D34858FCAD4DBD6}" {
+   ShapePoint "{0067AB661CEB3D56}" {
     Position 4799 0 9877
    }
-   ShapePoint "{A2C2663661B60EFB}" {
+   ShapePoint "{AA21BECD1B55A33B}" {
     Position 4356 0 9952
    }
-   ShapePoint "{5B5BD2A68D9452FF}" {
+   ShapePoint "{21222085B60A3EB9}" {
     Position 4014 0 9794
    }
-   ShapePoint "{8B685815DA09016C}" {
+   ShapePoint "{1E9A9CA8900A0503}" {
     Position 4146 0 9620
    }
   }
@@ -3097,44 +2936,40 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{DEBA412326D4607E}" {
+   PS_PolyZone "{D956874425F0A482}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{C8C6440E13F5EF4E}" {
+   ShapePoint "{136985A3AAFAF4FB}" {
     Position 4356 0 9952
    }
-   ShapePoint "{EA452E7D1252DE6B}" {
+   ShapePoint "{094C1D7A65F8A1EF}" {
     Position 4799 0 9877
    }
-   ShapePoint "{8DABA3EF2AAF0445}" {
+   ShapePoint "{6666DF07152BF64A}" {
     Position 4757 0 10308
    }
-   ShapePoint "{7055143AE8957FEA}" {
+   ShapePoint "{F3FCAB14C4015587}" {
     Position 3885 0 10602
    }
-   ShapePoint "{53FBBCC782F7D1D6}" {
+   ShapePoint "{5D5FD47907CEE79A}" {
     Position 3776 0 10462
    }
-   ShapePoint "{FCB1E07CB4A0DD17}" {
+   ShapePoint "{5177B1FD5D249F1E}" {
     Position 3838 0 10342
    }
-   ShapePoint "{F734D0F0F8847BED}" {
+   ShapePoint "{F53D6A9B6501334B}" {
     Position 3855 0 10114
    }
-   ShapePoint "{512FA18CDFF83012}" {
+   ShapePoint "{BCBC49208014FD87}" {
     Position 4014 0 9794
    }
   }
@@ -3163,50 +2998,46 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{435529C50737D50}" {
+   PS_PolyZone "{5D67DDA725D33A4C}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.00 0.69 0.31 0.40
+    m_cPolygonColor 0 0.69 0.31 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{7A8744FDD2371FA1}" {
+   ShapePoint "{0489C0587ADF5909}" {
     Position 818 0 11418
    }
-   ShapePoint "{1C45C35535DED439}" {
+   ShapePoint "{3FD047D4C411A013}" {
     Position 904 0 11080
    }
-   ShapePoint "{F3CB85DE85A0920C}" {
+   ShapePoint "{0D6CD354BB43777A}" {
     Position 1272 0 11108
    }
-   ShapePoint "{EC7D3CC4D6A71C01}" {
+   ShapePoint "{8501DA06252FE316}" {
     Position 1728 0 11008
    }
-   ShapePoint "{FF7409A7B19B4DDB}" {
+   ShapePoint "{C148D87EE3769C1E}" {
     Position 1831 0 11372
    }
-   ShapePoint "{6CF7429F25DEC50D}" {
+   ShapePoint "{CC5C6F9DDBE58462}" {
     Position 1520 0 11648
    }
-   ShapePoint "{B198C9F08E4D89B7}" {
+   ShapePoint "{A2E443A11FA1A60C}" {
     Position 1419 0 11916
    }
-   ShapePoint "{195EA1D1A490B3BC}" {
+   ShapePoint "{A36BA7F2BB383DF3}" {
     Position 957 0 12214
    }
-   ShapePoint "{D20C425AEE8C5B46}" {
+   ShapePoint "{F8FFC63EC022D8E3}" {
     Position 780 0 11868
    }
-   ShapePoint "{5DFAE971BEAFC58D}" {
+   ShapePoint "{11CA893364E453E1}" {
     Position 626 0 11676
    }
   }
@@ -3235,38 +3066,34 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{5C79C5FB127E9BDF}" {
+   PS_PolyZone "{193E156CE06A3E0B}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.00 0.69 0.31 0.40
+    m_cPolygonColor 0 0.69 0.31 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{62461645A40A07B2}" {
+   ShapePoint "{50326D04B4FD4EC8}" {
     Position 11339 0 8606
    }
-   ShapePoint "{3E65FC38CC2B3BC6}" {
+   ShapePoint "{DF5181FC808F56D6}" {
     Position 11238 0 8875
    }
-   ShapePoint "{AF59DDA6718B62A1}" {
+   ShapePoint "{884F33B82B85F49E}" {
     Position 10776 0 9173
    }
-   ShapePoint "{1A51F163BF9B8EBB}" {
+   ShapePoint "{3A6A679A1AAFD517}" {
     Position 10600 0 8826
    }
-   ShapePoint "{F9785329F497FD1B}" {
+   ShapePoint "{7F3922704D446FC9}" {
     Position 10638 0 8376
    }
-   ShapePoint "{DD4043BF4A0CB146}" {
+   ShapePoint "{147CDB476F47B1CF}" {
     Position 11092 0 8066
    }
   }
@@ -3295,44 +3122,40 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{AE6260E93231875D}" {
+   PS_PolyZone "{EE29F3342E5A00FC}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.00 0.69 0.31 0.40
+    m_cPolygonColor 0 0.69 0.31 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{5948C34150A0F46A}" {
+   ShapePoint "{C88B5A3652DCBCFC}" {
     Position 11544 0 12350
    }
-   ShapePoint "{E543B1B65A22594B}" {
+   ShapePoint "{E0A2DEC0CFE7173E}" {
     Position 10932 0 12263
    }
-   ShapePoint "{9183112E564B9CDE}" {
+   ShapePoint "{2E66B2531D9213A3}" {
     Position 10157 0 12320
    }
-   ShapePoint "{9D67D2A24EA84D1}" {
+   ShapePoint "{1F2A621FEED8856E}" {
     Position 10056 0 11939
    }
-   ShapePoint "{27CA77303CB5AA66}" {
+   ShapePoint "{D0A5FC11CBC1CB04}" {
     Position 10671 0 11354
    }
-   ShapePoint "{F74F2A5CD80F6328}" {
+   ShapePoint "{44D9D129B9BC2148}" {
     Position 11066 0 10702
    }
-   ShapePoint "{C2FCECCEA5139BEA}" {
+   ShapePoint "{9D4C1FC9871F2FAB}" {
     Position 11935 0 10558
    }
-   ShapePoint "{746B0921F10819DF}" {
+   ShapePoint "{5AB3A35431D8BBA4}" {
     Position 11704 0 11664
    }
   }
@@ -3361,47 +3184,43 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{D34DFEB19A8D4B75}" {
+   PS_PolyZone "{A3E2565ABE1CED5E}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{E2AD6709C0B0AD2A}" {
+   ShapePoint "{6CFDCB59DAA10788}" {
     Position 6332 0 10824
    }
-   ShapePoint "{1079B4309FCCAD06}" {
+   ShapePoint "{81BA50601FC6624C}" {
     Position 6030 0 10836
    }
-   ShapePoint "{B79B44B6D30E4DD1}" {
+   ShapePoint "{7CA1A0CB436014A2}" {
     Position 5906 0 11098
    }
-   ShapePoint "{81A998C079EA6B0B}" {
+   ShapePoint "{CB72F610581BDF1C}" {
     Position 4938 0 10904
    }
-   ShapePoint "{5410A503094DC6C1}" {
+   ShapePoint "{D02D94140CA8ADA8}" {
     Position 4932 0 10550
    }
-   ShapePoint "{38F4BA2E68A48635}" {
+   ShapePoint "{B564032BE08A678F}" {
     Position 4757 0 10308
    }
-   ShapePoint "{87745B7B4ECDD564}" {
+   ShapePoint "{CAB4F662AB750957}" {
     Position 5122 0 10284
    }
-   ShapePoint "{FCE05BD227B9B06C}" {
+   ShapePoint "{3BC04B9CFD0B5ABF}" {
     Position 6270 0 10224
    }
-   ShapePoint "{A09A7D329DA03AAF}" {
+   ShapePoint "{3705175633CB6EEA}" {
     Position 6263 0 10577
    }
   }
@@ -3430,68 +3249,64 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{73C41B40AC2494FD}" {
+   PS_PolyZone "{3533D79AEEDA1746}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{BBB7F74071EED693}" {
+   ShapePoint "{35E02C01D860AB2F}" {
     Position 5675 0 11622
    }
-   ShapePoint "{A7224C6C816E6AFE}" {
+   ShapePoint "{1784C363E38DDDDF}" {
     Position 5648 0 11902
    }
-   ShapePoint "{B2433B7A4A032226}" {
+   ShapePoint "{423114268128C5CB}" {
     Position 5784 0 12128
    }
-   ShapePoint "{2EE44557EE2AED59}" {
+   ShapePoint "{9B745AF65CB3F048}" {
     Position 5420 0 12476
    }
-   ShapePoint "{FB680B0116B6009F}" {
+   ShapePoint "{2B71FC57CE974426}" {
     Position 5079 0 12618
    }
-   ShapePoint "{DD48125E4927F731}" {
+   ShapePoint "{7DF2F9CDDB598236}" {
     Position 4856 0 12446
    }
-   ShapePoint "{77C476DD85F86693}" {
+   ShapePoint "{5D9D283DF3A49D18}" {
     Position 4588 0 12642
    }
-   ShapePoint "{2D55379F7AA843E0}" {
+   ShapePoint "{EE2E97BD248D7830}" {
     Position 4338 0 12406
    }
-   ShapePoint "{AE4B6CC41E5AE88}" {
+   ShapePoint "{C0DD67E58DF8096E}" {
     Position 4023 0 12326
    }
-   ShapePoint "{A8A7AC37DA432171}" {
+   ShapePoint "{DE1C50F09DBB92BD}" {
     Position 4164 0 11902
    }
-   ShapePoint "{11771B5A1A6ACE19}" {
+   ShapePoint "{B3BD9E6DFA0DEBC6}" {
     Position 4122 0 11592
    }
-   ShapePoint "{BCF8E41502AF9FA0}" {
+   ShapePoint "{8991980C6F65877F}" {
     Position 4214 0 11382
    }
-   ShapePoint "{56594AC0140742F7}" {
+   ShapePoint "{DAB36F59CA68236F}" {
     Position 4700 0 11284
    }
-   ShapePoint "{D6AC03CEA29EFD8B}" {
+   ShapePoint "{B55F5F8298EC232F}" {
     Position 4728 0 10944
    }
-   ShapePoint "{94660F9542050740}" {
+   ShapePoint "{FBD533F0BA41F091}" {
     Position 4938 0 10904
    }
-   ShapePoint "{9B3DA2944DA3C7A0}" {
+   ShapePoint "{0FA15F9B64CC3066}" {
     Position 5906 0 11098
    }
   }
@@ -3520,44 +3335,40 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{F2C0AD849635757C}" {
+   PS_PolyZone "{7504107A6CCBF774}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{FFE82FD9272A92DD}" {
+   ShapePoint "{0864871BDAE9139F}" {
     Position 4799 0 9877
    }
-   ShapePoint "{75CC2D9C8316F13C}" {
+   ShapePoint "{42F7BB34F6024212}" {
     Position 4914 0 9496
    }
-   ShapePoint "{4F1833F3DB4995C}" {
+   ShapePoint "{EAB5D68D42586B2B}" {
     Position 5400 0 9532
    }
-   ShapePoint "{2F4D9BE47E835A59}" {
+   ShapePoint "{8683941413CB37D0}" {
     Position 5930 0 9436
    }
-   ShapePoint "{C19AF113EE98F0D}" {
+   ShapePoint "{31AD6C6C2DD95801}" {
     Position 6000 0 9597
    }
-   ShapePoint "{C3C01D7A54D86233}" {
+   ShapePoint "{ADE28ADC59640C81}" {
     Position 6270 0 10224
    }
-   ShapePoint "{47731CCBD80B702E}" {
+   ShapePoint "{DD57D768ED179D68}" {
     Position 5122 0 10284
    }
-   ShapePoint "{B21303F69593C056}" {
+   ShapePoint "{78C7CB6B13F8D5C4}" {
     Position 4757 0 10308
    }
   }
@@ -3586,35 +3397,31 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{987BED1883D77F1E}" {
+   PS_PolyZone "{FFCAB420EF990BD2}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{C0F8C645B8137E7F}" {
+   ShapePoint "{8A5E5D52EE934331}" {
     Position 6000 0 9597
    }
-   ShapePoint "{901AF67A4C6C3673}" {
+   ShapePoint "{849B752CA9407584}" {
     Position 6345 0 9440
    }
-   ShapePoint "{20316446AB9822FD}" {
+   ShapePoint "{FDC5078FD2C059BC}" {
     Position 6903 0 9624
    }
-   ShapePoint "{86F7DE760980D17D}" {
+   ShapePoint "{9CDAB9BDF86EEB4F}" {
     Position 6598 0 9974
    }
-   ShapePoint "{D03CFD52E3CD9542}" {
+   ShapePoint "{FB7F9B7284761414}" {
     Position 6270 0 10224
    }
   }
@@ -3643,56 +3450,52 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{370832A582BC1B9E}" {
+   PS_PolyZone "{44066EFF9133461D}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{70ABC9461E2D3CC2}" {
+   ShapePoint "{F3DA58FFEFC89FC6}" {
     Position 4757 0 10308
    }
-   ShapePoint "{6712BDEAE56807FC}" {
+   ShapePoint "{B1CE3A3BF4C0618A}" {
     Position 4932 0 10550
    }
-   ShapePoint "{15D437FDA932790D}" {
+   ShapePoint "{3AA28DFA9D02BCB4}" {
     Position 4938 0 10904
    }
-   ShapePoint "{4CC98F81C6839A7F}" {
+   ShapePoint "{4D32D3A15534D892}" {
     Position 4728 0 10944
    }
-   ShapePoint "{7508F842A680F6EA}" {
+   ShapePoint "{954C8B80FE8BD2D7}" {
     Position 4700 0 11284
    }
-   ShapePoint "{3C4A47397705CFE1}" {
+   ShapePoint "{DF5BCA5A05F70C2C}" {
     Position 4214 0 11382
    }
-   ShapePoint "{CD7AE4E038BC6A40}" {
+   ShapePoint "{A001954F5C9C2E69}" {
     Position 4121 0 11284
    }
-   ShapePoint "{7A3D873150F98C1A}" {
+   ShapePoint "{9E46AFC78950A1D2}" {
     Position 4094 0 11124
    }
-   ShapePoint "{EDEE1A356E39FF6C}" {
+   ShapePoint "{98D2D7B41A41B6D8}" {
     Position 3888 0 11022
    }
-   ShapePoint "{9798AC243D621701}" {
+   ShapePoint "{E26509E7E8D4629C}" {
     Position 3816 0 10854
    }
-   ShapePoint "{FBCDB011DA6361A7}" {
+   ShapePoint "{D465DEFB1AF189D1}" {
     Position 3888 0 10700
    }
-   ShapePoint "{6C9F21F0783EC5C3}" {
+   ShapePoint "{7EBBD070922CE00F}" {
     Position 3885 0 10602
    }
   }
@@ -3721,50 +3524,46 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{BACABA313F8F28A1}" {
+   PS_PolyZone "{319EB5283EB71E5E}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.40
+    m_cPolygonColor 0.94 0.19 0.18 0.4
     m_mPolygonTextureBorder ""
-    m_cPolygonBorderColor 0.13 0.13 0.13 1.00
-    m_fPolygonBorderWidth 4.00
+    m_cPolygonBorderColor 0.13 0.13 0.13 1
+    m_fPolygonBorderWidth 4
     m_aVisibleForFactions {
-     ""
-     "USSR"
-     "US"
-     "FIA"
-     "CIV"
+     "" "USSR" "US" "FIA" "CIV"
     }
    }
   }
   Points {
-   ShapePoint "{B8842A3AB5E90D74}" {
+   ShapePoint "{B644DBF08BE81225}" {
     Position 4409 0 9026
    }
-   ShapePoint "{2467150E31BD7DD3}" {
+   ShapePoint "{5F19881548C3FFEC}" {
     Position 4546 0 8620
    }
-   ShapePoint "{1FB64BA5877FF16}" {
+   ShapePoint "{07BD22CA33D1F23B}" {
     Position 4817 0 8692
    }
-   ShapePoint "{A0419277B6A974}" {
+   ShapePoint "{F32CD5F218DED5E3}" {
     Position 5535 0 8744
    }
-   ShapePoint "{8C102F1EE3EFF0FB}" {
+   ShapePoint "{02ADE8313D44F63B}" {
     Position 5838 0 8976
    }
-   ShapePoint "{CA7BEBAE8806CA7}" {
+   ShapePoint "{BFD3596C8A1FA685}" {
     Position 5993 0 9268
    }
-   ShapePoint "{4A54B157AAC463CB}" {
+   ShapePoint "{12AB76710BDE936D}" {
     Position 5930 0 9436
    }
-   ShapePoint "{76C1D2512FCBD3C6}" {
+   ShapePoint "{AAFB6A3876728556}" {
     Position 5400 0 9532
    }
-   ShapePoint "{6C7DC28DEE0123E6}" {
+   ShapePoint "{4475E2A405B61A52}" {
     Position 4914 0 9496
    }
-   ShapePoint "{C20020EE7730A999}" {
+   ShapePoint "{20A8AD3CAA90C625}" {
     Position 4776 0 9132
    }
   }

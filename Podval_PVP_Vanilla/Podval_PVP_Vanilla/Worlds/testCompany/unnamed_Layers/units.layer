@@ -1,0 +1,48 @@
+SCR_AIGroup : "{00325BF9BA947C39}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_Group_USSR_MedicalTeam.et" {
+ coords 4838.41 25.83 12006.016
+}
+SCR_AIGroup : "{16D1A97BCB5FB5D0}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_Group_USSR_MG_Squad.et" {
+ coords 4823.907 25.2 12006.689
+}
+SCR_AIGroup : "{1BB055773F8A9C2E}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_Group_USSR_PlatoonHQ.et" {
+ coords 4802.01 24.38 12008.551
+}
+SCR_AIGroup : "{23B8569AE38198B8}Prefabs/Groups/OPFOR/Campaign/S_USSR_drg_Group_USSR_HeliGunTransport.et" {
+ coords 4759.572 24.196 12008.678
+}
+SCR_AIGroup : "{3F427C12DF2D6EDF}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_Group_USSR_DemolitionTeam.et" {
+ coords 4849.253 26.448 12004.533
+}
+SCR_AIGroup : "{46492B65F1732A9E}Prefabs/Groups/OPFOR/Campaign/S_USSR_drg_Group_USSR_ReconSquad.et" {
+ coords 4735.036 24.199 12009.224
+}
+SCR_AIGroup : "{46AB11EB5A552BA9}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_Group_USSR_CompanyHQ.et" {
+ coords 4858.655 26.883 12005.327
+}
+SCR_AIGroup : "{4B9913E227115AF2}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_Group_USSR_SupplyTeam.et" {
+ coords 4766.952 24.199 12008.507
+}
+SCR_AIGroup : "{611D6FBDC2D1C26F}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_Group_USSR_RifleSquad_BTR.et" {
+ coords 4775.079 24.176 12009.045
+}
+SCR_AIGroup : "{611D6FBDC2D1C270}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_Group_USSR_RifleSquad.et" {
+ coords 4784.676 24.212 12008.515
+}
+SCR_AIGroup : "{61D9B9979623EC50}Prefabs/Groups/OPFOR/Campaign/S_USSR_drg_Group_USSR_ReconPlatoonHQ.et" {
+ coords 4744.639 24.167 12009.047
+}
+SCR_AIGroup : "{6BDDADDB84E6B357}Prefabs/Groups/OPFOR/Campaign/S_USSR_drg_Group_USSR_HeliTransport.et" {
+ coords 4753.451 24.203 12008.748
+}
+SCR_AIGroup : "{7402778F0B78664E}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_Group_USSR_MortarCrew.et" {
+ coords 4812.625 24.482 12007.907
+}
+SCR_AIGroup : "{A181DD9F3B814FFE}Prefabs/Groups/OPFOR/Campaign/S_USSR_drg_Group_USSR_RocketHelicopter.et" {
+ coords 4726.36 24.416 12009.932
+}
+SCR_AIGroup : "{A6559863E6A6087F}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_Group_USSR_RepairDetachment.et" {
+ coords 4793.927 24.229 12008.681
+}
+SCR_AIGroup : "{E64B628686AC7389}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_Group_USSR_BattalionHQ.et" {
+ coords 4868.82 27.392 12005.324
+}

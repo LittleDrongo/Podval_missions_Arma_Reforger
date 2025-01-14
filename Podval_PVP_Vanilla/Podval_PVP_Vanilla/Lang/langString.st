@@ -1,6 +1,46 @@
 StringTable {
  ItemClassName "CustomStringTableItem"
  Items {
+  CustomStringTableItem "{645CD4E1DBBC868D}" {
+   Id "DRG-Role-Driver"
+   Target_en_us "Driver"
+   Target_ru_ru "Водитель"
+   Modified 1683827129
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4E224CBF818}" {
+   Id "DRG-Role-Engineer"
+   Target_en_us "Engineer"
+   Target_ru_ru "Инженер"
+   Modified 1683828368
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4E0A9C7C030}" {
+   Id "DRG-Role-Mortar-TL"
+   Target_en_us "Mortar crew commander"
+   Target_ru_ru "Командир миномётного расчёта"
+   Modified 1683827693
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4E36B461D5A}" {
+   Id "DRG-Role-MortarGunner"
+   Target_en_us "Mortar gunner"
+   Target_ru_ru "Наводчик миномёта"
+   Modified 1683827796
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4E348803A0C}" {
+   Id "DRG-Role-MortarLoader"
+   Target_en_us "Mortar loader"
+   Target_ru_ru "Заряжающий миномёта"
+   Modified 1683827857
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{61B543EF74F189EC}" {
    Id "DRG-Role_AntiTank"
    Target_en_us "Anti-Tank Specialist"
@@ -14,6 +54,14 @@ StringTable {
    Target_en_us "Anti-Tank Assistant"
    Target_ru_ru "Помощник гранатомётчика"
    Modified 1639317917
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4FC7BD30748}" {
+   Id "DRG-Role_CompanyLeader"
+   Target_en_us "Company Leader"
+   Target_ru_ru "Командир роты"
+   Modified 1683829399
    Author "hasta"
    LastChanged "hasta"
   }
@@ -38,6 +86,14 @@ StringTable {
    Target_en_us "Engineer Sapper"
    Target_ru_ru "Инженер сапёр"
    Modified 1639346789
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4E6723A25C4}" {
+   Id "DRG-Role_EngineerSeniorSapper"
+   Target_en_us "Senior Engineer Sapper"
+   Target_ru_ru "Старший инженер сапёр"
+   Modified 1683826417
    Author "hasta"
    LastChanged "hasta"
   }
@@ -150,6 +206,126 @@ StringTable {
    Target_en_us "Old watchman"
    Target_ru_ru "Старый сторож"
    Modified 1639283579
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4E75DF0E96F}" {
+   Id "DRG-Sq-Battalion_HQ"
+   Target_en_us "Battalion command"
+   Target_ru_ru "Упр. батальона"
+   Modified 1683825973
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4FDB8B305FF}" {
+   Id "DRG-Sq-CompanyHQ"
+   Target_en_us "Company Headquarters"
+   Target_ru_ru "Управление роты"
+   Modified 1683829323
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4E260BAB97E}" {
+   Id "DRG-Sq-EngineeringDetachment"
+   Target_en_us "Repair detachment"
+   Target_ru_ru "Ремонтное-отд."
+   Modified 1683829075
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4F6DB50E586}" {
+   Id "DRG-Sq-HeliGunTransport"
+   Target_en_us "Helicopter (MG)"
+   Target_ru_ru "Вооруженный вертолёт"
+   Modified 1683834869
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4F6216E0035}" {
+   Id "DRG-Sq-HeliTransport"
+   Target_en_us "Transport crew"
+   Target_ru_ru "Транспортный вертолёт"
+   Modified 1683834844
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4FC990D7C47}" {
+   Id "DRG-Sq-MachineGunnerSquad"
+   Target_en_us "Machine gunner squad"
+   Target_ru_ru "Пулемётное отделение"
+   Modified 1683829801
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4FDFD85EC84}" {
+   Id "DRG-Sq-MedicalTeam"
+   Target_en_us "Medic team"
+   Target_ru_ru "Медицинское отделение"
+   Modified 1683829162
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4E0F71BE16C}" {
+   Id "DRG-Sq-MortarCrew"
+   Target_en_us "Mortar crew"
+   Target_ru_ru "Миномётный расчёт"
+   Modified 1683827547
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4FEB27235E3}" {
+   Id "DRG-Sq-PlatoonHQ"
+   Target_en_us "Platoon Headquarters"
+   Target_ru_ru "Управление взвода"
+   Modified 1683830682
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4F5F35E47AF}" {
+   Id "DRG-Sq-ReconPlatoonHQ"
+   Target_en_us "Recon Platoon HQ"
+   Target_ru_ru "Управление развед.взвода"
+   Modified 1683833674
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4F7C8444980}" {
+   Id "DRG-Sq-ReconSquad"
+   Target_en_us "Recon Squad"
+   Target_ru_ru "Развед.отделение"
+   Modified 1683834096
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4FA36B5C7A3}" {
+   Id "DRG-Sq-RifleSquad"
+   Target_en_us "Rifle squad"
+   Target_ru_ru "Стрелковое отделение"
+   Modified 1683832267
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4F699DC84C2}" {
+   Id "DRG-Sq-RocketHelicopter"
+   Target_en_us "Helicopter (Rocket)"
+   Target_ru_ru "Ударно-траспортный верт."
+   Modified 1683834908
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4E6C4179AF9}" {
+   Id "DRG-Sq-SupplyTeam"
+   Target_en_us "Supply team"
+   Target_ru_ru "Группа снабжения"
+   Modified 1683826725
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{645CD4E7DA63D84A}" {
+   Id "DRG-Sq_DemolitionTeam"
+   Target_en_us "Demolition team"
+   Target_ru_ru "Сапёрное звено"
+   Modified 1683826225
    Author "hasta"
    LastChanged "hasta"
   }

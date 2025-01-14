@@ -1,0 +1,21 @@
+SCR_AIGroup : "{E552DABF3636C2AD}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad.et" {
+ ID "0000000000000001"
+ components {
+  AIFormationComponent "{507E9DC12F541FE6}" {
+   DefaultFormation "Column"
+  }
+  PS_GroupCallsignAssigner "{645CD4F5122CA354}" {
+  }
+  SCR_EditableGroupComponent "{50D291F6C83FA532}" {
+   m_UIInfo SCR_EditableGroupUIInfo "{5298E609432D192D}" {
+    Name "#DRG-Sq-ReconPlatoonHQ"
+   }
+  }
+ }
+ m_faction "USSR"
+ m_aUnitPrefabSlots {
+  "{5F88BE1BA34D5A97}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_PL.et" "{072F75BB5AA0200E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_SeniorScout.et" "{AB1EF69D8C2EC914}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_AR.et" "{73B69F5CF5A7D748}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_AT.et" "{EC89944E401BB659}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_Sniper.et" "{066AFB1CF3A3B1F1}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_CrewDriver.et" "{E554DF0C736F18FF}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_CrewGunner.et"
+ }
+ m_bDeleteWhenEmpty 0
+ m_sCustomNameSet "#DRG-Sq-ReconPlatoonHQ"
+}
