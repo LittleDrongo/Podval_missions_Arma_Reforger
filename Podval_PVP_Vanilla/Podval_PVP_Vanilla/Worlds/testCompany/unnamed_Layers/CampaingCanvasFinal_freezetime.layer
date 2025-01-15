@@ -1,0 +1,3851 @@
+$grp PolylineShapeEntity {
+ {
+  components {
+   PS_PolyZone "{638FCBC896D766C2}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{187C8AA3D7B8D2D7}" {
+    Position 746 0 5853
+   }
+   ShapePoint "{D59F6BC6CEFA5FC3}" {
+    Position 1104 0 5504
+   }
+   ShapePoint "{B80E9B2C6A550511}" {
+    Position 1384 0 5233
+   }
+   ShapePoint "{D25A18CC27C1353F}" {
+    Position 1270 0 5100
+   }
+   ShapePoint "{499F8B33A3D6F4D0}" {
+    Position 1260 0 4878
+   }
+   ShapePoint "{8D50704FB181FD82}" {
+    Position 1708 0 4408
+   }
+   ShapePoint "{E39967826624BFCC}" {
+    Position 1876 0 4479
+   }
+   ShapePoint "{4F4B55BA1752FBBB}" {
+    Position 2256 0 5947
+   }
+   ShapePoint "{208689D9B634A188}" {
+    Position 2182 0 6314
+   }
+   ShapePoint "{96BDCF281E3988FE}" {
+    Position 1953 0 6750
+   }
+   ShapePoint "{846017ED2AF38F45}" {
+    Position 1608 0 6519
+   }
+   ShapePoint "{49AF10F5F915813C}" {
+    Position 1160 0 6669
+   }
+   ShapePoint "{56331C5D8425D2}" {
+    Position 813 0 6433
+   }
+   ShapePoint "{C139B1E5B070ACEF}" {
+    Position 662 0 6154
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{FD1B6765683499B8}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{352C52366A0680D5}" {
+    Position 2182 0 6314
+   }
+   ShapePoint "{1E53DFBDABA87689}" {
+    Position 2256 0 5947
+   }
+   ShapePoint "{E9CCA97583A8A9B4}" {
+    Position 2934 0 5632
+   }
+   ShapePoint "{662CCED02CA4B9F3}" {
+    Position 2942 0 6126
+   }
+   ShapePoint "{5D6209C63A7EAE74}" {
+    Position 3150 0 6170
+   }
+   ShapePoint "{FA443C8CE8F81B9B}" {
+    Position 3266 0 6294
+   }
+   ShapePoint "{3DBEA7748040A3A8}" {
+    Position 3478 0 6485
+   }
+   ShapePoint "{2B99260693E36FC9}" {
+    Position 3574 0 6518
+   }
+   ShapePoint "{CCC6DAE8CE21C706}" {
+    Position 3514 0 6668
+   }
+   ShapePoint "{93E2910741D3499A}" {
+    Position 3478 0 7124
+   }
+   ShapePoint "{B792F8C9C40D3F9}" {
+    Position 3383 0 7356
+   }
+   ShapePoint "{47BC7BF766C06970}" {
+    Position 3170 0 7244
+   }
+   ShapePoint "{FCE190E584D77D47}" {
+    Position 2951 0 7672
+   }
+   ShapePoint "{68696FE904BED630}" {
+    Position 2315 0 8155
+   }
+   ShapePoint "{F9C27CB4EBBB8640}" {
+    Position 1804 0 7514
+   }
+   ShapePoint "{38C773F97180E18}" {
+    Position 1953 0 6750
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{12078E080747D180}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{667ADCD3ABC0F066}" {
+    Position 2293 0 3948
+   }
+   ShapePoint "{2EA52C3F0A2F5252}" {
+    Position 2615 0 4087
+   }
+   ShapePoint "{9F3582452FCBA59B}" {
+    Position 2992 0 4597
+   }
+   ShapePoint "{8C5B0B07BE722A09}" {
+    Position 3156 0 4885
+   }
+   ShapePoint "{6DC41305B495A006}" {
+    Position 3187 0 5056
+   }
+   ShapePoint "{552C86B4CB2C7B25}" {
+    Position 3208 0 5169
+   }
+   ShapePoint "{AE7582C0BDBE81D3}" {
+    Position 2934 0 5632
+   }
+   ShapePoint "{325D68D94588B9B9}" {
+    Position 2256 0 5947
+   }
+   ShapePoint "{C9E4146F24D9BD22}" {
+    Position 1876 0 4479
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{5C6F4BF415507DF6}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{A8811FD12E0AE583}" {
+    Position 3778 0 4881
+   }
+   ShapePoint "{DBFE70D26682440}" {
+    Position 4012 0 5136
+   }
+   ShapePoint "{58B66D9857BA2E25}" {
+    Position 4188 0 5346
+   }
+   ShapePoint "{24657F4923EF126C}" {
+    Position 4147 0 5538
+   }
+   ShapePoint "{836335F1FB5AEC60}" {
+    Position 4302 0 5571
+   }
+   ShapePoint "{2B4EED7287C24FED}" {
+    Position 4284 0 5718
+   }
+   ShapePoint "{C37A069FACF6415E}" {
+    Position 4374 0 5862
+   }
+   ShapePoint "{7A925A5475ABD934}" {
+    Position 4266 0 5958
+   }
+   ShapePoint "{4B848E40CA2DA1E7}" {
+    Position 4058 0 6096
+   }
+   ShapePoint "{CE99033045ED1947}" {
+    Position 3988 0 6198
+   }
+   ShapePoint "{1EC68B89C8E9AB6C}" {
+    Position 3780 0 6542
+   }
+   ShapePoint "{2A54E8EEBD704179}" {
+    Position 3696 0 6560
+   }
+   ShapePoint "{9CB043CFEB05FC4C}" {
+    Position 3478 0 6485
+   }
+   ShapePoint "{D7F8563EB76C264C}" {
+    Position 3266 0 6294
+   }
+   ShapePoint "{5C8212B7F98EDB46}" {
+    Position 3150 0 6170
+   }
+   ShapePoint "{A851873184DF4FC1}" {
+    Position 2942 0 6126
+   }
+   ShapePoint "{57D1DEA429DEC373}" {
+    Position 2934 0 5632
+   }
+   ShapePoint "{3D7994A5DAC5D02E}" {
+    Position 3208 0 5169
+   }
+   ShapePoint "{D82B74540961AA25}" {
+    Position 3187 0 5056
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{5D4C356B7B76E042}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{79524B00A34EF47F}" {
+    Position 3802 0 3370
+   }
+   ShapePoint "{885969CDDCA16019}" {
+    Position 4036 0 3288
+   }
+   ShapePoint "{6ACC211AF08392CF}" {
+    Position 4328 0 3269
+   }
+   ShapePoint "{ADDD14F4D89EEFC8}" {
+    Position 4396 0 3517
+   }
+   ShapePoint "{FB35DC15702577FC}" {
+    Position 4220 0 3844
+   }
+   ShapePoint "{BB04446164F86F5C}" {
+    Position 4190 0 4094
+   }
+   ShapePoint "{1AFFBB082DF518A}" {
+    Position 4534 0 4394
+   }
+   ShapePoint "{1EA4943AA49551DA}" {
+    Position 4458 0 4536
+   }
+   ShapePoint "{5C17B81C68C8CF6F}" {
+    Position 4410 0 4690
+   }
+   ShapePoint "{8D434F04532FFE01}" {
+    Position 4398 0 4788
+   }
+   ShapePoint "{B2F5E9BC5124A548}" {
+    Position 4012 0 5136
+   }
+   ShapePoint "{3B3D03A0CB7F320F}" {
+    Position 3778 0 4881
+   }
+   ShapePoint "{3F8FAAA6881D0C2D}" {
+    Position 3187 0 5056
+   }
+   ShapePoint "{A535F14A6B7EA6A4}" {
+    Position 3156 0 4885
+   }
+   ShapePoint "{EE8AFB19BA3FDA0D}" {
+    Position 2992 0 4598
+   }
+   ShapePoint "{D38233F0654E3732}" {
+    Position 2615 0 4087
+   }
+   ShapePoint "{4EDBC1F61A0BC276}" {
+    Position 2566 0 3946
+   }
+   ShapePoint "{63511C1790E61945}" {
+    Position 2554 0 3700
+   }
+   ShapePoint "{9FD4CF07E76DBD2E}" {
+    Position 3056 0 3602
+   }
+   ShapePoint "{997C27C71FBE2890}" {
+    Position 3267 0 3175
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{12B3CA569E14396D}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.96 0.61 0.60 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{D54DAAAE01315495}" {
+    Position 4937 0 4998
+   }
+   ShapePoint "{5D22844E9209345B}" {
+    Position 4946 0 4820
+   }
+   ShapePoint "{4E8520A4744BDBB9}" {
+    Position 5144 0 4842
+   }
+   ShapePoint "{D4CCA5204FA6F699}" {
+    Position 5290 0 4782
+   }
+   ShapePoint "{B791D1652C5BC672}" {
+    Position 5354 0 4862
+   }
+   ShapePoint "{B44B6362FB3E29D}" {
+    Position 5431 0 4880
+   }
+   ShapePoint "{E5379DFB981F6809}" {
+    Position 5620 0 5015
+   }
+   ShapePoint "{E01805C449F70566}" {
+    Position 5752 0 5206
+   }
+   ShapePoint "{64F4C4C14FB45A30}" {
+    Position 5907 0 5447
+   }
+   ShapePoint "{F5F139CE42F95BC6}" {
+    Position 5419 0 5841
+   }
+   ShapePoint "{F5E3BA4C9FF23D3}" {
+    Position 4996 0 6095
+   }
+   ShapePoint "{E439280534F2FA3E}" {
+    Position 4665 0 5874
+   }
+   ShapePoint "{575422332E0A619E}" {
+    Position 4614 0 5790
+   }
+   ShapePoint "{D78A2D9BF2039524}" {
+    Position 4608 0 5742
+   }
+   ShapePoint "{92CD71BB3D881035}" {
+    Position 4642 0 5436
+   }
+   ShapePoint "{CA4AF0E252FD9024}" {
+    Position 4916 0 5230
+   }
+   ShapePoint "{180DC28491D3A9BE}" {
+    Position 5017 0 5107
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{EC4F8E3F5A67D679}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{C4D21AC2B674221F}" {
+    Position 4723 0 4445
+   }
+   ShapePoint "{3BDB700F66DF7A7D}" {
+    Position 4842 0 4419
+   }
+   ShapePoint "{1D8CF680200FAC8D}" {
+    Position 5014 0 4351
+   }
+   ShapePoint "{95BDE4D731140D3}" {
+    Position 5093 0 4246
+   }
+   ShapePoint "{AA69519AAFFCCDBC}" {
+    Position 5442 0 4266
+   }
+   ShapePoint "{1FF5CFB364534BB4}" {
+    Position 6002 0 3976
+   }
+   ShapePoint "{776994BE10716CEF}" {
+    Position 6021 0 4234
+   }
+   ShapePoint "{148A17A3409A2519}" {
+    Position 5872 0 4668
+   }
+   ShapePoint "{74B12CB6E6DB09FA}" {
+    Position 5645 0 4820
+   }
+   ShapePoint "{80712FA210A5FE8E}" {
+    Position 5431 0 4880
+   }
+   ShapePoint "{AD2FCA186EA96F5D}" {
+    Position 5354 0 4862
+   }
+   ShapePoint "{EEC99FF4A05E18B0}" {
+    Position 5290 0 4782
+   }
+   ShapePoint "{C8CD3F3A31CA0F5D}" {
+    Position 5144 0 4842
+   }
+   ShapePoint "{A8CE428A68441E77}" {
+    Position 4946 0 4820
+   }
+   ShapePoint "{289DCB57016EBE10}" {
+    Position 4902 0 4672
+   }
+   ShapePoint "{19D1FB06B40D4356}" {
+    Position 4752 0 4666
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{20A36D7DA7162447}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{87A332A992E53DBB}" {
+    Position 5620 0 5015
+   }
+   ShapePoint "{5B1B5259F7A168A3}" {
+    Position 5431 0 4880
+   }
+   ShapePoint "{729D256596712B8E}" {
+    Position 5645 0 4820
+   }
+   ShapePoint "{2E8F9B7265EF4299}" {
+    Position 5872 0 4668
+   }
+   ShapePoint "{2EC5BF038F96CBB6}" {
+    Position 6021 0 4234
+   }
+   ShapePoint "{386643C8C25E4C98}" {
+    Position 6420 0 4179
+   }
+   ShapePoint "{8C4D847CF88E0D2D}" {
+    Position 6686 0 4455
+   }
+   ShapePoint "{A46276BFA8D87FE9}" {
+    Position 6652 0 4788
+   }
+   ShapePoint "{5DADD2C80204F086}" {
+    Position 6534 0 4984
+   }
+   ShapePoint "{BF35235D77F2BA08}" {
+    Position 6558 0 5136
+   }
+   ShapePoint "{2E46E14488418585}" {
+    Position 6358 0 5550
+   }
+   ShapePoint "{42BCE2B3F7FAD94E}" {
+    Position 5907 0 5447
+   }
+   ShapePoint "{773DF9785ECEC73A}" {
+    Position 5751 0 5206
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{AADC283E8B33FC58}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{314130FD31355D58}" {
+    Position 4534 0 4394
+   }
+   ShapePoint "{204353CD0F4EF943}" {
+    Position 4723 0 4445
+   }
+   ShapePoint "{9340CBC393752AA7}" {
+    Position 4752 0 4666
+   }
+   ShapePoint "{529955132CFBA491}" {
+    Position 4902 0 4672
+   }
+   ShapePoint "{80C9F951CF72B84E}" {
+    Position 4946 0 4820
+   }
+   ShapePoint "{F6D52337708D89AA}" {
+    Position 4936 0 4997
+   }
+   ShapePoint "{4C98919C7ECFE43B}" {
+    Position 5017 0 5107
+   }
+   ShapePoint "{209AAF831D090169}" {
+    Position 4916 0 5230
+   }
+   ShapePoint "{E37E70CB45FDCE9}" {
+    Position 4642 0 5436
+   }
+   ShapePoint "{20855555FB487064}" {
+    Position 4608 0 5742
+   }
+   ShapePoint "{F001B4A925384DB9}" {
+    Position 4478 0 5838
+   }
+   ShapePoint "{52FAF218FF2DBD68}" {
+    Position 4374 0 5862
+   }
+   ShapePoint "{18E4AAB16721C565}" {
+    Position 4284 0 5718
+   }
+   ShapePoint "{5B9518D39B9A905A}" {
+    Position 4302 0 5571
+   }
+   ShapePoint "{903D070EF4990CC}" {
+    Position 4147 0 5538
+   }
+   ShapePoint "{E20DEC0A74F0003}" {
+    Position 4188 0 5346
+   }
+   ShapePoint "{5B4555FD6A63A2A7}" {
+    Position 4012 0 5136
+   }
+   ShapePoint "{9E7D6B3B9923848D}" {
+    Position 4398 0 4788
+   }
+   ShapePoint "{51C21913A1257F64}" {
+    Position 4410 0 4690
+   }
+   ShapePoint "{60C732523178A63A}" {
+    Position 4458 0 4536
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{9F028DC658680A98}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{E53054EC609D923B}" {
+    Position 4945 0 3266
+   }
+   ShapePoint "{AB0F08ABF3C7387D}" {
+    Position 5000 0 3404
+   }
+   ShapePoint "{FC5676F4FBA9D5A5}" {
+    Position 4922 0 3580
+   }
+   ShapePoint "{5932AE8E386F4E91}" {
+    Position 5110 0 3701
+   }
+   ShapePoint "{FB5B983CF0B7E06A}" {
+    Position 5276 0 3734
+   }
+   ShapePoint "{9BF85D362FE3581D}" {
+    Position 5523 0 3482
+   }
+   ShapePoint "{6D4E33BF19AA3522}" {
+    Position 5798 0 3201
+   }
+   ShapePoint "{E79ACC4B670BE22A}" {
+    Position 6161 0 3226
+   }
+   ShapePoint "{2865A601DC6E3232}" {
+    Position 6272 0 3423
+   }
+   ShapePoint "{A32F6030F9624AF6}" {
+    Position 5962 0 3646
+   }
+   ShapePoint "{50453A45209AE4CF}" {
+    Position 6002 0 3976
+   }
+   ShapePoint "{DA755E19734A7BC9}" {
+    Position 5442 0 4266
+   }
+   ShapePoint "{B8F56C5539601A92}" {
+    Position 5093 0 4246
+   }
+   ShapePoint "{F538E1FB44B5CD07}" {
+    Position 5014 0 4351
+   }
+   ShapePoint "{2A6C5E0B9A7CBABA}" {
+    Position 4842 0 4419
+   }
+   ShapePoint "{A5DDCE6DF12E1E14}" {
+    Position 4723 0 4445
+   }
+   ShapePoint "{86CB6B12E8CCB83C}" {
+    Position 4534 0 4394
+   }
+   ShapePoint "{4CE335192A432EFD}" {
+    Position 4190 0 4094
+   }
+   ShapePoint "{68C60E0DB40BB138}" {
+    Position 4220 0 3844
+   }
+   ShapePoint "{9CCB30652EC89047}" {
+    Position 4396 0 3517
+   }
+   ShapePoint "{D52ECCF0BFD8CA01}" {
+    Position 4440 0 3332
+   }
+   ShapePoint "{22CEAB99EA3BFFF8}" {
+    Position 4689 0 3178
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{31DEC0BA34A75665}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.00 0.69 0.31 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{B4AF11525D09960C}" {
+    Position 2068 0 2268
+   }
+   ShapePoint "{4725ADBF98D1DC6C}" {
+    Position 2098 0 2018
+   }
+   ShapePoint "{3272A98A87DC4382}" {
+    Position 2473 0 1894
+   }
+   ShapePoint "{22E4CD9AD62CA56C}" {
+    Position 2696 0 1546
+   }
+   ShapePoint "{4CAAA6BEFEFBBF47}" {
+    Position 3370 0 1335
+   }
+   ShapePoint "{BD0C12324A90BAAA}" {
+    Position 3676 0 1375
+   }
+   ShapePoint "{EAF80F672AE41F7A}" {
+    Position 3477 0 2034
+   }
+   ShapePoint "{BC81EB7251511B8C}" {
+    Position 3138 0 2618
+   }
+   ShapePoint "{53CCCA2C6F9894EB}" {
+    Position 2696 0 2581
+   }
+   ShapePoint "{614D1B85778C8690}" {
+    Position 2444 0 2390
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey ""
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{26764246476D531D}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{8154DAACFAA24D53}" {
+    Position 4584 0 6122
+   }
+   ShapePoint "{ADFE6C1C5B54D248}" {
+    Position 5014 0 6147
+   }
+   ShapePoint "{74AD323B42831091}" {
+    Position 4736 0 6548
+   }
+   ShapePoint "{7F9FE30C9B907E31}" {
+    Position 4532 0 6612
+   }
+   ShapePoint "{4A50F6B7F921BB5E}" {
+    Position 4280 0 6526
+   }
+   ShapePoint "{1D831C1A51BACEBB}" {
+    Position 3904 0 6581
+   }
+   ShapePoint "{81CB64684AA5C21D}" {
+    Position 3780 0 6542
+   }
+   ShapePoint "{D6D652B95ADA1E5D}" {
+    Position 3956 0 6251
+   }
+   ShapePoint "{690FD63B0D4F869B}" {
+    Position 3989 0 6196
+   }
+   ShapePoint "{E15030AB8233BC7C}" {
+    Position 4058 0 6096
+   }
+   ShapePoint "{23AE524534240FB5}" {
+    Position 4266 0 5958
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{C5C10FE42428459D}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{9AF0A740F0861684}" {
+    Position 6104 0 6360
+   }
+   ShapePoint "{D814383173C236E9}" {
+    Position 5907 0 5446
+   }
+   ShapePoint "{80FBA53E0EF7C8A0}" {
+    Position 6358 0 5550
+   }
+   ShapePoint "{82C2B0E868A47A1B}" {
+    Position 6558 0 5136
+   }
+   ShapePoint "{6B93771BD99A4A73}" {
+    Position 7082 0 5550
+   }
+   ShapePoint "{7C6DE5FA6C8B9B03}" {
+    Position 6836 0 5909
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{895DCDAE27632D42}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{9B17FE0D6846100D}" {
+    Position 7679 0 6136
+   }
+   ShapePoint "{99E3CBA9876804D9}" {
+    Position 7082 0 5550
+   }
+   ShapePoint "{A4061CCC04C9DE98}" {
+    Position 7113 0 5222
+   }
+   ShapePoint "{604D54107E83628F}" {
+    Position 7946 0 4812
+   }
+   ShapePoint "{728C62E662BDE5CB}" {
+    Position 8495 0 5306
+   }
+   ShapePoint "{600ACA576CF9F04E}" {
+    Position 8344 0 5615
+   }
+   ShapePoint "{EC9282380C9B3106}" {
+    Position 8172 0 5968
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{1ECFFE28C9F038B7}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{D4DE5907E6E343A2}" {
+    Position 8442 0 4536
+   }
+   ShapePoint "{65260E43EB13E204}" {
+    Position 7946 0 4812
+   }
+   ShapePoint "{3A2FDA2D32EAB8AF}" {
+    Position 7756 0 4122
+   }
+   ShapePoint "{BF4F2FB25360318D}" {
+    Position 7538 0 3986
+   }
+   ShapePoint "{5504918112E10E76}" {
+    Position 7902 0 3717
+   }
+   ShapePoint "{3E09C53DC0B3B6AC}" {
+    Position 8165 0 3037
+   }
+   ShapePoint "{BCB029B204D9030A}" {
+    Position 8825 0 3066
+   }
+   ShapePoint "{9B2EBDE9FE58CB1A}" {
+    Position 9228 0 3520
+   }
+   ShapePoint "{D1A2459F3F24D5C7}" {
+    Position 8932 0 4101
+   }
+   ShapePoint "{AB2ECFFDD35D4B01}" {
+    Position 9014 0 4444
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{61DF5DF4A455A3B}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{2E2635AE90AF8437}" {
+    Position 8825 0 3066
+   }
+   ShapePoint "{1608145D1A0C87A6}" {
+    Position 8165 0 3037
+   }
+   ShapePoint "{2468393AB9784806}" {
+    Position 8557 0 2525
+   }
+   ShapePoint "{C1D0D53C082EB37B}" {
+    Position 8628 0 2132
+   }
+   ShapePoint "{536803AA2B76BCF9}" {
+    Position 9318 0 2868
+   }
+   ShapePoint "{D21A489C4BC376FA}" {
+    Position 9358 0 3217
+   }
+   ShapePoint "{259E15B2B078FA18}" {
+    Position 9228 0 3520
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{201C8990037DDA32}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{3937EF791B0CB43C}" {
+    Position 9354 0 1692
+   }
+   ShapePoint "{72A4646933C7A77D}" {
+    Position 9318 0 1414
+   }
+   ShapePoint "{C2F97E2E9BAB0239}" {
+    Position 9660 0 1136
+   }
+   ShapePoint "{3C3386E063EC7A7D}" {
+    Position 10059 0 1248
+   }
+   ShapePoint "{EFB3F14D9D89C8AC}" {
+    Position 10340 0 1400
+   }
+   ShapePoint "{F5C15B7F9A3C4C34}" {
+    Position 10198 0 2087
+   }
+   ShapePoint "{3403B32D9B24573}" {
+    Position 9893 0 2048
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{13FCDED82C8EF947}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{E4B9E959E3289654}" {
+    Position 6446 0 3380
+   }
+   ShapePoint "{84C5929FAE78FD51}" {
+    Position 6366 0 3202
+   }
+   ShapePoint "{D790617A249EA3DD}" {
+    Position 6446 0 2942
+   }
+   ShapePoint "{21202B3095339520}" {
+    Position 6467 0 2752
+   }
+   ShapePoint "{C2E5260E4F8D38D1}" {
+    Position 7269 0 2896
+   }
+   ShapePoint "{BD98DCF3C7C133A2}" {
+    Position 7082 0 3942
+   }
+   ShapePoint "{DE174E167524F4DE}" {
+    Position 6696 0 3904
+   }
+   ShapePoint "{FC15B5183130034C}" {
+    Position 6596 0 3704
+   }
+   ShapePoint "{FD747EFAA0111575}" {
+    Position 6720 0 3486
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{2F47BF0D90D31A5}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{EB5F2FE1289146F8}" {
+    Position 7775 0 1330
+   }
+   ShapePoint "{14516D64B502C6FA}" {
+    Position 8242 0 936
+   }
+   ShapePoint "{80B9BF0EF65FAF29}" {
+    Position 8264 0 703
+   }
+   ShapePoint "{3F1528CE02EA24AF}" {
+    Position 8694 0 471
+   }
+   ShapePoint "{3BDE79F0F5FEBB06}" {
+    Position 8868 0 953
+   }
+   ShapePoint "{AA1FFB2030A199AF}" {
+    Position 8694 0 1338
+   }
+   ShapePoint "{2EED8EF9EF0D7C6E}" {
+    Position 8591 0 1640
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{4C4A3521CCFE279B}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{4C12C464BAD8D914}" {
+    Position 8165 0 3037
+   }
+   ShapePoint "{FED53CDCF4C8633C}" {
+    Position 7902 0 3718
+   }
+   ShapePoint "{2C0E25CBA6257BDF}" {
+    Position 7538 0 3986
+   }
+   ShapePoint "{6E8E99B5034CF30C}" {
+    Position 7082 0 3942
+   }
+   ShapePoint "{C86A736A31E9A9DF}" {
+    Position 7269 0 2896
+   }
+   ShapePoint "{AEE4BB6BBDB2C91C}" {
+    Position 7636 0 2314
+   }
+   ShapePoint "{58E1F571C5C1746D}" {
+    Position 7914 0 2547
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{C5F4FD8C45CB5186}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{78C0B195A5C8A9F}" {
+    Position 7914 0 2547
+   }
+   ShapePoint "{3A99A77A9BC48976}" {
+    Position 7636 0 2314
+   }
+   ShapePoint "{7804A4151AEBDD55}" {
+    Position 7752 0 1676
+   }
+   ShapePoint "{9D8A39DB27BE3E76}" {
+    Position 7775 0 1330
+   }
+   ShapePoint "{918B0386E296FB73}" {
+    Position 8591 0 1640
+   }
+   ShapePoint "{A2531E0B44C6B58B}" {
+    Position 8628 0 2132
+   }
+   ShapePoint "{430926F4953499FE}" {
+    Position 8557 0 2525
+   }
+   ShapePoint "{93578E712D8806FB}" {
+    Position 8165 0 3037
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{BDA9620484280F41}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{DF929901B4278C71}" {
+    Position 6322 0 2254
+   }
+   ShapePoint "{706EF0EDAA37C5EF}" {
+    Position 5996 0 1946
+   }
+   ShapePoint "{E96CA99856EC769C}" {
+    Position 6322 0 1532
+   }
+   ShapePoint "{477C82F3572C15AB}" {
+    Position 6900 0 1408
+   }
+   ShapePoint "{CD94DB00ADCD743B}" {
+    Position 7174 0 996
+   }
+   ShapePoint "{91DBE9207C01552}" {
+    Position 7611 0 898
+   }
+   ShapePoint "{AB3A135BF32E90F1}" {
+    Position 7775 0 1330
+   }
+   ShapePoint "{B62BA84CAE111B01}" {
+    Position 7752 0 1676
+   }
+   ShapePoint "{750B5AC2BB3BCA7C}" {
+    Position 7636 0 2314
+   }
+   ShapePoint "{E75D8E732716003B}" {
+    Position 7269 0 2896
+   }
+   ShapePoint "{E7FA943C223AA847}" {
+    Position 6467 0 2752
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{5FD00854B9D1A1F9}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{B6842ADC412D9E97}" {
+    Position 9834 0 38
+   }
+   ShapePoint "{2E124323FA7313D5}" {
+    Position 10456 0 74
+   }
+   ShapePoint "{68000990FA3F3632}" {
+    Position 10639 0 310
+   }
+   ShapePoint "{FDC9EEE10314D58D}" {
+    Position 10477 0 854
+   }
+   ShapePoint "{84BBE3992CF0E024}" {
+    Position 10059 0 1248
+   }
+   ShapePoint "{4C672388A3130787}" {
+    Position 9660 0 1136
+   }
+   ShapePoint "{348525730A1D732A}" {
+    Position 9318 0 1414
+   }
+   ShapePoint "{AEFBF9FC699CB890}" {
+    Position 8694 0 1338
+   }
+   ShapePoint "{D9E653D5D3ABC385}" {
+    Position 8868 0 954
+   }
+   ShapePoint "{2947E8F1CF0F006}" {
+    Position 8694 0 471
+   }
+   ShapePoint "{9197C92022C1EF}" {
+    Position 9138 0 117
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{84FA144C5DCC8442}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{F1EE6DF821245FCE}" {
+    Position 8628 0 2132
+   }
+   ShapePoint "{52E55A74DA35E61C}" {
+    Position 8591 0 1640
+   }
+   ShapePoint "{33EC1E583801936B}" {
+    Position 8694 0 1338
+   }
+   ShapePoint "{C3FFD4A487E10D8A}" {
+    Position 9318 0 1414
+   }
+   ShapePoint "{24BED79EDE5C26E}" {
+    Position 9354 0 1692
+   }
+   ShapePoint "{D2BB49BAE79C1387}" {
+    Position 9893 0 2048
+   }
+   ShapePoint "{89FA8DCF1EE8E85C}" {
+    Position 9500 0 2312
+   }
+   ShapePoint "{D272911A8C3C6859}" {
+    Position 9177 0 2718
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{1898E9192D857043}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{8D5EA591FEF3A7F3}" {
+    Position 9660 0 2714
+   }
+   ShapePoint "{9D51A272D85D8E76}" {
+    Position 9318 0 2868
+   }
+   ShapePoint "{D3F8FD1A01D06A88}" {
+    Position 9177 0 2718
+   }
+   ShapePoint "{AD06562CB3731C42}" {
+    Position 9500 0 2312
+   }
+   ShapePoint "{900996C67FF9C4D6}" {
+    Position 9893 0 2048
+   }
+   ShapePoint "{67AEBC8DC79503C8}" {
+    Position 10198 0 2087
+   }
+   ShapePoint "{2DE39657C10C88AE}" {
+    Position 10404 0 2114
+   }
+   ShapePoint "{F851C8FF8AA58FC7}" {
+    Position 10993 0 2448
+   }
+   ShapePoint "{7C99EBE1311FD83D}" {
+    Position 11364 0 2966
+   }
+   ShapePoint "{5AF8DE71F1BB4822}" {
+    Position 10672 0 3246
+   }
+   ShapePoint "{8F76F94A66CB7698}" {
+    Position 10444 0 3188
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{F0228F6C52C0A087}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{F90265836676DAD3}" {
+    Position 10992 0 2448
+   }
+   ShapePoint "{3D463A6353828FC}" {
+    Position 10404 0 2114
+   }
+   ShapePoint "{378E522B435A4ACF}" {
+    Position 10198 0 2087
+   }
+   ShapePoint "{89B0BA97A1ECF907}" {
+    Position 10340 0 1400
+   }
+   ShapePoint "{5B8B81ADB8E2D56F}" {
+    Position 10892 0 1374
+   }
+   ShapePoint "{A3BC6652A2EE9024}" {
+    Position 11192 0 1132
+   }
+   ShapePoint "{8F3458F3BA65663D}" {
+    Position 11998 0 1160
+   }
+   ShapePoint "{AF98360FAD2249A7}" {
+    Position 12029 0 1508
+   }
+   ShapePoint "{8123CF677261F857}" {
+    Position 12334 0 1669
+   }
+   ShapePoint "{3C8634A437BF2FBE}" {
+    Position 12253 0 1980
+   }
+   ShapePoint "{27D8F1CFE9DD813}" {
+    Position 11957 0 2132
+   }
+   ShapePoint "{798847B4A808275B}" {
+    Position 11860 0 2448
+   }
+   ShapePoint "{87021055A6ED1C66}" {
+    Position 11486 0 2532
+   }
+   ShapePoint "{77B45A061D099D59}" {
+    Position 11364 0 2966
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{B819F7DA5DA68846}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{8391D053FB25FF62}" {
+    Position 9918 0 4884
+   }
+   ShapePoint "{96F0EB354D69963B}" {
+    Position 9574 0 4558
+   }
+   ShapePoint "{7D516F867659D81E}" {
+    Position 9014 0 4444
+   }
+   ShapePoint "{3CBC64BAA2063000}" {
+    Position 8932 0 4101
+   }
+   ShapePoint "{5099061B0943C3AA}" {
+    Position 9228 0 3520
+   }
+   ShapePoint "{A9BAE17A4FFE21EE}" {
+    Position 9358 0 3217
+   }
+   ShapePoint "{A0F1062DE3041D3F}" {
+    Position 9318 0 2868
+   }
+   ShapePoint "{D9098FE620255108}" {
+    Position 9660 0 2714
+   }
+   ShapePoint "{931C078EAC51AE62}" {
+    Position 10444 0 3188
+   }
+   ShapePoint "{18BA0FC924BF9ECA}" {
+    Position 10656 0 3591
+   }
+   ShapePoint "{2E34AE1BBDD72406}" {
+    Position 10547 0 3983
+   }
+   ShapePoint "{E2C1C952D904354F}" {
+    Position 10332 0 4197
+   }
+   ShapePoint "{147038C72733799F}" {
+    Position 10109 0 4444
+   }
+   ShapePoint "{5FCC5ACD44F97D6B}" {
+    Position 10344 0 4750
+   }
+   ShapePoint "{77A15A808097DC96}" {
+    Position 10189 0 4900
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{B43609BC0576B2F4}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{D73D9AFA317E399}" {
+    Position 8495 0 5306
+   }
+   ShapePoint "{6F6A22636BD71DB4}" {
+    Position 7946 0 4812
+   }
+   ShapePoint "{6811958A6661EDC5}" {
+    Position 8442 0 4536
+   }
+   ShapePoint "{72963CE1EF52430B}" {
+    Position 9014 0 4444
+   }
+   ShapePoint "{9D3203CCDFDC8870}" {
+    Position 9574 0 4558
+   }
+   ShapePoint "{5260EEA23B1215F3}" {
+    Position 9918 0 4884
+   }
+   ShapePoint "{B44A05BF4902986}" {
+    Position 10068 0 5124
+   }
+   ShapePoint "{7FCD9D084AC324EC}" {
+    Position 9952 0 5438
+   }
+   ShapePoint "{A36792A06BB8D327}" {
+    Position 9782 0 5763
+   }
+   ShapePoint "{D2CA9E04B0648253}" {
+    Position 9456 0 5859
+   }
+   ShapePoint "{EBB3220D09BDC022}" {
+    Position 9274 0 5983
+   }
+   ShapePoint "{7C3DE2C24726FF1D}" {
+    Position 9088 0 5763
+   }
+   ShapePoint "{C2E658897E22313A}" {
+    Position 8824 0 5662
+   }
+   ShapePoint "{456F813027C2C0A8}" {
+    Position 8584 0 5806
+   }
+   ShapePoint "{C0567DA6B800E242}" {
+    Position 8344 0 5615
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{247FFF9AFE33665A}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{45F73B17AB9322F3}" {
+    Position 7679 0 6136
+   }
+   ShapePoint "{9083D28BB2F15FE4}" {
+    Position 6682 0 6637
+   }
+   ShapePoint "{EA5BA3B31F6824A}" {
+    Position 6104 0 6360
+   }
+   ShapePoint "{5DBCEC08695D53BE}" {
+    Position 6836 0 5909
+   }
+   ShapePoint "{B9D3A1338CD608D6}" {
+    Position 7082 0 5550
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{BD44597787C8014F}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{A8D1D1DD7545D0A8}" {
+    Position 6682 0 6637
+   }
+   ShapePoint "{EE91CA158360C89B}" {
+    Position 7679 0 6136
+   }
+   ShapePoint "{87823DEDFA905F67}" {
+    Position 7552 0 6461
+   }
+   ShapePoint "{7B90A301DAE2AD22}" {
+    Position 7815 0 6636
+   }
+   ShapePoint "{ED86F493B406F67}" {
+    Position 7560 0 6958
+   }
+   ShapePoint "{2ED49286A99496E}" {
+    Position 7620 0 7424
+   }
+   ShapePoint "{3A581B8CDCB0EF1}" {
+    Position 6938 0 7708
+   }
+   ShapePoint "{68044A1D31D7F5E0}" {
+    Position 6543 0 7522
+   }
+   ShapePoint "{BAF862C72A0426BC}" {
+    Position 6494 0 7210
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{81A6C08F295C7EF8}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{413B7760B2B54F05}" {
+    Position 6938 0 7708
+   }
+   ShapePoint "{6633465C03C0F0C1}" {
+    Position 7620 0 7424
+   }
+   ShapePoint "{3F608A61C431CEE5}" {
+    Position 7655 0 7624
+   }
+   ShapePoint "{29F5334C13F4BE0D}" {
+    Position 7918 0 7799
+   }
+   ShapePoint "{B131441B56D1053A}" {
+    Position 8117 0 8116
+   }
+   ShapePoint "{30B601DCE094C3DA}" {
+    Position 7842 0 8753
+   }
+   ShapePoint "{B14F9231B16A3E18}" {
+    Position 7993 0 9386
+   }
+   ShapePoint "{A97E16EFEB21C97D}" {
+    Position 7449 0 9720
+   }
+   ShapePoint "{B53DABA48F06D19A}" {
+    Position 7222 0 9579
+   }
+   ShapePoint "{F9B69D28FDC59AE7}" {
+    Position 7170 0 9180
+   }
+   ShapePoint "{9EC2C88C9BBD9CFB}" {
+    Position 6781 0 9242
+   }
+   ShapePoint "{EF3CC5BB046F0709}" {
+    Position 6518 0 9128
+   }
+   ShapePoint "{DE13C37989AF2DD7}" {
+    Position 6608 0 8753
+   }
+   ShapePoint "{C7573544BF45046E}" {
+    Position 6646 0 8051
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{6FBBD9EDDFCB96A6}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{15BA378C6294D8C8}" {
+    Position 3514 0 6668
+   }
+   ShapePoint "{35F6C15D35D679E9}" {
+    Position 3574 0 6518
+   }
+   ShapePoint "{5CFB8A7059711F76}" {
+    Position 3696 0 6560
+   }
+   ShapePoint "{9DCDF3B35B503673}" {
+    Position 3780 0 6542
+   }
+   ShapePoint "{B9C953E13C9212C}" {
+    Position 3904 0 6581
+   }
+   ShapePoint "{45F3B93339FFC095}" {
+    Position 4280 0 6526
+   }
+   ShapePoint "{1E53E71907FE1D13}" {
+    Position 4532 0 6612
+   }
+   ShapePoint "{20FBDCF26D67158A}" {
+    Position 4392 0 6750
+   }
+   ShapePoint "{320D0381368901DE}" {
+    Position 4390 0 7341
+   }
+   ShapePoint "{CB2A5320538F0769}" {
+    Position 4180 0 7406
+   }
+   ShapePoint "{4279B3F9DF281B5A}" {
+    Position 3912 0 7484
+   }
+   ShapePoint "{B7845CB52A43B19D}" {
+    Position 3578 0 7466
+   }
+   ShapePoint "{3D270D33B7D956C8}" {
+    Position 3383 0 7356
+   }
+   ShapePoint "{BEB69A2F08330206}" {
+    Position 3478 0 7124
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{ED114C0D5B9F95B5}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{7BA6A94D074ACF48}" {
+    Position 4532 0 6612
+   }
+   ShapePoint "{15E29B0362FF60E8}" {
+    Position 4736 0 6548
+   }
+   ShapePoint "{9B16D7372DB36B60}" {
+    Position 5360 0 6952
+   }
+   ShapePoint "{AB72E88343061710}" {
+    Position 5270 0 7422
+   }
+   ShapePoint "{90C095B718B7E4DD}" {
+    Position 4574 0 7518
+   }
+   ShapePoint "{C8195D4691228633}" {
+    Position 4390 0 7341
+   }
+   ShapePoint "{2163A51656434F44}" {
+    Position 4392 0 6750
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{1E4C2839ED53E8AD}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{EECA1EED0AD80C9D}" {
+    Position 5270 0 7422
+   }
+   ShapePoint "{E68A43520A47C062}" {
+    Position 5587 0 7910
+   }
+   ShapePoint "{1B90A0D9B6017493}" {
+    Position 5678 0 8644
+   }
+   ShapePoint "{DA1A87C6A4DB891B}" {
+    Position 5534 0 8744
+   }
+   ShapePoint "{F77D8DB4C98868E4}" {
+    Position 4817 0 8692
+   }
+   ShapePoint "{F65D57EF0BD27153}" {
+    Position 4546 0 8620
+   }
+   ShapePoint "{4C57C7AD063AEAEE}" {
+    Position 4504 0 8146
+   }
+   ShapePoint "{58F54332BECC179D}" {
+    Position 4574 0 7518
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{5BEB66F47EFBB2AF}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{8449294A3118A354}" {
+    Position 5722 0 6580
+   }
+   ShapePoint "{474E1ED64961C587}" {
+    Position 6104 0 6360
+   }
+   ShapePoint "{64C7850C625A9D0C}" {
+    Position 6682 0 6637
+   }
+   ShapePoint "{43E82A9F327AACD}" {
+    Position 6494 0 7210
+   }
+   ShapePoint "{233686E8DEC748F1}" {
+    Position 6144 0 7474
+   }
+   ShapePoint "{E470230493A08C09}" {
+    Position 5784 0 7544
+   }
+   ShapePoint "{344D814C517CFBF}" {
+    Position 5270 0 7422
+   }
+   ShapePoint "{7E480E857A9E3F4}" {
+    Position 5360 0 6952
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{C116C9F2EDF26C2}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{81D28F58F5A2BDF2}" {
+    Position 5784 0 7544
+   }
+   ShapePoint "{7AC9D322B15BF5BF}" {
+    Position 6144 0 7474
+   }
+   ShapePoint "{35EE0F61274F198B}" {
+    Position 6494 0 7210
+   }
+   ShapePoint "{435B3E6920A54C27}" {
+    Position 6543 0 7522
+   }
+   ShapePoint "{6561884FC7E625F8}" {
+    Position 6938 0 7708
+   }
+   ShapePoint "{90EAD03C49BEB599}" {
+    Position 6646 0 8051
+   }
+   ShapePoint "{C7BBD2C7761530A3}" {
+    Position 6608 0 8752
+   }
+   ShapePoint "{4BBFE1D0E3EE97CA}" {
+    Position 6518 0 9128
+   }
+   ShapePoint "{4EF191D1D30C7116}" {
+    Position 6082 0 8806
+   }
+   ShapePoint "{9D224268249733DF}" {
+    Position 5678 0 8644
+   }
+   ShapePoint "{4CA6F5F98FCDEFD1}" {
+    Position 5587 0 7910
+   }
+   ShapePoint "{8C957B6C1F600000}" {
+    Position 5270 0 7422
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{2FC48FB691D30B85}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{FB94ABEBC3D8C261}" {
+    Position 6534 0 4984
+   }
+   ShapePoint "{E96AEA61346C35F1}" {
+    Position 6652 0 4788
+   }
+   ShapePoint "{70758D5907147A60}" {
+    Position 6686 0 4455
+   }
+   ShapePoint "{141A1D4AFA40E4BB}" {
+    Position 6696 0 3904
+   }
+   ShapePoint "{11FBE62E15D44996}" {
+    Position 7082 0 3942
+   }
+   ShapePoint "{B9C01ED76FC58F80}" {
+    Position 7538 0 3986
+   }
+   ShapePoint "{4740C6B1941FD62A}" {
+    Position 7756 0 4122
+   }
+   ShapePoint "{F7CBDB5F997BF245}" {
+    Position 7946 0 4812
+   }
+   ShapePoint "{6781F3332EAA7120}" {
+    Position 7113 0 5222
+   }
+   ShapePoint "{CD781A01E905F6BC}" {
+    Position 7082 0 5550
+   }
+   ShapePoint "{8B86CE7DFE17BDC4}" {
+    Position 6558 0 5136
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "USSR"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{2814E1E0E10DC7}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{4769E95650647669}" {
+    Position 5360 0 6952
+   }
+   ShapePoint "{69A5FEDBCF7A5C95}" {
+    Position 4736 0 6548
+   }
+   ShapePoint "{37357A44C5986FEC}" {
+    Position 5014 0 6147
+   }
+   ShapePoint "{107087D17757426A}" {
+    Position 4996 0 6095
+   }
+   ShapePoint "{58CF450CAD9EE004}" {
+    Position 5418 0 5842
+   }
+   ShapePoint "{260639D373827082}" {
+    Position 5907 0 5447
+   }
+   ShapePoint "{BAA01A46BA8C72CE}" {
+    Position 6104 0 6360
+   }
+   ShapePoint "{97E68F410ECB2F02}" {
+    Position 5722 0 6580
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{C93963429D3F58C7}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{A3AD019D30BC9A65}" {
+    Position 3578 0 7466
+   }
+   ShapePoint "{FBB4DF7F4478647C}" {
+    Position 3912 0 7484
+   }
+   ShapePoint "{4BAB9CAB75BE13BA}" {
+    Position 4390 0 7341
+   }
+   ShapePoint "{8E5811F2B0C12C1F}" {
+    Position 4574 0 7518
+   }
+   ShapePoint "{3D1F1E6C506BFE9C}" {
+    Position 4504 0 8146
+   }
+   ShapePoint "{AA5FC2858730B5A2}" {
+    Position 3735 0 8166
+   }
+   ShapePoint "{1EF3D66CEF10BFF4}" {
+    Position 3550 0 7956
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{475F3C98A6DFD5A1}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{C78050988E1FB151}" {
+    Position 3474 0 8482
+   }
+   ShapePoint "{C7E2F51BFB3E1257}" {
+    Position 3735 0 8166
+   }
+   ShapePoint "{10DF9B905A2A6C32}" {
+    Position 4504 0 8146
+   }
+   ShapePoint "{7EBF4547C7FAB36D}" {
+    Position 4546 0 8620
+   }
+   ShapePoint "{13B15655B36A57D}" {
+    Position 4409 0 9026
+   }
+   ShapePoint "{AA3538830FCCE732}" {
+    Position 3878 0 9262
+   }
+   ShapePoint "{B0A3AB1C9670D8EA}" {
+    Position 3638 0 9028
+   }
+   ShapePoint "{E257BAE1F2C894C7}" {
+    Position 3614 0 8693
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{D03F5C7128297DEA}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{FB09E5C1F96EB0A7}" {
+    Position 4099 0 9473
+   }
+   ShapePoint "{8361D76FFC246D76}" {
+    Position 3878 0 9262
+   }
+   ShapePoint "{464D496B57A0968E}" {
+    Position 4409 0 9026
+   }
+   ShapePoint "{345005FF59485F56}" {
+    Position 4776 0 9132
+   }
+   ShapePoint "{662C0E8DE7FB190B}" {
+    Position 4914 0 9496
+   }
+   ShapePoint "{386A08FBB2D30034}" {
+    Position 4799 0 9877
+   }
+   ShapePoint "{11EA6D1EC9003EFF}" {
+    Position 4356 0 9952
+   }
+   ShapePoint "{EDD7FD2C2AD23D30}" {
+    Position 4014 0 9794
+   }
+   ShapePoint "{EF46C39CADE2F96F}" {
+    Position 4146 0 9620
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{80F32010087DB242}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{EC51F6D3132BAA1B}" {
+    Position 4356 0 9952
+   }
+   ShapePoint "{3784F47B0BB1E03E}" {
+    Position 4799 0 9877
+   }
+   ShapePoint "{2432977874229D96}" {
+    Position 4757 0 10308
+   }
+   ShapePoint "{2EBFEBBAB797B71D}" {
+    Position 3885 0 10602
+   }
+   ShapePoint "{33641913FE397558}" {
+    Position 3776 0 10462
+   }
+   ShapePoint "{62B7A1C40AEA1075}" {
+    Position 3838 0 10342
+   }
+   ShapePoint "{E1CFB023BF3EFE14}" {
+    Position 3855 0 10114
+   }
+   ShapePoint "{93463D03A3C40ADE}" {
+    Position 4014 0 9794
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{2ECFEF492232F9A9}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.00 0.69 0.31 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{43A48F23BADF1763}" {
+    Position 818 0 11418
+   }
+   ShapePoint "{49E08E92F524A876}" {
+    Position 904 0 11080
+   }
+   ShapePoint "{E3F1AF52E7BB8AFA}" {
+    Position 1272 0 11108
+   }
+   ShapePoint "{5FB768400743C05A}" {
+    Position 1728 0 11008
+   }
+   ShapePoint "{3485BBA91F68FC3D}" {
+    Position 1831 0 11372
+   }
+   ShapePoint "{511C76F192CCBA3A}" {
+    Position 1520 0 11648
+   }
+   ShapePoint "{E5CA0115059C356F}" {
+    Position 1419 0 11916
+   }
+   ShapePoint "{FD0C06FF5515BAFD}" {
+    Position 957 0 12214
+   }
+   ShapePoint "{589F12EAE084A0D7}" {
+    Position 780 0 11868
+   }
+   ShapePoint "{9C6AA5BE363D0120}" {
+    Position 626 0 11676
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey ""
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{3D0B9032EF397033}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.00 0.69 0.31 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{ADAC974F80577C14}" {
+    Position 11339 0 8606
+   }
+   ShapePoint "{A49D95B0622B916B}" {
+    Position 11238 0 8875
+   }
+   ShapePoint "{98618CE14D8CAB8}" {
+    Position 10776 0 9173
+   }
+   ShapePoint "{59A9E6D6EA14020D}" {
+    Position 10600 0 8826
+   }
+   ShapePoint "{66A399AB7042D30A}" {
+    Position 10638 0 8376
+   }
+   ShapePoint "{92CE01EE52111CAE}" {
+    Position 11092 0 8066
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey ""
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{CD24EA29237F5A30}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.00 0.69 0.31 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{CDE43FFACA8B5D38}" {
+    Position 11544 0 12350
+   }
+   ShapePoint "{9269BB86AD047627}" {
+    Position 10932 0 12263
+   }
+   ShapePoint "{4E8A0BA20D684514}" {
+    Position 10157 0 12320
+   }
+   ShapePoint "{79A995C556D157BA}" {
+    Position 10056 0 11939
+   }
+   ShapePoint "{8CE2537BABBDDD57}" {
+    Position 10671 0 11354
+   }
+   ShapePoint "{6719B9ECC6CDBB89}" {
+    Position 11066 0 10702
+   }
+   ShapePoint "{478AF69824C36930}" {
+    Position 11935 0 10558
+   }
+   ShapePoint "{5C1C9D191318B7CF}" {
+    Position 11704 0 11664
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey ""
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{AAB9F33B66DA4A0D}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{76C48232F4B40175}" {
+    Position 6332 0 10824
+   }
+   ShapePoint "{CB543B5DC9BB18E1}" {
+    Position 6030 0 10836
+   }
+   ShapePoint "{8EBAC5D08C18AAA4}" {
+    Position 5906 0 11098
+   }
+   ShapePoint "{9CB2D0222C9808B9}" {
+    Position 4938 0 10904
+   }
+   ShapePoint "{D2E6A474039C8512}" {
+    Position 4932 0 10550
+   }
+   ShapePoint "{36896766D49C9241}" {
+    Position 4757 0 10308
+   }
+   ShapePoint "{8A2853282B53A075}" {
+    Position 5122 0 10284
+   }
+   ShapePoint "{E9D06BE2F3462A8C}" {
+    Position 6270 0 10224
+   }
+   ShapePoint "{11DB86944ECD7C89}" {
+    Position 6263 0 10577
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{6C5BEEE9F3F9730C}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{3666FB8D2D0B622C}" {
+    Position 5675 0 11622
+   }
+   ShapePoint "{47A9D67A495033A}" {
+    Position 5648 0 11902
+   }
+   ShapePoint "{7AC33A1E45CD51E3}" {
+    Position 5784 0 12128
+   }
+   ShapePoint "{FB45BA8BBAC4D69E}" {
+    Position 5420 0 12476
+   }
+   ShapePoint "{B94492246D09AFF8}" {
+    Position 5079 0 12618
+   }
+   ShapePoint "{B515E882CBB77E43}" {
+    Position 4856 0 12446
+   }
+   ShapePoint "{151A179ECB401645}" {
+    Position 4588 0 12642
+   }
+   ShapePoint "{FC77BC28D21A4AA6}" {
+    Position 4338 0 12406
+   }
+   ShapePoint "{164C9EA5EB3B94DD}" {
+    Position 4023 0 12326
+   }
+   ShapePoint "{6AC390F298A573F7}" {
+    Position 4164 0 11902
+   }
+   ShapePoint "{8727ED75CAFCCBB2}" {
+    Position 4122 0 11592
+   }
+   ShapePoint "{DBB5D169872A3196}" {
+    Position 4214 0 11382
+   }
+   ShapePoint "{9738E1B1E893F44}" {
+    Position 4700 0 11284
+   }
+   ShapePoint "{97B37CA00C461601}" {
+    Position 4728 0 10944
+   }
+   ShapePoint "{BE550E718D2C8D09}" {
+    Position 4938 0 10904
+   }
+   ShapePoint "{53CEE08846910634}" {
+    Position 5906 0 11098
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{5C36C4B7069DB439}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{9B3F47068318BA2D}" {
+    Position 4799 0 9877
+   }
+   ShapePoint "{D95EEA5A0CF19154}" {
+    Position 4914 0 9496
+   }
+   ShapePoint "{8F07C13FC8558066}" {
+    Position 5400 0 9532
+   }
+   ShapePoint "{2E34C7556E7046A2}" {
+    Position 5930 0 9436
+   }
+   ShapePoint "{5F5BC01C08EC0821}" {
+    Position 6000 0 9597
+   }
+   ShapePoint "{213B291137C7052D}" {
+    Position 6270 0 10224
+   }
+   ShapePoint "{ACBB976AA63761DF}" {
+    Position 5122 0 10284
+   }
+   ShapePoint "{90B58EEBD28DCA0E}" {
+    Position 4757 0 10308
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{AC9EC22F309A6A4A}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{BD5634AD7C3B9A15}" {
+    Position 6000 0 9597
+   }
+   ShapePoint "{462E49A9B58C44CA}" {
+    Position 6345 0 9440
+   }
+   ShapePoint "{844337C979989F55}" {
+    Position 6903 0 9624
+   }
+   ShapePoint "{FD5793B88C5D0510}" {
+    Position 6598 0 9974
+   }
+   ShapePoint "{5A06AF59868A7357}" {
+    Position 6270 0 10224
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{18A3417158C44500}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{13AED5B70CBD02C4}" {
+    Position 4757 0 10308
+   }
+   ShapePoint "{CAAF9064A8407D3E}" {
+    Position 4932 0 10550
+   }
+   ShapePoint "{C9C9940184BB7A14}" {
+    Position 4938 0 10904
+   }
+   ShapePoint "{215E45F089BAC266}" {
+    Position 4728 0 10944
+   }
+   ShapePoint "{2A86B19B3C232CEF}" {
+    Position 4700 0 11284
+   }
+   ShapePoint "{1D6EBCA54BD726DB}" {
+    Position 4214 0 11382
+   }
+   ShapePoint "{8F1CE3AC91F24D02}" {
+    Position 4121 0 11284
+   }
+   ShapePoint "{EC40956DE34FA7A9}" {
+    Position 4094 0 11124
+   }
+   ShapePoint "{1781007B93DB083F}" {
+    Position 3888 0 11022
+   }
+   ShapePoint "{5419D8E7B7234F8B}" {
+    Position 3816 0 10854
+   }
+   ShapePoint "{46EEF7FDA9066CD4}" {
+    Position 3888 0 10700
+   }
+   ShapePoint "{CFAD7DAA8CF8FD7}" {
+    Position 3885 0 10602
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+ {
+  components {
+   PS_PolyZone "{CE58A8E315C28C66}" {
+    m_mPolygonTexture ""
+    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_mPolygonTextureBorder ""
+    m_cPolygonBorderColor 0.13 0.13 0.13 0.00
+    m_fPolygonBorderWidth 4.00
+    m_aVisibleForFactions {
+     ""
+     "USSR"
+     "US"
+     "FIA"
+     "CIV"
+    }
+   }
+  }
+  Points {
+   ShapePoint "{FF0AB6CB9BF25434}" {
+    Position 4409 0 9026
+   }
+   ShapePoint "{60F0B5A01D80814A}" {
+    Position 4546 0 8620
+   }
+   ShapePoint "{464143A3E8769D04}" {
+    Position 4817 0 8692
+   }
+   ShapePoint "{A572D8BB4280E821}" {
+    Position 5535 0 8744
+   }
+   ShapePoint "{A038AB1E05A25A0}" {
+    Position 5838 0 8976
+   }
+   ShapePoint "{559505506FC09AF7}" {
+    Position 5993 0 9268
+   }
+   ShapePoint "{C80521250D9ED256}" {
+    Position 5930 0 9436
+   }
+   ShapePoint "{92B1F8A685A9141D}" {
+    Position 5400 0 9532
+   }
+   ShapePoint "{36BA6ADD23154872}" {
+    Position 4914 0 9496
+   }
+   ShapePoint "{779CA894C8B8417D}" {
+    Position 4776 0 9132
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "614548BDF998E12B" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectFreezeZone "6145683F186F7170" {
+     m_fKillTime 40
+    }
+    m_bReversed 0
+    m_sGroupKey ""
+    m_sFactionKey "US"
+   }
+  }
+ }
+}
