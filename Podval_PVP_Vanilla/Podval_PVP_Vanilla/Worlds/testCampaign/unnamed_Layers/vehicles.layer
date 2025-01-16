@@ -1,0 +1,14 @@
+$grp Vehicle : "{38186F12F27A61C6}Prefabs/Vehicles/Wheeled/M923A1/M923A1_command_MERDC.et" {
+ M923A1_command_MERDC1 {
+  coords 7419.983 162.968 4313.868
+  angleX 0.319
+  angleY 20.85
+  angleZ -0.837
+ }
+ M923A1_command_MERDC2 {
+  coords 7429.576 163.055 4314.618
+  angleX 0.319
+  angleY 20.85
+  angleZ -0.837
+ }
+}
