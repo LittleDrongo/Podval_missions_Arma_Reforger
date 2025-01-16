@@ -1,0 +1,44 @@
+GenericEntity : "{57B12FD37B85696C}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_US_Campaign.et" {
+ coords -10000 -10000 -10000
+ angleX -0.895
+ angleY -0.014
+ angleZ 0.895
+ {
+  PS_ManualMarker flag_US_Marker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+   coords 0 0 0
+   angleX 0.895
+   angleY 90.014
+   angleZ 0.895
+   m_sImageSetGlow ""
+   m_MarkerColor 0 0.125 0.502 1
+   m_sQuadName "flag-2"
+   m_fWorldSize 35
+   m_sDescription "Флаг"
+   m_bUseWorldScale 0
+   m_aVisibleForFactions {
+    "USSR" "US" "FIA"
+   }
+   m_bVisibleForEmptyFaction 1
+   m_bShowForAnyFaction 1
+  }
+ }
+}
+GenericEntity : "{C92071B2E5B2B82F}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_USSR_Campaign.et" {
+ coords 5274.113 63.009 5349.813
+ {
+  PS_ManualMarker flag_USSR_Marker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+   coords 0 0 0
+   m_sImageSetGlow ""
+   m_MarkerColor 0.502 0 0 1
+   m_sQuadName "flag-2"
+   m_fWorldSize 35
+   m_sDescription "Флаг"
+   m_bUseWorldScale 0
+   m_aVisibleForFactions {
+    "USSR" "US" "FIA"
+   }
+   m_bVisibleForEmptyFaction 1
+   m_bShowForAnyFaction 1
+  }
+ }
+}

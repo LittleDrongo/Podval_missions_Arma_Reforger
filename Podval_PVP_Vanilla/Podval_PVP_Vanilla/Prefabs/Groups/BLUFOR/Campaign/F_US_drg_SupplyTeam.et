@@ -4,18 +4,18 @@ SCR_AIGroup : "{E552DABF3636C2AD}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad.et" 
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation "Column"
   }
-  PS_GroupCallsignAssigner "{645CD4FD089E97A1}" {
+  PS_GroupCallsignAssigner "{64607D09DA1AB35B}" {
   }
   SCR_EditableGroupComponent "{50D291F6C83FA532}" {
    m_UIInfo SCR_EditableGroupUIInfo "{5298E609432D192D}" {
-    Name "#DRG-Sq-MedicalTeam"
+    Name ""
    }
   }
  }
- m_faction "USSR"
+ m_faction "US"
  m_aUnitPrefabSlots {
-  "{C8917EA9B578E2CE}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Medic.et" "{C8917EA9B578E2CE}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Medic.et"
+  "{4CD15F71E43CBEA6}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Driver.et" "{903097F658A99BE3}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Rifleman.et"
  }
  m_bDeleteWhenEmpty 0
- m_sCustomNameSet "#DRG-Sq-MedicalTeam"
+ m_sCustomNameSet "#DRG-Sq-SupplyTeam"
 }

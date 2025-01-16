@@ -1,0 +1,34 @@
+SCR_AIGroup : "{0727ADE18EE48E64}Prefabs/Groups/BLUFOR/Campaign/F_US_drg_MedicalTeam.et" {
+ coords 7471.268 164.577 4341.158
+ angleX 0.352
+ angleY 23.134
+ angleZ -0.823
+}
+SCR_AIGroup : "{119A3C5BF9D14C80}Prefabs/Groups/BLUFOR/Campaign/F_US_drg_MG_Squad.et" {
+ coords 7467.605 164.562 4342.375
+ angleY 19.876
+}
+SCR_AIGroup : "{1582DCF33FD9B761}Prefabs/Groups/BLUFOR/Campaign/F_US_drg_RepairDetachment.et" {
+ coords 7474.092 164.594 4340.235
+ angleY 18.446
+}
+SCR_AIGroup : "{983EB2C5F6E84CD7}Prefabs/Groups/BLUFOR/Campaign/F_US_drg_MortarCrew.et" {
+ coords 7477.818 164.594 4338.803
+ angleY 20.042
+}
+SCR_AIGroup : "{A7A5D6A8DA81706B}Prefabs/Groups/BLUFOR/Campaign/F_US_drg_SupplyTeam.et" {
+ coords 7481.43 164.504 4337.247
+ angleX 0.57
+ angleY 18.257
+ angleZ 1.13
+}
+SCR_AIGroup : "{BC6FF5B76D4E23F6}Prefabs/Groups/BLUFOR/Campaign/F_US_drg_BattalionHQ.et" {
+ coords 7488.151 164.469 4334.702
+ angleY 17.173
+}
+SCR_AIGroup : "{F7B1E883643FF4A3}Prefabs/Groups/BLUFOR/Campaign/F_US_drg_DemolitionTeam.et" {
+ coords 7484.558 164.447 4336.313
+ angleX 1.127
+ angleY 17.929
+ angleZ -0.576
+}
