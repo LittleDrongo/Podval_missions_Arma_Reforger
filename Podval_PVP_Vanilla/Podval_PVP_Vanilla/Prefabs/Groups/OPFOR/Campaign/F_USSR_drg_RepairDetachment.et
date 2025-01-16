@@ -9,7 +9,7 @@ SCR_AIGroup : "{E552DABF3636C2AD}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad.et" 
  }
  m_faction "USSR"
  m_aUnitPrefabSlots {
-  "{2E99E8043BA9C3FE}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Mortar_TL.et" "{27061ECB88ED861F}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_MortarGunner.et" "{E3E5AFE39963E8C3}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_MortarLoader.et"
+  "{93E8316FB3FD3827}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Engineer.et" "{93E8316FB3FD3827}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Engineer.et"
  }
  m_bDeleteWhenEmpty 0
  m_sCustomNameSet "#DRG-Sq-EngineeringDetachment"

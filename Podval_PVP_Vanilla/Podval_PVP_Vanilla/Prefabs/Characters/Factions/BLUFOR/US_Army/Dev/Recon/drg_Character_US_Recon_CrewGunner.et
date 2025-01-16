@@ -1,0 +1,20 @@
+SCR_ChimeraCharacter : "{4F6C9EDA416D83D3}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_CrewDriver.et" {
+ ID "520EC961A090BBD5"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "#DRG-Role_CrewGunner"
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{64609809C3144CF4}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Jacket_US_BDU_02.et"
+     PrefabsToSpawn {
+      "{BA2D0EE170E44DC7}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_rprv.et"
+     }
+    }
+   }
+  }
+ }
+}
