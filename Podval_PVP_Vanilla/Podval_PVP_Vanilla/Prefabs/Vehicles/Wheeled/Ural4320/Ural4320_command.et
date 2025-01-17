@@ -9,4 +9,5 @@ Vehicle : "{4597626AF36C0858}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320.et" {
    }
   }
  }
+ m_sAttachmentGroupName "F_USSR_drg_CompanyHQ"
 }

@@ -43,7 +43,7 @@ SCR_AIGroup S_US_drg_ReconSquad : "{8AE885D9508D0CB7}Prefabs/Groups/BLUFOR/Campa
  angleY 24.986
 }
 SCR_AIGroup F_US_drg_RifleSquad : "{8D21AAF73F41E8F6}Prefabs/Groups/BLUFOR/Campaign/F_US_drg_RifleSquad.et" {
- coords 7448.507 162.853 4364.816
+ coords 7448.759 162.868 4364.563
  angleX 0.329
  angleY 25.102
  angleZ -2.81
