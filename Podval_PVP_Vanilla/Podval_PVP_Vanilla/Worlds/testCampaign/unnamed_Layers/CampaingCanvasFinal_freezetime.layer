@@ -1,9 +1,9 @@
 $grp PolylineShapeEntity {
  {
   components {
-   PS_PolyZone "{EB3625F7FB86E9}" {
+   PS_PolyZone "{D3E87C9B95BBCA53}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
     m_cPolygonBorderColor 0.13 0.13 0.13 0.00
     m_fPolygonBorderWidth 4.00
@@ -17,46 +17,46 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{E09F5C8936F5168C}" {
+   ShapePoint "{F257DDE33DFB6F58}" {
     Position 746 0 5853
    }
-   ShapePoint "{439A3829CBD6C02B}" {
+   ShapePoint "{866377E3D3971470}" {
     Position 1104 0 5504
    }
-   ShapePoint "{1B5BC6E1AC758173}" {
+   ShapePoint "{9DD40023C98E4179}" {
     Position 1384 0 5233
    }
-   ShapePoint "{3C437DA00A2A2A6D}" {
+   ShapePoint "{C4198E2958B299C8}" {
     Position 1270 0 5100
    }
-   ShapePoint "{6402D57E7A06E566}" {
+   ShapePoint "{BB90FDD75361DD7B}" {
     Position 1260 0 4878
    }
-   ShapePoint "{571F7219892A82F5}" {
+   ShapePoint "{A181D9DB0799FA5B}" {
     Position 1708 0 4408
    }
-   ShapePoint "{CB0B7C6B701AA5AC}" {
+   ShapePoint "{F803E0E1C9297031}" {
     Position 1876 0 4479
    }
-   ShapePoint "{8C8B348EAB8E26B0}" {
+   ShapePoint "{293FE7CA187B5439}" {
     Position 2256 0 5947
    }
-   ShapePoint "{DC57099E8B95A6DB}" {
+   ShapePoint "{ECB515EE22F29766}" {
     Position 2182 0 6314
    }
-   ShapePoint "{79C32E650B3A785C}" {
+   ShapePoint "{BBEA05B8228E06D9}" {
     Position 1953 0 6750
    }
-   ShapePoint "{A678E8DEBE09615C}" {
+   ShapePoint "{7D5F262A82A2721F}" {
     Position 1608 0 6519
    }
-   ShapePoint "{6B488F9D8957B98A}" {
+   ShapePoint "{E41716298A4331FE}" {
     Position 1160 0 6669
    }
-   ShapePoint "{5E33A39900520F1}" {
+   ShapePoint "{675561C14C25135E}" {
     Position 813 0 6433
    }
-   ShapePoint "{A8353E0C9BA46DA0}" {
+   ShapePoint "{8ADE63846079A91C}" {
     Position 662 0 6154
    }
   }
@@ -80,15 +80,15 @@ $grp PolylineShapeEntity {
     }
     m_bReversed 0
     m_sGroupKey ""
-    m_sFactionKey "US"
+    m_sFactionKey "USSR"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{1173D9A6FBBD5AB6}" {
+   PS_PolyZone "{1403D3C305687063}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
     m_cPolygonBorderColor 0.13 0.13 0.13 0.00
     m_fPolygonBorderWidth 4.00
@@ -102,52 +102,52 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{B797872497914AEC}" {
+   ShapePoint "{F998B3B0DD7CEB73}" {
     Position 2182 0 6314
    }
-   ShapePoint "{6A614CCFAAB5F138}" {
+   ShapePoint "{804D17C929EA201}" {
     Position 2256 0 5947
    }
-   ShapePoint "{B58D259BDDD514C9}" {
+   ShapePoint "{615434E4514BB5D1}" {
     Position 2934 0 5632
    }
-   ShapePoint "{826B68F0BDB7F028}" {
+   ShapePoint "{B4626A60841BB9C7}" {
     Position 2942 0 6126
    }
-   ShapePoint "{19C59FD12BDC5E0C}" {
+   ShapePoint "{95122E82BAD3DE45}" {
     Position 3150 0 6170
    }
-   ShapePoint "{2DD13E89DDE06B9B}" {
+   ShapePoint "{15DD27C5E3910324}" {
     Position 3266 0 6294
    }
-   ShapePoint "{8F91AD541D7B4892}" {
+   ShapePoint "{9F08A3095B31070B}" {
     Position 3478 0 6485
    }
-   ShapePoint "{EC71012BA90FA6DB}" {
+   ShapePoint "{9DBB8641FB04AD74}" {
     Position 3574 0 6518
    }
-   ShapePoint "{CF67584A1C21F062}" {
+   ShapePoint "{58503516059EE56A}" {
     Position 3514 0 6668
    }
-   ShapePoint "{4E50D3A4A48C8E1D}" {
+   ShapePoint "{D723ED44D6EE561C}" {
     Position 3478 0 7124
    }
-   ShapePoint "{890426DC8A4F2F46}" {
+   ShapePoint "{AC419D8D13F40A17}" {
     Position 3383 0 7356
    }
-   ShapePoint "{9344170D53AEBE2A}" {
+   ShapePoint "{E6B2782FDC7B2185}" {
     Position 3170 0 7244
    }
-   ShapePoint "{44ADC29B14D42A2F}" {
+   ShapePoint "{793A39D11ECD0E8D}" {
     Position 2951 0 7672
    }
-   ShapePoint "{DD83CF896BCB8063}" {
+   ShapePoint "{4786629271DBB803}" {
     Position 2315 0 8155
    }
-   ShapePoint "{3709CED00AD34BF4}" {
+   ShapePoint "{AC5479BC673527F}" {
     Position 1804 0 7514
    }
-   ShapePoint "{A6A85160C729C39E}" {
+   ShapePoint "{4BEC0AF13D37C06}" {
     Position 1953 0 6750
    }
   }
@@ -171,13 +171,13 @@ $grp PolylineShapeEntity {
     }
     m_bReversed 0
     m_sGroupKey ""
-    m_sFactionKey "US"
+    m_sFactionKey "USSR"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{70AC2A415C02259}" {
+   PS_PolyZone "{D872BD6FE454C83F}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -193,31 +193,31 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{34F13C478203FE89}" {
+   ShapePoint "{1623DD754FEB62DF}" {
     Position 2293 0 3948
    }
-   ShapePoint "{2BF366767F17D207}" {
+   ShapePoint "{59329494E5CB7B5D}" {
     Position 2615 0 4087
    }
-   ShapePoint "{48C308060619CE92}" {
+   ShapePoint "{9FD2EC30D972986E}" {
     Position 2992 0 4597
    }
-   ShapePoint "{882027B4BF73192B}" {
+   ShapePoint "{5040E13685BFB62F}" {
     Position 3156 0 4885
    }
-   ShapePoint "{500868AE7D9B0E94}" {
+   ShapePoint "{746FDB95E315DF5F}" {
     Position 3187 0 5056
    }
-   ShapePoint "{17C91815538C5C90}" {
+   ShapePoint "{99584A0632EBA1FD}" {
     Position 3208 0 5169
    }
-   ShapePoint "{E817F5432F6ADBE3}" {
+   ShapePoint "{DB22A4C129EB2180}" {
     Position 2934 0 5632
    }
-   ShapePoint "{A4C8294721D43B41}" {
+   ShapePoint "{2549EA6AC704FD55}" {
     Position 2256 0 5947
    }
-   ShapePoint "{635854DF103694A}" {
+   ShapePoint "{53585D8AA883D773}" {
     Position 1876 0 4479
    }
   }
@@ -247,9 +247,9 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{AEA97EB434754634}" {
+   PS_PolyZone "{7E2960194F08F578}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.94 0.19 0.18 0.00
+    m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
     m_cPolygonBorderColor 0.13 0.13 0.13 0.00
     m_fPolygonBorderWidth 4.00
@@ -263,61 +263,61 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{B3BA802579A27F79}" {
+   ShapePoint "{EF938B9E7B1E0C4A}" {
     Position 3778 0 4881
    }
-   ShapePoint "{E69EB01828C2CBCB}" {
+   ShapePoint "{A50AE5373BE0492A}" {
     Position 4012 0 5136
    }
-   ShapePoint "{4A5323A3515A5DF0}" {
+   ShapePoint "{25DD4BDE8472EA67}" {
     Position 4188 0 5346
    }
-   ShapePoint "{AC759CC74271BA9D}" {
+   ShapePoint "{DEA4C677DBB8AD79}" {
     Position 4147 0 5538
    }
-   ShapePoint "{81F62D412EFD7F69}" {
+   ShapePoint "{EA3A9F2EF166B85}" {
     Position 4302 0 5571
    }
-   ShapePoint "{6B4568E782764C8B}" {
+   ShapePoint "{5251F23CD7C96D36}" {
     Position 4284 0 5718
    }
-   ShapePoint "{3689CBF7E842AD19}" {
+   ShapePoint "{F52BB91346322E56}" {
     Position 4374 0 5862
    }
-   ShapePoint "{202C685C112E849D}" {
+   ShapePoint "{CC977D4B135344F0}" {
     Position 4266 0 5958
    }
-   ShapePoint "{BCC875AC8332A690}" {
+   ShapePoint "{EFAEEEBD6CEC340B}" {
     Position 4058 0 6096
    }
-   ShapePoint "{D17D3AECB2828A14}" {
+   ShapePoint "{F4FCD509D1FFE052}" {
     Position 3988 0 6198
    }
-   ShapePoint "{600E1166CDCB3EB0}" {
+   ShapePoint "{523013C0B7C56B55}" {
     Position 3780 0 6542
    }
-   ShapePoint "{62523D613C8577B6}" {
+   ShapePoint "{2BFE6DB272C8059F}" {
     Position 3696 0 6560
    }
-   ShapePoint "{83448F47E40DBD3E}" {
+   ShapePoint "{8A4241FDBD021339}" {
     Position 3478 0 6485
    }
-   ShapePoint "{4F8ED69EA5872873}" {
+   ShapePoint "{A80E0040EFF782F6}" {
     Position 3266 0 6294
    }
-   ShapePoint "{F76658043D6E3606}" {
+   ShapePoint "{27AE5B852B8D9704}" {
     Position 3150 0 6170
    }
-   ShapePoint "{D11DB01996962367}" {
+   ShapePoint "{23F1072BC11C273}" {
     Position 2942 0 6126
    }
-   ShapePoint "{78DAC9746C606AAA}" {
+   ShapePoint "{C0C8E17F7EF41822}" {
     Position 2934 0 5632
    }
-   ShapePoint "{DDE95D7FB1C0F609}" {
+   ShapePoint "{9BE592F98F30D6F8}" {
     Position 3208 0 5169
    }
-   ShapePoint "{EF9E40368A91A7AA}" {
+   ShapePoint "{71142D9A2F78EB07}" {
     Position 3187 0 5056
    }
   }
@@ -341,13 +341,13 @@ $grp PolylineShapeEntity {
     }
     m_bReversed 0
     m_sGroupKey ""
-    m_sFactionKey "US"
+    m_sFactionKey "USSR"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{AC968791C5009882}" {
+   PS_PolyZone "{F179F2884DF0DCB6}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -363,64 +363,64 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{1BF7E2E3119D8AF}" {
+   ShapePoint "{320F122233DE1D9C}" {
     Position 3802 0 3370
    }
-   ShapePoint "{34A2A43B84D59833}" {
+   ShapePoint "{E2F64E9ED8CE9896}" {
     Position 4036 0 3288
    }
-   ShapePoint "{449CB683FE8DC15B}" {
+   ShapePoint "{8531DDEDA642AF2C}" {
     Position 4328 0 3269
    }
-   ShapePoint "{EC484A8FF5D86BE7}" {
+   ShapePoint "{9AFD05B159BE6A5B}" {
     Position 4396 0 3517
    }
-   ShapePoint "{5C4A5603FA3AA22F}" {
+   ShapePoint "{5AD986424CEC2C3E}" {
     Position 4220 0 3844
    }
-   ShapePoint "{EFF29085133B868B}" {
+   ShapePoint "{15201A87DD92736}" {
     Position 4190 0 4094
    }
-   ShapePoint "{63477BB9A6FC22CC}" {
+   ShapePoint "{91A721810C3B30C3}" {
     Position 4534 0 4394
    }
-   ShapePoint "{379F1DFBD0B5E8AA}" {
+   ShapePoint "{E9ED21A49B7A2103}" {
     Position 4458 0 4536
    }
-   ShapePoint "{23BF6D001E2A3C24}" {
+   ShapePoint "{F60A8DD56959DB3F}" {
     Position 4410 0 4690
    }
-   ShapePoint "{5E058E61017026F2}" {
+   ShapePoint "{E88C870CEBA042FD}" {
     Position 4398 0 4788
    }
-   ShapePoint "{6C60C910B48F7D62}" {
+   ShapePoint "{5F870C28D55602F}" {
     Position 4012 0 5136
    }
-   ShapePoint "{7A748B5F783483C8}" {
+   ShapePoint "{89D8943D9CDFB456}" {
     Position 3778 0 4881
    }
-   ShapePoint "{F766CE8132913CAC}" {
+   ShapePoint "{AE3C262CCD86C817}" {
     Position 3187 0 5056
    }
-   ShapePoint "{82AE015C57C7BDD8}" {
+   ShapePoint "{721E1EE8DA010B86}" {
     Position 3156 0 4885
    }
-   ShapePoint "{24679A6586C5A1E5}" {
+   ShapePoint "{A84AD6A1219144B5}" {
     Position 2992 0 4598
    }
-   ShapePoint "{A90027CFB2732635}" {
+   ShapePoint "{6FE4B0E22CCA0C5C}" {
     Position 2615 0 4087
    }
-   ShapePoint "{6FF7BC0582FCF16}" {
+   ShapePoint "{F91EBC92D25766D3}" {
     Position 2566 0 3946
    }
-   ShapePoint "{65A886119E6A8C85}" {
+   ShapePoint "{9726179283F59001}" {
     Position 2554 0 3700
    }
-   ShapePoint "{1BEE7916F924AD3}" {
+   ShapePoint "{4D7762E3AE4AEB57}" {
     Position 3056 0 3602
    }
-   ShapePoint "{6A5C2A3565BFDA00}" {
+   ShapePoint "{7A50B558967296B0}" {
     Position 3267 0 3175
    }
   }
@@ -450,7 +450,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{7E8A40F4254BF435}" {
+   PS_PolyZone "{BFD625455BB5164F}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.96 0.61 0.60 0.00
     m_mPolygonTextureBorder ""
@@ -466,55 +466,55 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{E8CE765A8ED18D1A}" {
+   ShapePoint "{77E823629396E964}" {
     Position 4937 0 4998
    }
-   ShapePoint "{9BFFBCBC362D4C1B}" {
+   ShapePoint "{938E346B705F06DD}" {
     Position 4946 0 4820
    }
-   ShapePoint "{8D56EB4EB67D5437}" {
+   ShapePoint "{8346E7D33C1A1B80}" {
     Position 5144 0 4842
    }
-   ShapePoint "{F1CCB71C88D6838E}" {
+   ShapePoint "{AC6080A19276531B}" {
     Position 5290 0 4782
    }
-   ShapePoint "{627FF3425CE230CC}" {
+   ShapePoint "{CAF9BC2A3EB490DE}" {
     Position 5354 0 4862
    }
-   ShapePoint "{7BC7EAA34D8ACE5D}" {
+   ShapePoint "{2B2CDB719AAD7C79}" {
     Position 5431 0 4880
    }
-   ShapePoint "{F2A2C30DCF9E51A0}" {
+   ShapePoint "{D80B94966BEA9079}" {
     Position 5620 0 5015
    }
-   ShapePoint "{6F4E741E0194E35F}" {
+   ShapePoint "{C8E5DCD95402F33A}" {
     Position 5752 0 5206
    }
-   ShapePoint "{771FFF8F9A44149D}" {
+   ShapePoint "{552581FA6E1E4D7B}" {
     Position 5907 0 5447
    }
-   ShapePoint "{56BEE47735E934CC}" {
+   ShapePoint "{BA7B6A3993B70F77}" {
     Position 5419 0 5841
    }
-   ShapePoint "{D02A6EFC30D3C902}" {
+   ShapePoint "{31E643EB1401FE9D}" {
     Position 4996 0 6095
    }
-   ShapePoint "{528318D08709CE66}" {
+   ShapePoint "{11597030931229B6}" {
     Position 4665 0 5874
    }
-   ShapePoint "{B2572A1CE91BA89F}" {
+   ShapePoint "{22C3FAD267855EAF}" {
     Position 4614 0 5790
    }
-   ShapePoint "{EACE72A2CDC85994}" {
+   ShapePoint "{F52A85D81A91CF2E}" {
     Position 4608 0 5742
    }
-   ShapePoint "{407B974661827A1A}" {
+   ShapePoint "{6A11F1C357658975}" {
     Position 4642 0 5436
    }
-   ShapePoint "{DAF883A1E47CCC44}" {
+   ShapePoint "{C73AB4B77127C24D}" {
     Position 4916 0 5230
    }
-   ShapePoint "{AEA9E8FCF9F4BB9C}" {
+   ShapePoint "{7DA0815661046151}" {
     Position 5017 0 5107
    }
   }
@@ -544,7 +544,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{CB899047352E9FE3}" {
+   PS_PolyZone "{431BB3E755324A79}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -560,52 +560,52 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{4DE49E395C6D816}" {
+   ShapePoint "{40DB2605E33083C6}" {
     Position 4723 0 4445
    }
-   ShapePoint "{F12E6023EF339C3A}" {
+   ShapePoint "{C227B5C9AB5D318E}" {
     Position 4842 0 4419
    }
-   ShapePoint "{10EDFBB7B5D539A2}" {
+   ShapePoint "{4C047BA4B83FBF9}" {
     Position 5014 0 4351
    }
-   ShapePoint "{9C2E2DE70A781629}" {
+   ShapePoint "{EBC649F38A51FE93}" {
     Position 5093 0 4246
    }
-   ShapePoint "{3A913810942B8F02}" {
+   ShapePoint "{F4073161907C624B}" {
     Position 5442 0 4266
    }
-   ShapePoint "{DC555C2FF51E442F}" {
+   ShapePoint "{97FE3AE668572236}" {
     Position 6002 0 3976
    }
-   ShapePoint "{EF347C47FE62E5ED}" {
+   ShapePoint "{11113326F04AC27F}" {
     Position 6021 0 4234
    }
-   ShapePoint "{4A6398D6D33170C2}" {
+   ShapePoint "{1BB257530CA91701}" {
     Position 5872 0 4668
    }
-   ShapePoint "{A6344B9925D2E3C1}" {
+   ShapePoint "{89DDDBDB43A62DC3}" {
     Position 5645 0 4820
    }
-   ShapePoint "{8C8ABA164F1110A6}" {
+   ShapePoint "{45EEBA3535B9EF4E}" {
     Position 5431 0 4880
    }
-   ShapePoint "{547FBCDE3C59B9DA}" {
+   ShapePoint "{CD2BBD3D20201101}" {
     Position 5354 0 4862
    }
-   ShapePoint "{45686B08E35166E1}" {
+   ShapePoint "{5975EE61CF5F2A7C}" {
     Position 5290 0 4782
    }
-   ShapePoint "{F0C396206FCB1640}" {
+   ShapePoint "{5F5B1A040EEB32AD}" {
     Position 5144 0 4842
    }
-   ShapePoint "{D66BF86C52DE785A}" {
+   ShapePoint "{AB56DE7D69BB6E4A}" {
     Position 4946 0 4820
    }
-   ShapePoint "{89361BEA424013E}" {
+   ShapePoint "{116E647FE906C174}" {
     Position 4902 0 4672
    }
-   ShapePoint "{7848D0F12C4710BA}" {
+   ShapePoint "{6A33C52AF403498E}" {
     Position 4752 0 4666
    }
   }
@@ -635,9 +635,9 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{642338EC4F4F7C80}" {
+   PS_PolyZone "{E5C9D5BC1C368CB7}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
     m_cPolygonBorderColor 0.13 0.13 0.13 0.00
     m_fPolygonBorderWidth 4.00
@@ -651,43 +651,43 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{902001FE77063698}" {
+   ShapePoint "{AA17AD86FAACD011}" {
     Position 5620 0 5015
    }
-   ShapePoint "{4F5C9E8626FC47D1}" {
+   ShapePoint "{31918552EC1FEE7E}" {
     Position 5431 0 4880
    }
-   ShapePoint "{AF7818553FE500CA}" {
+   ShapePoint "{A87C6BF48C81E24}" {
     Position 5645 0 4820
    }
-   ShapePoint "{B72255804E981C29}" {
+   ShapePoint "{6F85CA5D97B3C889}" {
     Position 5872 0 4668
    }
-   ShapePoint "{9A98B61ECE406CE}" {
+   ShapePoint "{2500980CE2E7A4F1}" {
     Position 6021 0 4234
    }
-   ShapePoint "{778172FC40ABD5F3}" {
+   ShapePoint "{54DA5BFF557D6C1A}" {
     Position 6420 0 4179
    }
-   ShapePoint "{69263FF5C63CB406}" {
+   ShapePoint "{E517E60BA99B1A5C}" {
     Position 6686 0 4455
    }
-   ShapePoint "{C7F7418126032838}" {
+   ShapePoint "{8C7776EFF76F7417}" {
     Position 6652 0 4788
    }
-   ShapePoint "{9CC073A45C6B0E8F}" {
+   ShapePoint "{FAC4C3522181B4E4}" {
     Position 6534 0 4984
    }
-   ShapePoint "{744948A8F8371527}" {
+   ShapePoint "{5A750C9A2F459083}" {
     Position 6558 0 5136
    }
-   ShapePoint "{AF6F1C85F4AF2574}" {
+   ShapePoint "{833EC3F08680084F}" {
     Position 6358 0 5550
    }
-   ShapePoint "{925875713AFDFE17}" {
+   ShapePoint "{C030A508E090C08}" {
     Position 5907 0 5447
    }
-   ShapePoint "{D4ACA889CC28FD7C}" {
+   ShapePoint "{47109060565AB616}" {
     Position 5751 0 5206
    }
   }
@@ -711,13 +711,13 @@ $grp PolylineShapeEntity {
     }
     m_bReversed 0
     m_sGroupKey ""
-    m_sFactionKey "USSR"
+    m_sFactionKey "US"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{5E842998283B1C77}" {
+   PS_PolyZone "{C2C307A671E8CBE4}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -733,64 +733,64 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{4D4F5ED6A3F53E55}" {
+   ShapePoint "{F667648D9C2CA204}" {
     Position 4534 0 4394
    }
-   ShapePoint "{C266141040718441}" {
+   ShapePoint "{7972AD66EAE19AC2}" {
     Position 4723 0 4445
    }
-   ShapePoint "{EF9FC314ADC72F53}" {
+   ShapePoint "{E258D8A195E945F7}" {
     Position 4752 0 4666
    }
-   ShapePoint "{844FC6446A94E9AC}" {
+   ShapePoint "{48A83A8D5AED38A8}" {
     Position 4902 0 4672
    }
-   ShapePoint "{AA346B322AD0FD75}" {
+   ShapePoint "{89211E2E7269C782}" {
     Position 4946 0 4820
    }
-   ShapePoint "{A205267A8885A8FF}" {
+   ShapePoint "{CD941080593A1521}" {
     Position 4936 0 4997
    }
-   ShapePoint "{289E239F7BA3E534}" {
+   ShapePoint "{951317D5AA068F77}" {
     Position 5017 0 5107
    }
-   ShapePoint "{34494A794130835E}" {
+   ShapePoint "{DD186DC4A20A8A06}" {
     Position 4916 0 5230
    }
-   ShapePoint "{AC3ACB4A8E0ED359}" {
+   ShapePoint "{D65CA0E480F2DD3B}" {
     Position 4642 0 5436
    }
-   ShapePoint "{18DAF95E08DAF72C}" {
+   ShapePoint "{EFD5CF5E4A60B227}" {
     Position 4608 0 5742
    }
-   ShapePoint "{9452490BE4D0D1D9}" {
+   ShapePoint "{E59D7D5A541C8B92}" {
     Position 4478 0 5838
    }
-   ShapePoint "{73225F6BE533A43C}" {
+   ShapePoint "{F74F2A558B3ECB3E}" {
     Position 4374 0 5862
    }
-   ShapePoint "{19F9DC5FC5488BA2}" {
+   ShapePoint "{52CCE6A670A393E1}" {
     Position 4284 0 5718
    }
-   ShapePoint "{B633570FF6C1F6FD}" {
+   ShapePoint "{253BAFF3687DBB3E}" {
     Position 4302 0 5571
    }
-   ShapePoint "{F4E87D4B6886B85C}" {
+   ShapePoint "{E271E0EE0815D625}" {
     Position 4147 0 5538
    }
-   ShapePoint "{C39998790D360497}" {
+   ShapePoint "{B46696E53F437288}" {
     Position 4188 0 5346
    }
-   ShapePoint "{C20D576F145EA85D}" {
+   ShapePoint "{B1C385235BB0BBDC}" {
     Position 4012 0 5136
    }
-   ShapePoint "{DCFE951E19A6C934}" {
+   ShapePoint "{CEE648695EBB0ABE}" {
     Position 4398 0 4788
    }
-   ShapePoint "{848753706FACFD1B}" {
+   ShapePoint "{F72DCAA783711301}" {
     Position 4410 0 4690
    }
-   ShapePoint "{11D0ADD18D3E33F4}" {
+   ShapePoint "{3F8055CB5F484447}" {
     Position 4458 0 4536
    }
   }
@@ -820,7 +820,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{5C8CDA2FE4A95640}" {
+   PS_PolyZone "{5E7F8342C8C898B}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -836,70 +836,70 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{E2C34419B9DA313}" {
+   ShapePoint "{AF45237F181F553A}" {
     Position 4945 0 3266
    }
-   ShapePoint "{9CF7280AB3C9BDCF}" {
+   ShapePoint "{89C0DBC1C5C7C208}" {
     Position 5000 0 3404
    }
-   ShapePoint "{2D283DCB0D69DF6A}" {
+   ShapePoint "{84A52F97984073AC}" {
     Position 4922 0 3580
    }
-   ShapePoint "{7D2AE800BBCC12D7}" {
+   ShapePoint "{2B516EA432F50BC}" {
     Position 5110 0 3701
    }
-   ShapePoint "{43A332EF4CDB49F2}" {
+   ShapePoint "{87EE1062BD9829ED}" {
     Position 5276 0 3734
    }
-   ShapePoint "{BDF0320BA96DF140}" {
+   ShapePoint "{A1B29BFD6484008}" {
     Position 5523 0 3482
    }
-   ShapePoint "{1BD9A2662E295804}" {
+   ShapePoint "{4AADF9FF559D57FC}" {
     Position 5798 0 3201
    }
-   ShapePoint "{B452D8A327A43A76}" {
+   ShapePoint "{43A9657E9294559B}" {
     Position 6161 0 3226
    }
-   ShapePoint "{C9126E7B651955C3}" {
+   ShapePoint "{A6D6ACC0B0B59802}" {
     Position 6272 0 3423
    }
-   ShapePoint "{9C5AE56B214D8528}" {
+   ShapePoint "{FCF21DB76C4E11D4}" {
     Position 5962 0 3646
    }
-   ShapePoint "{18D009D42BFB4B60}" {
+   ShapePoint "{99A78881B0C54DD6}" {
     Position 6002 0 3976
    }
-   ShapePoint "{8B550D7C5ACBAADE}" {
+   ShapePoint "{7B290DF3E3B0EC6}" {
     Position 5442 0 4266
    }
-   ShapePoint "{6DE1AE0C8480A0A9}" {
+   ShapePoint "{C9E9294C695409C2}" {
     Position 5093 0 4246
    }
-   ShapePoint "{206E6D6A6167DE68}" {
+   ShapePoint "{7048500C33B3FFEA}" {
     Position 5014 0 4351
    }
-   ShapePoint "{4B62C91EF568AF38}" {
+   ShapePoint "{40B4500C69A606AC}" {
     Position 4842 0 4419
    }
-   ShapePoint "{6494C583084E217F}" {
+   ShapePoint "{D9A97BE36D3CA621}" {
     Position 4723 0 4445
    }
-   ShapePoint "{332402F2F2FE1C2}" {
+   ShapePoint "{D13A18D428DC77A7}" {
     Position 4534 0 4394
    }
-   ShapePoint "{45FA4684244B2E69}" {
+   ShapePoint "{8A20368A1BF91EA6}" {
     Position 4190 0 4094
    }
-   ShapePoint "{12B2A1876E6F6D58}" {
+   ShapePoint "{9A7655000795B8B}" {
     Position 4220 0 3844
    }
-   ShapePoint "{9169CBFF902B4F9B}" {
+   ShapePoint "{3C4DE642999315FF}" {
     Position 4396 0 3517
    }
-   ShapePoint "{F5F1E2843433718}" {
+   ShapePoint "{72157ADB99362BA0}" {
     Position 4440 0 3332
    }
-   ShapePoint "{1C54F192FE1C5BFF}" {
+   ShapePoint "{B73113420F0792B4}" {
     Position 4689 0 3178
    }
   }
@@ -929,7 +929,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{3FB576A731D26918}" {
+   PS_PolyZone "{F757EEA12A4844B7}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.00 0.69 0.31 0.00
     m_mPolygonTextureBorder ""
@@ -945,34 +945,34 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{5627E123BE544C2C}" {
+   ShapePoint "{82DEA0F4D5DD8DD3}" {
     Position 2068 0 2268
    }
-   ShapePoint "{7DBDE7835D0D687E}" {
+   ShapePoint "{94D98AF1E6978CCB}" {
     Position 2098 0 2018
    }
-   ShapePoint "{D3085F189E27FD96}" {
+   ShapePoint "{433F6B0C533C0481}" {
     Position 2473 0 1894
    }
-   ShapePoint "{329C16EE7826AA44}" {
+   ShapePoint "{9B18C57BEA7AB872}" {
     Position 2696 0 1546
    }
-   ShapePoint "{42FA3C258E486160}" {
+   ShapePoint "{A9AF6DA68FCB10A4}" {
     Position 3370 0 1335
    }
-   ShapePoint "{CAAA579C7D9CCF61}" {
+   ShapePoint "{63A3B4F9EE555249}" {
     Position 3676 0 1375
    }
-   ShapePoint "{8E2B94FC56DC8B89}" {
+   ShapePoint "{681D0655DE53A48E}" {
     Position 3477 0 2034
    }
-   ShapePoint "{23DF95EDC535F5F9}" {
+   ShapePoint "{423D47BB03588CB7}" {
     Position 3138 0 2618
    }
-   ShapePoint "{DAE5C06F2C0DC7EC}" {
+   ShapePoint "{26E231A7C67E3D8A}" {
     Position 2696 0 2581
    }
-   ShapePoint "{F3633FAFACDD4484}" {
+   ShapePoint "{BCC418523FA25D6D}" {
     Position 2444 0 2390
    }
   }
@@ -1002,7 +1002,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{8CC188761FCA48B7}" {
+   PS_PolyZone "{9355D982992D6940}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -1018,37 +1018,37 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{8AF6ED6A5666C13}" {
+   ShapePoint "{F4EFD294645D41D0}" {
     Position 4584 0 6122
    }
-   ShapePoint "{4412A6287DBF566}" {
+   ShapePoint "{A7489D71D31DFEF1}" {
     Position 5014 0 6147
    }
-   ShapePoint "{A68E048BBA6275E8}" {
+   ShapePoint "{F28EA36698C00390}" {
     Position 4736 0 6548
    }
-   ShapePoint "{2792C4253BD66FB}" {
+   ShapePoint "{309318729E5E696B}" {
     Position 4532 0 6612
    }
-   ShapePoint "{A7D910712A5CA33D}" {
+   ShapePoint "{1BF3594FB69AE8FD}" {
     Position 4280 0 6526
    }
-   ShapePoint "{9CCD2625821C7168}" {
+   ShapePoint "{983FC844F17F843D}" {
     Position 3904 0 6581
    }
-   ShapePoint "{68A7176617EDAB6D}" {
+   ShapePoint "{91E4ADBCEBDA420D}" {
     Position 3780 0 6542
    }
-   ShapePoint "{9BF115C5AFDED148}" {
+   ShapePoint "{AB13AAE10E0873F5}" {
     Position 3956 0 6251
    }
-   ShapePoint "{5447BE4778738078}" {
+   ShapePoint "{D9E3D11FB94EFA30}" {
     Position 3989 0 6196
    }
-   ShapePoint "{2B0F9A32418A0124}" {
+   ShapePoint "{676CD7C535A69812}" {
     Position 4058 0 6096
    }
-   ShapePoint "{9C4752862E3900AB}" {
+   ShapePoint "{3C4BBBDD9291C86D}" {
     Position 4266 0 5958
    }
   }
@@ -1078,7 +1078,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{78AADEB60E76866C}" {
+   PS_PolyZone "{82D48D398376B646}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -1094,22 +1094,22 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{51D7992A8A3A42AE}" {
+   ShapePoint "{409EE3A8EEC73DD2}" {
     Position 6104 0 6360
    }
-   ShapePoint "{2A4B7C16AD114D2A}" {
+   ShapePoint "{C0E063193A88674F}" {
     Position 5907 0 5446
    }
-   ShapePoint "{6CCE846BF0B7B64E}" {
+   ShapePoint "{19312A92FE4F64C8}" {
     Position 6358 0 5550
    }
-   ShapePoint "{DA311082FD7C2F13}" {
+   ShapePoint "{6721A9F0FC78174C}" {
     Position 6558 0 5136
    }
-   ShapePoint "{D3DCE411EB45933F}" {
+   ShapePoint "{AA25FEB57E817FB7}" {
     Position 7082 0 5550
    }
-   ShapePoint "{C8BAA581093E2517}" {
+   ShapePoint "{7ED015EDFF75AE29}" {
     Position 6836 0 5909
    }
   }
@@ -1139,9 +1139,9 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{66896445DA7AF524}" {
+   PS_PolyZone "{5E4A8878A07569F7}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
     m_cPolygonBorderColor 0.13 0.13 0.13 0.00
     m_fPolygonBorderWidth 4.00
@@ -1155,25 +1155,25 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{4ECB7525EF0B1C28}" {
+   ShapePoint "{917239C5F0FA5A24}" {
     Position 7679 0 6136
    }
-   ShapePoint "{8E4D987DD0DBF843}" {
+   ShapePoint "{955C3760DCC1E545}" {
     Position 7082 0 5550
    }
-   ShapePoint "{1917DB2966A9DA0A}" {
+   ShapePoint "{6C2F1B64DD6A8FF8}" {
     Position 7113 0 5222
    }
-   ShapePoint "{3C975788836999D1}" {
+   ShapePoint "{E6CA6AF54D866C72}" {
     Position 7946 0 4812
    }
-   ShapePoint "{3CFFE0DFCF5AFF37}" {
+   ShapePoint "{250882C40C37C983}" {
     Position 8495 0 5306
    }
-   ShapePoint "{76186437BFC59F6F}" {
+   ShapePoint "{2379C0D9F0D2B9C0}" {
     Position 8344 0 5615
    }
-   ShapePoint "{CBD8F7AC5B883E2D}" {
+   ShapePoint "{F39002FC44372B9A}" {
     Position 8172 0 5968
    }
   }
@@ -1197,13 +1197,13 @@ $grp PolylineShapeEntity {
     }
     m_bReversed 0
     m_sGroupKey ""
-    m_sFactionKey "USSR"
+    m_sFactionKey "US"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{7C07E90CF6466146}" {
+   PS_PolyZone "{554DF61909A36671}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -1219,34 +1219,34 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{76ABD266A554005}" {
+   ShapePoint "{BBCA9CD040AE2D4D}" {
     Position 8442 0 4536
    }
-   ShapePoint "{E130496D7A9FEB38}" {
+   ShapePoint "{95969BB07B881DFF}" {
     Position 7946 0 4812
    }
-   ShapePoint "{ED90968B8671A159}" {
+   ShapePoint "{964063CD28474D82}" {
     Position 7756 0 4122
    }
-   ShapePoint "{34F5D53D517C5B25}" {
+   ShapePoint "{F03228674E1E290B}" {
     Position 7538 0 3986
    }
-   ShapePoint "{E89462AC9D28AB10}" {
+   ShapePoint "{F9796BC70B413A74}" {
     Position 7902 0 3717
    }
-   ShapePoint "{2ED36B7D24D1C38D}" {
+   ShapePoint "{D3F23E93EE963922}" {
     Position 8165 0 3037
    }
-   ShapePoint "{1A6B6422695DF2CB}" {
+   ShapePoint "{5508144A30423AC}" {
     Position 8825 0 3066
    }
-   ShapePoint "{50F6CDED85A9421E}" {
+   ShapePoint "{C5B12936332C9014}" {
     Position 9228 0 3520
    }
-   ShapePoint "{EC17915CA6BF87F6}" {
+   ShapePoint "{BE648DF4FD558BCB}" {
     Position 8932 0 4101
    }
-   ShapePoint "{D8C3F206D7765441}" {
+   ShapePoint "{D78AEB49C1F24629}" {
     Position 9014 0 4444
    }
   }
@@ -1276,7 +1276,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{C22292D7E4B66E5E}" {
+   PS_PolyZone "{B80E78736C0EB40A}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -1292,25 +1292,25 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{C56B5860ED77F5FE}" {
+   ShapePoint "{6D1039303E927162}" {
     Position 8825 0 3066
    }
-   ShapePoint "{579522EDE13B951B}" {
+   ShapePoint "{2B949A96D178D005}" {
     Position 8165 0 3037
    }
-   ShapePoint "{C472186DD50DA3F6}" {
+   ShapePoint "{CEAF7D508B33417C}" {
     Position 8557 0 2525
    }
-   ShapePoint "{164946134B9D29F2}" {
+   ShapePoint "{D904C3F6D70DBDAD}" {
     Position 8628 0 2132
    }
-   ShapePoint "{3D7AFB35492C758E}" {
+   ShapePoint "{BD50DDEDB8269555}" {
     Position 9318 0 2868
    }
-   ShapePoint "{91993BECEC95E51}" {
+   ShapePoint "{2FBA9764778B22C2}" {
     Position 9358 0 3217
    }
-   ShapePoint "{5064A250ECB1C582}" {
+   ShapePoint "{A645E29020E00492}" {
     Position 9228 0 3520
    }
   }
@@ -1340,7 +1340,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{D6E58ABF78AB0326}" {
+   PS_PolyZone "{FE12C400702E6D86}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -1356,25 +1356,25 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{F369B69FF80E92EA}" {
+   ShapePoint "{14DF48FA627665C9}" {
     Position 9354 0 1692
    }
-   ShapePoint "{960FB0100E89E731}" {
+   ShapePoint "{B99577BF353C77E1}" {
     Position 9318 0 1414
    }
-   ShapePoint "{A1F71CE0B0E89AD0}" {
+   ShapePoint "{5E110D88A96C2190}" {
     Position 9660 0 1136
    }
-   ShapePoint "{E216DF911FBE576C}" {
+   ShapePoint "{57FAA1A3615A57C2}" {
     Position 10059 0 1248
    }
-   ShapePoint "{828DCF14C792C00C}" {
+   ShapePoint "{C729472A3496EB1A}" {
     Position 10340 0 1400
    }
-   ShapePoint "{4E0757AB1A19AE55}" {
+   ShapePoint "{EAF25C1797BCB4EF}" {
     Position 10198 0 2087
    }
-   ShapePoint "{D16A3E2813AE2B61}" {
+   ShapePoint "{77265C626BDCA126}" {
     Position 9893 0 2048
    }
   }
@@ -1404,7 +1404,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{8468A235C01A860F}" {
+   PS_PolyZone "{FD1EC10986441604}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -1420,31 +1420,31 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{5451571FFD7FC2B1}" {
+   ShapePoint "{A3A6AC890C721297}" {
     Position 6446 0 3380
    }
-   ShapePoint "{1B44CCF14001037F}" {
+   ShapePoint "{64DD65B089814875}" {
     Position 6366 0 3202
    }
-   ShapePoint "{45FA6B1A1AB40DE9}" {
+   ShapePoint "{B9BF7B35DB493766}" {
     Position 6446 0 2942
    }
-   ShapePoint "{75DF562302A6B962}" {
+   ShapePoint "{10A9CA3536A4F122}" {
     Position 6467 0 2752
    }
-   ShapePoint "{78B19967812415AE}" {
+   ShapePoint "{4A2B1AB1C15C0D6D}" {
     Position 7269 0 2896
    }
-   ShapePoint "{DFBDDDBD2AD22F2}" {
+   ShapePoint "{3680B9246218DDA6}" {
     Position 7082 0 3942
    }
-   ShapePoint "{244F2CD79F25324D}" {
+   ShapePoint "{588AD165C9C031FB}" {
     Position 6696 0 3904
    }
-   ShapePoint "{BB1C02805F703E0A}" {
+   ShapePoint "{9C9943B1D6D8E1E0}" {
     Position 6596 0 3704
    }
-   ShapePoint "{5CD2342254E0D1C3}" {
+   ShapePoint "{B6AAAD76F3F83734}" {
     Position 6720 0 3486
    }
   }
@@ -1474,7 +1474,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{825DE8A41B917676}" {
+   PS_PolyZone "{B441435C7787CBD5}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -1490,25 +1490,25 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{C15DF9E0771857CB}" {
+   ShapePoint "{7478B15623577065}" {
     Position 7775 0 1330
    }
-   ShapePoint "{B21DCDCE8921DD4D}" {
+   ShapePoint "{D74B9E944AD0B125}" {
     Position 8242 0 936
    }
-   ShapePoint "{F57F7C0BC4923B80}" {
+   ShapePoint "{8F2DE685FDC079B1}" {
     Position 8264 0 703
    }
-   ShapePoint "{946F5B6E95610B8B}" {
+   ShapePoint "{97F31BE6E1DB7DF6}" {
     Position 8694 0 471
    }
-   ShapePoint "{B3AACC0BCC98F341}" {
+   ShapePoint "{2460EC22198362CB}" {
     Position 8868 0 953
    }
-   ShapePoint "{2958EE9AF5E7799B}" {
+   ShapePoint "{B36961EE4CE126D}" {
     Position 8694 0 1338
    }
-   ShapePoint "{1741BE8AE96C18DB}" {
+   ShapePoint "{F30CA052AD8504B}" {
     Position 8591 0 1640
    }
   }
@@ -1538,7 +1538,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{3B5E6067F9751B1C}" {
+   PS_PolyZone "{822C76568DD6381C}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -1554,25 +1554,25 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{8E0E6D2226F80911}" {
+   ShapePoint "{EA4A7E59A4FA0466}" {
     Position 8165 0 3037
    }
-   ShapePoint "{1047E1FE5870EBF8}" {
+   ShapePoint "{5960C1097CC77C24}" {
     Position 7902 0 3718
    }
-   ShapePoint "{A394A02C07D1B453}" {
+   ShapePoint "{E58403C2B626FFF9}" {
     Position 7538 0 3986
    }
-   ShapePoint "{8AF8D64F7C89307F}" {
+   ShapePoint "{BA4EAF5F4739D92C}" {
     Position 7082 0 3942
    }
-   ShapePoint "{AD91C758F6EDD55A}" {
+   ShapePoint "{85E37E0D8F993FCF}" {
     Position 7269 0 2896
    }
-   ShapePoint "{97012B0A1B1EFA52}" {
+   ShapePoint "{E54293B6A8713C92}" {
     Position 7636 0 2314
    }
-   ShapePoint "{8B5502DFC74D9AF1}" {
+   ShapePoint "{B33413C9058F457F}" {
     Position 7914 0 2547
    }
   }
@@ -1602,7 +1602,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{344E484B342868DD}" {
+   PS_PolyZone "{2510CD89CDEC9E8B}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -1618,28 +1618,28 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{7C5AD542A856B03B}" {
+   ShapePoint "{96A0B75511848EAB}" {
     Position 7914 0 2547
    }
-   ShapePoint "{60B859EFCD3A934F}" {
+   ShapePoint "{7D157987C6ED9AE9}" {
     Position 7636 0 2314
    }
-   ShapePoint "{A7F6493E26A84354}" {
+   ShapePoint "{5FC0B095F1EEBA47}" {
     Position 7752 0 1676
    }
-   ShapePoint "{EEA269059D82300}" {
+   ShapePoint "{B58D122EFFC17DF2}" {
     Position 7775 0 1330
    }
-   ShapePoint "{2AA8517E1A514A64}" {
+   ShapePoint "{4F5C713924046B1C}" {
     Position 8591 0 1640
    }
-   ShapePoint "{EFE2E3077587DE41}" {
+   ShapePoint "{63A76DE8D60C7EF3}" {
     Position 8628 0 2132
    }
-   ShapePoint "{53A525CFEB533D70}" {
+   ShapePoint "{B280039637773185}" {
     Position 8557 0 2525
    }
-   ShapePoint "{7F151D33ED9B3336}" {
+   ShapePoint "{601C467B7BD7BF6F}" {
     Position 8165 0 3037
    }
   }
@@ -1669,7 +1669,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{810B3C1595F11E7B}" {
+   PS_PolyZone "{63F5565BD2E2D28D}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -1685,37 +1685,37 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{63D1E307A077A8D8}" {
+   ShapePoint "{AE1DC529FDA9E435}" {
     Position 6322 0 2254
    }
-   ShapePoint "{C00776CBFBBF4633}" {
+   ShapePoint "{A38FF6CCC1BE95E1}" {
     Position 5996 0 1946
    }
-   ShapePoint "{E8BAB8A48B59835F}" {
+   ShapePoint "{B33932F8B7AAF988}" {
     Position 6322 0 1532
    }
-   ShapePoint "{5DF66A3520164B8C}" {
+   ShapePoint "{F75CDD8F8993B481}" {
     Position 6900 0 1408
    }
-   ShapePoint "{4999B6D61E07F389}" {
+   ShapePoint "{872A4C5909ACB8E9}" {
     Position 7174 0 996
    }
-   ShapePoint "{B203CC66E53D097}" {
+   ShapePoint "{3551F66066A54901}" {
     Position 7611 0 898
    }
-   ShapePoint "{5D6DC3F49E18384B}" {
+   ShapePoint "{71721A12091D774F}" {
     Position 7775 0 1330
    }
-   ShapePoint "{DA031FE1ED6DBC2A}" {
+   ShapePoint "{974D198F32B2DF2C}" {
     Position 7752 0 1676
    }
-   ShapePoint "{851418BD0BB0B126}" {
+   ShapePoint "{8F81C1486DF2F8FC}" {
     Position 7636 0 2314
    }
-   ShapePoint "{CF54095B4BD34DED}" {
+   ShapePoint "{E04853731D0F92B3}" {
     Position 7269 0 2896
    }
-   ShapePoint "{351BBF4D40D0F1FD}" {
+   ShapePoint "{E22EDD63817E3C30}" {
     Position 6467 0 2752
    }
   }
@@ -1745,7 +1745,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{5491FA0DD7CB7D03}" {
+   PS_PolyZone "{BDAE9DF1B923806C}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -1761,37 +1761,37 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{38A01A2895344189}" {
+   ShapePoint "{EE25F7F39E9F5900}" {
     Position 9834 0 38
    }
-   ShapePoint "{3493B06FF173709B}" {
+   ShapePoint "{1E893879E8268AF0}" {
     Position 10456 0 74
    }
-   ShapePoint "{DE91D2F3973AD09B}" {
+   ShapePoint "{28797CCA340E7D2A}" {
     Position 10639 0 310
    }
-   ShapePoint "{1E2C7246B857471D}" {
+   ShapePoint "{9D23C965C10AB3EC}" {
     Position 10477 0 854
    }
-   ShapePoint "{EE85BA1F4A604D7E}" {
+   ShapePoint "{39115718DFA56035}" {
     Position 10059 0 1248
    }
-   ShapePoint "{89C81AD6250DF81F}" {
+   ShapePoint "{6CEC3C0903BDF885}" {
     Position 9660 0 1136
    }
-   ShapePoint "{55E8C001EEC11449}" {
+   ShapePoint "{C100DF3FC6675116}" {
     Position 9318 0 1414
    }
-   ShapePoint "{9B30BD432F0F14E1}" {
+   ShapePoint "{925721E2658388D5}" {
     Position 8694 0 1338
    }
-   ShapePoint "{40DBF0BF320F2440}" {
+   ShapePoint "{D58888D7D4DCF7F7}" {
     Position 8868 0 954
    }
-   ShapePoint "{B92944349CF4FD72}" {
+   ShapePoint "{DAE35E743753E9FC}" {
     Position 8694 0 471
    }
-   ShapePoint "{51BC1A3D00D24782}" {
+   ShapePoint "{4399BA9F14D595C5}" {
     Position 9138 0 117
    }
   }
@@ -1821,7 +1821,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{722128CA867E1C10}" {
+   PS_PolyZone "{E03163EE1C1F5319}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -1837,28 +1837,28 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{BD7BFB5319931D03}" {
+   ShapePoint "{F40A97F9A7563CC6}" {
     Position 8628 0 2132
    }
-   ShapePoint "{E74315EB97131D63}" {
+   ShapePoint "{7A44871E44EC7E0F}" {
     Position 8591 0 1640
    }
-   ShapePoint "{B23222D76AC18FAC}" {
+   ShapePoint "{499BED3F5CAC1D5}" {
     Position 8694 0 1338
    }
-   ShapePoint "{91093DF4EF244B3A}" {
+   ShapePoint "{8D856F6662175AF8}" {
     Position 9318 0 1414
    }
-   ShapePoint "{6CFAD395F3AA922F}" {
+   ShapePoint "{2F9A7A63AB094671}" {
     Position 9354 0 1692
    }
-   ShapePoint "{6A03E5BD152F292F}" {
+   ShapePoint "{D3F06EC24C90E661}" {
     Position 9893 0 2048
    }
-   ShapePoint "{A43AB25FBBA04852}" {
+   ShapePoint "{11DC64AFC8178C87}" {
     Position 9500 0 2312
    }
-   ShapePoint "{CCAE8ACDDB613382}" {
+   ShapePoint "{8C39D266DAC42AEB}" {
     Position 9177 0 2718
    }
   }
@@ -1888,7 +1888,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{393C47B3055B61A8}" {
+   PS_PolyZone "{5FE73AC779D66943}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -1904,37 +1904,37 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{F97B3D89061DB092}" {
+   ShapePoint "{507C4D45CF0D3752}" {
     Position 9660 0 2714
    }
-   ShapePoint "{57206B3FDD2A3A3F}" {
+   ShapePoint "{4F0643604FCB8E01}" {
     Position 9318 0 2868
    }
-   ShapePoint "{A09DD0DE333C8712}" {
+   ShapePoint "{DB2399ECC59A1A33}" {
     Position 9177 0 2718
    }
-   ShapePoint "{2E56F7FDCFD8B3B6}" {
+   ShapePoint "{A9480CAA9D9A8E86}" {
     Position 9500 0 2312
    }
-   ShapePoint "{8834427F94D7CDF2}" {
+   ShapePoint "{92A9845AC4AAACC8}" {
     Position 9893 0 2048
    }
-   ShapePoint "{DDF273186D3810E5}" {
+   ShapePoint "{5486544CEBA95270}" {
     Position 10198 0 2087
    }
-   ShapePoint "{EA279D01050DDBBF}" {
+   ShapePoint "{E56FD84B553AAED8}" {
     Position 10404 0 2114
    }
-   ShapePoint "{E224483932FCECD}" {
+   ShapePoint "{6FF9BF908594F015}" {
     Position 10993 0 2448
    }
-   ShapePoint "{A9AE2B55C6888854}" {
+   ShapePoint "{DC6176290896C0C6}" {
     Position 11364 0 2966
    }
-   ShapePoint "{20F8AC188571078}" {
+   ShapePoint "{E3F30370EF47D428}" {
     Position 10672 0 3246
    }
-   ShapePoint "{96F4CA56A154674E}" {
+   ShapePoint "{33D3EF9A206949B2}" {
     Position 10444 0 3188
    }
   }
@@ -1964,7 +1964,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{6B6712D53B678F74}" {
+   PS_PolyZone "{DA6DFA0EF16CE2F3}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -1980,46 +1980,46 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{780A55F2E76314D5}" {
+   ShapePoint "{FE10BD6048E23D85}" {
     Position 10992 0 2448
    }
-   ShapePoint "{BFBE60BC138CA583}" {
+   ShapePoint "{1C8DE9729B25419C}" {
     Position 10404 0 2114
    }
-   ShapePoint "{F3D21C36EBF26852}" {
+   ShapePoint "{DA4F8A5B9A3EE15A}" {
     Position 10198 0 2087
    }
-   ShapePoint "{59B4E50CC25ED809}" {
+   ShapePoint "{44E49C18EE0A98C8}" {
     Position 10340 0 1400
    }
-   ShapePoint "{B31FFC12072B1419}" {
+   ShapePoint "{FE1153F7295D4C8F}" {
     Position 10892 0 1374
    }
-   ShapePoint "{1F3619C6642C61FF}" {
+   ShapePoint "{8493997B10A909AA}" {
     Position 11192 0 1132
    }
-   ShapePoint "{1E46A0C4D2C9ED84}" {
+   ShapePoint "{E504495CEC9C228E}" {
     Position 11998 0 1160
    }
-   ShapePoint "{3E9D7732154F4A6A}" {
+   ShapePoint "{5B4ED1118B90F75A}" {
     Position 12029 0 1508
    }
-   ShapePoint "{C4FF93C20A8DD30A}" {
+   ShapePoint "{7ECCBAD819EAE8A1}" {
     Position 12334 0 1669
    }
-   ShapePoint "{95C5307BD5F42C2}" {
+   ShapePoint "{D98EBD33EEC95D31}" {
     Position 12253 0 1980
    }
-   ShapePoint "{5F2B951C86777BEE}" {
+   ShapePoint "{2C7C52C2364DB973}" {
     Position 11957 0 2132
    }
-   ShapePoint "{9C25855AB9144A1F}" {
+   ShapePoint "{15D236D693F3EDF}" {
     Position 11860 0 2448
    }
-   ShapePoint "{57F8E9F3EFF4C70}" {
+   ShapePoint "{79767301A0F7A42B}" {
     Position 11486 0 2532
    }
-   ShapePoint "{DECC1687CBD65B6D}" {
+   ShapePoint "{BD6659F00371FBCB}" {
     Position 11364 0 2966
    }
   }
@@ -2049,7 +2049,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{BC91A490260A3653}" {
+   PS_PolyZone "{AE171CF921D3E0CF}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -2065,49 +2065,49 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{10639B28A3D8EE41}" {
+   ShapePoint "{44C39CDC5A9ECCBD}" {
     Position 9918 0 4884
    }
-   ShapePoint "{480E544829816B9B}" {
+   ShapePoint "{FCA89A39AD885B63}" {
     Position 9574 0 4558
    }
-   ShapePoint "{6A68EC15EE1D8B34}" {
+   ShapePoint "{DF346868D9B0D1B4}" {
     Position 9014 0 4444
    }
-   ShapePoint "{42D3672EE70F835F}" {
+   ShapePoint "{F92D13ABB96B090F}" {
     Position 8932 0 4101
    }
-   ShapePoint "{5B48BB9DEBD06A4B}" {
+   ShapePoint "{B829DE5F29B2B13B}" {
     Position 9228 0 3520
    }
-   ShapePoint "{53AFAEBB249AF7BB}" {
+   ShapePoint "{72E8AC89D75EEB6E}" {
     Position 9358 0 3217
    }
-   ShapePoint "{276736A86F81F136}" {
+   ShapePoint "{363EF13AB3DCA002}" {
     Position 9318 0 2868
    }
-   ShapePoint "{78351FF58A5A1111}" {
+   ShapePoint "{D7C15FC6AADE61E7}" {
     Position 9660 0 2714
    }
-   ShapePoint "{D3D3D3C9EAAC9231}" {
+   ShapePoint "{24A474D0A492B212}" {
     Position 10444 0 3188
    }
-   ShapePoint "{6477C131A3D4BD30}" {
+   ShapePoint "{551284DC36EC6B4E}" {
     Position 10656 0 3591
    }
-   ShapePoint "{3FB40549D45A84E0}" {
+   ShapePoint "{598A65D39823C4FA}" {
     Position 10547 0 3983
    }
-   ShapePoint "{42CFAA8E3F2BE1E7}" {
+   ShapePoint "{8DAD740C088F6E5}" {
     Position 10332 0 4197
    }
-   ShapePoint "{721D4681242033DD}" {
+   ShapePoint "{AC36D795BEFF5780}" {
     Position 10109 0 4444
    }
-   ShapePoint "{DF1C9896A218E3BC}" {
+   ShapePoint "{2F7B93259D81D083}" {
     Position 10344 0 4750
    }
-   ShapePoint "{2FC5459C12730B2F}" {
+   ShapePoint "{F41B4EAB63BFF71D}" {
     Position 10189 0 4900
    }
   }
@@ -2137,7 +2137,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{AB98156334F299B8}" {
+   PS_PolyZone "{F0B9543F7F0CE621}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.07 0.39 0.98 0.00
     m_mPolygonTextureBorder ""
@@ -2153,49 +2153,49 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{F728723034DBED7D}" {
+   ShapePoint "{AB196E2B24D89638}" {
     Position 8495 0 5306
    }
-   ShapePoint "{5666256432B0B48A}" {
+   ShapePoint "{C0E8E27CF2CA5DF7}" {
     Position 7946 0 4812
    }
-   ShapePoint "{B7D37131B902A79B}" {
+   ShapePoint "{81D6A23093965B0F}" {
     Position 8442 0 4536
    }
-   ShapePoint "{464E4278E7C6DF3D}" {
+   ShapePoint "{728663A1FEB481F4}" {
     Position 9014 0 4444
    }
-   ShapePoint "{AD5BFBC469B212BD}" {
+   ShapePoint "{DA7FF516E00A4E07}" {
     Position 9574 0 4558
    }
-   ShapePoint "{8B9A7F29B4338060}" {
+   ShapePoint "{86A0304DA243FB26}" {
     Position 9918 0 4884
    }
-   ShapePoint "{5F28895381ADA788}" {
+   ShapePoint "{DE7BC0F87DDF4B76}" {
     Position 10068 0 5124
    }
-   ShapePoint "{547098B040FB59AA}" {
+   ShapePoint "{D7D5AB3C66EC07C}" {
     Position 9952 0 5438
    }
-   ShapePoint "{FF337A1179ABE5C1}" {
+   ShapePoint "{96A87205569E8D6B}" {
     Position 9782 0 5763
    }
-   ShapePoint "{27B3E1D5BFA387D9}" {
+   ShapePoint "{EEC76CCEF497CC37}" {
     Position 9456 0 5859
    }
-   ShapePoint "{5888D218786BF242}" {
+   ShapePoint "{CE7811952F1E6A96}" {
     Position 9274 0 5983
    }
-   ShapePoint "{D80AA7449046501D}" {
+   ShapePoint "{AA5A157EC94BE8E5}" {
     Position 9088 0 5763
    }
-   ShapePoint "{8276E6A750AB1B43}" {
+   ShapePoint "{B4A69559FFAB9936}" {
     Position 8824 0 5662
    }
-   ShapePoint "{EB8FDDDA875C969}" {
+   ShapePoint "{A2463CF76656E88E}" {
     Position 8584 0 5806
    }
-   ShapePoint "{3FE1E6ED18964943}" {
+   ShapePoint "{EE54F2C9BA705F9}" {
     Position 8344 0 5615
    }
   }
@@ -2225,7 +2225,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{16760DE1DAC51C97}" {
+   PS_PolyZone "{6E4811D902066F96}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -2241,19 +2241,19 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{AEF46622B8A67A6}" {
+   ShapePoint "{BFDC6A766FA24A9E}" {
     Position 7679 0 6136
    }
-   ShapePoint "{5BD3CADAE1D92FF}" {
+   ShapePoint "{B4CE46A3E3EDAAC4}" {
     Position 6682 0 6637
    }
-   ShapePoint "{3AF8E9DFED4AFADB}" {
+   ShapePoint "{2860645D95C6219A}" {
     Position 6104 0 6360
    }
-   ShapePoint "{3B4FDC8CA6B1BFD8}" {
+   ShapePoint "{2B44AD289777DD5C}" {
     Position 6836 0 5909
    }
-   ShapePoint "{A1B2A1DA9236C395}" {
+   ShapePoint "{4EF94281A3980E28}" {
     Position 7082 0 5550
    }
   }
@@ -2283,7 +2283,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{CFED403F5F7FC103}" {
+   PS_PolyZone "{65CD09F96E4F132A}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -2299,31 +2299,31 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{61779D9C3F34B447}" {
+   ShapePoint "{A3AE73AE6EA96827}" {
     Position 6682 0 6637
    }
-   ShapePoint "{D5969314DB6326DB}" {
+   ShapePoint "{44CD7BD45090455C}" {
     Position 7679 0 6136
    }
-   ShapePoint "{608DC096BDA24576}" {
+   ShapePoint "{7C6C443B7F1AFCC2}" {
     Position 7552 0 6461
    }
-   ShapePoint "{999D96D47E241248}" {
+   ShapePoint "{2B1C6BE6698519}" {
     Position 7815 0 6636
    }
-   ShapePoint "{AE6F554F516B5913}" {
+   ShapePoint "{201FC4618FAFCE0D}" {
     Position 7560 0 6958
    }
-   ShapePoint "{BD952B9220FD7FC2}" {
+   ShapePoint "{D3EC66D1E2BBDA00}" {
     Position 7620 0 7424
    }
-   ShapePoint "{49193935CB5BF61}" {
+   ShapePoint "{91905FF89B98FAB7}" {
     Position 6938 0 7708
    }
-   ShapePoint "{1C5ED07F6DE5BD77}" {
+   ShapePoint "{A4DC9901EC5B0BCB}" {
     Position 6543 0 7522
    }
-   ShapePoint "{98A6AA34662AB81E}" {
+   ShapePoint "{7D17FD23727C73DA}" {
     Position 6494 0 7210
    }
   }
@@ -2353,7 +2353,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{46AAC32CECFD78C9}" {
+   PS_PolyZone "{4D22403E513455C5}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -2369,46 +2369,46 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{ED568C3FB5F0012B}" {
+   ShapePoint "{16F3C8E83A5C3C93}" {
     Position 6938 0 7708
    }
-   ShapePoint "{9EA52C534386499B}" {
+   ShapePoint "{1E643ED80B756DBC}" {
     Position 7620 0 7424
    }
-   ShapePoint "{BA9DBF276E78F706}" {
+   ShapePoint "{928304CB259D60E3}" {
     Position 7655 0 7624
    }
-   ShapePoint "{1A3FADCD7FD9487F}" {
+   ShapePoint "{78C1F8CC2E60E2FA}" {
     Position 7918 0 7799
    }
-   ShapePoint "{F152386E8BA0B735}" {
+   ShapePoint "{FE55480D20DB0CB0}" {
     Position 8117 0 8116
    }
-   ShapePoint "{B9115DA01E71FDCA}" {
+   ShapePoint "{FD6F5B4129DDCFEE}" {
     Position 7842 0 8753
    }
-   ShapePoint "{A147F41272066350}" {
+   ShapePoint "{A556C86FB305A8E7}" {
     Position 7993 0 9386
    }
-   ShapePoint "{8E30345668A81AE5}" {
+   ShapePoint "{D85F86DB278C9781}" {
     Position 7449 0 9720
    }
-   ShapePoint "{ED15AA21893C3BF5}" {
+   ShapePoint "{ADEF010942F63C7F}" {
     Position 7222 0 9579
    }
-   ShapePoint "{CADB2233EB1FF9D4}" {
+   ShapePoint "{1F1200F955E52272}" {
     Position 7170 0 9180
    }
-   ShapePoint "{CFF469C612A445A2}" {
+   ShapePoint "{5B76B1B6B52D3985}" {
     Position 6781 0 9242
    }
-   ShapePoint "{D943888631EAA5DB}" {
+   ShapePoint "{A88719DD1A22A16D}" {
     Position 6518 0 9128
    }
-   ShapePoint "{E12F9FED39B6CFF3}" {
+   ShapePoint "{A995894E2BE07F7E}" {
     Position 6608 0 8753
    }
-   ShapePoint "{13ADB1B3E613E81C}" {
+   ShapePoint "{CACA89A9192DB272}" {
     Position 6646 0 8051
    }
   }
@@ -2438,7 +2438,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{2DF55166310B3E27}" {
+   PS_PolyZone "{19C34C2E237A4DF0}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -2454,46 +2454,46 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{331F05026CBBD071}" {
+   ShapePoint "{962ED9935BD5F413}" {
     Position 3514 0 6668
    }
-   ShapePoint "{E544E0A841C0D262}" {
+   ShapePoint "{EB5E940B9605B28E}" {
     Position 3574 0 6518
    }
-   ShapePoint "{947041C89F0C26E6}" {
+   ShapePoint "{6827A0874D8D00FF}" {
     Position 3696 0 6560
    }
-   ShapePoint "{88C3A7ABDC1693C4}" {
+   ShapePoint "{3152914C1D1A1720}" {
     Position 3780 0 6542
    }
-   ShapePoint "{616A5B585FAA1A78}" {
+   ShapePoint "{97004F8E609FBE11}" {
     Position 3904 0 6581
    }
-   ShapePoint "{62570336953E2753}" {
+   ShapePoint "{BA46475206B31C06}" {
     Position 4280 0 6526
    }
-   ShapePoint "{2F887577B783C319}" {
+   ShapePoint "{F93DF022E55AFB3E}" {
     Position 4532 0 6612
    }
-   ShapePoint "{27508B7F87E881C}" {
+   ShapePoint "{52F51D57317C4C79}" {
     Position 4392 0 6750
    }
-   ShapePoint "{7D751D970EF94A4F}" {
+   ShapePoint "{BFE1D6A35E863B1F}" {
     Position 4390 0 7341
    }
-   ShapePoint "{A02DC7D8E42E109F}" {
+   ShapePoint "{EEF5481F4DF7B597}" {
     Position 4180 0 7406
    }
-   ShapePoint "{9FF6751B5CBBCC05}" {
+   ShapePoint "{52266E2C4CC3408E}" {
     Position 3912 0 7484
    }
-   ShapePoint "{C8AD10FF8771A7BE}" {
+   ShapePoint "{E606D924B8905A8C}" {
     Position 3578 0 7466
    }
-   ShapePoint "{E581D0E7C3678225}" {
+   ShapePoint "{FA6BC00CEA766845}" {
     Position 3383 0 7356
    }
-   ShapePoint "{C7198668DFB07620}" {
+   ShapePoint "{1F64ED72D277DF8A}" {
     Position 3478 0 7124
    }
   }
@@ -2523,7 +2523,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{97530B848E7B2413}" {
+   PS_PolyZone "{62B69B4273A51FEC}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -2539,25 +2539,25 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{BAF4A3F6D8964F0C}" {
+   ShapePoint "{AD8A296F4E5D1271}" {
     Position 4532 0 6612
    }
-   ShapePoint "{EE1677C1E8C217F4}" {
+   ShapePoint "{64226B25BC41EA6A}" {
     Position 4736 0 6548
    }
-   ShapePoint "{9BD6AEABCE4F765F}" {
+   ShapePoint "{B41028320C804999}" {
     Position 5360 0 6952
    }
-   ShapePoint "{FEF381F7879111DF}" {
+   ShapePoint "{49E83221C9E8264}" {
     Position 5270 0 7422
    }
-   ShapePoint "{414716D99A83B71A}" {
+   ShapePoint "{F3980FB1362B79BB}" {
     Position 4574 0 7518
    }
-   ShapePoint "{BDDF92A901A76893}" {
+   ShapePoint "{27BFB363915D7DFA}" {
     Position 4390 0 7341
    }
-   ShapePoint "{945F3CDAA0CE014C}" {
+   ShapePoint "{EF267D22BB536FD9}" {
     Position 4392 0 6750
    }
   }
@@ -2587,7 +2587,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{27B6A46122DC9E36}" {
+   PS_PolyZone "{54A96B6D59F1B687}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -2603,28 +2603,28 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{C575D6D773A443EB}" {
+   ShapePoint "{9FC9B592F0728424}" {
     Position 5270 0 7422
    }
-   ShapePoint "{3C99CB9736603B4D}" {
+   ShapePoint "{75591ED0B2288042}" {
     Position 5587 0 7910
    }
-   ShapePoint "{97195F67D5C3DEFE}" {
+   ShapePoint "{FADB1D1123677710}" {
     Position 5678 0 8644
    }
-   ShapePoint "{A250D8422CE0869F}" {
+   ShapePoint "{A5FCE15E9A91202F}" {
     Position 5534 0 8744
    }
-   ShapePoint "{CB4795820210C862}" {
+   ShapePoint "{3B7A52A0ECDA018A}" {
     Position 4817 0 8692
    }
-   ShapePoint "{351E0DCE235D7A55}" {
+   ShapePoint "{D53B1BA51D738770}" {
     Position 4546 0 8620
    }
-   ShapePoint "{E4F8E850185D1AE0}" {
+   ShapePoint "{8196F6A2A4B15C11}" {
     Position 4504 0 8146
    }
-   ShapePoint "{230739217D086BF7}" {
+   ShapePoint "{558869D4C610F357}" {
     Position 4574 0 7518
    }
   }
@@ -2654,7 +2654,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{2A65BF633E2490D0}" {
+   PS_PolyZone "{414EFAC26CE9774F}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -2670,28 +2670,28 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{FC4F0323277A8AAE}" {
+   ShapePoint "{9E7C8CAD4DCE7A80}" {
     Position 5722 0 6580
    }
-   ShapePoint "{7384FC8AAA247857}" {
+   ShapePoint "{BEFBB4B9DEFB7E64}" {
     Position 6104 0 6360
    }
-   ShapePoint "{3A57456A5A4F9F3A}" {
+   ShapePoint "{DD0CB8F590C53E0E}" {
     Position 6682 0 6637
    }
-   ShapePoint "{A446B78583115FDC}" {
+   ShapePoint "{68AFF011BD537AE3}" {
     Position 6494 0 7210
    }
-   ShapePoint "{AD6569F423EA1D7A}" {
+   ShapePoint "{2DB449BE11BB6797}" {
     Position 6144 0 7474
    }
-   ShapePoint "{3401A06BFA873BB1}" {
+   ShapePoint "{D45AC620A6488B90}" {
     Position 5784 0 7544
    }
-   ShapePoint "{9A005ED523E0675F}" {
+   ShapePoint "{EAB9CD1E4C897D8D}" {
     Position 5270 0 7422
    }
-   ShapePoint "{3C429517673CD6A0}" {
+   ShapePoint "{5EE163AF55AC1A0E}" {
     Position 5360 0 6952
    }
   }
@@ -2721,7 +2721,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{C7682B7E66EDFF4F}" {
+   PS_PolyZone "{C5B39A391D1B197F}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -2737,40 +2737,40 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{AD8F1BA01C0C90C5}" {
+   ShapePoint "{2E5DB2B2BA31951E}" {
     Position 5784 0 7544
    }
-   ShapePoint "{AEB2772CE722FD8B}" {
+   ShapePoint "{2FFC5192FAC6B0EF}" {
     Position 6144 0 7474
    }
-   ShapePoint "{9DD3BCF128441CE1}" {
+   ShapePoint "{FFDB314281CF6D0}" {
     Position 6494 0 7210
    }
-   ShapePoint "{B3999744A92A4F05}" {
+   ShapePoint "{69C290F04AFC1E41}" {
     Position 6543 0 7522
    }
-   ShapePoint "{B080C545152BBA60}" {
+   ShapePoint "{E8EBA86FD14627D0}" {
     Position 6938 0 7708
    }
-   ShapePoint "{84AB072E71C80622}" {
+   ShapePoint "{209F6007B6BBC331}" {
     Position 6646 0 8051
    }
-   ShapePoint "{1136C6A5F6AFB1FE}" {
+   ShapePoint "{D84C8B1829DA18A2}" {
     Position 6608 0 8752
    }
-   ShapePoint "{ED7927FECD616778}" {
+   ShapePoint "{942E94D2DB203E8A}" {
     Position 6518 0 9128
    }
-   ShapePoint "{43EADE7CBC567A3B}" {
+   ShapePoint "{D55D9D8EE53B2E5C}" {
     Position 6082 0 8806
    }
-   ShapePoint "{50E46D3CBF98D396}" {
+   ShapePoint "{98EE9A03C2D91F18}" {
     Position 5678 0 8644
    }
-   ShapePoint "{36CCE08BB3B82549}" {
+   ShapePoint "{B7008B60E30D1895}" {
     Position 5587 0 7910
    }
-   ShapePoint "{8BDE66AE068A8EE3}" {
+   ShapePoint "{FF5E2CB0AA7C7C5A}" {
     Position 5270 0 7422
    }
   }
@@ -2800,9 +2800,9 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{BA6C4E077CB886E5}" {
+   PS_PolyZone "{B20CAA0C6E6B77D4}" {
     m_mPolygonTexture ""
-    m_cPolygonColor 0.07 0.39 0.98 0.00
+    m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
     m_cPolygonBorderColor 0.13 0.13 0.13 0.00
     m_fPolygonBorderWidth 4.00
@@ -2816,37 +2816,37 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{A9043957EC530D36}" {
+   ShapePoint "{2456768A2C086E33}" {
     Position 6534 0 4984
    }
-   ShapePoint "{E5D6478F9286D4D1}" {
+   ShapePoint "{403C9C2163224627}" {
     Position 6652 0 4788
    }
-   ShapePoint "{593C7F3FD8366814}" {
+   ShapePoint "{FE6CDC8B1AA6A5BF}" {
     Position 6686 0 4455
    }
-   ShapePoint "{555850692926DA49}" {
+   ShapePoint "{C8613CE50DDD7DC5}" {
     Position 6696 0 3904
    }
-   ShapePoint "{EC26953C3869A41F}" {
+   ShapePoint "{F7D02173FDFF554E}" {
     Position 7082 0 3942
    }
-   ShapePoint "{40CC91CFCAF2318A}" {
+   ShapePoint "{105B52F7DF3FCF44}" {
     Position 7538 0 3986
    }
-   ShapePoint "{32ADD4E1594A42DC}" {
+   ShapePoint "{7E9C73529C89127C}" {
     Position 7756 0 4122
    }
-   ShapePoint "{337FC19B8A1726E}" {
+   ShapePoint "{2FC3B0649C4C9088}" {
     Position 7946 0 4812
    }
-   ShapePoint "{36CFF09E093E09C5}" {
+   ShapePoint "{A03C3CDABF5F2091}" {
     Position 7113 0 5222
    }
-   ShapePoint "{560CDEC3575CFD1}" {
+   ShapePoint "{D11F77D35C32792A}" {
     Position 7082 0 5550
    }
-   ShapePoint "{4ECF2C6DFFE3A0AF}" {
+   ShapePoint "{5CEE9F69E4CA2FDC}" {
     Position 6558 0 5136
    }
   }
@@ -2870,13 +2870,13 @@ $grp PolylineShapeEntity {
     }
     m_bReversed 0
     m_sGroupKey ""
-    m_sFactionKey "USSR"
+    m_sFactionKey "US"
    }
   }
  }
  {
   components {
-   PS_PolyZone "{771E4736AC3A33E7}" {
+   PS_PolyZone "{F23D053CD89B154B}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -2892,28 +2892,28 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{B80CB29509733F9E}" {
+   ShapePoint "{C92F00D7B9426D03}" {
     Position 5360 0 6952
    }
-   ShapePoint "{F92AFADD18555A66}" {
+   ShapePoint "{B5493E0DBFE4639F}" {
     Position 4736 0 6548
    }
-   ShapePoint "{5CB72CC8726957D1}" {
+   ShapePoint "{D54E26B9B710EEAC}" {
     Position 5014 0 6147
    }
-   ShapePoint "{28819E20BC03C9FD}" {
+   ShapePoint "{4A08BCC803CF3B3C}" {
     Position 4996 0 6095
    }
-   ShapePoint "{7E73F638F91C7BEF}" {
+   ShapePoint "{5FA96B84D3965C3E}" {
     Position 5418 0 5842
    }
-   ShapePoint "{C2D81693F00C1478}" {
+   ShapePoint "{1C4F2D934D1F7EC3}" {
     Position 5907 0 5447
    }
-   ShapePoint "{B05CF7BF594F63A8}" {
+   ShapePoint "{FD23CB4833564073}" {
     Position 6104 0 6360
    }
-   ShapePoint "{2C87C31A022911CE}" {
+   ShapePoint "{5B63DB0D51221592}" {
     Position 5722 0 6580
    }
   }
@@ -2943,7 +2943,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{38C4384C744BD2B4}" {
+   PS_PolyZone "{77914B55C21EF79D}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -2959,25 +2959,25 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{EDBDB4D2402DCDF0}" {
+   ShapePoint "{ED98A7265C8D6004}" {
     Position 3578 0 7466
    }
-   ShapePoint "{4AC600BA1D4BDDA5}" {
+   ShapePoint "{3BA1FD046F27FA27}" {
     Position 3912 0 7484
    }
-   ShapePoint "{98EF944FBC3983A8}" {
+   ShapePoint "{ABC0E00B0E7DFED8}" {
     Position 4390 0 7341
    }
-   ShapePoint "{8BCBCBF9130177E4}" {
+   ShapePoint "{3EA94E481CA740C}" {
     Position 4574 0 7518
    }
-   ShapePoint "{C5ADFD441DC834C0}" {
+   ShapePoint "{B4298599710C6CBF}" {
     Position 4504 0 8146
    }
-   ShapePoint "{440C008275C6C622}" {
+   ShapePoint "{3381C1E87E19A395}" {
     Position 3735 0 8166
    }
-   ShapePoint "{D694E1A7934CE032}" {
+   ShapePoint "{DB1A17D21FBD6EE9}" {
     Position 3550 0 7956
    }
   }
@@ -3007,7 +3007,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{F06DB26AB9D82DF6}" {
+   PS_PolyZone "{AB05489EB56578DF}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -3023,28 +3023,28 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{9D9307C88C888984}" {
+   ShapePoint "{26DCC78DCBB9AEE}" {
     Position 3474 0 8482
    }
-   ShapePoint "{DA235A9C5F030AB9}" {
+   ShapePoint "{2B2E2C654DB61968}" {
     Position 3735 0 8166
    }
-   ShapePoint "{48C7890068F53669}" {
+   ShapePoint "{420DCDF3E39F051F}" {
     Position 4504 0 8146
    }
-   ShapePoint "{515B55DB356FD232}" {
+   ShapePoint "{3B00FCE13E4F22E3}" {
     Position 4546 0 8620
    }
-   ShapePoint "{141287E69628CF64}" {
+   ShapePoint "{A481200831C3E155}" {
     Position 4409 0 9026
    }
-   ShapePoint "{755858855EC95CBE}" {
+   ShapePoint "{E9FB159212D9219F}" {
     Position 3878 0 9262
    }
-   ShapePoint "{84D958B6C609F711}" {
+   ShapePoint "{E64A6EF6475CAD80}" {
     Position 3638 0 9028
    }
-   ShapePoint "{F14C2EEAC7F9FF68}" {
+   ShapePoint "{79F76049C80C8D16}" {
     Position 3614 0 8693
    }
   }
@@ -3074,7 +3074,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{9A0E8997C40538C9}" {
+   PS_PolyZone "{DC6B031F76E337C9}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -3090,31 +3090,31 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{C2DF3AFB4679CF30}" {
+   ShapePoint "{F5944BEA90650599}" {
     Position 4099 0 9473
    }
-   ShapePoint "{8E7075BD9EC58FCB}" {
+   ShapePoint "{B15AF4DCA294D956}" {
     Position 3878 0 9262
    }
-   ShapePoint "{909E3BEC495A58BE}" {
+   ShapePoint "{9C4E4BF03D421C6F}" {
     Position 4409 0 9026
    }
-   ShapePoint "{46935EA1D70E5035}" {
+   ShapePoint "{98BFF362BD68EE50}" {
     Position 4776 0 9132
    }
-   ShapePoint "{77EAE7452DEDCEC8}" {
+   ShapePoint "{BB391A3006B12534}" {
     Position 4914 0 9496
    }
-   ShapePoint "{C661A682A41765D2}" {
+   ShapePoint "{5C134FCB11C35E90}" {
     Position 4799 0 9877
    }
-   ShapePoint "{F112C629CFD2004A}" {
+   ShapePoint "{13B0C1B104484167}" {
     Position 4356 0 9952
    }
-   ShapePoint "{37CB3690EDE53209}" {
+   ShapePoint "{B81F75059CE446E}" {
     Position 4014 0 9794
    }
-   ShapePoint "{49CC7E9A546A6B34}" {
+   ShapePoint "{D8940A95A9B22CA4}" {
     Position 4146 0 9620
    }
   }
@@ -3144,7 +3144,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{82C508A28CF75060}" {
+   PS_PolyZone "{5FF871121F4DBFE2}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -3160,28 +3160,28 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{9EBCB4E0870E5390}" {
+   ShapePoint "{71E9E6FE4519BFFD}" {
     Position 4356 0 9952
    }
-   ShapePoint "{30C24BB4C804732}" {
+   ShapePoint "{C9F9DBAF351B5AC6}" {
     Position 4799 0 9877
    }
-   ShapePoint "{9F991ACDC82AEACF}" {
+   ShapePoint "{300E355D2A8475B4}" {
     Position 4757 0 10308
    }
-   ShapePoint "{F6BC13784B21DFC6}" {
+   ShapePoint "{F2875C0E292864FF}" {
     Position 3885 0 10602
    }
-   ShapePoint "{C68B48176641D9FC}" {
+   ShapePoint "{3A2E80C62A3684E2}" {
     Position 3776 0 10462
    }
-   ShapePoint "{FA95E39DC949D4A7}" {
+   ShapePoint "{5439F78DF6253D51}" {
     Position 3838 0 10342
    }
-   ShapePoint "{F66A6BCF8F26C174}" {
+   ShapePoint "{280B0EFFFDBB210C}" {
     Position 3855 0 10114
    }
-   ShapePoint "{C7A1DA8DE23CAD4A}" {
+   ShapePoint "{B6AF8FCEEB5A28D7}" {
     Position 4014 0 9794
    }
   }
@@ -3211,7 +3211,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{C2F243BD472048AF}" {
+   PS_PolyZone "{BF368A35DA18C4DC}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.00 0.69 0.31 0.00
     m_mPolygonTextureBorder ""
@@ -3227,34 +3227,34 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{4356F0B8D97B53F6}" {
+   ShapePoint "{4FA70CFCF3E70C76}" {
     Position 818 0 11418
    }
-   ShapePoint "{103EA0ECF020A9B2}" {
+   ShapePoint "{578A1554DA9EDBA9}" {
     Position 904 0 11080
    }
-   ShapePoint "{DF0265F474F836A1}" {
+   ShapePoint "{FFC09227E4287994}" {
     Position 1272 0 11108
    }
-   ShapePoint "{28B9BE7C6B2D3EBE}" {
+   ShapePoint "{D402FC4FC74569F8}" {
     Position 1728 0 11008
    }
-   ShapePoint "{BE99A9393AFC7817}" {
+   ShapePoint "{F8AA6497E3FBA073}" {
     Position 1831 0 11372
    }
-   ShapePoint "{78E08533D7619858}" {
+   ShapePoint "{46FCBE0351F3543B}" {
     Position 1520 0 11648
    }
-   ShapePoint "{87BC41C4A5549554}" {
+   ShapePoint "{B25467DAA83ADC07}" {
     Position 1419 0 11916
    }
-   ShapePoint "{724251D41DA974E1}" {
+   ShapePoint "{3475E7B9AC9D44EE}" {
     Position 957 0 12214
    }
-   ShapePoint "{5E08100B9617D5F0}" {
+   ShapePoint "{A0337187B41BA4F6}" {
     Position 780 0 11868
    }
-   ShapePoint "{49B360C8E3691202}" {
+   ShapePoint "{571E0A6F73BB2AEA}" {
     Position 626 0 11676
    }
   }
@@ -3284,7 +3284,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{FE37C24466383230}" {
+   PS_PolyZone "{9E7EB79FCBD742D}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.00 0.69 0.31 0.00
     m_mPolygonTextureBorder ""
@@ -3300,22 +3300,22 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{D92E2D09102D7CCE}" {
+   ShapePoint "{5ECEFD90B3AC4209}" {
     Position 11339 0 8606
    }
-   ShapePoint "{9964CF6016FC7F3}" {
+   ShapePoint "{45A491FF08CD6EDB}" {
     Position 11238 0 8875
    }
-   ShapePoint "{EAB230B310364A8C}" {
+   ShapePoint "{9DBD663F9036ED54}" {
     Position 10776 0 9173
    }
-   ShapePoint "{78CF5C4E086AEB70}" {
+   ShapePoint "{165526A27B39F4BA}" {
     Position 10600 0 8826
    }
-   ShapePoint "{8B7F371E4AA555B7}" {
+   ShapePoint "{D81A73C60C68BDEA}" {
     Position 10638 0 8376
    }
-   ShapePoint "{3214BDD885D219F3}" {
+   ShapePoint "{1BA1B623F01E0E23}" {
     Position 11092 0 8066
    }
   }
@@ -3345,7 +3345,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{FDB3CEB9F3DEA226}" {
+   PS_PolyZone "{1C0EAB638A594E5E}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.00 0.69 0.31 0.00
     m_mPolygonTextureBorder ""
@@ -3361,28 +3361,28 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{53B444917301A569}" {
+   ShapePoint "{7DED6BAF84157DE7}" {
     Position 11544 0 12350
    }
-   ShapePoint "{EB138DB207CFC1EF}" {
+   ShapePoint "{13A254295B8EC5A7}" {
     Position 10932 0 12263
    }
-   ShapePoint "{96C457A5B4158A4F}" {
+   ShapePoint "{708E532951602011}" {
     Position 10157 0 12320
    }
-   ShapePoint "{F35340C6F98A0453}" {
+   ShapePoint "{25D9956DE925889A}" {
     Position 10056 0 11939
    }
-   ShapePoint "{966B2F97F0D92A02}" {
+   ShapePoint "{3E91F122C1A61809}" {
     Position 10671 0 11354
    }
-   ShapePoint "{349C3B664EE109E4}" {
+   ShapePoint "{ADED13564AE8A732}" {
     Position 11066 0 10702
    }
-   ShapePoint "{411236DE7260464C}" {
+   ShapePoint "{9C71E67C0811B1D1}" {
     Position 11935 0 10558
    }
-   ShapePoint "{806B9EC127C55AA9}" {
+   ShapePoint "{315858A0B87D00E8}" {
     Position 11704 0 11664
    }
   }
@@ -3412,7 +3412,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{1150E0B878E461D}" {
+   PS_PolyZone "{73D4C96AE55DED1A}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -3428,31 +3428,31 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{7E6AAB03DB655789}" {
+   ShapePoint "{5AD62DF0BA1A8AFE}" {
     Position 6332 0 10824
    }
-   ShapePoint "{17102BE5A1EBE213}" {
+   ShapePoint "{A0DF50E9EEFEAD4C}" {
     Position 6030 0 10836
    }
-   ShapePoint "{BB9478AC4403B604}" {
+   ShapePoint "{61009CA71D3053F0}" {
     Position 5906 0 11098
    }
-   ShapePoint "{D2C18B019E9D2D42}" {
+   ShapePoint "{6B573B8FA8290355}" {
     Position 4938 0 10904
    }
-   ShapePoint "{F6F38D63CEC62945}" {
+   ShapePoint "{71A899F830C30D6C}" {
     Position 4932 0 10550
    }
-   ShapePoint "{B71BB506BB181EB7}" {
+   ShapePoint "{2622A8D388EAE107}" {
     Position 4757 0 10308
    }
-   ShapePoint "{C19A86148DDF387F}" {
+   ShapePoint "{4B097F25D0CB869E}" {
     Position 5122 0 10284
    }
-   ShapePoint "{9D2F106B7A425CA}" {
+   ShapePoint "{79C6106D462B255C}" {
     Position 6270 0 10224
    }
-   ShapePoint "{5394B4CEF622D432}" {
+   ShapePoint "{D85840FB38FBC9B9}" {
     Position 6263 0 10577
    }
   }
@@ -3482,7 +3482,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{88CC8F2E66979AA1}" {
+   PS_PolyZone "{7B68C2A1FE9C9D75}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -3498,52 +3498,52 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{3BC1302DDE0993FC}" {
+   ShapePoint "{EF814BCE094B8A7F}" {
     Position 5675 0 11622
    }
-   ShapePoint "{D07C96AF6EDDAB09}" {
+   ShapePoint "{26F54F2C02112DC6}" {
     Position 5648 0 11902
    }
-   ShapePoint "{8888EEDC57C1C514}" {
+   ShapePoint "{AAC0B47B93955B8E}" {
     Position 5784 0 12128
    }
-   ShapePoint "{DBD9F27290FE812D}" {
+   ShapePoint "{BAB4189856E42F18}" {
     Position 5420 0 12476
    }
-   ShapePoint "{A666A2E9114C9FFC}" {
+   ShapePoint "{E89DF1B4A64F7301}" {
     Position 5079 0 12618
    }
-   ShapePoint "{BF3B356A8809A73A}" {
+   ShapePoint "{719384BBF60C4616}" {
     Position 4856 0 12446
    }
-   ShapePoint "{5678D13CA5572700}" {
+   ShapePoint "{5D3279FBE4005D78}" {
     Position 4588 0 12642
    }
-   ShapePoint "{3336618553EB72F9}" {
+   ShapePoint "{F6CCF5F61B7C04B8}" {
     Position 4338 0 12406
    }
-   ShapePoint "{CBC1A44314CD7671}" {
+   ShapePoint "{3830ACB7F131D941}" {
     Position 4023 0 12326
    }
-   ShapePoint "{4089AD1BDA4B4CCD}" {
+   ShapePoint "{835D193BFD5A4169}" {
     Position 4164 0 11902
    }
-   ShapePoint "{9FE98DDF7B0052BA}" {
+   ShapePoint "{E39828294FFCD4C}" {
     Position 4122 0 11592
    }
-   ShapePoint "{7E12F2D265A39EE}" {
+   ShapePoint "{F21CDE445F57FFEA}" {
     Position 4214 0 11382
    }
-   ShapePoint "{8E77643B3846AA13}" {
+   ShapePoint "{47DD6F6FE4D939F1}" {
     Position 4700 0 11284
    }
-   ShapePoint "{2A10087193802730}" {
+   ShapePoint "{FC551D521EA31C82}" {
     Position 4728 0 10944
    }
-   ShapePoint "{7F6A62D0A0C36407}" {
+   ShapePoint "{451E540858480ED5}" {
     Position 4938 0 10904
    }
-   ShapePoint "{BD5833A605241FBD}" {
+   ShapePoint "{94874D09086EFF54}" {
     Position 5906 0 11098
    }
   }
@@ -3573,7 +3573,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{76DA55C0B6F16B72}" {
+   PS_PolyZone "{832C50FC2618DAFD}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -3589,28 +3589,28 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{EDFC62C94023CD4F}" {
+   ShapePoint "{2900A2A442499760}" {
     Position 4799 0 9877
    }
-   ShapePoint "{2CDC3D7E30E315A9}" {
+   ShapePoint "{5343F5AE3067169}" {
     Position 4914 0 9496
    }
-   ShapePoint "{3C05ECD6883B1F85}" {
+   ShapePoint "{6472304CE498FD0E}" {
     Position 5400 0 9532
    }
-   ShapePoint "{F1839D11460769C5}" {
+   ShapePoint "{2ABEFC0737B82102}" {
     Position 5930 0 9436
    }
-   ShapePoint "{B7AD554BEF76E062}" {
+   ShapePoint "{BAD3A3A7100BE328}" {
     Position 6000 0 9597
    }
-   ShapePoint "{EEA7511B6A341BEC}" {
+   ShapePoint "{1821C04C2AB11EB6}" {
     Position 6270 0 10224
    }
-   ShapePoint "{6CE90D628F2F27E7}" {
+   ShapePoint "{5631EA715DFF12CF}" {
     Position 5122 0 10284
    }
-   ShapePoint "{DD700BB2377427FC}" {
+   ShapePoint "{E2CBFE8C8EB55DB4}" {
     Position 4757 0 10308
    }
   }
@@ -3640,7 +3640,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{91CD1EE2FFD3F383}" {
+   PS_PolyZone "{74257C8F9DF7D37C}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -3656,19 +3656,19 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{BD84B7BCF2FDC86C}" {
+   ShapePoint "{9CD3796CC34929DE}" {
     Position 6000 0 9597
    }
-   ShapePoint "{C55B22E7FF8EE67B}" {
+   ShapePoint "{57BDD8562C567C84}" {
     Position 6345 0 9440
    }
-   ShapePoint "{D73D89D2B822E1}" {
+   ShapePoint "{57B17683816A9827}" {
     Position 6903 0 9624
    }
-   ShapePoint "{AAB95216F0691CB2}" {
+   ShapePoint "{373A1AB23138C86F}" {
     Position 6598 0 9974
    }
-   ShapePoint "{FB5B1ADF6369084E}" {
+   ShapePoint "{2A004799539F0752}" {
     Position 6270 0 10224
    }
   }
@@ -3698,7 +3698,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{A4BADB4487D99FE4}" {
+   PS_PolyZone "{F5E05A98B30C23CA}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -3714,40 +3714,40 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{5F083A7FD52C88DE}" {
+   ShapePoint "{9ADB5C0CEB82F6BB}" {
     Position 4757 0 10308
    }
-   ShapePoint "{2C9D3D520B666218}" {
+   ShapePoint "{59ACDD3DFDAAECB2}" {
     Position 4932 0 10550
    }
-   ShapePoint "{8F2E24C8EBE101DC}" {
+   ShapePoint "{6D03CDDC551F3EAA}" {
     Position 4938 0 10904
    }
-   ShapePoint "{79AFFEBB8593FADD}" {
+   ShapePoint "{2B9A5BF1C87762DB}" {
     Position 4728 0 10944
    }
-   ShapePoint "{4A23C524EA8492DD}" {
+   ShapePoint "{FA116D337B9A456}" {
     Position 4700 0 11284
    }
-   ShapePoint "{189F3504ED66CF40}" {
+   ShapePoint "{BF5BFB2327AE93EF}" {
     Position 4214 0 11382
    }
-   ShapePoint "{4ED42BF020C100E6}" {
+   ShapePoint "{284029365A13E408}" {
     Position 4121 0 11284
    }
-   ShapePoint "{F5A5F4533DC5976C}" {
+   ShapePoint "{412158F99497A126}" {
     Position 4094 0 11124
    }
-   ShapePoint "{55EE64B64819C4AB}" {
+   ShapePoint "{597572450683CEEE}" {
     Position 3888 0 11022
    }
-   ShapePoint "{95F8F22C6AFB1204}" {
+   ShapePoint "{50B5CBE8A4B117F0}" {
     Position 3816 0 10854
    }
-   ShapePoint "{C61F665FB1F12616}" {
+   ShapePoint "{FC32C0DAAD9FF897}" {
     Position 3888 0 10700
    }
-   ShapePoint "{8A8EE5F50978B4B2}" {
+   ShapePoint "{C28F665B04042422}" {
     Position 3885 0 10602
    }
   }
@@ -3777,7 +3777,7 @@ $grp PolylineShapeEntity {
  }
  {
   components {
-   PS_PolyZone "{69A22BB93121AE45}" {
+   PS_PolyZone "{5E5F020326D80AF8}" {
     m_mPolygonTexture ""
     m_cPolygonColor 0.94 0.19 0.18 0.00
     m_mPolygonTextureBorder ""
@@ -3793,34 +3793,34 @@ $grp PolylineShapeEntity {
    }
   }
   Points {
-   ShapePoint "{CBE51228B98316E}" {
+   ShapePoint "{FF778E47B50213BC}" {
     Position 4409 0 9026
    }
-   ShapePoint "{3383A363AC0C1342}" {
+   ShapePoint "{FB5E0F778FB5E109}" {
     Position 4546 0 8620
    }
-   ShapePoint "{2DA4B9D7D0C6F4D4}" {
+   ShapePoint "{2BB89F825CEDE879}" {
     Position 4817 0 8692
    }
-   ShapePoint "{C3785D8185295915}" {
+   ShapePoint "{91C46B202B01B1A7}" {
     Position 5535 0 8744
    }
-   ShapePoint "{22C56A76E15E0AC0}" {
+   ShapePoint "{36542A94840C88E1}" {
     Position 5838 0 8976
    }
-   ShapePoint "{D4788C99E56E4599}" {
+   ShapePoint "{FCCF43710E2AB825}" {
     Position 5993 0 9268
    }
-   ShapePoint "{8C00F158A1C735F3}" {
+   ShapePoint "{E5610E0E5AB0834}" {
     Position 5930 0 9436
    }
-   ShapePoint "{BC76ED7C1E7AC1DA}" {
+   ShapePoint "{F0AE1DA5A4EA2A88}" {
     Position 5400 0 9532
    }
-   ShapePoint "{186B78F036746094}" {
+   ShapePoint "{8A03348B6B2270CF}" {
     Position 4914 0 9496
    }
-   ShapePoint "{90E5091640F5209B}" {
+   ShapePoint "{26C01957264D1CFD}" {
     Position 4776 0 9132
    }
   }
