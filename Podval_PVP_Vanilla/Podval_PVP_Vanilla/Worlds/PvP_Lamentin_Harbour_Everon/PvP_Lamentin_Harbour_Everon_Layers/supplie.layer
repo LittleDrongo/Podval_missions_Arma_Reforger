@@ -1,0 +1,14 @@
+$grp GenericEntity : "{D89073F0CC9A72F9}Prefabs/Compositions/Misc/SubCompositions/Storage/Location/Storage_Castle_01_FIA_01.et" {
+ {
+  coords 1065.856 2.812 6180.857
+  angleY -116.245
+ }
+ {
+  coords 1058.604 2.812 6158.803
+  angleY -116.245
+ }
+ {
+  coords 1109.125 40.131 11504.834
+  angleY -176.008
+ }
+}

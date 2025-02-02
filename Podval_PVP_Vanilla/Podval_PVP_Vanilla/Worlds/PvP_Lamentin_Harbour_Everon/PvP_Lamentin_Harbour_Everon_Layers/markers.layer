@@ -1,0 +1,64 @@
+$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ attack {
+  coords 1073.653 10.29 6013.003
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "Task_Attack"
+  m_fWorldSize 35
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+ attack2 {
+  coords 1282.055 46.166 5987.705
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "Task_Attack"
+  m_fWorldSize 35
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+ supplies {
+  coords 1109.559 40.95 11507.058
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "SupplyDepot"
+  m_fWorldSize 35
+  m_sDescription "Ресурсы"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US"
+  }
+  m_aHideOnGameModeStates {
+  }
+ }
+ supplies2 {
+  coords 1060.102 4.426 6158.377
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "SupplyDepot"
+  m_fWorldSize 35
+  m_sDescription "Ресурсы"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US"
+  }
+  m_aHideOnGameModeStates {
+  }
+ }
+ supplies3 {
+  coords 1068.341 4.034 6179.058
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "SupplyDepot"
+  m_fWorldSize 35
+  m_sDescription "Ресурсы"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "US"
+  }
+  m_aHideOnGameModeStates {
+  }
+ }
+}

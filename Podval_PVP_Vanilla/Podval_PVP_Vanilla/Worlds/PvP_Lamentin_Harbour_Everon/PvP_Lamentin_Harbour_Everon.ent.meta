@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{47690937C16C6D4F}Worlds/PvP_Lamentin_Harbour_Everon/PvP_Lamentin_Harbour_Everon.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass PS5 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}

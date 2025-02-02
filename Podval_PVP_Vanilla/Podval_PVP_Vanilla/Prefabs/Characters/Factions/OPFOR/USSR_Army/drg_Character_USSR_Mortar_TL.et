@@ -7,5 +7,8 @@ SCR_ChimeraCharacter : "{1ADC4934980AA91A}Prefabs/Characters/Factions/OPFOR/USSR
     Icon "{E897433F42FEC3C0}UI/Icons/mortar.edds"
    }
   }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{FA5C25BF66A53DCF}Prefabs/Weapons/Rifles/AK74/Rifle_AK74.et"
+  }
  }
 }
