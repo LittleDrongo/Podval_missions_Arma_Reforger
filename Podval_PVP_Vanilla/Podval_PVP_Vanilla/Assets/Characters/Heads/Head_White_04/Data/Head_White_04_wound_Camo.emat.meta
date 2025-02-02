@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{8DC9224FD47A71C8}Assets/Characters/Heads/Head_White_04/Data/Head_White_04_wound_Camo.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

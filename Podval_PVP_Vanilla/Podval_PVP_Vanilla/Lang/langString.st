@@ -353,6 +353,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{6483160DA279A5F6}" {
+   Id "DRG_DeputyPL"
+   Target_en_us "Deputy platoon leader"
+   Target_ru_ru "Зам. командира взвода"
+   Modified 1686317388
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{6328C0238BB9D206}" {
    Id "DRG_Role_TV"
    Target_en_us "Yuri Vladimirovich (TV presenter)"

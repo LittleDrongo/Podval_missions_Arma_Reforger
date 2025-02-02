@@ -1,80 +1,13 @@
-$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
- attack2 {
-  coords 3707.087 402.156 5974.298
-  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "Task_Evac"
-  m_fWorldSize 35
-  m_sDescription "Телевышка"
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "USSR" "US" "FIA"
-  }
-  m_bVisibleForEmptyFaction 1
+PS_ManualMarker attack2 : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ coords 3714.607 407.104 5979.039
+ m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+ m_sImageSetGlow ""
+ m_sQuadName "Task_Evac"
+ m_fWorldSize 35
+ m_sDescription "Телевышка"
+ m_bUseWorldScale 0
+ m_aVisibleForFactions {
+  "USSR" "US" "FIA"
  }
- attack3 {
-  coords 4500.856 293.379 6445.964
-  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "Task_Defend"
-  m_fWorldSize 35
-  m_sDescription "Точка эвакуации"
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "USSR" "US" "FIA"
-  }
-  m_bVisibleForEmptyFaction 1
- }
- attack4 {
-  coords 4725.407 271.479 6796.945
-  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "Task_Defend"
-  m_fWorldSize 35
-  m_sDescription "Точка эвакуации"
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "USSR" "US" "FIA"
-  }
-  m_bVisibleForEmptyFaction 1
- }
- attack5 {
-  coords 3061.786 307.398 7901.099
-  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "Task_Defend"
-  m_fWorldSize 35
-  m_sDescription "Точка эвакуации"
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "USSR" "US" "FIA"
-  }
-  m_bVisibleForEmptyFaction 1
- }
- attack6 {
-  coords 3820.379 311.224 8877.255
-  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "Task_Defend"
-  m_fWorldSize 35
-  m_sDescription "Точка эвакуации"
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "USSR" "US" "FIA"
-  }
-  m_bVisibleForEmptyFaction 1
- }
- attack7 {
-  coords 4493.708 317.662 8281.192
-  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
-  m_sImageSetGlow ""
-  m_sQuadName "Task_Defend"
-  m_fWorldSize 35
-  m_sDescription "Точка эвакуации"
-  m_bUseWorldScale 0
-  m_aVisibleForFactions {
-   "USSR" "US" "FIA"
-  }
-  m_bVisibleForEmptyFaction 1
- }
+ m_bVisibleForEmptyFaction 1
 }

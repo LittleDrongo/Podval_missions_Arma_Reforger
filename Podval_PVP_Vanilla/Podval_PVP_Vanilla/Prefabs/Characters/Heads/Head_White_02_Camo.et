@@ -1,0 +1,26 @@
+GameEntity : "{6F0C6CF6F10B4148}Prefabs/Characters/Core/CharacterHead_Base.et" {
+ ID "529C89342C390093"
+ components {
+  MeshObject "{529C8934211B4893}" {
+   Object "{52F50A5F061314A8}Assets/Characters/Heads/Head_White_02/Head_White_02.xob"
+   Materials {
+    MaterialAssignClass "{64837AF44ED372ED}" {
+     SourceMaterial "Head_White_02"
+     AssignedMaterial "{0B426DD8BF3695A5}Assets/Characters/Heads/Head_White_02/Data/Head_White_02_Camo.emat"
+    }
+    MaterialAssignClass "{64837AF44ED372C3}" {
+     SourceMaterial "Head_White_02_wound"
+     AssignedMaterial "{5584A622BB336BFF}Assets/Characters/Heads/Head_White_02/Data/Head_White_02_wound_Camo.emat"
+    }
+    MaterialAssignClass "{64837AF44ED372C5}" {
+     SourceMaterial "Neck"
+     AssignedMaterial "{0B426DD8BF3695A5}Assets/Characters/Heads/Head_White_02/Data/Head_White_02_Camo.emat"
+    }
+    MaterialAssignClass "{64837AF44ED372CB}" {
+     SourceMaterial "Neck_wound"
+     AssignedMaterial "{5584A622BB336BFF}Assets/Characters/Heads/Head_White_02/Data/Head_White_02_wound_Camo.emat"
+    }
+   }
+  }
+ }
+}

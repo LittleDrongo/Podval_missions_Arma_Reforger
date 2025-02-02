@@ -1,0 +1,10 @@
+MatPBRSkinProfile {
+ Color 0.738 0.738 0.738 1
+ EmissiveAbsoluteLV 0
+ AllowUserAlphaBias 1
+ DisableUserAphaInShadow 1
+ BCRMap "{A4C034C0536BB084}Assets/Characters/Heads/Head_White_10/Data/Head_White_10_Camo.edds"
+ OpacityMap "{70A53F4EA373F142}Assets/Characters/Basebody/Data/HeadClipping_A.edds"
+ NMOMap "{01292296F073CC59}Assets/Characters/Heads/Head_White_10/Data/Head_White_10_NMO.edds"
+ SubsurfaceProfile "{615A5485E64FD13C}Assets/Characters/Basebody/Data/Subsurface_White.emat"
+}

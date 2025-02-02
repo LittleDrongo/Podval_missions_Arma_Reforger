@@ -12,7 +12,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "— Всем можно перемещаться по всей своей территории на фризтайме (зелёный маркер)."\
   ""\
   "ПРАВИЛА ДЛЯ СССР"\
-  "— Запрещено пересекать красную линию."\
+  "— Все КРОМЕ развед.групп запрещено пересекать красную линию."\
   "— Всем можно перемещаться по своей территории на фризтайме. "\
   ""\
   "СПОСОБЫ ПОБЕДЫ ВС СССР "\
@@ -24,9 +24,6 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "— 2. Нанести серьёзный урон ВС СССР."\
   ""\
   ""
-  m_aVisibleForFactions {
-   "US" "USSR" "FIA"
-  }
   m_bEmptyFactionVisibility 1
   m_bShowForAnyFaction 1
  }

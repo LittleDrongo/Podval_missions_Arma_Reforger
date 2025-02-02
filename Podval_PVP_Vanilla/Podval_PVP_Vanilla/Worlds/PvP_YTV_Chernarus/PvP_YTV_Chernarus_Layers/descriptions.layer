@@ -35,7 +35,9 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  USSR {
   coords 5534.418 43.503 10540.239
   m_sTitle "#PS-Description_HeaderUSSR"
-  m_sTextData "Нам необходимо эвакуировать телеведущего с территории Телерадиовышки \"Зелёная Гора\" живым."
+  m_sTextData "Нам необходимо эвакуировать телеведущего с территории Телерадиовышки \"Зелёная Гора\" живым."\
+  ""\
+  "p.s. рекоменудем избавиться от всех РПГ с целью не попадания в руки противника."
   m_aVisibleForFactions {
    "USSR"
   }
