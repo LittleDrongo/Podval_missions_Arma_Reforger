@@ -3,7 +3,6 @@ GameProject {
  GUID "7777777777777777"
  TITLE "Podval_PVP_Vanilla"
  Dependencies {
-  "6484A81B74DB6C66"
  }
  Configurations {
   GameProjectConfig PC {
