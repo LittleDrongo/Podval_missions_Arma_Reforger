@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{BA4FBEE1D4178EBC}Assets/Characters/Heads/Head_White_04/Data/Head_White_04_Camo.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,8 @@
+GameProject {
+ ID "Camouflagefaces"
+ GUID "6484A81B74DB6C66"
+ TITLE "Camouflage faces"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
