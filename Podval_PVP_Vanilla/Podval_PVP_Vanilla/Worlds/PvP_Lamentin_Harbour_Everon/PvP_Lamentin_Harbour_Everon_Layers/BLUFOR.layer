@@ -20,6 +20,16 @@ Vehicle M923A1_tanker1 : "{2BE1F8B9299B67C1}Prefabs/Vehicles/Wheeled/M923A1/M923
  angleY 98.824
  angleZ 3.534
 }
+$grp Vehicle : "{2D74C39A650A3030}Prefabs/Vehicles/Wheeled/M923A1/M923A1_engineer.et" {
+ M923A1_engineer1 {
+  coords 1052.08 2.812 6194.51
+  angleY 155.777
+ }
+ M923A1_engineer2 {
+  coords 1044.78 2.813 6212.079
+  angleY 153.669
+ }
+}
 $grp SCR_AIGroup : "{360C6407B466DFE8}Prefabs/Groups/BLUFOR/drg_Group_US_RifleSquad.et" {
  US_0_0_1_DEF {
   components {
@@ -202,17 +212,5 @@ $grp Vehicle : "{F1FBD0972FA5FE09}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transpo
   coords 1089.017 2.781 6047.552
   angleY -89.007
   m_sAttachmentGroupName "US_0_0_4_DEF"
- }
-}
-$grp Vehicle : "{F54F833E747C1B77}Prefabs/Vehicles/Wheeled/M923A1/Tutorial_Engineering_Truck.et" {
- Tutorial_Engineering_Truck1 {
-  coords 1044.897 2.812 6212.461
-  angleY 154.092
-  m_sAttachmentGroupName "US_2_0_0_DEF"
- }
- Tutorial_Engineering_Truck2 {
-  coords 1052.741 2.812 6194.915
-  angleY 154.092
-  m_sAttachmentGroupName "US_2_0_1_DEF"
  }
 }
