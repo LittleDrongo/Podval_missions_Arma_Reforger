@@ -1,0 +1,95 @@
+GenericEntity : "{93690AE7A4BAD926}Prefabs/Characters/Core/Vest_Base.et" {
+ ID "50D8C49B3558F152"
+ components {
+  MeshObject "{5312D798A817A294}" {
+   Object "{99CB3E6D66287E9C}Assets/Characters/Vests/Vest_Lifchik/Vest_Lifchik_item.xob"
+  }
+  RigidBody "{5312D798AF7A9E28}" {
+   ModelGeometry 1
+  }
+  SCR_UniversalInventoryStorageComponent "{649496118F8596ED}" {
+   components {
+    SCR_EquipmentStorageComponent "{649496118F8596F9}" {
+     Priority 2
+     StoragePurpose 64
+     UseVirtualInventoryReplication 0
+     InitialStorageSlots {
+      SCR_EquipmentStorageSlot FlashlightSlot {
+       PivotID "Spine5"
+       Offset -0.11 0.075 0.17
+       Angles 15 -20 0
+       Enabled 0
+       Prefab "{3A421547BC29F679}Prefabs/Items/Equipment/Flashlights/Flashlight_MX991/Flashlight_MX991.et"
+       AllowedItemTypes {
+        "FLASHLIGHT"
+       }
+       AnimatedMeshRefference "{650FB0DAE17ABCAC}Assets/Characters/Vests/Vest_Lifchik/Vest_Lifchik.xob"
+      }
+     }
+    }
+   }
+   Attributes SCR_ItemAttributeCollection "{649496118F8596C8}" {
+    ItemDisplayName UIInfo "{649496118F8596CF}" {
+     Name "#AR-LBS_Lifchik_Name"
+     Description "#AR-LBS_Lifchik_Description"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes "{649496118F8596CC}" {
+     Weight 0.55
+     SizeSetupStrategy Manual
+     ItemDimensions 15 15 15
+     ItemVolume 800
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{649496118F8596D1}" {
+      CameraOrbitAngles 0 0 0
+      CameraDistanceToItem 3.5
+      FOV 10
+      PreviewModel "{650FB0DAE17ABCAC}Assets/Characters/Vests/Vest_Lifchik/Vest_Lifchik.xob"
+     }
+    }
+    m_Size SLOT_2x2
+   }
+   Priority 10
+   UseCapacityCoefficient 0
+   CapacityCoefficient 1
+   MaxCumulativeVolume 2000
+   MaxItemSize 10 10 10
+   m_fMaxWeight 20
+  }
+  BaseLoadoutClothComponent "{5312D798A71DFBB1}" {
+   AreaType LoadoutVestArea "{649496118F8596DB}" {
+   }
+   Slots {
+    LoadoutSlotInfo Canteen {
+     PivotID "spine3"
+     Offset 0.0255 -0.0798 -0.1502
+     Angles 15.2393 3.825 -3.4538
+     Prefab "{E5C70AA4C9807F1D}Prefabs/Items/Equipment/Accessories/Holster_M12/leafTree.et"
+    }
+    LoadoutSlotInfo Etool {
+     PivotID "spine3"
+     Offset 0.0762 -0.0242 -0.1147
+     Angles 0 168.44139 0
+    }
+    LoadoutSlotInfo Belt {
+     Prefab "{7DF2186D2BEC4A63}Prefabs/Characters/Vests/Vest_SovietHarness/Vest_SovietHarness_belt_dummy_Inflatable.et"
+    }
+   }
+   WornModel "{650FB0DAE17ABCAC}Assets/Characters/Vests/Vest_Lifchik/Vest_Lifchik.xob"
+   ItemModel "{99CB3E6D66287E9C}Assets/Characters/Vests/Vest_Lifchik/Vest_Lifchik_item.xob"
+   SoundInt 430
+   DepthFront 0.058
+   DepthLeft 0.016
+   DepthRight 0.016
+   AreaOcludders {
+    "BeltFrontLeft" "BeltFrontRight" "ChestLeftBottomFront" "ChestRightBottomFront" "ChestLeftTopFront" "ChestRightTopFront"
+   }
+   DeflatedModel "{40413A0A47DEA63A}Assets/Characters/Vests/Vest_Lifchik/Vest_Lifchik_Inflated.xob"
+   AreaTypeWhenModelChange {
+    LoadoutArmoredVestSlotArea "{649496118F8596A1}" {
+    }
+   }
+   DebugDeflatedModel 0
+  }
+ }
+}

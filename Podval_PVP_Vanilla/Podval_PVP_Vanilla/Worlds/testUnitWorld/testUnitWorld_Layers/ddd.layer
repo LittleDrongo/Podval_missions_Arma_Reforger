@@ -1,42 +1,15 @@
-SCR_ChimeraCharacter : "{1757CD5AA2D8A4F8}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_AR.et" {
- coords 135.323 1 174.313
+$grp SCR_ChimeraCharacter : "{0AC0285F7CBB97B7}Prefabs/Characters/Factions/OPFOR/USSR_Army/Saboteurs/drg_Character_USSR_Saboteur.et" {
+ {
+  coords 130.658 1 144.293
+ }
+ {
+  coords 136.876 1 156.26
+ }
 }
-SCR_ChimeraCharacter : "{196F44033C9BE717}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_Bearer.et" {
- coords 133.88 1 174.5
-}
-SCR_ChimeraCharacter : "{4438AEFF45A8CE9E}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_Rifleman.et" {
- coords 123.723 1 173.692
-}
-SCR_ChimeraCharacter : "{45A7044945C5D39D}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_Rifleman_LAT.et" {
- coords 122.152 1 173.098
-}
-SCR_ChimeraCharacter : "{4F6C9EDA416D83D3}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_CrewDriver.et" {
- coords 132.381 1 174.527
-}
-SCR_ChimeraCharacter : "{72B2FE631E2E9AA4}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_Sapper.et" {
- coords 118.661 1 172.695
-}
-SCR_ChimeraCharacter : "{782D3558D8572AB1}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_RTO.et" {
- coords 120.444 1 172.89
-}
-SCR_ChimeraCharacter : "{8A242D399692B223}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_SeniorRifleman.et" {
- coords 117.316 1 173.148
-}
-SCR_ChimeraCharacter : "{9E0647E647A7EFCD}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_Sniper.et" {
- coords 115.735 1 173.079
-}
-SCR_ChimeraCharacter : "{9E0647E647A7EFCE}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_Medic.et" {
- coords 128.533 1 174.197
-}
-SCR_ChimeraCharacter : "{9E981A3B207C7653}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_Officer.et" {
- coords 127.159 1 174.185
-}
-SCR_ChimeraCharacter : "{A847393A699A8A7E}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_CrewGunner.et" {
- coords 131.423 1 174.472
-}
-SCR_ChimeraCharacter : "{CBED715857D6D899}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_Leader.et" {
- coords 130.084 1 174.465
-}
-SCR_ChimeraCharacter : "{E3C185DC8DBB377B}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Recon/drg_Character_US_Recon_PL.et" {
- coords 125.06 1 173.529
+SCR_AIGroup : "{360C6407B466DFE8}Prefabs/Groups/BLUFOR/drg_Group_US_RifleSquad.et" {
+ coords 140.72 1 155.299
+ m_faction "USSR"
+ m_aUnitPrefabSlots {
+  "{0AC0285F7CBB97B7}Prefabs/Characters/Factions/OPFOR/USSR_Army/Saboteurs/drg_Character_USSR_Saboteur.et"
+ }
 }

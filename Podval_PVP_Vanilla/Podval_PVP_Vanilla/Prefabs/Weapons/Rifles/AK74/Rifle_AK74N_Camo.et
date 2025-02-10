@@ -1,0 +1,25 @@
+GenericEntity : "{EAE9A298979C4721}Prefabs/Weapons/Rifles/AK74/Rifle_AK74N_base.et" {
+ ID "CFBAA4B725411E45"
+ components {
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    AttachmentSlotComponent "{6494911526DF0B42}" {
+     AttachmentSlot InventoryStorageSlot Disguise {
+      Offset -0.0334 0.0981 0.2265
+      Angles 0 0 -54.2133
+      Prefab "{1A8464CF0B3DCDC9}Prefabs/Particles/Vegetation/Leaves/leaf_Carpinus_betulus.et"
+     }
+    }
+    MuzzleComponent "{CA6BE4D6B867541F}" {
+     components {
+      AttachmentSlotComponent "{4E2B66CBA589F625}" {
+       AttachmentSlot InventoryStorageSlot Muzzle {
+        Prefab "{4A815EB8B824974A}Prefabs/Weapons/Attachments/Muzzle/FlashHider_AK74/FlashHider_AK74.et"
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}

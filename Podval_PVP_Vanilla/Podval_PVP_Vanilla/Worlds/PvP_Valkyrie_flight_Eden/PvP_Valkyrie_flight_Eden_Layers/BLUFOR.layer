@@ -212,6 +212,7 @@ Vehicle M923A1_repair1 : "{A042ACE5C2B13206}Prefabs/Vehicles/Wheeled/M923A1/M923
  angleX 2.813
  angleY -24.582
  angleZ -0.303
+ m_sAttachmentGroupName "US_5_0_0_T3"
 }
 $grp Vehicle : "{DDDD9B51F1234DF3}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed.et" {
  UH1H_armed1 {
@@ -219,23 +220,27 @@ $grp Vehicle : "{DDDD9B51F1234DF3}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed.e
   angleX 9.172
   angleY 51.82
   angleZ -2.682
+  m_sAttachmentGroupName "US_4_0_0_T"
  }
  UH1H_armed2 {
   coords 11025.791 30.169 11495.934
   angleX 5.622
   angleY 57.381
   angleZ 3.806
+  m_sAttachmentGroupName "US_4_0_1_T2"
  }
  UH1H_armed3 {
   coords 11064.032 32.233 11518.701
   angleX 3.392
   angleY 57.188
   angleZ 5.243
+  m_sAttachmentGroupName "US_4_0_2_T3"
  }
  UH1H_armed4 {
   coords 11045.608 33.435 11540.511
   angleX 3.921
   angleY 57.246
   angleZ 2.787
+  m_sAttachmentGroupName "US_4_0_3_T2"
  }
 }

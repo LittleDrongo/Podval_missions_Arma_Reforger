@@ -1,0 +1,12 @@
+GenericEntity : "{12ABDF09B92D9545}Prefabs/Items/Equipment/Accessories/Holster_M12/Holster_M12_magpouch_base.et" {
+ ID "521AC0491712FB3A"
+ components {
+  MeshObject "{521AC04910AB9941}" {
+   Object "{BDC5F5921F51B497}Assets/Vegetation/Cuttings/Picea_abies_medium_01.xob"
+  }
+  BaseLoadoutClothComponent "{521AC04910AB9954}" {
+   WornModel ""
+   ItemModel ""
+  }
+ }
+}
