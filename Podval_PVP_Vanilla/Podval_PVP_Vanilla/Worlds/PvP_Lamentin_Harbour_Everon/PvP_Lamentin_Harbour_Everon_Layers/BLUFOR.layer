@@ -24,10 +24,14 @@ $grp Vehicle : "{2D74C39A650A3030}Prefabs/Vehicles/Wheeled/M923A1/M923A1_enginee
  M923A1_engineer1 {
   coords 1052.08 2.812 6194.51
   angleY 155.777
+  m_sAttachmentGroupName "US_2_0_1_DEF"
+  m_bEnableMoveOnFreeze 1
  }
  M923A1_engineer2 {
   coords 1044.78 2.813 6212.079
   angleY 153.669
+  m_sAttachmentGroupName "US_2_0_0_DEF"
+  m_bEnableMoveOnFreeze 1
  }
 }
 $grp SCR_AIGroup : "{360C6407B466DFE8}Prefabs/Groups/BLUFOR/drg_Group_US_RifleSquad.et" {

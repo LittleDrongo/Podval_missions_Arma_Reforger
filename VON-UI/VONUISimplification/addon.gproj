@@ -1,0 +1,8 @@
+GameProject {
+ ID "VONUISimplification"
+ GUID "64B119835976183D"
+ TITLE "VON UI Simplification"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
