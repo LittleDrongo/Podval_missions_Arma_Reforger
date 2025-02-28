@@ -4,6 +4,24 @@ GenericEntity : "{0228B8EFBA99AC1D}Prefabs/Weapons/Misc/SpectrumDevice/Device_Sp
  angleY -0.002
  angleZ -0.131
 }
+$grp Vehicle : "{2B15F98903994DA3}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_covered_camo1.et" {
+ Ural4320_transport_covered_camo1 {
+  coords 4996.017 170.117 12953.534
+  angleX 0.831
+  angleY -93.96
+  angleZ -0.955
+  m_sAttachmentGroupName "RU_1_0_0"
+  m_bEnableMoveOnFreeze 1
+ }
+ Ural4320_transport_covered_camo2 {
+  coords 4966.825 172.23 13038.344
+  angleX -0.123
+  angleY -93.931
+  angleZ -1.786
+  m_sAttachmentGroupName "RU_1_0_1"
+  m_bEnableMoveOnFreeze 1
+ }
+}
 $grp GenericEntity : "{4E202866EA77CF71}Prefabs/Props/Military/Compositions/Dst/PersonnelService_Table_01/PersonnelService_Table_01_dst_01_FIA.et" {
  {
   coords 4911.922 172.254 13038.229

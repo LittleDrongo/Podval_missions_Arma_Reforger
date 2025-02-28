@@ -38,6 +38,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  RF {
   coords 5534.418 43.503 10540.239
   m_sTitle "#DRG-Description_HeaderRUS"
+  m_sDescriptionLayout "{0DF2089A5BA70D01}UI/MissionDescription/DescriptionEditable_drg.layout"
   m_sTextData "Нам необходимо отразить наступление КМП США на наши позиции."\
   ""\
   "Важная информация:"\
@@ -49,9 +50,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   "4. Фризтайм увеличен до 10 минут."\
   ""\
-  "5. Фриз-зона имеет радиус 900 метров, вы можете занять позиции и оборудовать минные поля на фризтайме, не теряйте время."\
-  ""\
-  "6. Развед.группа может пересекать красную линию и действовать в тылах противника."\
+  "5. Развед.группа может пересекать красную линию после конца фризтайма и действовать в тылах противника. "\
   ""\
   "------"\
   ""\
