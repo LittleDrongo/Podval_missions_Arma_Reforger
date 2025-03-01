@@ -72,15 +72,3 @@ $grp PS_Objective {
   m_sFactionKey "Ses_CDF"
  }
 }
-GenericEntity : "{0228B8EFBA99AC1D}Prefabs/Weapons/Misc/SpectrumDevice/Device_SpectrumDevice_base.et" {
- coords 3805.357 312.049 8895.697
- angleX -0.381
- angleY 115.443
- angleZ 0.678
-}
-GenericEntity : "{4E202866EA77CF71}Prefabs/Props/Military/Compositions/Dst/PersonnelService_Table_01/PersonnelService_Table_01_dst_01_FIA.et" {
- coords 3805.726 311.103 8895.652
- angleX -0.815
- angleY -155.568
- angleZ -0.37
-}

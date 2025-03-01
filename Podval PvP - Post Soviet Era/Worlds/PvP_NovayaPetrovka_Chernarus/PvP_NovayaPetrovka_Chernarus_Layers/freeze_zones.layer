@@ -49,7 +49,7 @@ $grp SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/Restri
     m_bFollowTerrain 1
    }
   }
-  coords 2208.512 265.51 11046.636
+  coords 2853.112 216.916 12377.402
   m_fWarnRadius 140
   m_fZoneRadius 200
   m_fZoneTeleportedRadius 220
@@ -71,7 +71,7 @@ $grp SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/Restri
     m_bFollowTerrain 1
    }
   }
-  coords 1622.145 272.433 12025.271
+  coords 2512.975 254.541 9622.84
   m_fWarnRadius 140
   m_fZoneRadius 200
   m_fZoneTeleportedRadius 220

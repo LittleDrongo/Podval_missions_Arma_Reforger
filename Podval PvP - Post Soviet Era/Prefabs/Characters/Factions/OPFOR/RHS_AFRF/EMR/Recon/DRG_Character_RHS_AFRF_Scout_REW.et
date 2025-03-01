@@ -1,0 +1,8 @@
+SCR_ChimeraCharacter : "{1AE099EFD1C2597A}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/Recon/DRG_Character_RHS_AFRF_ScoutRifleman.et" {
+ ID "520EC961A090B1EE"
+ components {
+  CharacterWeaponSlotComponent "{520EA1D2F659CFB7}" {
+   WeaponTemplate "{0228B8EFBA99AC1D}Prefabs/Weapons/Misc/SpectrumDevice/Device_SpectrumDevice_base.et"
+  }
+ }
+}

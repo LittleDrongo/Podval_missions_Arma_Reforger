@@ -292,6 +292,28 @@ $grp PolylineShapeEntity {
     Position 34.788 6.517 148.551
    }
   }
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "{614548BDF998E12B}" {
+     }
+    }
+    TriggerShapeType Polyline
+    SphereRadius 9223372036854775808
+    "Polyline Height" 500
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectRestricted "{614548BC046ADB65}" {
+     m_fKillTime 35
+    }
+    m_bReversed 1
+    m_sGroupKey "DEFEND_CDF"
+   }
+  }
  }
  {
   components {

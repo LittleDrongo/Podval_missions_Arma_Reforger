@@ -305,6 +305,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{64C271FB644B10C1}" {
+   Id "DRG_RifleSquad"
+   Target_en_us "Rifle squad"
+   Target_ru_ru "Стрелковое отделение"
+   Modified 1690464825
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{633283561F8E584A}" {
    Id "DRG_Role_AT_TeamLeader"
    Target_en_us "TeamLeader AT Squad"
@@ -353,6 +361,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{64C271FD095BBB88}" {
+   Id "DRG_Roles_RHS_Scout_REW"
+   Target_en_us "Electronic intelligence specialist"
+   Target_ru_ru "Специалист РЭР"
+   Modified 1690467747
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{61CEEE211B035DE5}" {
    Id "DRG_Roles_RHS_Scout_Sapper"
    Target_en_us "Scout Sapper"
@@ -389,6 +405,70 @@ StringTable {
    Id "DRG_Senior_Policeman"
    Target_ru_ru "Старший полицейский"
    Modified 1683319477
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{64C271F92501C381}" {
+   Id "DRG_Sqd_AT"
+   Target_en_us "Anti-tank team"
+   Target_ru_ru "Противотанковый расчёт"
+   Modified 1690465927
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{64C271FBAF39752F}" {
+   Id "DRG_Sqd_Engineer"
+   Target_en_us "Engineer and sapper section."
+   Target_ru_ru "Инженерно-сапёрная группа"
+   Modified 1690465158
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{64C271FBFFF3E8F4}" {
+   Id "DRG_Sqd_Hq"
+   Target_en_us "Headquarter"
+   Target_ru_ru "Командование"
+   Modified 1690465039
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{64C271F937C5724C}" {
+   Id "DRG_Sqd_Mg"
+   Target_en_us "Machine gunner squad"
+   Target_ru_ru "Пулемётное отделение"
+   Modified 1690465825
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{64C271FA8EC6260B}" {
+   Id "DRG_Sqd_PlHq"
+   Target_en_us "Platoon HQ"
+   Target_ru_ru "Управление взвода"
+   Modified 1690465672
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{64C271FB2F525D5F}" {
+   Id "DRG_Sqd_Rifle"
+   Target_en_us "Rifle squad"
+   Target_ru_ru "Стрелковое отделение"
+   Modified 1690464941
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{64C271F9DD50E11E}" {
+   Id "DRG_Sqd_Snip"
+   Target_en_us "Sniper team"
+   Target_ru_ru "Снайперский расчёт"
+   Modified 1690465975
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{64C271FB955327D2}" {
+   Id "DRG_Sqd_SSO"
+   Target_en_us "Sabotage group"
+   Target_ru_ru "Диверсионная группа"
+   Modified 1690465242
    Author "hasta"
    LastChanged "hasta"
   }
