@@ -103,6 +103,7 @@ PolylineShapeEntity {
   }
  }
  IsClosed 1
+ LineColor 0.82 0.937 0.937 1
  {
   PS_PolyZoneTrigger {
    components {
