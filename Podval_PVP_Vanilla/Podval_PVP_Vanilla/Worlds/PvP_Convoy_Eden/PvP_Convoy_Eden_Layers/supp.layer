@@ -1,0 +1,22 @@
+$grp GenericEntity : "{C63BFEEA9DE1CF26}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_S_FIA_05_Campaign.et" {
+ {
+  coords 1065.364 2.812 6192.696
+  angleY -113.825
+ }
+ {
+  coords 1069.681 2.812 6182.553
+  angleY -115.083
+ }
+ {
+  coords 1055.094 2.812 6196.636
+  angleY 156.613
+ }
+ {
+  coords 1046.375 2.812 6192.865
+  angleY 156.613
+ }
+ {
+  coords 4910.598 28.593 11877.036
+  angleY -90.042
+ }
+}
