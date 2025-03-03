@@ -1,0 +1,50 @@
+$grp PS_Objective {
+ {
+  components {
+   RplComponent "{6238766729F75615}" {
+   }
+   Hierarchy "{623876676AE494C1}" {
+   }
+  }
+  coords 2951.533 279.693 11464.642
+  m_sTitle "Штаб захвачен"
+  m_iScore 75
+  m_sFactionKey "Ses_CDF"
+ }
+ {
+  components {
+   RplComponent "{623876672489E83A}" {
+   }
+   Hierarchy "{623876676FF82BEB}" {
+   }
+  }
+  coords 3205.411 355.615 10891.354
+  m_sTitle "Штаб под контролем"
+  m_iScore 75
+  m_sFactionKey "RHS_AFRF"
+ }
+ {
+  components {
+   RplComponent "{6238766723798948}" {
+   }
+   Hierarchy "{62387667777EF01E}" {
+   }
+  }
+  coords 3205.411 355.615 10891.354
+  m_sTitle "Враг разгромлен"
+  m_iScore 25
+  m_sFactionKey "RHS_AFRF"
+ }
+ {
+  components {
+   RplComponent "{623876671C9726AB}" {
+   }
+   Hierarchy "{623876677B65E683}" {
+   }
+  }
+  coords 3205.411 355.615 10891.354
+  m_sTitle "Враг разгромлен"
+  m_iScore 25
+  m_sFactionKey "Ses_CDF"
+ }
+}

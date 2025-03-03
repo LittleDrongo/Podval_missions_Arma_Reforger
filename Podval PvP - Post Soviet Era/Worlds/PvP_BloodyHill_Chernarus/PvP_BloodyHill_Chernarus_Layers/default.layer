@@ -1,0 +1,15 @@
+GenericWorldFogEntity : "{78D9BBF0F423FEB4}Prefabs/World/DefaultWorld/FogHaze_Default.et" {
+ coords 3321.785 228.445 13016.906
+ angleX 0.893
+ angleY 0.042
+ angleZ 2.684
+ HeightDensity 0
+ DistanceDensity 0.56
+ HazeDensity 0.752
+ HeightOffset 0.312
+ FogHeightStart entity
+ Color 0.071 0.561 0.561 0.475
+ ColorBack 0.071 0.561 0.561 0.481
+ ColorIntensityLV 20
+ ColorSkyOverride 1
+}

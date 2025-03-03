@@ -1,0 +1,26 @@
+GenericEntity : "{F9EBA10CC445ED63}PrefabsEditable/Auto/Structures/Military/Flags/FlagPole_02_V1_CDF_Editable.et" {
+ components {
+  SCR_FlagComponent "{5E3C95A1E1EE9681}" {
+   m_sDefaultMaterial "{15AB376863D1724E}Assets/Props/Fabric/Flags/Data/Flag_1_2_Russia.emat"
+   m_aFlagData {
+    PS_FlagData "{64C271FFEBE04AC9}" {
+     m_sFactionKey "RHS_AFRF"
+     m_iCaptureCounter 0
+    }
+    PS_FlagData "{64C271FFEB5C0CB1}" {
+     m_sFactionKey "RHS_USAF"
+     m_iCaptureCounter 0
+    }
+    PS_FlagData "{64C271FFEB16C160}" {
+     m_sFactionKey "Ses_CDF"
+     m_iCaptureCounter 1
+    }
+   }
+   m_sFactionKey "Ses_CDF"
+  }
+ }
+ coords 4049.489 382.217 11703.576
+ angleX 43.334
+ angleY 57.821
+ angleZ 3.825
+}

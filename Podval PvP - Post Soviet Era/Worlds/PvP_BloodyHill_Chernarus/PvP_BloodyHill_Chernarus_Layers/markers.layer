@@ -1,0 +1,64 @@
+$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ attack2 {
+  coords 4709.547 341.658 9586.688
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "SupplyDepot"
+  m_fWorldSize 35
+  m_sDescription "Ресурсы"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "Ses_CDF" "RHS_AFRF" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attack3 {
+  coords 4053.578 385 11708.274
+  m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
+  m_sImageSetGlow ""
+  m_sQuadName "Task_Attack"
+  m_fWorldSize 35
+  m_sDescription "Штаб гарнизона"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "Ses_CDF" "RHS_AFRF" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+ }
+ attention_fog {
+  coords 4965.186 172.306 13040.728
+  m_sImageSet "{4C236DCD59B20AA0}UI/Textures/Chat/chat_32.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.502 0 0 1
+  m_sQuadName "terminal"
+  m_fWorldSize 35
+  m_sDescription "Густой туман!"
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+ attention_fog2 {
+  coords 3713.729 189.55 13074.027
+  m_sImageSet "{4C236DCD59B20AA0}UI/Textures/Chat/chat_32.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.502 0 0 1
+  m_sQuadName "terminal"
+  m_fWorldSize 35
+  m_sDescription "Туман!"
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+ attention_fog3 {
+  coords 2721.475 235.523 12338.634
+  m_sImageSet "{4C236DCD59B20AA0}UI/Textures/Chat/chat_32.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.502 0 0 1
+  m_sQuadName "terminal"
+  m_fWorldSize 35
+  m_sDescription "Слабый туман!"
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+}

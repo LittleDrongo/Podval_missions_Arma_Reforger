@@ -329,6 +329,22 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{64C6912F0801D58C}" {
+   Id "DRG_Role_MTO_Engineer"
+   Target_en_us "Logistics Engineer"
+   Target_ru_ru "Инженер МТО"
+   Modified 1690740006
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{64C6912F86701E56}" {
+   Id "DRG_Role_MTO_EngineerSenior"
+   Target_en_us "Senior Logistics Engineer"
+   Target_ru_ru "Старший инженер МТО"
+   Modified 1690740194
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{61CEB759F6CAB9E4}" {
    Id "DRG_Roles_RHS_AAT"
    Target_en_us "Assistant anti-tank specialist"
@@ -424,6 +440,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{64C69122FA312D9A}" {
+   Id "DRG_Sqd_HeliRocket"
+   Target_en_us "Attack helicopter crew"
+   Target_ru_ru "Экипаж ударного вертолёта"
+   Modified 1690738368
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{64C271FBFFF3E8F4}" {
    Id "DRG_Sqd_Hq"
    Target_en_us "Headquarter"
@@ -437,6 +461,14 @@ StringTable {
    Target_en_us "Machine gunner squad"
    Target_ru_ru "Пулемётное отделение"
    Modified 1690465825
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{64C6912CF239D021}" {
+   Id "DRG_Sqd_MTO"
+   Target_en_us "Material and technical support"
+   Target_ru_ru "Материально техническое обеспечение"
+   Modified 1690739529
    Author "hasta"
    LastChanged "hasta"
   }
