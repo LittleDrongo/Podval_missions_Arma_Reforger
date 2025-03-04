@@ -114,8 +114,7 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sFactionKey ""
-    m_sGroupKey "FIA_"
+    m_sFactionKey "FIA"
    }
   }
  }
@@ -198,8 +197,7 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sFactionKey ""
-    m_sGroupKey "FIA_"
+    m_sFactionKey "FIA"
    }
   }
  }
@@ -339,8 +337,7 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sFactionKey ""
-    m_sGroupKey "FIA_"
+    m_sFactionKey "FIA"
    }
   }
  }
@@ -414,8 +411,7 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sFactionKey ""
-    m_sGroupKey "FIA_"
+    m_sFactionKey "FIA"
    }
   }
  }
@@ -539,7 +535,7 @@ $grp PolylineShapeEntity {
     }
     m_bReversed 0
     m_sFactionKey ""
-    m_sGroupKey "F_"
+    m_sGroupKey "_STOP"
    }
   }
  }
@@ -633,7 +629,7 @@ $grp PolylineShapeEntity {
     }
     m_bReversed 0
     m_sFactionKey ""
-    m_sGroupKey "F_"
+    m_sGroupKey "_STOP"
    }
   }
  }
@@ -706,7 +702,7 @@ $grp PolylineShapeEntity {
     }
     m_bReversed 0
     m_sFactionKey ""
-    m_sGroupKey "F_"
+    m_sGroupKey "_STOP"
    }
   }
  }
@@ -768,8 +764,7 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 0
-    m_sFactionKey ""
-    m_sGroupKey "FIA_"
+    m_sFactionKey "FIA"
    }
   }
  }

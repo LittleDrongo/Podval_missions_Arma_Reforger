@@ -2,64 +2,69 @@ $grp Vehicle : "{16C1F16C9B053801}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_tra
  Ural4320_transport1 {
   coords 999.96 2.843 6033.115
   angleY 96.875
-  m_sAttachmentGroupName "USSR_0_0_2"
+  m_sAttachmentGroupName "USSR_0_0_2_STOP"
  }
  Ural4320_transport2 {
   coords 986.461 2.904 6026.677
   angleX 0.453
   angleY 95.613
   angleZ 4.533
-  m_sAttachmentGroupName "USSR_0_0_2"
+  m_sAttachmentGroupName "USSR_0_0_2_STOP"
  }
  Ural4320_transport3 {
   coords 987.298 2.844 6033.875
   angleY 96.889
-  m_sAttachmentGroupName "USSR_0_0_2"
+  m_sAttachmentGroupName "USSR_0_0_2_STOP"
  }
  Ural4320_transport4 {
   coords 1067.435 2.718 6025.343
   angleY 0.948
-  m_sAttachmentGroupName "USSR_0_0_1"
+  m_sAttachmentGroupName "USSR_0_0_1_STOP"
  }
  Ural4320_transport5 {
   coords 1084.123 2.787 6025.674
   angleX -0.895
   angleY -0.425
   angleZ 0.007
-  m_sAttachmentGroupName "USSR_0_0_1"
+  m_sAttachmentGroupName "USSR_0_0_1_STOP"
  }
  Ural4320_transport6 {
   coords 1073.196 2.718 6025.225
   angleY 2.118
-  m_sAttachmentGroupName "USSR_0_0_1"
+  m_sAttachmentGroupName "USSR_0_0_1_STOP"
  }
  Ural4320_transport7 {
   coords 1078.839 2.763 6025.642
   angleX 0.018
   angleY 1.166
   angleZ -0.895
-  m_sAttachmentGroupName "USSR_0_0_1"
+  m_sAttachmentGroupName "USSR_0_0_1_STOP"
  }
  Ural4320_transport8 {
   coords 988.235 2.843 6041.104
   angleY 97.31
-  m_sAttachmentGroupName "USSR_0_0_2"
+  m_sAttachmentGroupName "USSR_0_0_2_STOP"
  }
  Ural4320_transport9 {
   coords 4905.016 28.593 11969.464
   angleY 177.219
-  m_sAttachmentGroupName "USSR_6_0_0"
+  m_sAttachmentGroupName "USSR_6_0_0_STOP"
  }
+}
+Vehicle Ural4320_command1 : "{1BABF6B33DA0AEB6}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_command.et" {
+ coords 1088.817 2.781 6046.761
+ angleY -90.219
+ m_sAttachmentGroupName "USSR_0_0_0_STOP"
 }
 Vehicle Ural4320_ammo1 : "{3336BE330C4F355B}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_ammo.et" {
  coords 4904.937 28.594 11936.88
  angleY 179.656
- m_sAttachmentGroupName "USSR_6_0_0"
+ m_sAttachmentGroupName "USSR_6_0_0_STOP"
 }
 Vehicle Ural4320_tanker1 : "{4C81D7ED8F8C0D87}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_tanker.et" {
  coords 4904.957 28.594 11946.961
  angleY -178.325
- m_sAttachmentGroupName "USSR_6_0_0"
+ m_sAttachmentGroupName "USSR_6_0_0_STOP"
 }
 $grp Vehicle : "{98225ED6D5F724D7}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_armed_gunship.et" {
  Mi8MT_armed_gunship1 {
@@ -92,7 +97,7 @@ $grp Vehicle : "{98225ED6D5F724D7}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_armed
 Vehicle Ural4320_repair1 : "{A5647958579A4149}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_repair.et" {
  coords 4905.052 28.593 11957.663
  angleY 179.89
- m_sAttachmentGroupName "USSR_6_0_0"
+ m_sAttachmentGroupName "USSR_6_0_0_STOP"
 }
 $grp Vehicle : "{C012BB3488BEA0C2}Prefabs/Vehicles/Wheeled/BTR70/BTR70.et" {
  BTR1 {
@@ -100,81 +105,81 @@ $grp Vehicle : "{C012BB3488BEA0C2}Prefabs/Vehicles/Wheeled/BTR70/BTR70.et" {
   angleX 0.453
   angleY 140.344
   angleZ 1.949
-  m_sAttachmentGroupName "USSR_3_0_1"
+  m_sAttachmentGroupName "USSR_3_0_1_STOP"
  }
  BTR2 {
   coords 1292.413 37.951 5928.792
   angleX 1.982
   angleY 145.447
   angleZ -0.278
-  m_sAttachmentGroupName "USSR_3_0_0"
+  m_sAttachmentGroupName "USSR_3_0_0_STOP"
  }
  BTR3 {
   coords 1303.015 38.667 5915.648
   angleX 2.528
   angleY 137.67
   angleZ 0.118
-  m_sAttachmentGroupName "USSR_2_0_3"
+  m_sAttachmentGroupName "USSR_2_0_3_STOP"
  }
  BTR4 {
   coords 1314.043 39.561 5903.125
   angleX 3.154
   angleY 135.725
   angleZ 0.672
-  m_sAttachmentGroupName "USSR_2_0_2"
+  m_sAttachmentGroupName "USSR_2_0_2_STOP"
  }
  BTR5 {
   coords 1325.326 40.49 5893.532
   angleX 3.791
   angleY 133.338
   angleZ -0.11
-  m_sAttachmentGroupName "USSR_2_0_1"
+  m_sAttachmentGroupName "USSR_2_0_1_STOP"
  }
  BTR6 {
   coords 1335.039 41.345 5885.696
   angleX 3.756
   angleY 127.03
   angleZ -0.525
-  m_sAttachmentGroupName "USSR_2_0_0"
+  m_sAttachmentGroupName "USSR_2_0_0_STOP"
  }
  BTR7 {
   coords 1344.394 42.267 5878.124
   angleX 4.949
   angleY 123.413
   angleZ -1.013
-  m_sAttachmentGroupName "USSR_1_0_3"
+  m_sAttachmentGroupName "USSR_1_0_3_STOP"
  }
  BTR8 {
   coords 1355.503 43.393 5870.806
   angleX 5.205
   angleY 122.173
   angleZ 0.11
-  m_sAttachmentGroupName "USSR_1_0_2"
+  m_sAttachmentGroupName "USSR_1_0_2_STOP"
  }
  BTR9 {
   coords 1367.859 44.597 5863.809
   angleX 4.781
   angleY 116.131
   angleZ -1.632
-  m_sAttachmentGroupName "USSR_1_0_1"
+  m_sAttachmentGroupName "USSR_1_0_1_STOP"
  }
  BTR10 {
   coords 1378.957 45.702 5858.591
   angleX 5.048
   angleY 113.329
   angleZ -2.68
-  m_sAttachmentGroupName "USSR_1_0_0"
+  m_sAttachmentGroupName "USSR_1_0_0_STOP"
  }
  BTR11 {
   coords 1274.428 37.201 5952.53
   angleX 2.746
   angleY 147.638
   angleZ -0.681
-  m_sAttachmentGroupName "USSR_3_0_2"
+  m_sAttachmentGroupName "USSR_3_0_2_STOP"
  }
 }
 $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad_p.et" {
- USSR_0_0_0 {
+ USSR_0_0_0_STOP {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "Column"
@@ -292,7 +297,7 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
   }
   m_bDeleteWhenEmpty 0
  }
- USSR_0_0_1 {
+ USSR_0_0_1_STOP {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
@@ -411,7 +416,7 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
   }
   m_bDeleteWhenEmpty 0
  }
- USSR_1_0_0 {
+ USSR_1_0_0_STOP {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
@@ -532,7 +537,7 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
   }
   m_bDeleteWhenEmpty 0
  }
- USSR_1_0_1 {
+ USSR_1_0_1_STOP {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
@@ -654,7 +659,7 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
   }
   m_bDeleteWhenEmpty 0
  }
- USSR_1_0_2 {
+ USSR_1_0_2_STOP {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
@@ -776,7 +781,7 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
   }
   m_bDeleteWhenEmpty 0
  }
- USSR_1_0_3 {
+ USSR_1_0_3_STOP {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
@@ -898,7 +903,7 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
   }
   m_bDeleteWhenEmpty 0
  }
- USSR_2_0_0 {
+ USSR_2_0_0_STOP {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
@@ -1019,7 +1024,7 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
   }
   m_bDeleteWhenEmpty 0
  }
- USSR_2_0_1 {
+ USSR_2_0_1_STOP {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
@@ -1141,7 +1146,7 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
   }
   m_bDeleteWhenEmpty 0
  }
- USSR_2_0_2 {
+ USSR_2_0_2_STOP {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
@@ -1263,7 +1268,7 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
   }
   m_bDeleteWhenEmpty 0
  }
- USSR_2_0_3 {
+ USSR_2_0_3_STOP {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
@@ -1385,7 +1390,7 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
   }
   m_bDeleteWhenEmpty 0
  }
- USSR_3_0_0 {
+ USSR_3_0_0_STOP {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
@@ -1506,7 +1511,7 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
   }
   m_bDeleteWhenEmpty 0
  }
- USSR_3_0_1 {
+ USSR_3_0_1_STOP {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
@@ -1628,7 +1633,7 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
   }
   m_bDeleteWhenEmpty 0
  }
- USSR_3_0_2 {
+ USSR_3_0_2_STOP {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
@@ -2229,7 +2234,7 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
   }
   m_bDeleteWhenEmpty 0
  }
- USSR_0_0_2 {
+ USSR_0_0_2_STOP {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
@@ -2348,7 +2353,7 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
   }
   m_bDeleteWhenEmpty 0
  }
- USSR_6_0_0 {
+ USSR_6_0_0_STOP {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""

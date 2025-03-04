@@ -243,7 +243,7 @@ $grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_
   angleY -140.972
   angleZ -4.494
   m_aUnitPrefabSlots {
-   "{5E10F18AF4717622}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SL_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{91602AC724D27762}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SR_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et"
+   "{5E10F18AF4717622}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SL_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{91602AC724D27762}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SR_P.et" "{6EF882860DCD77D1}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_MG_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et"
   }
   m_bDeleteWhenEmpty 0
  }
@@ -262,7 +262,7 @@ $grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_
   angleY -139.154
   angleZ -4.497
   m_aUnitPrefabSlots {
-   "{5E10F18AF4717622}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SL_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{91602AC724D27762}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SR_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et"
+   "{5E10F18AF4717622}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SL_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{91602AC724D27762}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SR_P.et" "{6EF882860DCD77D1}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_MG_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et"
   }
   m_bDeleteWhenEmpty 0
  }
@@ -281,7 +281,7 @@ $grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_
   angleY -139.154
   angleZ -4.497
   m_aUnitPrefabSlots {
-   "{5E10F18AF4717622}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SL_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{91602AC724D27762}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SR_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et"
+   "{5E10F18AF4717622}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SL_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{91602AC724D27762}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SR_P.et" "{6EF882860DCD77D1}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_MG_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et"
   }
   m_bDeleteWhenEmpty 0
  }
@@ -299,7 +299,7 @@ $grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_
   angleY -1.975
   angleZ -4.464
   m_aUnitPrefabSlots {
-   "{5E10F18AF4717622}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SL_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{91602AC724D27762}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SR_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et"
+   "{5E10F18AF4717622}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SL_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{91602AC724D27762}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SR_P.et" "{6EF882860DCD77D1}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_MG_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et"
   }
   m_bDeleteWhenEmpty 0
  }
@@ -318,7 +318,7 @@ $grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_
   angleY -2.043
   angleZ -4.496
   m_aUnitPrefabSlots {
-   "{5E10F18AF4717622}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SL_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{91602AC724D27762}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SR_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et"
+   "{5E10F18AF4717622}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SL_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{91602AC724D27762}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SR_P.et" "{6EF882860DCD77D1}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_MG_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et"
   }
   m_bDeleteWhenEmpty 0
  }
@@ -337,7 +337,7 @@ $grp SCR_AIGroup : "{CA73F9230999408B}Prefabs/Groups/INDFOR/Group_FIA_PlatoonHQ_
   angleY -1.99
   angleZ -3.574
   m_aUnitPrefabSlots {
-   "{5E10F18AF4717622}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SL_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{91602AC724D27762}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SR_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et"
+   "{5E10F18AF4717622}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SL_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{91602AC724D27762}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_SR_P.et" "{6EF882860DCD77D1}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_MG_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/drg_Character_FIA_Rifleman_P.et"
   }
   m_bDeleteWhenEmpty 0
  }
