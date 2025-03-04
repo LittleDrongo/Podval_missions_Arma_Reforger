@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{1FF7B99CD1C184DF}Worlds/PvP_FaceToFace_Chernarus/PvP_FaceToFace_Chernarus_Layers"
+ Configurations {
+  FolderResourceClass PC {
+  }
+  FolderResourceClass XBOX_ONE : PC {
+  }
+  FolderResourceClass XBOX_SERIES : PC {
+  }
+  FolderResourceClass PS4 : PC {
+  }
+  FolderResourceClass PS5 : PC {
+  }
+  FolderResourceClass HEADLESS : PC {
+  }
+ }
+}

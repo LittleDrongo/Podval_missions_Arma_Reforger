@@ -2,7 +2,7 @@ SCR_AIGroup : "{E552DABF3636C2AD}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad.et" 
  ID "0000000000000001"
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "Column"
+   DefaultFormation " "
   }
   PS_GroupCallsignAssigner "{64607D09DA1AB35B}" {
   }

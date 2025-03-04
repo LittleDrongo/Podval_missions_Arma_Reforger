@@ -1,0 +1,40 @@
+GenericEntity : "{071B55C2A5E0346F}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V2_US.et" {
+ components {
+  SCR_FlagComponent "{5E3C95A1E1EE9681}" {
+   m_aFlagData {
+    PS_FlagData "{64C89A5BE502D7A9}" {
+     m_sFactionKey "US"
+    }
+    PS_FlagData "{64C89A5BE521A7C5}" {
+     m_sFactionKey "USSR"
+     m_iCaptureCounter 1
+    }
+   }
+   m_sFactionKey "US"
+  }
+ }
+ coords 4480.585 300.586 6455.591
+ angleX 22.565
+ angleY -88.599
+ angleZ -37.998
+}
+GenericEntity : "{14B2D417839BF8A3}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_USSR.et" {
+ components {
+  SCR_FlagComponent "{5E3C95A1E1EE9681}" {
+   m_aFlagData {
+    PS_FlagData "{64C89A5B04EC766F}" {
+     m_sFactionKey "USSR"
+    }
+    PS_FlagData "{64C89A5B04AF1049}" {
+     m_sFactionKey "US"
+     m_iCaptureCounter 1
+    }
+   }
+   m_sFactionKey "USSR"
+  }
+ }
+ coords 4786.732 276.346 6799.536
+ angleX 24.733
+ angleY -77.878
+ angleZ -20.874
+}
